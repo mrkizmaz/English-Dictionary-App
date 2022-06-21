@@ -1,0 +1,1080 @@
+subLink,word,type,level
+0,aardvark,aardvark,noun,c2
+1,adder,adder,noun,c2
+2,afghan-hound,Afghan hound,noun,c2
+3,alligator,alligator,noun,c1
+4,alpaca,alpaca,noun,c2
+5,alsatian,Alsatian,noun,c1
+6,amphibian,amphibian,noun,c1
+7,amphibious,amphibious,adjective,c2
+8,anaconda,anaconda,noun,c2
+9,angora,angora,noun,c2
+10,animal_1,animal,noun,a1
+11,anteater,anteater,noun,c2
+12,antelope,antelope,noun,c1
+13,antler,antler,noun,c1
+14,ape_1,ape,noun,b2
+15,armadillo,armadillo,noun,c2
+16,asp,asp,noun,c2
+17,assistance-dog,assistance dog,noun,c1
+18,attack-dog,attack dog,noun,c2
+19,baa_1,baa,noun,c2
+20,baa_2,baa,verb,c2
+21,baboon,baboon,noun,c2
+22,badger_1,badger,noun,c2
+23,bandicoot,bandicoot,noun,c2
+24,bark_1,bark,noun,c1
+25,bark_2,bark,verb,c1
+26,basset,basset,noun,c2
+27,bat_1,bat,noun,c1
+28,beagle,beagle,noun,c2
+29,bear_2,bear,noun,a2
+30,beast,beast,noun,c1
+31,beaver_1,beaver,noun,c2
+32,behaviour,behaviour,noun,a2
+33,big-cat,big cat,noun,b1
+34,bilby,bilby,noun,c2
+35,billy-goat,billy goat,noun,c2
+36,bird-dog,bird dog,noun,c2
+37,bison,bison,noun,c2
+38,bitch_1,bitch,noun,c2
+39,bitzer,bitzer,noun,c2
+40,blackface,blackface,noun,c2
+41,bloodhound,bloodhound,noun,c2
+42,blue-whale,blue whale,noun,c1
+43,boa,boa,noun,c2
+44,boa-constrictor,boa constrictor,noun,c2
+45,boar,boar,noun,c2
+46,bobcat,bobcat,noun,c2
+47,border-collie,Border collie,noun,c2
+48,borzoi,borzoi,noun,c2
+49,boxer,boxer,noun,c2
+50,breed_1,breed,verb,c1
+51,breed_2,breed,noun,c1
+52,brood-mare,brood mare,noun,c2
+53,buck_1,buck,noun,c2
+54,buffalo_1,buffalo,noun,c2
+55,bull,bull,noun,b1
+56,bulldog,bulldog,noun,c2
+57,bullfrog,bullfrog,noun,c2
+58,bull-mastiff,bull mastiff,noun,c2
+59,bullock,bullock,noun,c2
+60,bull-terrier,bull terrier,noun,c2
+61,bunny,bunny,noun,c2
+62,burrow_2,burrow,noun,c2
+63,bushbaby,bushbaby,noun,c2
+64,bushmaster,bushmaster,noun,c2
+65,cage_1,cage,noun,b2
+66,caiman,caiman,noun,c2
+67,calf,calf,noun,c1
+68,calico-cat,calico cat,noun,c2
+69,calve,calve,verb,c2
+70,camel,camel,noun,b1
+71,camouflage_1,camouflage,noun,c1
+72,canine_2,canine,noun,c2
+73,canter_1,canter,noun,c2
+74,canter_2,canter,verb,c2
+75,capybara,capybara,noun,c2
+76,carnivore,carnivore,noun,c2
+77,carthorse,carthorse,noun,c2
+78,cat_1,cat,noun,a1
+79,cattle,cattle,noun,c1
+80,cayman,cayman,noun,c2
+81,chameleon,chameleon,noun,c2
+82,chamois,chamois,noun,c2
+83,cheetah,cheetah,noun,b2
+84,chestnut_1,chestnut,noun,c2
+85,chihuahua,chihuahua,noun,c2
+86,chimpanzee,chimpanzee,noun,c1
+87,chinchilla,chinchilla,noun,c2
+88,chipmunk,chipmunk,noun,c2
+89,civet,civet,noun,c2
+90,class_1,class,noun,c1
+91,claw_1,claw,noun,c1
+92,cloven-hoof,cloven hoof,noun,c2
+93,coat_1,coat,noun,b2
+94,coati,coati,noun,c2
+95,cobra,cobra,noun,c2
+96,cocker,cocker,noun,c2
+97,cold-blooded,cold-blooded,adjective,c1
+98,collie,collie,noun,c2
+99,colony,colony,noun,c1
+100,colt,colt,noun,c2
+101,copperhead,copperhead,noun,c2
+102,coral-snake,coral snake,noun,c2
+103,corgi,corgi,noun,c2
+104,cottonmouth,cottonmouth,noun,c2
+105,cougar,cougar,noun,c2
+106,cow_1,cow,noun,a1
+107,coyote,coyote,noun,c2
+108,coypu,coypu,noun,c2
+109,creature,creature,noun,b2
+110,croak_1,croak,verb,c2
+111,croak_2,croak,noun,c2
+112,croc,croc,noun,c1
+113,crocodile,crocodile,noun,b1
+114,cross-breed_2,cross-breed,verb,c2
+115,cub,cub,noun,c1
+116,cull_1,cull,verb,c2
+117,cur,cur,noun,c2
+118,dachshund,dachshund,noun,c2
+119,dalmatian,Dalmatian,noun,c2
+120,deer,deer,noun,b2
+121,deerhound,deerhound,noun,c2
+122,den,den,noun,c1
+123,die-out,die out,phrasal verb,b2
+124,dingo,dingo,noun,c2
+125,dinosaur,dinosaur,noun,b2
+126,doe_1,doe,noun,c2
+127,dog_1,dog,noun,a1
+128,dogie,dogie,noun,c2
+129,dolphin,dolphin,noun,b1
+130,dolphinarium,dolphinarium,noun,c2
+131,domestic_1,domestic,adjective,b2
+132,domesticate,domesticate,verb,c1
+133,domesticated,domesticated,adjective,c1
+134,donkey,donkey,noun,b2
+135,dormouse,dormouse,noun,c2
+136,drey,drey,noun,c2
+137,dromedary,dromedary,noun,c2
+138,drove_1,drove,noun,c2
+139,duck-billed-platypus,duck-billed platypus,noun,c2
+140,dugong,dugong,noun,c2
+141,echidna,echidna,noun,c2
+142,elephant,elephant,noun,a1
+143,elk,elk,noun,c2
+144,elkhound,elkhound,noun,c2
+145,endangered,endangered,adjective,b1
+146,endoskeleton,endoskeleton,noun,c2
+147,ewe,ewe,noun,c2
+148,extinct,extinct,adjective,b2
+149,extinction,extinction,noun,b2
+150,family_1,family,noun,a2
+151,fang,fang,noun,c2
+152,farrow_1,farrow,noun,c2
+153,farrow_2,farrow,verb,c2
+154,fauna,fauna,noun,c2
+155,fawn_2,fawn,noun,c2
+156,feed_1,feed,verb,a2
+157,feline_2,feline,noun,c2
+158,ferret_1,ferret,noun,c2
+159,fetlock,fetlock,noun,c2
+160,filly,filly,noun,c2
+161,flank_1,flank,noun,c2
+162,fleece_1,fleece,noun,c2
+163,flipper,flipper,noun,c2
+164,flock_1,flock,noun,c1
+165,fluff_1,fluff,noun,c2
+166,flying-fox,flying fox,noun,c2
+167,flying-squirrel,flying squirrel,noun,c2
+168,foal_1,foal,noun,c1
+169,forefoot,forefoot,noun,c2
+170,foreleg,foreleg,noun,c2
+171,forelock,forelock,noun,c2
+172,forever-home,forever home,noun,c2
+173,four-legged-friend,four-legged friend,noun,c2
+174,fox_1,fox,noun,b1
+175,foxhound,foxhound,noun,c2
+176,fox-terrier,fox terrier,noun,c2
+177,friesian,Friesian,noun,c2
+178,frog,frog,noun,a2
+179,froglet,froglet,noun,c2
+180,frogspawn,frogspawn,noun,c2
+181,fruit-bat,fruit bat,noun,c2
+182,fur,fur,noun,b1
+183,furry,furry,adjective,c1
+184,gallop_1,gallop,verb,c1
+185,gallop_2,gallop,noun,c1
+186,game_1,game,noun,c2
+187,garter-snake,garter snake,noun,c2
+188,gecko,gecko,noun,c2
+189,gelding,gelding,noun,c2
+190,genet,genet,noun,c2
+191,genus,genus,noun,c1
+192,gerbil,gerbil,noun,c2
+193,german-shepherd,German shepherd,noun,c2
+194,giant-panda,giant panda,noun,c1
+195,gibbon,gibbon,noun,c2
+196,giraffe,giraffe,noun,b2
+197,goat_1,goat,noun,b1
+198,golden-retriever,golden retriever,noun,c2
+199,gopher,gopher,noun,c2
+200,gorilla,gorilla,noun,c1
+201,grass-snake,grass snake,noun,c2
+202,graze_1,graze,verb,c2
+203,great-dane,Great Dane,noun,c2
+204,greyhound,greyhound,noun,c2
+205,groundhog,groundhog,noun,c2
+206,growl_1,growl,verb,c1
+207,growl_2,growl,noun,c1
+208,grunt_1,grunt,verb,c2
+209,grunt_2,grunt,noun,c2
+210,guard-dog,guard dog,noun,b2
+211,guernsey,Guernsey,noun,c2
+212,guide-dog,guide dog,noun,b1
+213,guinea-pig,guinea pig,noun,b1
+214,gun-dog,gun dog,noun,c1
+215,habitat_1,habitat,noun,b2
+216,hackles,hackles,noun,c2
+217,hamster,hamster,noun,b1
+218,hare_1,hare,noun,c1
+219,harem,harem,noun,c2
+220,hart,hart,noun,c2
+221,hearing-dog,hearing dog,noun,b2
+222,hedgehog,hedgehog,noun,c2
+223,heifer,heifer,noun,c2
+224,herd_1,herd,noun,c1
+225,hibernate,hibernate,verb,c2
+226,hide_2,hide,noun,a2
+227,highland-cattle,Highland cattle,noun,c2
+228,hind_1,hind,adjective,c2
+229,hind_2,hind,noun,c2
+230,hindlimb,hindlimb,noun,c2
+231,hindquarters,hindquarters,noun,c2
+232,hippo,hippo,noun,c1
+233,hippopotamus,hippopotamus,noun,c1
+234,hock_1,hock,noun,c2
+235,hog_1,hog,noun,c2
+236,hognose-snake,hognose snake,noun,c2
+237,holstein,Holstein,noun,c2
+238,hoof_1,hoof,noun,c1
+239,horn_1,horn,noun,c1
+240,horse_1,horse,noun,a1
+241,hound_1,hound,noun,c2
+242,hound-dog,hound dog,noun,c2
+243,house-broken,house-broken,adjective,c2
+244,house-trained,house-trained,adjective,c2
+245,hump_1,hump,noun,c2
+246,humpback,humpback,noun,c2
+247,humpback-whale,humpback whale,noun,c2
+248,hunter_1,hunter,noun,c2
+249,husky_2,husky,noun,c2
+250,hutch,hutch,noun,c2
+251,hyaena,hyaena,noun,c2
+252,hyena,hyena,noun,c2
+253,hyrax,hyrax,noun,c2
+254,ibex,ibex,noun,c2
+255,iguana,iguana,noun,c2
+256,indigenous,indigenous,adjective,c1
+257,jackal,jackal,noun,c2
+258,jackrabbit,jackrabbit,noun,c2
+259,jaguar,jaguar,noun,c1
+260,jaw_1,jaw,noun,c1
+261,jersey,jersey,noun,c2
+262,kangaroo,kangaroo,noun,b2
+263,kennel,kennel,noun,c2
+264,kid_1,kid,noun,c2
+265,kinkajou,kinkajou,noun,c2
+266,kitten,kitten,noun,b2
+267,kitty,kitty,noun,c2
+268,koala,koala,noun,c2
+269,komodo-dragon,Komodo dragon,noun,c2
+270,krait,krait,noun,c2
+271,labrador,Labrador,noun,c1
+272,lair,lair,noun,c2
+273,lamb_1,lamb,noun,a2
+274,lapdog,lapdog,noun,c2
+275,leash_1,leash,noun,c2
+276,leatherback,leatherback,noun,c2
+277,lemming,lemming,noun,c2
+278,lemur,lemur,noun,c2
+279,leopard,leopard,noun,b2
+280,lion,lion,noun,a1
+281,litter_1,litter,noun,c2
+282,lizard,lizard,noun,c1
+283,llama,llama,noun,c2
+284,lodge_1,lodge,noun,c2
+285,longhair,longhair,noun,c2
+286,longhorn,longhorn,noun,c2
+287,lop-ears,lop ears,noun,c2
+288,lurcher,lurcher,noun,c2
+289,lynx,lynx,noun,c2
+290,mamba,mamba,noun,c2
+291,mammal,mammal,noun,b2
+292,manatee,manatee,noun,c2
+293,mane,mane,noun,c2
+294,manx-cat,Manx cat,noun,c2
+295,mare,mare,noun,c2
+296,marmalade-cat,marmalade cat,noun,c2
+297,marmot,marmot,noun,c2
+298,marsupial_2,marsupial,noun,c2
+299,marten,marten,noun,c2
+300,mastiff,mastiff,noun,c2
+301,mate_1,mate,noun,b2
+302,mate_2,mate,verb,b2
+303,meerkat,meerkat,noun,c2
+304,meow_1,meow,noun,c1
+305,miaow_1,miaow,noun,c1
+306,miaow_2,miaow,verb,c1
+307,microchip_2,microchip,verb,c2
+308,mink,mink,noun,c2
+309,mob_1,mob,noun,c2
+310,moggie,moggie,noun,c2
+311,mole,mole,noun,c2
+312,molt_1,molt,verb,c2
+313,mongoose,mongoose,noun,c2
+314,mongrel,mongrel,noun,c2
+315,monitor_1,monitor,noun,c2
+316,monkey_1,monkey,noun,a2
+317,monotreme,monotreme,noun,c2
+318,moo_1,moo,noun,c2
+319,moo_2,moo,verb,c2
+320,moult_1,moult,verb,c2
+321,mountain-lion,mountain lion,noun,c2
+322,mouse_1,mouse,noun,a1
+323,mouser,mouser,noun,c2
+324,mule,mule,noun,c1
+325,musk-ox,musk ox,noun,c2
+326,muskrat,muskrat,noun,c2
+327,mustang,mustang,noun,c2
+328,mutt,mutt,noun,c2
+329,muzzle_1,muzzle,noun,c2
+330,nanny-goat,nanny goat,noun,c2
+331,natterjack,natterjack,noun,c2
+332,neigh_1,neigh,verb,c2
+333,neigh_2,neigh,noun,c2
+334,neuter_2,neuter,verb,c2
+335,newt,newt,noun,c2
+336,nuzzle,nuzzle,verb,c2
+337,ocelot,ocelot,noun,c2
+338,okapi,okapi,noun,c2
+339,old-english-sheepdog,Old English sheepdog,noun,c2
+340,opossum,opossum,noun,c2
+341,orangutan,orangutan,noun,c2
+342,order_1,order,noun,c2
+343,otter,otter,noun,c2
+344,ox,ox,noun,c1
+345,pachyderm,pachyderm,noun,c2
+346,pack_2,pack,noun,b2
+347,pack-animal,pack animal,noun,c2
+348,packhorse,packhorse,noun,c2
+349,pack-rat,pack rat,noun,c2
+350,pad_1,pad,noun,c2
+351,palomino,palomino,noun,c2
+352,panda,panda,noun,c2
+353,pangolin,pangolin,noun,c2
+354,panther,panther,noun,c2
+355,pastern,pastern,noun,c2
+356,paw_1,paw,noun,c1
+357,peccary,peccary,noun,c2
+358,pedigree_2,pedigree,adjective,c2
+359,pekinese,Pekinese,noun,c2
+360,pelt_2,pelt,noun,c2
+361,pet_1,pet,noun,a2
+362,pet-sitter,pet sitter,noun,b2
+363,phylum,phylum,noun,c2
+364,pig_1,pig,noun,a1
+365,piglet_1,piglet,noun,c1
+366,pine-marten,pine marten,noun,c2
+367,pit-viper,pit viper,noun,c2
+368,platypus,platypus,noun,c2
+369,pod,pod,noun,c2
+370,pointer,pointer,noun,c2
+371,poisonous,poisonous,adjective,b1
+372,polar-bear,polar bear,noun,b2
+373,polecat,polecat,noun,c2
+374,police-dog,police dog,noun,b1
+375,polliwog,polliwog,noun,c2
+376,pony_1,pony,noun,c1
+377,poodle,poodle,noun,c1
+378,porcupine,porcupine,noun,c2
+379,porpoise,porpoise,noun,c2
+380,potto,potto,noun,c2
+381,pouch,pouch,noun,c2
+382,prairie-dog,prairie dog,noun,c2
+383,prairie-wolf,prairie wolf,noun,c2
+384,predator,predator,noun,c1
+385,predatory,predatory,adjective,c2
+386,prey_1,prey,noun,c1
+387,pride_1,pride,noun,c2
+388,primate,primate,noun,c1
+389,puff-adder,puff adder,noun,c2
+390,pug,pug,noun,c2
+391,puma,puma,noun,c2
+392,pup,pup,noun,c2
+393,puppy,puppy,noun,b2
+394,purr_2,purr,verb,c2
+395,pussy,pussy,noun,c2
+396,python,python,noun,c1
+397,rabbit_1,rabbit,noun,a2
+398,raccoon,raccoon,noun,c2
+399,race_1,race,noun,c2
+400,racoon,racoon,noun,c2
+401,ram_2,ram,noun,c2
+402,rare-breed,rare breed,noun,c1
+403,rat_1,rat,noun,b2
+404,rattlesnake,rattlesnake,noun,c2
+405,red-panda,red panda,noun,c2
+406,reindeer,reindeer,noun,b2
+407,reptile,reptile,noun,b2
+408,reptilian,reptilian,adjective,c2
+409,retriever,retriever,noun,c2
+410,rhinoceros,rhinoceros,noun,c1
+411,roan_1,roan,adjective,c2
+412,roan_2,roan,noun,c2
+413,roar_1,roar,verb,c1
+414,roar_2,roar,noun,c1
+415,rodent,rodent,noun,c1
+416,roo,roo,noun,c2
+417,rottweiler,Rottweiler,noun,c2
+418,ruminant_1,ruminant,noun,c2
+419,rump,rump,noun,c2
+420,running-dog,running dog,noun,c2
+421,sable,sable,noun,c2
+422,salamander,salamander,noun,c2
+423,sausage-dog,sausage dog,noun,c2
+424,scale_1,scale,noun,c1
+425,schnauzer,schnauzer,noun,c2
+426,scottie,Scottie,noun,c2
+427,scottish-terrier,Scottish terrier,noun,c2
+428,seal_2,seal,noun,b2
+429,sea-lion,sea lion,noun,c1
+430,sea-turtle,sea turtle,noun,b2
+431,seeing-eye-dogtm,Seeing Eye dog™,noun,c1
+432,serpent,serpent,noun,c2
+433,sett,sett,noun,c2
+434,setter,setter,noun,c2
+435,shank,shank,noun,c2
+436,sheep,sheep,noun,a1
+437,sheepdog,sheepdog,noun,b1
+438,shell_1,shell,noun,b1
+439,shetland-pony,Shetland pony,noun,c2
+440,shorthair,shorthair,noun,c2
+441,shorthorn,shorthorn,noun,c2
+442,shrew,shrew,noun,c2
+443,siamese-cat,Siamese cat,noun,c2
+444,sidewinder,sidewinder,noun,c2
+445,skink,skink,noun,c2
+446,skunk,skunk,noun,c1
+447,slider,slider,noun,c2
+448,slither,slither,verb,c2
+449,sloth,sloth,noun,c2
+450,snake_1,snake,noun,a1
+451,snarl_1,snarl,verb,c2
+452,snarl_2,snarl,noun,c2
+453,sniffer-dog,sniffer dog,noun,c2
+454,snort_1,snort,verb,c2
+455,snort_2,snort,noun,c2
+456,snout,snout,noun,c2
+457,sow2,sow,noun,c2
+458,spaniel,spaniel,noun,c2
+459,spay,spay,verb,c2
+460,species,species,noun,b2
+461,spine,spine,noun,c2
+462,spiny-anteater,spiny anteater,noun,c2
+463,squeak_1,squeak,verb,c1
+464,squeak_2,squeak,noun,c1
+465,squeal_1,squeal,verb,c2
+466,squeal_2,squeal,noun,c2
+467,squirrel_1,squirrel,noun,b2
+468,stag,stag,noun,c2
+469,stallion,stallion,noun,c2
+470,steer_2,steer,noun,c2
+471,stoat,stoat,noun,c2
+472,stroke_2,stroke,verb,c1
+473,tabby,tabby,noun,c2
+474,tadpole,tadpole,noun,c1
+475,tail_1,tail,noun,b1
+476,taipan,taipan,noun,c2
+477,tame_1,tame,adjective,c2
+478,tapir,tapir,noun,c2
+479,teat,teat,noun,c2
+480,terrapin,terrapin,noun,c2
+481,terrier,terrier,noun,c2
+482,tiger,tiger,noun,a2
+483,toad_1,toad,noun,c2
+484,tom_1,tom,noun,c2
+485,tomcat,tomcat,noun,c2
+486,tortoise,tortoise,noun,b2
+487,tortoiseshell,tortoiseshell,noun,c2
+488,tosa,tosa,noun,c2
+489,tracker-dog,tracker dog,noun,c2
+490,tribe,tribe,noun,c2
+491,trot_1,trot,verb,c1
+492,trot_2,trot,noun,c1
+493,trotter,trotter,noun,c2
+494,trunk,trunk,noun,c1
+495,turtle,turtle,noun,c1
+496,tusk,tusk,noun,c2
+497,udder,udder,noun,c2
+498,underbelly,underbelly,noun,c2
+499,vampire-bat,vampire bat,noun,c2
+500,venom,venom,noun,b2
+501,vermin,vermin,noun,c2
+502,viper,viper,noun,c2
+503,vixen,vixen,noun,c2
+504,vole,vole,noun,c2
+505,walk_1,walk,verb,a2
+506,wallaby,wallaby,noun,c1
+507,walrus,walrus,noun,c2
+508,warm-blooded,warm-blooded,adjective,c1
+509,warthog,warthog,noun,c2
+510,waterbuck,waterbuck,noun,c2
+511,water-buffalo,water buffalo,noun,c2
+512,water-moccasin,water moccasin,noun,c2
+513,water-rat,water rat,noun,c2
+514,water-vole,water vole,noun,c2
+515,weasel_1,weasel,noun,c2
+516,whale,whale,noun,a2
+517,whimper_1,whimper,verb,c2
+518,whimper_2,whimper,noun,c2
+519,whippet,whippet,noun,c2
+520,whisker,whisker,noun,c2
+521,wild_1,wild,adjective,a2
+522,wild-boar,wild boar,noun,c2
+523,wildcat_3,wildcat,noun,c1
+524,wildlife,wildlife,noun,b2
+525,withers,withers,noun,c2
+526,wolf_1,wolf,noun,b1
+527,wolfhound,wolfhound,noun,c2
+528,wolverine,wolverine,noun,c2
+529,wombat,wombat,noun,c2
+530,woodchuck,woodchuck,noun,c2
+531,woof_1,woof,exclamation,c1
+532,woof_2,woof,verb,c1
+533,woof_3,woof,noun,c1
+534,wool,wool,noun,b1
+535,yak_1,yak,noun,c2
+536,yorkshire-terrier,Yorkshire terrier,noun,c2
+537,zebra,zebra,noun,b2
+538,zebu,zebu,noun,c2
+539,albatross,albatross,noun,c2
+540,arctic-tern,Arctic tern,noun,c2
+541,aviary,aviary,noun,c2
+542,avocet,avocet,noun,c2
+543,bald-eagle,bald eagle,noun,c1
+544,bantam,bantam,noun,c2
+545,barn-owl,barn owl,noun,c1
+546,beak,beak,noun,b2
+547,bill_1,bill,noun,c2
+548,bird_1,bird,noun,a1
+549,bird-of-paradise,bird of paradise,noun,c2
+550,bird-of-passage,bird of passage,noun,c2
+551,bird-of-prey,bird of prey,noun,c1
+552,blackbird,blackbird,noun,b2
+553,bluebird_1,bluebird,noun,c1
+554,blue-crane,blue crane,noun,c2
+555,bluejay,bluejay,noun,c2
+556,blue-tit,blue tit,noun,c2
+557,booby,booby,noun,c2
+558,bowerbird,bowerbird,noun,c2
+559,breast_1,breast,noun,b2
+560,breed_1,breed,verb,c1
+561,brood_2,brood,noun,c2
+562,budgerigar,budgerigar,noun,c1
+563,budgie,budgie,noun,c1
+564,bullfinch,bullfinch,noun,c2
+565,bustard,bustard,noun,c2
+566,buzzard,buzzard,noun,c2
+567,cage_1,cage,noun,b2
+568,call_1,call,verb,b2
+569,call_2,call,noun,b2
+570,canada-goose,Canada goose,noun,c1
+571,canary,canary,noun,c1
+572,capercaillie,capercaillie,noun,c2
+573,cardinal_1,cardinal,noun,c2
+574,carrier-pigeon,carrier pigeon,noun,c2
+575,carrion-crow,carrion crow,noun,c2
+576,cassowary,cassowary,noun,c2
+577,catbird,catbird,noun,c1
+578,chaffinch,chaffinch,noun,c2
+579,chick,chick,noun,c1
+580,chickadee,chickadee,noun,c2
+581,chicken_1,chicken,noun,a1
+582,chirp_1,chirp,noun,c2
+583,chough,chough,noun,c2
+584,claw_1,claw,noun,c1
+585,cluck_2,cluck,noun,c2
+586,clutch_2,clutch,noun,c2
+587,cock_1,cock,noun,c2
+588,cockatiel,cockatiel,noun,c2
+589,cockatoo,cockatoo,noun,c2
+590,cockerel,cockerel,noun,c2
+591,condor,condor,noun,c2
+592,coo_2,coo,verb,c2
+593,coop_2,coop,noun,c2
+594,coot,coot,noun,c2
+595,cormorant,cormorant,noun,c2
+596,corncrake,corncrake,noun,c2
+597,crane_1,crane,noun,c2
+598,craw,craw,noun,c2
+599,crest_1,crest,noun,c2
+600,crop_1,crop,noun,c2
+601,crow_1,crow,noun,c1
+602,cuckoo_1,cuckoo,noun,c2
+603,curlew,curlew,noun,c2
+604,cygnet,cygnet,noun,c2
+605,dipper,dipper,noun,c2
+606,dive_1,dive,verb,b2
+607,dove1,dove,noun,c1
+608,down_5,down,noun,c2
+609,drake,drake,noun,c2
+610,drongo,drongo,noun,c2
+611,duck_1,duck,noun,a2
+612,duckling,duckling,noun,c1
+613,dunlin,dunlin,noun,c2
+614,dunnock,dunnock,noun,c2
+615,eagle_1,eagle,noun,b2
+616,eagle-owl,eagle owl,noun,c2
+617,eaglet,eaglet,noun,c2
+618,egg_1,egg,noun,a1
+619,egret,egret,noun,c2
+620,emperor-penguin,emperor penguin,noun,c1
+621,emu_1,emu,noun,c2
+622,falcon,falcon,noun,c1
+623,feather_1,feather,noun,b2
+624,finch,finch,noun,c1
+625,flamingo,flamingo,noun,c2
+626,flight_1,flight,noun,c2
+627,fly_1,fly,verb,a1
+628,flycatcher,flycatcher,noun,c2
+629,fowl,fowl,noun,c2
+630,frigate-bird,frigate bird,noun,c2
+631,fulmar,fulmar,noun,c2
+632,gaggle,gaggle,noun,c2
+633,game_1,game,noun,c2
+634,game-bird,game bird,noun,c1
+635,gander,gander,noun,c2
+636,gannet,gannet,noun,c2
+637,gizzard,gizzard,noun,c2
+638,gobbler,gobbler,noun,c2
+639,goldcrest,goldcrest,noun,c2
+640,golden-eagle,golden eagle,noun,b2
+641,goldfinch,goldfinch,noun,c2
+642,goose_1,goose,noun,b2
+643,goshawk,goshawk,noun,c2
+644,gosling,gosling,noun,c2
+645,grackle,grackle,noun,c2
+646,grebe,grebe,noun,c2
+647,grouse_1,grouse,noun,c2
+648,guillemot,guillemot,noun,c2
+649,guinea-fowl,guinea fowl,noun,c2
+650,gull,gull,noun,c2
+651,harrier_1,harrier,noun,c2
+652,hatch_1,hatch,verb,c1
+653,hatchling,hatchling,noun,c2
+654,hawk_1,hawk,noun,c1
+655,hen,hen,noun,c2
+656,heron,heron,noun,c2
+657,herring-gull,herring gull,noun,c2
+658,homing-pigeon,homing pigeon,noun,c2
+659,hoopoe,hoopoe,noun,c2
+660,hoot_1,hoot,verb,c2
+661,hoot_2,hoot,noun,c2
+662,hop_1,hop,verb,c1
+663,hop_2,hop,noun,c1
+664,hornbill,hornbill,noun,c2
+665,house-martin,house martin,noun,c2
+666,house-sparrow,house sparrow,noun,c2
+667,hover,hover,verb,c1
+668,hummingbird,hummingbird,noun,c2
+669,ibis,ibis,noun,c2
+670,incubate,incubate,verb,c2
+671,jackdaw,jackdaw,noun,c2
+672,jay,jay,noun,c2
+673,kestrel,kestrel,noun,c2
+674,kingfisher,kingfisher,noun,c2
+675,kite_1,kite,noun,c2
+676,kittiwake,kittiwake,noun,c2
+677,kiwi,kiwi,noun,c1
+678,kookaburra,kookaburra,noun,c2
+679,lapwing,lapwing,noun,c2
+680,lark_1,lark,noun,c2
+681,lay_1,lay,verb,b2
+682,linnet,linnet,noun,c2
+683,little-owl,little owl,noun,c1
+684,loon,loon,noun,c2
+685,lorikeet,lorikeet,noun,c2
+686,lovebird,lovebird,noun,c2
+687,lyrebird,lyrebird,noun,c2
+688,macaw,macaw,noun,c2
+689,magpie,magpie,noun,c2
+690,mandible,mandible,noun,c2
+691,mate_1,mate,noun,b2
+692,mate_2,mate,verb,b2
+693,meadowlark,meadowlark,noun,c2
+694,merlin_1,merlin,noun,c2
+695,migrate,migrate,verb,b2
+696,migration,migration,noun,c1
+697,missel-thrush,missel thrush,noun,c2
+698,mistle-thrush,mistle thrush,noun,c2
+699,mockingbird,mockingbird,noun,c2
+700,moorhen,moorhen,noun,c2
+701,mynah,mynah,noun,c2
+702,nest_1,nest,noun,c1
+703,nest_2,nest,verb,c1
+704,nestling,nestling,noun,c2
+705,nightingale,nightingale,noun,c2
+706,nightjar,nightjar,noun,c2
+707,nuthatch,nuthatch,noun,c2
+708,oriole,oriole,noun,c2
+709,osprey,osprey,noun,c2
+710,ostrich,ostrich,noun,c1
+711,owl,owl,noun,b2
+712,owlet,owlet,noun,c2
+713,oystercatcher,oystercatcher,noun,c2
+714,parakeet,parakeet,noun,c2
+715,parrot_1,parrot,noun,b2
+716,partridge,partridge,noun,c2
+717,peacock,peacock,noun,c1
+718,peafowl,peafowl,noun,c2
+719,peahen,peahen,noun,c2
+720,peck_1,peck,verb,c2
+721,peck_2,peck,noun,c2
+722,peewit,peewit,noun,c2
+723,pelican,pelican,noun,c2
+724,penguin,penguin,noun,a2
+725,perch_1,perch,verb,c1
+726,peregrine,peregrine,noun,c2
+727,petrel,petrel,noun,c2
+728,pheasant,pheasant,noun,c2
+729,pigeon,pigeon,noun,b2
+730,pipit,pipit,noun,c2
+731,plover,plover,noun,c2
+732,plumage,plumage,noun,c2
+733,poultry,poultry,noun,c1
+734,prey_1,prey,noun,c1
+735,ptarmigan,ptarmigan,noun,c2
+736,puffin,puffin,noun,c2
+737,quack_1,quack,noun,c1
+738,quack_2,quack,verb,c1
+739,quail_1,quail,noun,c2
+740,raven_1,raven,noun,c1
+741,razorbill,razorbill,noun,c2
+742,redshank,redshank,noun,c2
+743,rhea,rhea,noun,c2
+744,roadrunner,roadrunner,noun,c2
+745,robin_1,robin,noun,c2
+746,rook,rook,noun,c2
+747,rookery,rookery,noun,c2
+748,roost_1,roost,noun,c2
+749,roost_2,roost,verb,c2
+750,rooster,rooster,noun,c2
+751,ruff,ruff,noun,c2
+752,sand-martin,sand martin,noun,c2
+753,sandpiper,sandpiper,noun,c2
+754,seabird,seabird,noun,b1
+755,seagull,seagull,noun,c1
+756,secretary-bird,secretary bird,noun,c2
+757,shag_1,shag,noun,c2
+758,shearwater,shearwater,noun,c2
+759,shrike,shrike,noun,c2
+760,skua,skua,noun,c2
+761,skylark,skylark,noun,c2
+762,snipe_2,snipe,noun,c2
+763,soar,soar,verb,c1
+764,song,song,noun,a2
+765,songbird,songbird,noun,c1
+766,sparrow,sparrow,noun,c2
+767,sparrowhawk,sparrowhawk,noun,c2
+768,spoonbill,spoonbill,noun,c2
+769,squawk_1,squawk,verb,c2
+770,squawk_2,squawk,noun,c2
+771,starling,starling,noun,c2
+772,stork,stork,noun,c2
+773,swallow_2,swallow,noun,c2
+774,swan_1,swan,noun,c1
+775,swift_2,swift,noun,c2
+776,tail_1,tail,noun,b1
+777,talon,talon,noun,c2
+778,tawny-owl,tawny owl,noun,c2
+779,tern,tern,noun,c2
+780,thrush,thrush,noun,c2
+781,tit,tit,noun,c2
+782,titmouse,titmouse,noun,c2
+783,toucan,toucan,noun,c2
+784,turkey_1,turkey,noun,b1
+785,turtle-dove,turtle dove,noun,c2
+786,tweet_1,tweet,noun,c2
+787,tweet_2,tweet,verb,c2
+788,twitter_1,twitter,verb,c2
+789,twitter_2,twitter,noun,c2
+790,vent_1,vent,noun,c2
+791,vulture,vulture,noun,c1
+792,wader,wader,noun,c2
+793,waterfowl,waterfowl,noun,c2
+794,wattle,wattle,noun,c2
+795,weaver-bird,weaver bird,noun,c2
+796,whippoorwill,whippoorwill,noun,c2
+797,wing_1,wing,noun,b1
+798,wishbone,wishbone,noun,c2
+799,woodcock,woodcock,noun,c2
+800,woodpecker,woodpecker,noun,c2
+801,wood-pigeon,wood pigeon,noun,c2
+802,wren,wren,noun,c2
+803,yellowhammer,yellowhammer,noun,c2
+804,abalone,abalone,noun,c2
+805,anchovy,anchovy,noun,c2
+806,angelfish,angelfish,noun,c2
+807,aquarium,aquarium,noun,c1
+808,barnacle,barnacle,noun,c2
+809,barracouta,barracouta,noun,c2
+810,barracuda,barracuda,noun,c2
+811,barramundi,barramundi,noun,c2
+812,bass2,bass,noun,c2
+813,beluga,beluga,noun,c2
+814,bivalve,bivalve,noun,c2
+815,bluefish,bluefish,noun,c2
+816,bottom-feeder,bottom feeder,noun,c2
+817,bowfin,bowfin,noun,c2
+818,brachiopod,brachiopod,noun,c2
+819,bream,bream,noun,c2
+820,catfish_1,catfish,noun,c1
+821,chinook,chinook,noun,c2
+822,chub,chub,noun,c2
+823,clam_1,clam,noun,c2
+824,claw_1,claw,noun,c1
+825,cockle,cockle,noun,c2
+826,cod_1,cod,noun,c1
+827,codfish,codfish,noun,c1
+828,coelacanth,coelacanth,noun,c2
+829,coley,coley,noun,c2
+830,conger,conger,noun,c2
+831,coral_1,coral,noun,b2
+832,crab,crab,noun,b2
+833,crawfish,crawfish,noun,c2
+834,cray,cray,noun,c2
+835,crayfish,crayfish,noun,c2
+836,crustacean,crustacean,noun,c2
+837,cuttlefish,cuttlefish,noun,c2
+838,dab_2,dab,noun,c2
+839,dogfish,dogfish,noun,c1
+840,dory,dory,noun,c2
+841,eel,eel,noun,c1
+842,egg_1,egg,noun,a1
+843,electric-eel,electric eel,noun,c1
+844,elver,elver,noun,c2
+845,fin,fin,noun,c1
+846,fish_1,fish,noun,a1
+847,fishbowl,fishbowl,noun,b1
+848,flatfish,flatfish,noun,c1
+849,flounder_2,flounder,noun,c2
+850,freshwater,freshwater,adjective,b2
+851,game-fish,game fish,noun,c1
+852,gill1,gill,noun,c1
+853,goldfish,goldfish,noun,b2
+854,goldfish-bowl,goldfish bowl,noun,b2
+855,grilse,grilse,noun,c2
+856,guppy,guppy,noun,c2
+857,haddock,haddock,noun,c2
+858,hake,hake,noun,c2
+859,halibut,halibut,noun,c2
+860,harlequin-fish,harlequin fish,noun,c2
+861,hatch_1,hatch,verb,c1
+862,hermit-crab,hermit crab,noun,c2
+863,herring,herring,noun,c1
+864,hoki,hoki,noun,c2
+865,horse-mackerel,horse mackerel,noun,c2
+866,jellyfish,jellyfish,noun,b2
+867,john-dory,John Dory,noun,c2
+868,koi,koi,noun,c2
+869,krill,krill,noun,c2
+870,lamprey,lamprey,noun,c2
+871,langouste,langouste,noun,c2
+872,langoustine,langoustine,noun,c2
+873,lanternfish,lanternfish,noun,c2
+874,lay_1,lay,verb,b2
+875,limpet,limpet,noun,c2
+876,lobster,lobster,noun,c1
+877,lugworm,lugworm,noun,c2
+878,lungfish,lungfish,noun,c2
+879,mackerel,mackerel,noun,c2
+880,manta,manta,noun,c2
+881,marlin,marlin,noun,c2
+882,minnow,minnow,noun,c2
+883,molly_1,molly,noun,c2
+884,moray,moray,noun,c2
+885,mudskipper,mudskipper,noun,c2
+886,mullet,mullet,noun,c2
+887,mussel,mussel,noun,c1
+888,nautilus,nautilus,noun,c2
+889,oceanarium,oceanarium,noun,c2
+890,octopus,octopus,noun,c1
+891,oyster,oyster,noun,b2
+892,perch_2,perch,noun,c2
+893,pike_1,pike,noun,c2
+894,pilchard,pilchard,noun,c2
+895,pincer,pincer,noun,c2
+896,piranha,piranha,noun,c1
+897,plaice,plaice,noun,c2
+898,plankton,plankton,noun,c2
+899,polyp,polyp,noun,c2
+900,portuguese-man-of-war,Portuguese man-of-war,noun,c2
+901,prawn,prawn,noun,b2
+902,pufferfish,pufferfish,noun,c2
+903,rainbow-trout,rainbow trout,noun,c2
+904,ray_1,ray,noun,c2
+905,razor-shell,razor shell,noun,c2
+906,salmon,salmon,noun,b1
+907,saltwater,saltwater,adjective,b2
+908,sardine,sardine,noun,c1
+909,scale_1,scale,noun,c1
+910,scallop_1,scallop,noun,c2
+911,school_1,school,noun,c2
+912,sea-anemone,sea anemone,noun,c2
+913,sea-cucumber,sea cucumber,noun,c2
+914,sea-fish,sea fish,noun,b1
+915,seahorse,seahorse,noun,c2
+916,sea-urchin,sea urchin,noun,c2
+917,shark,shark,noun,a2
+918,shell_1,shell,noun,b1
+919,shellfish,shellfish,noun,b2
+920,shoal,shoal,noun,c2
+921,shrimp,shrimp,noun,b2
+922,skate_2,skate,noun,c2
+923,skipjack,skipjack,noun,c2
+924,snapper,snapper,noun,c2
+925,sole_2,sole,noun,c2
+926,spawn_2,spawn,noun,c2
+927,sponge_1,sponge,noun,c2
+928,sprat,sprat,noun,c2
+929,squid,squid,noun,c1
+930,starfish,starfish,noun,c1
+931,stickleback,stickleback,noun,c2
+932,stingray,stingray,noun,c2
+933,sturgeon,sturgeon,noun,c2
+934,sucker_1,sucker,noun,c2
+935,swim_1,swim,verb,a1
+936,swordfish,swordfish,noun,c2
+937,tail_1,tail,noun,b1
+938,tench,tench,noun,c2
+939,tentacle,tentacle,noun,c1
+940,tiddler,tiddler,noun,c2
+941,tilapia,tilapia,noun,c2
+942,trout,trout,noun,c1
+943,tuna,tuna,noun,b2
+944,tunny,tunny,noun,c2
+945,turbot,turbot,noun,c2
+946,vent_1,vent,noun,c2
+947,whelk,whelk,noun,c2
+948,whitebait,whitebait,noun,c2
+949,whiting,whiting,noun,c2
+950,winkle_1,winkle,noun,c2
+951,wrasse,wrasse,noun,c2
+952,abdomen,abdomen,noun,c2
+953,ant_1,ant,noun,b1
+954,antenna,antenna,noun,c1
+955,ant-lion,ant lion,noun,c2
+956,aphid,aphid,noun,c2
+957,arachnid,arachnid,noun,c2
+958,arthropod,arthropod,noun,c2
+959,bedbug,bedbug,noun,c2
+960,bee,bee,noun,b1
+961,beetle_1,beetle,noun,c1
+962,blackfly,blackfly,noun,c2
+963,black-widow,black widow,noun,c2
+964,boll-weevil,boll weevil,noun,c2
+965,brown-recluse,brown recluse,noun,c2
+966,bug_1,bug,noun,b2
+967,butterfly,butterfly,noun,b1
+968,buzz_1,buzz,verb,c1
+969,caddis,caddis,noun,c2
+970,caterpillar,caterpillar,noun,c1
+971,centipede,centipede,noun,c2
+972,chigger,chigger,noun,c2
+973,chrysalis,chrysalis,noun,c2
+974,cicada,cicada,noun,c2
+975,cobweb,cobweb,noun,c2
+976,cockchafer,cockchafer,noun,c2
+977,cockroach,cockroach,noun,c1
+978,cocoon_1,cocoon,noun,c2
+979,colorado-beetle,Colorado beetle,noun,c2
+980,crane-fly,crane fly,noun,c2
+981,crawl_1,crawl,verb,c1
+982,creature,creature,noun,b2
+983,cricket,cricket,noun,c2
+984,daddy-long-legs,daddy-long-legs,noun,c2
+985,damselfly,damselfly,noun,c2
+986,deathwatch-beetle,deathwatch beetle,noun,c2
+987,dragonfly,dragonfly,noun,c2
+988,earthworm,earthworm,noun,c1
+989,earwig,earwig,noun,c2
+990,egg_1,egg,noun,a1
+991,exoskeleton,exoskeleton,noun,c2
+992,feeler,feeler,noun,c2
+993,fire-ant,fire ant,noun,c2
+994,firefly,firefly,noun,c2
+995,flatworm,flatworm,noun,c2
+996,flea,flea,noun,c1
+997,fly_1,fly,verb,a1
+998,fly_2,fly,noun,a2
+999,flying_1,flying,adjective,a2
+1000,furniture-beetle,furniture beetle,noun,c2
+1001,glow-worm,glow-worm,noun,c2
+1002,gnat,gnat,noun,c2
+1003,gogga,gogga,noun,c2
+1004,grasshopper,grasshopper,noun,c2
+1005,greenfly,greenfly,noun,c2
+1006,grub_1,grub,noun,c2
+1007,gypsy-moth,gypsy moth,noun,c2
+1008,harvestman,harvestman,noun,c2
+1009,hatch_1,hatch,verb,c1
+1010,hive_1,hive,noun,c1
+1011,hookworm,hookworm,noun,c2
+1012,hornet,hornet,noun,c2
+1013,insect,insect,noun,a2
+1014,invertebrate_1,invertebrate,noun,c2
+1015,invertebrate_2,invertebrate,adjective,c2
+1016,jigger,jigger,noun,c2
+1017,lacewing,lacewing,noun,c2
+1018,ladybird_1,ladybird,noun,c2
+1019,larva,larva,noun,c2
+1020,lay_1,lay,verb,b2
+1021,leech,leech,noun,c2
+1022,lightning-bug,lightning bug,noun,c2
+1023,liver-fluke,liver fluke,noun,c2
+1024,locust,locust,noun,c2
+1025,louse_1,louse,noun,c2
+1026,maggot,maggot,noun,c2
+1027,mandible,mandible,noun,c2
+1028,mantis,mantis,noun,c2
+1029,may-bug,May bug,noun,c2
+1030,mayfly,mayfly,noun,c2
+1031,midge,midge,noun,c2
+1032,millipede,millipede,noun,c2
+1033,minibeast,minibeast,noun,c2
+1034,mite,mite,noun,c2
+1035,mollusc,mollusc,noun,c2
+1036,money-spider,money spider,noun,c2
+1037,mosquito,mosquito,noun,b1
+1038,moth,moth,noun,c1
+1039,nematode,nematode,noun,c2
+1040,nest_1,nest,noun,c1
+1041,nit,nit,noun,c2
+1042,nymph,nymph,noun,c2
+1043,pest,pest,noun,c1
+1044,plague_1,plague,noun,c2
+1045,poisonous,poisonous,adjective,b1
+1046,pond-skater,pond skater,noun,c2
+1047,praying-mantis,praying mantis,noun,c2
+1048,pupa,pupa,noun,c2
+1049,queen_1,queen,noun,c2
+1050,red-admiral,red admiral,noun,c2
+1051,roundworm,roundworm,noun,c2
+1052,scarab,scarab,noun,c2
+1053,scorpion,scorpion,noun,c1
+1054,silkworm,silkworm,noun,c1
+1055,silverfish,silverfish,noun,c2
+1056,slug_1,slug,noun,c2
+1057,snail,snail,noun,b2
+1058,spanish-fly,Spanish fly,noun,c2
+1059,spider,spider,noun,a2
+1060,stag-beetle,stag beetle,noun,c2
+1061,stick-insect,stick insect,noun,c2
+1062,sting_1,sting,verb,b2
+1063,sting_2,sting,noun,b2
+1064,swarm_1,swarm,noun,c1
+1065,tapeworm,tapeworm,noun,c2
+1066,tarantula,tarantula,noun,c1
+1067,termite,termite,noun,c1
+1068,thorax,thorax,noun,c2
+1069,threadworm,threadworm,noun,c2
+1070,tick_2,tick,noun,c1
+1071,venom,venom,noun,b2
+1072,wasp_1,wasp,noun,b2
+1073,water-strider,water strider,noun,c2
+1074,web,web,noun,a2
+1075,weevil,weevil,noun,c2
+1076,woodlouse,woodlouse,noun,c2
+1077,woodworm,woodworm,noun,c2
+1078,worm_1,worm,noun,b2
