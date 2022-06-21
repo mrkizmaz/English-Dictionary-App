@@ -5,7 +5,7 @@ import re
 import requests
 import pandas as pd
 
-# request to the 
+# request to the site
 categories = ['animals_1', 'appearance_1', 'communication']
 url = 'https://www.oxfordlearnersdictionaries.com/topic/category/animals_1'
 headers = {'User-Agent': 'Mozilla/5.0'}
