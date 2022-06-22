@@ -1,0 +1,1150 @@
+subLink,word,type,level
+0,50-yard-line,50-yard line,noun,c1
+1,ace_1,ace,noun,c2
+2,advantage_1,advantage,noun,c2
+3,air-ball,air ball,noun,c2
+4,alley,alley,noun,c2
+5,alley-oop_1,alley-oop,exclamation,c2
+6,alley-oop_2,alley-oop,noun,c2
+7,american-football,American football,noun,a2
+8,area,area,noun,c1
+9,assist_2,assist,noun,c2
+10,assistant-referee,assistant referee,noun,b2
+11,association-football,Association football,noun,a1
+12,at-bat,at-bat,noun,c2
+13,bat_1,at bat,idiom,c2
+14,home_1,at home,idiom,c1
+15,attack_2,attack,verb,b2
+16,attacker,attacker,noun,b2
+17,away_1,away,adverb,b2
+18,away_2,away,adjective,b2
+19,home_1,away from home,idiom,b2
+20,backboard,backboard,noun,c2
+21,backcourt,backcourt,noun,c2
+22,backfield,backfield,noun,c2
+23,backhand,backhand,noun,c2
+24,backline,backline,noun,c2
+25,backstop,backstop,noun,c2
+26,back-to-back_2,back-to-back,noun,c2
+27,badminton_1,badminton,noun,c1
+28,bail_1,bail,noun,c2
+29,ball_1,ball,noun,a1
+30,ballboy,ballboy,noun,c2
+31,ball-game,ball game,noun,b2
+32,ballgirl,ballgirl,noun,c2
+33,ballhawk,ballhawk,noun,c2
+34,ball-hockey,ball hockey,noun,c2
+35,ballpark,ballpark,noun,b2
+36,ballplayer,ballplayer,noun,c2
+37,base_1,base,noun,c1
+38,baseball,baseball,noun,a2
+39,baseline,baseline,noun,c2
+40,baseman,baseman,noun,c2
+41,basket,basket,noun,b2
+42,basketball,basketball,noun,a2
+43,bat_1,bat,noun,b2
+44,batboy,batboy,noun,c2
+45,batgirl,batgirl,noun,c2
+46,batsman,batsman,noun,c2
+47,batswoman,batswoman,noun,c2
+48,batter_2,batter,noun,c1
+49,batting-average,batting average,noun,c2
+50,bench,bench,noun,c1
+51,big-league_1,big league,noun,c2
+52,birdie,birdie,noun,c2
+53,bogey,bogey,noun,c2
+54,bomb_1,bomb,noun,c2
+55,book_2,book,verb,c1
+56,booking,booking,noun,c1
+57,bouncer,bouncer,noun,c1
+58,boundary,boundary,noun,c2
+59,bowl_1,bowl,noun,c2
+60,bowler,bowler,noun,c1
+61,bowling,bowling,noun,c1
+62,bowling-ball,bowling ball,noun,b2
+63,box_1,box,noun,c2
+64,box-score,box score,noun,c2
+65,break_2,break,noun,c2
+66,break-point,break point,noun,c2
+67,brushback,brushback,noun,c2
+68,bullpen,bullpen,noun,c2
+69,bunker_1,bunker,noun,c2
+70,bunt_1,bunt,verb,c2
+71,caddie_1,caddie,noun,c2
+72,cap_2,cap,verb,c2
+73,captain_1,captain,noun,b1
+74,cart_1,cart,noun,c1
+75,catch_1,catch,verb,a2
+76,catcher,catcher,noun,b2
+77,centre-back,centre back,noun,c2
+78,centre-field,centre field,noun,c2
+79,centre-forward,centre forward,noun,c2
+80,centre-half,centre half,noun,c2
+81,century,century,noun,c2
+82,chip_1,chip,noun,c2
+83,chip_2,chip,verb,c2
+84,chip-shot,chip shot,noun,c2
+85,clay-court,clay court,noun,c1
+86,clear_2,clear,verb,c2
+87,clearance,clearance,noun,c2
+88,club_1,club,noun,a1
+89,clutch_3,clutch,adjective,c2
+90,coliseum,coliseum,noun,c2
+91,commentary-box,commentary box,noun,c1
+92,competing,competing,adjective,b1
+93,conversion,conversion,noun,c2
+94,convert_1,convert,verb,c2
+95,corner_1,corner,noun,b2
+96,cornerback,cornerback,noun,c2
+97,corner-kick,corner kick,noun,b2
+98,course_1,course,noun,b1
+99,court_1,court,noun,b1
+100,court-tennis,court tennis,noun,c2
+101,crease_1,crease,noun,c2
+102,cricket,cricket,noun,a2
+103,cricketer,cricketer,noun,b1
+104,cricketing,cricketing,adjective,b2
+105,cross_1,cross,verb,c2
+106,cross_2,cross,noun,c2
+107,cup_1,cup,noun,a2
+108,curve_1,curve,noun,c2
+109,daisy-cutter,daisy-cutter,noun,c2
+110,debutant,debutant,noun,c2
+111,debutante,debutante,noun,c2
+112,declare,declare,verb,c2
+113,defence,defence,noun,b2
+114,defend,defend,verb,c1
+115,defender,defender,noun,b2
+116,defense,defense,noun,b2
+117,defensive-line,defensive line,noun,c2
+118,delivery,delivery,noun,c2
+119,deuce,deuce,noun,c2
+120,diamond,diamond,noun,c2
+121,dismiss,dismiss,verb,c2
+122,dismissal,dismissal,noun,c2
+123,dive_1,dive,verb,c1
+124,division,division,noun,c2
+125,divot,divot,noun,c2
+126,dog-leg,dog-leg,noun,c2
+127,double_6,double,noun,c1
+128,double-fault_1,double fault,noun,c2
+129,double-fault_2,double-fault,verb,c2
+130,double-play,double play,noun,c2
+131,down_5,down,noun,c2
+132,downswing,downswing,noun,c2
+133,draw_1,draw,verb,c1
+134,draw_2,draw,noun,c1
+135,dribble_1,dribble,verb,c2
+136,dribble_2,dribble,noun,c2
+137,drive_2,drive,noun,c2
+138,driver,driver,noun,c2
+139,driving-range,driving range,noun,c2
+140,drop-goal,drop goal,noun,c2
+141,drop-kick_1,drop kick,noun,c2
+142,drop-kick_2,drop-kick,verb,c2
+143,duck_1,duck,noun,c2
+144,dugout,dugout,noun,c2
+145,dunk,dunk,verb,c2
+146,eagle_1,eagle,noun,c2
+147,end_1,end,noun,a2
+148,end-run,end run,noun,c2
+149,end-zone,end zone,noun,c2
+150,equalize,equalize,verb,c2
+151,fairway,fairway,noun,c2
+152,fan_1,fan,noun,a2
+153,fantasy,fantasy,noun,c2
+154,fantasy-football,fantasy football,noun,c2
+155,farm-team,farm team,noun,c2
+156,fastball,fastball,noun,b2
+157,fast-bowler,fast bowler,noun,c1
+158,fault_1,fault,noun,c2
+159,field_1,field,noun,a2
+160,field_2,field,verb,c2
+161,fielder,fielder,noun,c2
+162,field-goal,field goal,noun,c2
+163,fielding,fielding,noun,c2
+164,final-four,Final Four,noun,c2
+165,fireballer,fireballer,noun,c2
+166,first-base,first base,noun,c1
+167,first-down,first down,noun,c2
+168,first-string_2,first-string,adjective,c2
+169,five-a-side,five-a-side,noun,c1
+170,fives,fives,noun,c2
+171,flag-football,flag football,noun,c2
+172,flank_1,flank,noun,c2
+173,flanker,flanker,noun,c2
+174,fly-ball,fly ball,noun,c2
+175,fly-half,fly half,noun,c2
+176,follow-on_2,follow-on,noun,c2
+177,follow-on_1,follow on,phrasal verb,c2
+178,follow-through_2,follow-through,noun,c2
+179,football,football,noun,a1
+180,football-boot,football boot,noun,a2
+181,footballer,footballer,noun,b1
+182,footballing,footballing,adjective,b1
+183,foot-fault,foot fault,noun,c2
+184,footie,footie,noun,c2
+185,footy,footy,noun,c2
+186,force-out,force-out,noun,c2
+187,force-play,force play,noun,c2
+188,fore_3,fore,adverb,c2
+189,forehand,forehand,noun,c2
+190,forkball,forkball,noun,c2
+191,forward_4,forward,noun,c2
+192,foul_2,foul,verb,c1
+193,foul_3,foul,noun,c1
+194,foul-ball,foul ball,noun,c2
+195,foul-line,foul line,noun,c2
+196,foul-trouble,foul trouble,noun,c2
+197,four,four,noun,c2
+198,free-kick,free kick,noun,b2
+199,free-safety,free safety,noun,c2
+200,friendly_1,friendly,adjective,b1
+201,friendly_2,friendly,noun,c2
+202,full-back,full back,noun,c2
+203,full-court-press,full-court press,noun,c2
+204,full-toss,full toss,noun,c2
+205,fumble_1,fumble,verb,c2
+206,fumble_2,fumble,noun,c2
+207,futsal,futsal,noun,c2
+208,game_1,game,noun,a2
+209,game-point,game point,noun,c2
+210,onside_1,get/keep somebody onside,idiom,c2
+211,goal,goal,noun,a2
+212,goal-area,goal area,noun,b2
+213,goal-difference,goal difference,noun,c2
+214,goalkeeper,goalkeeper,noun,b1
+215,goalkeeping,goalkeeping,noun,b2
+216,goal-kick,goal kick,noun,b2
+217,goal-line,goal line,noun,c1
+218,goalpost,goalpost,noun,b2
+219,goalscorer,goalscorer,noun,c1
+220,goaltender,goaltender,noun,c2
+221,goat_2,GOAT,noun,c2
+222,golden-goal,golden goal,noun,c2
+223,golf,golf,noun,a2
+224,golf-cart,golf cart,noun,b2
+225,golf-club,golf club,noun,c1
+226,golf-course,golf course,noun,b2
+227,golfer,golfer,noun,b1
+228,golf-links,golf links,noun,c2
+229,googly,googly,noun,c2
+230,go-out,go out,phrasal verb,b2
+231,grand-slam,grand slam,noun,c2
+232,grass-court,grass court,noun,b2
+233,green_2,green,noun,c2
+234,gridiron,gridiron,noun,c2
+235,grip_1,grip,noun,c1
+236,ground-ball,ground ball,noun,c2
+237,grounder,grounder,noun,c2
+238,groundout,groundout,noun,c2
+239,groundstroke,groundstroke,noun,c2
+240,grubber,grubber,noun,c2
+241,guard_1,guard,noun,c2
+242,half_1,half,noun,a1
+243,half-back,half back,noun,c2
+244,half-century,half-century,noun,c2
+245,half-time,half-time,noun,b1
+246,half-volley,half-volley,noun,c2
+247,handball,handball,noun,c2
+248,handicap_1,handicap,noun,c2
+249,handoff,handoff,noun,c2
+250,hardball,hardball,noun,c2
+251,hard-court,hard court,noun,c1
+252,hat-trick,hat-trick,noun,c2
+253,head_3,head,verb,c2
+254,header,header,noun,c1
+255,helmet,helmet,noun,b2
+256,high-top,high-top,adjective,c2
+257,high-tops,high-tops,noun,c2
+258,hockey,hockey,noun,a2
+259,hole_1,hole,noun,b1
+260,hole-in-one,hole-in-one,noun,c2
+261,home_3,home,adjective,b2
+262,home-plate,home plate,noun,c2
+263,homer,homer,noun,c2
+264,home-run,home run,noun,c2
+265,hook_1,hook,noun,c2
+266,hooker,hooker,noun,c2
+267,hook-shot,hook shot,noun,c2
+268,hoop,hoop,noun,c1
+269,howzat,howzat,exclamation,c2
+270,huddle_2,huddle,noun,c2
+271,hurling,hurling,noun,c2
+272,in_2,in,adverb,c2
+273,inbounds,inbounds,adjective,c2
+274,infield_1,infield,noun,c2
+275,in-goal-area,in-goal area,noun,c2
+276,injury-time,injury time,noun,b2
+277,inning,inning,noun,c2
+278,innings,innings,noun,c2
+279,iron_1,iron,noun,c2
+280,jai-alai,jai alai,noun,c2
+281,keeper,keeper,noun,c1
+282,wicket,keep wicket,idiom,c2
+283,kick_1,kick,verb,a2
+284,kickball,kickball,noun,c2
+285,kicker,kicker,noun,c2
+286,kick-off_1,kick off,phrasal verb,c2
+287,knock-down_1,knock-down,noun,c2
+288,knockout_1,knockout,noun,c2
+289,lacrosse,lacrosse,noun,c2
+290,lawn-tennis,lawn tennis,noun,c2
+291,lay-up_2,lay-up,noun,c2
+292,lbw,lbw,abbreviation,c2
+293,league,league,noun,b2
+294,league-table,league table,noun,c1
+295,left-field_1,left field,noun,c2
+296,leg-bye,leg bye,noun,c2
+297,line_1,line,noun,a1
+298,linebacker,linebacker,noun,c2
+299,line-drive,line drive,noun,c2
+300,lineman,lineman,noun,c2
+301,line-of-scrimmage,line of scrimmage,noun,c2
+302,line-out,line-out,noun,c2
+303,linesman,linesman,noun,c2
+304,links,links,noun,c2
+305,little-league,Little League,noun,c2
+306,lob_2,lob,verb,c2
+307,lock_2,lock,noun,c2
+308,long-ball,long ball,noun,c2
+309,loose-forward,loose forward,noun,c2
+310,loose-head,loose head,noun,c2
+311,love_1,love,noun,c2
+312,magic-number,magic number,noun,c2
+313,maiden_1,maiden,noun,c2
+314,major-league_1,major league,noun,c2
+315,cut_2,make the cut,idiom,c2
+316,march-madnesstm,March Madness™,noun,c2
+317,marker,marker,noun,c2
+318,marking,marking,noun,c2
+319,match_1,match,noun,a1
+320,match-play,match play,noun,c2
+321,match-point,match point,noun,c1
+322,matchup,matchup,noun,c2
+323,medal-play,medal play,noun,c2
+324,mexican-wave,Mexican wave,noun,c1
+325,midfield,midfield,noun,c1
+326,miniature-golf,miniature golf,noun,c2
+327,minigolf,minigolf,noun,c2
+328,minor-league_1,minor league,noun,c2
+329,mixed-doubles,mixed doubles,noun,c2
+330,nba,NBA,abbreviation,c2
+331,net_1,net,noun,a2
+332,netball,netball,noun,c1
+333,neutral-zone,neutral zone,noun,c2
+334,nfc,NFC,abbreviation,c2
+335,nfl,NFL,abbreviation,c2
+336,nil_1,nil,noun,c1
+337,no-ball,no-ball,noun,c2
+338,no-hitter,no-hitter,noun,c2
+339,nose-tackle,nose tackle,noun,c2
+340,no-side,no side,noun,c2
+341,offense,offense,noun,c1
+342,offensive-line,offensive line,noun,c2
+343,offside_1,offside,adjective,c2
+344,offside_2,offside,noun,c2
+345,off-tackle,off-tackle,adjective,c2
+346,onside_1,onside,adjective,c2
+347,onside_2,onside,adverb,c2
+348,opener,opener,noun,c2
+349,out_1,out,adverb,c2
+350,outfield_1,outfield,noun,c2
+351,outfielder,outfielder,noun,c2
+352,over_3,over,noun,c2
+353,own-goal,own goal,noun,b2
+354,pace-bowler,pace bowler,noun,c2
+355,pad_1,pad,noun,b2
+356,par_1,par,noun,c2
+357,park_1,park,noun,a2
+358,pass_1,pass,verb,b1
+359,pass_2,pass,noun,c1
+360,passing-shot,passing shot,noun,c2
+361,pass-play,pass play,noun,c2
+362,penalty,penalty,noun,c1
+363,penalty-area,penalty area,noun,c1
+364,penalty-kick,penalty kick,noun,c1
+365,penalty-shoot-out,penalty shoot-out,noun,c1
+366,penalty-spot,penalty spot,noun,c2
+367,pennant,pennant,noun,c2
+368,pinch-hit,pinch-hit,verb,c2
+369,ping-pong,ping-pong,noun,b2
+370,pitch_1,pitch,noun,b2
+371,pitch_2,pitch,verb,c2
+372,pitch-and-putt,pitch and putt,noun,c2
+373,pitcher,pitcher,noun,c2
+374,pitchout,pitchout,noun,c2
+375,place-kick,place kick,noun,c2
+376,play_1,play,verb,a1
+377,play_2,play,noun,b1
+378,player,player,noun,a1
+379,playing-field,playing field,noun,b2
+380,point_1,point,noun,a2
+381,pool_1,pool,noun,c2
+382,pop-fly,pop fly,noun,c2
+383,premiership,premiership,noun,c2
+384,preseason_1,preseason,adjective,c1
+385,preseason_2,preseason,noun,c1
+386,prop_1,prop,noun,c2
+387,pro-shop,pro shop,noun,c2
+388,pulling-guard,pulling guard,noun,c2
+389,punt_1,punt,noun,c2
+390,put-in_2,put-in,noun,c2
+391,putt_2,putt,verb,c2
+392,putter_2,putter,noun,c2
+393,putting-green,putting green,noun,c2
+394,qualification,qualification,noun,b1
+395,qualify,qualify,verb,b1
+396,quarter_1,quarter,noun,c2
+397,quarterback_1,quarterback,noun,c2
+398,quarter-final,quarter-final,noun,c2
+399,quarter-finalist,quarter-finalist,noun,c2
+400,racket,racket,noun,b1
+401,racket-abuse,racket abuse,noun,c2
+402,racquet,racquet,noun,b2
+403,rally_1,rally,noun,c2
+404,rbi,RBI,noun,c2
+405,real-tennis,real tennis,noun,c2
+406,rebound_2,rebound,noun,c2
+407,receive,receive,verb,c2
+408,receiver,receiver,noun,c2
+409,red-card,red card,noun,c1
+410,red-zone,red zone,noun,c2
+411,ref_1,ref,noun,c2
+412,referee_1,referee,noun,b2
+413,referee-s-assistant,referee’s assistant,noun,b2
+414,relegate,relegate,verb,c2
+415,reliever,reliever,noun,c2
+416,replay_1,replay,noun,b2
+417,reserve_1,reserve,noun,c2
+418,result_1,result,noun,a1
+419,return_1,return,verb,c2
+420,right-field,right field,noun,c2
+421,right-fielder,right fielder,noun,c2
+422,rough_2,rough,noun,c2
+423,rounders,rounders,noun,c2
+424,royal-tennis,royal tennis,noun,c2
+425,ruck_1,ruck,noun,c2
+426,rugby,rugby,noun,b1
+427,rugby-league,Rugby League,noun,c2
+428,rugby-union,Rugby Union,noun,c2
+429,rugger,rugger,noun,c2
+430,run_2,run,noun,c2
+431,interference,run interference,idiom,c2
+432,running-back,running back,noun,c2
+433,run-out_2,run-out,noun,c2
+434,run-out_1,run out,phrasal verb,c2
+435,run-play,run play,noun,c2
+436,sack_1,sack,verb,c2
+437,safety,safety,noun,c2
+438,sand-iron,sand iron,noun,c2
+439,sand-trap,sand trap,noun,c2
+440,sand-wedge,sand wedge,noun,c2
+441,save_1,save,verb,b1
+442,save_2,save,noun,b1
+443,score_1,score,verb,a2
+444,score_2,score,noun,a2
+445,scratch_3,scratch,adjective,c2
+446,screen-pass,screen pass,noun,c2
+447,scrimmage,scrimmage,noun,c2
+448,scrum,scrum,noun,c2
+449,scrum-half,scrum half,noun,c2
+450,second-base,second base,noun,c1
+451,seed_1,seed,noun,c2
+452,seed_2,seed,verb,c2
+453,seeded,seeded,adjective,c2
+454,semi-finalist,semi-finalist,noun,c1
+455,sending-off,sending-off,noun,c1
+456,send-off_1,send off,phrasal verb,b2
+457,series,series,noun,c2
+458,serve_1,serve,verb,c2
+459,serve_2,serve,noun,c2
+460,server,server,noun,c2
+461,service_1,service,noun,c2
+462,set_2,set,noun,c2
+463,set-point,set point,noun,c2
+464,set-shot,set shot,noun,c2
+465,shaft_1,shaft,noun,c2
+466,shoot_1,shoot,verb,b2
+467,shootaround,shootaround,noun,c2
+468,shooting-guard,shooting guard,noun,c2
+469,shortstop,shortstop,noun,c2
+470,shot_1,shot,noun,b2
+471,shotmaking,shotmaking,noun,c2
+472,shoulder-pad,shoulder pad,noun,c1
+473,shuttlecock,shuttlecock,noun,c2
+474,side_1,side,noun,a2
+475,sideline_1,sideline,noun,c2
+476,single_2,single,noun,c1
+477,six,six,noun,c2
+478,slam_2,slam,noun,c2
+479,slam-dunk_1,slam dunk,noun,c2
+480,slam-dunk_2,slam-dunk,verb,c2
+481,sledging,sledging,noun,c2
+482,slice_1,slice,noun,c2
+483,smash_2,smash,noun,c2
+484,snap_1,snap,verb,c2
+485,soccer,soccer,noun,a2
+486,softball,softball,noun,c2
+487,spin_2,spin,noun,c1
+488,spinner,spinner,noun,c2
+489,sport_1,sport,noun,a1
+490,spot-kick,spot kick,noun,c2
+491,spring-training,spring training,noun,b2
+492,squash_2,squash,noun,b2
+493,stadium,stadium,noun,b1
+494,stand_2,stand,noun,c2
+495,stand-off-half,stand-off half,noun,c2
+496,the-super-bowltm,the Super Bowl™,noun,c1
+497,the-national-football-league,the National Football League,,c2
+498,steal_1,steal,verb,c2
+499,stick_2,stick,noun,a2
+500,stoppage,stoppage,noun,c2
+501,strike_2,strike,noun,c1
+502,strike-out,strike out,phrasal verb,c2
+503,strikeout,strikeout,noun,c2
+504,striker,striker,noun,c2
+505,strike-rate,strike rate,noun,c2
+506,string_1,string,noun,b2
+507,strip_1,strip,noun,c2
+508,stroke_1,stroke,noun,b2
+509,stroke-play,stroke play,noun,c2
+510,strong-safety,strong safety,noun,c2
+511,stump_1,stump,noun,c2
+512,substitute_1,substitute,noun,c1
+513,sweeper,sweeper,noun,c2
+514,swing_2,swing,noun,c2
+515,switch-hitter,switch-hitter,noun,c2
+516,table-tennis,table tennis,noun,a2
+517,tackle_1,tackle,verb,c1
+518,tackle_2,tackle,noun,c1
+519,take_1,take,verb,b2
+520,tap-penalty,tap penalty,noun,c2
+521,taxi-squad,taxi squad,noun,c2
+522,t-ball,T-ball,,c2
+523,team_1,team,noun,a1
+524,technical-foul,technical foul,noun,c2
+525,tee_1,tee,noun,c2
+526,tee-balltm,Tee Ball™,noun,c2
+527,tennis,tennis,noun,a1
+528,tennis-racket,tennis racket,noun,b1
+529,terrace,terrace,noun,c2
+530,test-match,Test match,noun,c2
+531,third-base,third base,noun,c1
+532,throw_1,throw,verb,a2
+533,throw-in_2,throw-in,noun,c1
+534,tie_2,tie,noun,c1
+535,tiebreaker,tiebreaker,noun,c2
+536,tight-end,tight end,noun,c2
+537,tight-head,tight head,noun,c2
+538,tip-in,tip-in,noun,c2
+539,topspin,topspin,noun,c2
+540,touch-down,touch down,phrasal verb,c2
+541,touchdown,touchdown,noun,c2
+542,touch-football,touch football,noun,c2
+543,touch-judge,touch judge,noun,c2
+544,touchline,touchline,noun,c2
+545,tournament,tournament,noun,b2
+546,tourney,tourney,noun,c2
+547,training-ground,training ground,noun,b2
+548,tramlines,tramlines,noun,c2
+549,transfer_1,transfer,verb,c1
+550,transfer_2,transfer,noun,c1
+551,travel_1,travel,verb,c2
+552,trey,trey,noun,c2
+553,trolley,trolley,noun,b2
+554,try_2,try,noun,c2
+555,two-handed,two-handed,adjective,b2
+556,umpire_1,umpire,noun,c1
+557,unmarked,unmarked,adjective,c2
+558,unseeded,unseeded,adjective,c2
+559,up-and-under,up-and-under,noun,c2
+560,volley_1,volley,noun,c2
+561,volley_2,volley,verb,c2
+562,volleyball,volleyball,noun,a2
+563,walk_1,walk,verb,c2
+564,wedge_1,wedge,noun,c2
+565,whiff_1,whiff,noun,c2
+566,whiff_2,whiff,verb,c2
+567,whistle_1,whistle,noun,c1
+568,wicket,wicket,noun,c2
+569,wicketkeeper,wicketkeeper,noun,c2
+570,wideout,wideout,noun,c2
+571,wide-receiver,wide receiver,noun,c2
+572,wing_1,wing,noun,c2
+573,wing-back,wing back,noun,c2
+574,winger,winger,noun,c2
+575,wood,wood,noun,c2
+576,yardage,yardage,noun,c2
+577,yellow-card,yellow card,noun,c1
+578,abseil_1,abseil,noun,c2
+579,abseil_2,abseil,verb,c2
+580,abseiling,abseiling,noun,c2
+581,aerobics,aerobics,noun,b2
+582,aikido,aikido,noun,c2
+583,all-in-wrestling,all-in wrestling,noun,c2
+584,also-ran,also-ran,noun,c2
+585,archer,archer,noun,c2
+586,archery,archery,noun,c2
+587,arena,arena,noun,c1
+588,arrow,arrow,noun,b2
+589,athlete,athlete,noun,a2
+590,athletic,athletic,adjective,b1
+591,athletics,athletics,noun,b1
+592,auto-racing,auto racing,noun,c1
+593,back_4,back,verb,c1
+594,backmarker,backmarker,noun,c2
+595,baize,baize,noun,c2
+596,bantamweight,bantamweight,noun,c2
+597,base-jumping,base jumping,noun,c2
+598,baton,baton,noun,c2
+599,biathlon,biathlon,noun,c2
+600,bicycle_1,bicycle,noun,a1
+601,bicycle_2,bicycle,verb,b1
+602,big-air,big air,noun,c2
+603,bike_1,bike,noun,a1
+604,bike_2,bike,verb,b1
+605,biker,biker,noun,b2
+606,biking,biking,noun,b2
+607,billiard,billiard,adjective,c2
+608,billiards,billiards,noun,c2
+609,black-belt,black belt,noun,c1
+610,blood-sport,blood sport,noun,c1
+611,bmx,BMX,noun,c1
+612,bobsleigh,bobsleigh,noun,c2
+613,bodybuilder,bodybuilder,noun,c1
+614,bodybuilding,bodybuilding,noun,c1
+615,bout,bout,noun,c2
+616,bow2_1,bow,noun,c1
+617,bowling,bowling,noun,b2
+618,box_2,box,verb,b2
+619,boxer,boxer,noun,b2
+620,boxing,boxing,noun,b2
+621,break_2,break,noun,c2
+622,broad-jump,broad jump,noun,c2
+623,bronco,bronco,noun,c2
+624,bronze_1,bronze,noun,c1
+625,bronze-medal,bronze medal,noun,c1
+626,bronze-medallist,bronze medallist,noun,c1
+627,bungee-jump,bungee jump,noun,b2
+628,bungee-jumping,bungee jumping,noun,b2
+629,cable-car,cable car,noun,c1
+630,cage-fighting,cage fighting,noun,c2
+631,canyoning,canyoning,noun,c2
+632,card_1,card,noun,c2
+633,cartwheel_2,cartwheel,noun,c2
+634,chairlift,chairlift,noun,c1
+635,challenger_1,challenger,noun,c1
+636,champion_1,champion,noun,b1
+637,championship,championship,noun,b2
+638,chaser,chaser,noun,c2
+639,circuit,circuit,noun,c2
+640,circuit-training,circuit training,noun,c2
+641,climb_1,climb,verb,a2
+642,climber,climber,noun,b1
+643,climbing,climbing,noun,a2
+644,coach_1,coach,noun,a2
+645,coach_2,coach,verb,b1
+646,coasteering,coasteering,noun,c2
+647,co-driver,co-driver,noun,c2
+648,colt,colt,noun,c2
+649,commentary,commentary,noun,c1
+650,commentator,commentator,noun,c1
+651,compete,compete,verb,a2
+652,competition,competition,noun,a2
+653,competitive,competitive,adjective,b1
+654,competitor,competitor,noun,b1
+655,criterium,criterium,noun,c2
+656,croquet,croquet,noun,c2
+657,cross-country_1,cross-country,noun,c1
+658,cross-country-skiing,cross-country skiing,noun,c1
+659,cruiserweight,cruiserweight,noun,c2
+660,cue_1,cue,noun,c2
+661,cue-ball,cue ball,noun,c2
+662,cushion_1,cushion,noun,c2
+663,cycle_1,cycle,noun,a2
+664,cycle_2,cycle,verb,a2
+665,cycling,cycling,noun,a2
+666,cyclist,cyclist,noun,b1
+667,cyclo-cross,cyclo-cross,noun,c2
+668,dan_1,dan,noun,c2
+669,dart_1,dart,noun,c1
+670,dash_1,dash,noun,c2
+671,dead-heat,dead heat,noun,c2
+672,decathlon,decathlon,noun,c2
+673,defeat_1,defeat,verb,b2
+674,defeat_2,defeat,noun,b2
+675,derby_1,derby,noun,c2
+676,discus,discus,noun,c2
+677,dockless-bike,dockless bike,noun,c2
+678,dojo,dojo,noun,c2
+679,dope_1,dope,noun,c1
+680,dope_2,dope,verb,c1
+681,doping,doping,noun,c1
+682,drag-race,drag race,noun,c2
+683,drag-racing,drag racing,noun,c2
+684,dragster,dragster,noun,c2
+685,dressage,dressage,noun,c2
+686,dry-slope,dry slope,noun,c2
+687,each-way,each way,adverb,c2
+688,enter,enter,verb,b1
+689,equestrian,equestrian,adjective,c2
+690,equestrianism,equestrianism,noun,c2
+691,equine,equine,adjective,c2
+692,e-sport,e-sport,noun,c2
+693,event,event,noun,b1
+694,eventing,eventing,noun,c2
+695,exercise_1,exercise,noun,a1
+696,exercise_2,exercise,verb,a1
+697,extreme-fighting,extreme fighting,noun,c2
+698,extreme-sport,extreme sport,noun,b1
+699,fakie,fakie,noun,c2
+700,featherweight,featherweight,noun,c2
+701,fence_2,fence,verb,c2
+702,fencer,fencer,noun,c2
+703,fencing,fencing,noun,c2
+704,field-event,field event,noun,b2
+705,fight_1,fight,verb,a2
+706,fight_2,fight,noun,a2
+707,figure-skating,figure skating,noun,c2
+708,filly,filly,noun,c2
+709,final_2,final,noun,a2
+710,finalist,finalist,noun,b2
+711,finish_1,finish,verb,a1
+712,finisher,finisher,noun,c2
+713,finishing-line,finishing line,noun,b2
+714,flat-racing,flat racing,noun,c2
+715,flyweight,flyweight,noun,c2
+716,foil_1,foil,noun,c2
+717,frame_1,frame,noun,c2
+718,free-running,free running,noun,c2
+719,freewheel,freewheel,verb,c2
+720,front-runner,front runner,noun,c2
+721,gallop_1,gallop,verb,c1
+722,gallop_2,gallop,noun,c1
+723,gamble_1,gamble,verb,c1
+724,gliding,gliding,noun,c2
+725,go-cart,go-cart,noun,c1
+726,goggles,goggles,noun,c1
+727,go-kart,go-kart,noun,c1
+728,gold_1,gold,noun,a2
+729,gold-medal,gold medal,noun,b1
+730,gold-medallist,gold medallist,noun,c1
+731,graeco-roman-wrestling,Graeco-Roman wrestling,noun,c2
+732,grandstand-finish,grandstand finish,noun,c2
+733,guard_1,guard,noun,c2
+734,gun_1,gun,noun,c1
+735,gym,gym,noun,a1
+736,gymkhana,gymkhana,noun,c2
+737,gymnast,gymnast,noun,c1
+738,gymnastics,gymnastics,noun,b1
+739,half-marathon,half-marathon,noun,c1
+740,hammer_1,hammer,noun,c2
+741,handlebar,handlebar,noun,c2
+742,hang-glider,hang-glider,noun,c2
+743,hang-gliding,hang-gliding,noun,c2
+744,heat_1,heat,noun,c2
+745,heavyweight,heavyweight,noun,c1
+746,heli-skiing,heli-skiing,noun,c2
+747,heptathlon,heptathlon,noun,c2
+748,high-jump,high jump,noun,b1
+749,hockey,hockey,noun,a2
+750,hold_2,hold,noun,b2
+751,horse_1,horse,noun,a1
+752,horseback-riding,horseback riding,noun,b1
+753,horse-racing,horse racing,noun,b1
+754,horse-riding,horse riding,noun,b1
+755,hot-dog_1,hot dog,noun,c2
+756,hot-dog_2,hot-dog,verb,c2
+757,hunt_1,hunt,verb,b1
+758,hunting,hunting,noun,b2
+759,hurdle_1,hurdle,noun,c2
+760,hurdler,hurdler,noun,c2
+761,hydrospeed,hydrospeed,noun,c2
+762,ice-hockey,ice hockey,noun,a2
+763,ice-rink,ice rink,noun,c1
+764,ice-skate_1,ice skate,noun,b1
+765,ice-skate_2,ice-skate,verb,b1
+766,ice-skating,ice skating,noun,b1
+767,interval,interval,noun,c2
+768,interval-training,interval training,noun,c2
+769,ironmantm,Ironman™,noun,c2
+770,javelin,javelin,noun,c2
+771,jiu-jitsu,jiu-jitsu,noun,c2
+772,jockey_1,jockey,noun,c2
+773,judo,judo,noun,b2
+774,ju-jitsu,ju-jitsu,noun,c2
+775,jump_1,jump,verb,a2
+776,jump_2,jump,noun,a2
+777,jump-off,jump-off,noun,c2
+778,junior_1,junior,adjective,b2
+779,karate,karate,noun,b1
+780,karting,karting,noun,c1
+781,kendo,kendo,noun,c2
+782,kick-boxing,kick-boxing,noun,c1
+783,kitesurfing,kitesurfing,noun,c2
+784,knockout_1,knockout,noun,c2
+785,knockout_2,knockout,adjective,c2
+786,kung-fu,kung fu,noun,c2
+787,lane,lane,noun,c1
+788,lap_1,lap,noun,c2
+789,lead1_2,lead,noun,b1
+790,leader,leader,noun,b1
+791,leg_1,leg,noun,c2
+792,length,length,noun,c2
+793,light-heavyweight,light heavyweight,noun,c2
+794,lightweight_2,lightweight,noun,c1
+795,long-jump,long jump,noun,b1
+796,luge,luge,noun,c2
+797,madison_1,madison,noun,c2
+798,marathon_2,marathon,noun,b2
+799,marathoner,marathoner,noun,c2
+800,martial-art,martial art,noun,b2
+801,medal_1,medal,noun,b2
+802,medal_2,medal,verb,c1
+803,medallist,medallist,noun,c1
+804,meet_2,meet,noun,c2
+805,meeting,meeting,noun,c2
+806,middle-distance,middle-distance,adjective,b2
+807,middleweight,middleweight,noun,c2
+808,mixed-martial-arts,mixed martial arts,noun,c2
+809,mma,MMA,abbreviation,c2
+810,motorbike,motorbike,noun,a2
+811,motor-racing,motor racing,noun,b2
+812,mountain-bike,mountain bike,noun,b2
+813,mountain-biking,mountain biking,noun,b2
+814,mountain-climber,mountain climber,noun,b1
+815,mountaineer,mountaineer,noun,c1
+816,mountaineering,mountaineering,noun,c1
+817,nascar,NASCAR,,c2
+818,netminder,netminder,noun,c2
+819,nordic-skiing,Nordic skiing,noun,c2
+820,novice,novice,noun,c2
+821,nursery-slope,nursery slope,noun,c2
+822,obstacle,obstacle,noun,b2
+823,olympic,Olympic,adjective,b1
+824,outsider,outsider,noun,c2
+825,outstrip,outstrip,verb,c2
+826,pace1,pace,noun,b2
+827,pace_1,pace,verb,c1
+828,pacemaker,pacemaker,noun,c2
+829,pacesetter,pacesetter,noun,c2
+830,pack_2,pack,noun,c1
+831,paddock,paddock,noun,c2
+832,parachute_1,parachute,noun,b2
+833,parachute_2,parachute,verb,b2
+834,parachutist,parachutist,noun,c1
+835,paraglider,paraglider,noun,c2
+836,paragliding,paragliding,noun,c2
+837,paralympian_1,Paralympian,noun,c2
+838,paralympian_2,Paralympian,adjective,c2
+839,pedal_2,pedal,verb,c1
+840,pentathlon,pentathlon,noun,c2
+841,performance-enhancing,performance-enhancing,adjective,c1
+842,personal-best,personal best,noun,c1
+843,photo-finish,photo finish,noun,c2
+844,pip_2,pip,verb,c2
+845,pocket_1,pocket,noun,c2
+846,podium,podium,noun,c1
+847,point-to-point,point-to-point,noun,c2
+848,pole-vaulting,pole-vaulting,noun,c2
+849,polo,polo,noun,c2
+850,pool_1,pool,noun,c1
+851,poolroom,poolroom,noun,c1
+852,post_2,post,noun,c1
+853,pot_1,pot,noun,c2
+854,pot_2,pot,verb,c2
+855,potholing,potholing,noun,c2
+856,powder-snow,powder snow,noun,c1
+857,prelim,prelim,noun,c2
+858,price_1,price,noun,c2
+859,prizefight,prizefight,noun,c1
+860,puissance,puissance,noun,c2
+861,punter,punter,noun,c2
+862,purse_1,purse,noun,c2
+863,money,put your money on somebody/something,idiom,c2
+864,queensberry-rules,Queensberry Rules,noun,c2
+865,race_1,race,noun,a2
+866,race_2,race,verb,a2
+867,racecard,racecard,noun,c1
+868,racecourse,racecourse,noun,b2
+869,racegoer,racegoer,noun,c2
+870,racehorse,racehorse,noun,b1
+871,race-meeting,race meeting,noun,c1
+872,racetrack,racetrack,noun,b2
+873,raceway,raceway,noun,c2
+874,racing,racing,noun,b1
+875,ranking_1,ranking,noun,c1
+876,rappel_1,rappel,noun,c2
+877,rappel_2,rappel,verb,c2
+878,record_1,record,noun,a2
+879,record-holder,record holder,noun,b1
+880,relay1_1,relay,noun,c1
+881,ride_1,ride,verb,a1
+882,ride_2,ride,noun,a2
+883,ride-off,ride-off,noun,c2
+884,rider,rider,noun,b1
+885,riding,riding,noun,b1
+886,ring1_1,ring,noun,c1
+887,ringer,ringer,noun,c2
+888,ringside,ringside,noun,c1
+889,rink,rink,noun,c1
+890,victory,"roar, romp, sweep, etc. to victory",idiom,c2
+891,rock-climbing,rock climbing,noun,b1
+892,rodeo,rodeo,noun,c2
+893,rope_1,rope,noun,c2
+894,round_4,round,noun,c2
+895,roundhouse-kick,roundhouse kick,noun,c2
+896,run_2,run,noun,c1
+897,runner,runner,noun,a2
+898,runner-up,runner-up,noun,c1
+899,running_1,running,noun,a2
+900,saber,saber,noun,c2
+901,sabre,sabre,noun,c2
+902,scoreboard,scoreboard,noun,b2
+903,semi-final,semi-final,noun,b2
+904,senior_1,senior,adjective,b2
+905,senior_2,senior,noun,c1
+906,shot_1,shot,noun,c2
+907,shotokan,Shotokan,noun,c2
+908,shot-put,shot-put,noun,c2
+909,showjumping,showjumping,noun,c2
+910,silver_1,silver,noun,b2
+911,silver-medal,silver medal,noun,b1
+912,silver-medallist,silver medallist,noun,c1
+913,sink_1,sink,verb,c2
+914,skate_1,skate,verb,b1
+915,skateboarding,skateboarding,noun,b1
+916,skating,skating,noun,b1
+917,ski_1,ski,noun,a2
+918,ski_2,ski,adjective,a2
+919,ski_3,ski,verb,a2
+920,ski-bob,ski-bob,noun,c2
+921,ski-bobbing,ski-bobbing,noun,c2
+922,skier,skier,noun,b1
+923,skiing,skiing,noun,a2
+924,ski-jump,ski jump,noun,b2
+925,ski-jumping,ski jumping,noun,b2
+926,ski-lift,ski lift,noun,c1
+927,ski-pole,ski pole,noun,c1
+928,ski-run,ski run,noun,c1
+929,ski-tow,ski tow,noun,c2
+930,skydiving,skydiving,noun,c1
+931,slalom,slalom,noun,c2
+932,sledge_1,sledge,noun,c2
+933,sledge_2,sledge,verb,c2
+934,sleigh,sleigh,noun,c2
+935,slope_1,slope,noun,b2
+936,snooker_1,snooker,noun,c2
+937,snooker_2,snooker,verb,c2
+938,snowboard,snowboard,noun,b2
+939,snowboarding,snowboarding,noun,b1
+940,somersault_1,somersault,noun,c2
+941,southpaw,southpaw,noun,c2
+942,spar_1,spar,verb,c2
+943,spectator,spectator,noun,b2
+944,speed_1,speed,noun,c2
+945,speed-skating,speed skating,noun,b2
+946,speedway,speedway,noun,c2
+947,sport_1,sport,noun,a1
+948,sportsman,sportsman,noun,b1
+949,sportsmanlike,sportsmanlike,adjective,c1
+950,sportsmanship,sportsmanship,noun,c1
+951,sportswoman,sportswoman,noun,b1
+952,sprint_1,sprint,verb,c1
+953,sprint_2,sprint,noun,c1
+954,stable_2,stable,noun,c2
+955,stablemate,stablemate,noun,c2
+956,stake_1,stake,noun,c2
+957,starter,starter,noun,c2
+958,starting-blocks,starting blocks,noun,c1
+959,starting-gate,starting gate,noun,c1
+960,starting-pistol,starting pistol,noun,c1
+961,starting-price,starting price,noun,c2
+962,stayer,stayer,noun,c2
+963,the-chequered-flag,the chequered flag,noun,c2
+964,the-olympic-games,the Olympic Games,noun,b1
+965,the-paralympics,the Paralympics,noun,c1
+966,the-peloton,the peloton,noun,c2
+967,the-pole-vault,the pole vault,noun,c2
+968,the-triple-jump,the triple jump,noun,c2
+969,steeplechase,steeplechase,noun,c2
+970,steeplechaser,steeplechaser,noun,c2
+971,stopwatch,stopwatch,noun,c1
+972,straggler,straggler,noun,c2
+973,sumo,sumo,noun,c1
+974,superheavyweight,superheavyweight,noun,c2
+975,swordplay,swordplay,noun,c2
+976,tae-kwon-do,tae kwon do,noun,c1
+977,tandem,tandem,noun,c2
+978,technical-knockout,technical knockout,noun,c2
+979,tetrathlon,tetrathlon,noun,c2
+980,three-day-eventing,three-day eventing,noun,c2
+981,time-trial,time trial,noun,c2
+982,tip_1,tip,noun,c1
+983,tipster,tipster,noun,c2
+984,tire_2,tire,noun,b1
+985,titlist,titlist,noun,c2
+986,toboggan_1,toboggan,noun,c2
+987,toboggan_2,toboggan,verb,c2
+988,tobogganing,tobogganing,noun,c2
+989,tombstoning,tombstoning,noun,c2
+990,tote_1,tote,noun,c2
+991,track_1,track,noun,b1
+992,track-and-field,track and field,noun,b2
+993,track-event,track event,noun,b2
+994,train_2,train,verb,a2
+995,trainer,trainer,noun,b1
+996,training,training,noun,a2
+997,trampoline_1,trampoline,noun,c2
+998,triathlon,triathlon,noun,c1
+999,trophy_1,trophy,noun,c1
+1000,trotter,trotter,noun,c2
+1001,turf_1,turf,noun,c2
+1002,tyre,tyre,noun,b1
+1003,ultimate-fightingtm,Ultimate Fighting™,noun,c2
+1004,ultimate-frisbee,Ultimate Frisbee,noun,c2
+1005,ultramarathon,ultramarathon,noun,c1
+1006,unbeaten,unbeaten,adjective,c1
+1007,underdog,underdog,noun,c1
+1008,unplaced,unplaced,adjective,c2
+1009,velodrome,velodrome,noun,c1
+1010,versus,versus,preposition,c1
+1011,victory,victory,noun,b2
+1012,water-jump,water jump,noun,b1
+1013,weightlifting,weightlifting,noun,b2
+1014,welterweight,welterweight,noun,c2
+1015,winter-sports,winter sports,noun,a2
+1016,wrestle,wrestle,verb,c1
+1017,wrestler,wrestler,noun,c1
+1018,wrestling,wrestling,noun,c1
+1019,yearling,yearling,noun,c2
+1020,aft,aft,adverb,c2
+1021,aqualung,aqualung,noun,c2
+1022,backcrawl,backcrawl,noun,c2
+1023,backstroke,backstroke,noun,c2
+1024,bather,bather,noun,c2
+1025,bathing-cap,bathing cap,noun,c2
+1026,bathing-suit,bathing suit,noun,c1
+1027,bend_2,bend,noun,c2
+1028,boardsailing,boardsailing,noun,c2
+1029,boat,boat,noun,a1
+1030,boating,boating,noun,b2
+1031,bodyboard,bodyboard,noun,c2
+1032,bodyboarding,bodyboarding,noun,c2
+1033,breaststroke,breaststroke,noun,c2
+1034,butterfly,butterfly,noun,c2
+1035,canoe_1,canoe,noun,b2
+1036,canoeing,canoeing,noun,b2
+1037,catamaran,catamaran,noun,c2
+1038,chlorine,chlorine,noun,c2
+1039,cox_1,cox,noun,c2
+1040,crawl_2,crawl,noun,c2
+1041,crew_1,crew,noun,c1
+1042,crew_2,crew,verb,c1
+1043,decompression,decompression,noun,c2
+1044,deep-sea,deep-sea,adjective,b1
+1045,deep-water,deep-water,adjective,b1
+1046,dive_1,dive,verb,b2
+1047,dive_2,dive,noun,b2
+1048,diver,diver,noun,b1
+1049,diving,diving,noun,a2
+1050,diving-board,diving board,noun,b1
+1051,dog-paddle,dog-paddle,noun,c2
+1052,drysuit,drysuit,noun,c2
+1053,eight,eight,noun,c2
+1054,flipper,flipper,noun,c2
+1055,fore_3,fore,adverb,c2
+1056,four,four,noun,c2
+1057,freestyle_1,freestyle,noun,c2
+1058,frogman,frogman,noun,c2
+1059,gala,gala,noun,c2
+1060,goggles,goggles,noun,c1
+1061,jet-skiing,jet-skiing,noun,c2
+1062,jet-skitm,Jet Ski™,noun,c2
+1063,kayak,kayak,noun,c1
+1064,kayaking,kayaking,noun,c1
+1065,lane,lane,noun,c1
+1066,length,length,noun,c1
+1067,lido,lido,noun,c2
+1068,lifeguard,lifeguard,noun,c1
+1069,life-jacket,life jacket,noun,b2
+1070,life-vest,life vest,noun,b2
+1071,longboard,longboard,noun,c2
+1072,longboat,longboat,noun,c2
+1073,mask_1,mask,noun,c1
+1074,medley,medley,noun,c2
+1075,oar,oar,noun,c2
+1076,paddle_1,paddle,noun,c1
+1077,paddleboard,paddleboard,noun,c2
+1078,paddleboarding,paddleboarding,noun,c2
+1079,plunge_2,plunge,noun,c1
+1080,poolside,poolside,noun,b2
+1081,port_1,port,noun,c2
+1082,raft,raft,noun,b2
+1083,rafting,rafting,noun,b2
+1084,regatta,regatta,noun,c2
+1085,row1_2,row,verb,b2
+1086,rowboat,rowboat,noun,b2
+1087,rowing,rowing,noun,b2
+1088,rowing-boat,rowing boat,noun,b2
+1089,sail_1,sail,verb,a2
+1090,sail_2,sail,noun,b1
+1091,sailboard,sailboard,noun,c2
+1092,sailboat,sailboat,noun,b2
+1093,sailing,sailing,noun,a2
+1094,sailor,sailor,noun,b1
+1095,scuba-diving,scuba diving,noun,b2
+1096,scull_1,scull,noun,c2
+1097,scull_2,scull,verb,c2
+1098,sidestroke,sidestroke,noun,c2
+1099,skiff,skiff,noun,c2
+1100,skin-diving,skin diving,noun,c2
+1101,sloop,sloop,noun,c2
+1102,snorkel_1,snorkel,noun,c1
+1103,snorkel_2,snorkel,verb,c1
+1104,snorkelling,snorkelling,noun,c1
+1105,springboard_1,springboard,noun,c2
+1106,starboard,starboard,noun,c2
+1107,steer_1,steer,verb,c1
+1108,stroke_1,stroke,noun,c1
+1109,surf_2,surf,verb,b1
+1110,surfboard,surfboard,noun,b1
+1111,surfer,surfer,noun,b1
+1112,surfing,surfing,noun,b1
+1113,surf-lifesaver,surf lifesaver,noun,c2
+1114,swim_1,swim,verb,a1
+1115,swimmer,swimmer,noun,a2
+1116,swimming,swimming,noun,a1
+1117,swimming-bath,swimming bath,noun,c1
+1118,swimming-cap,swimming cap,noun,b1
+1119,swimming-costume,swimming costume,noun,b1
+1120,swimming-pool,swimming pool,noun,a1
+1121,swimming-trunks,swimming trunks,noun,b1
+1122,swimsuit,swimsuit,noun,b1
+1123,swimwear,swimwear,noun,c1
+1124,synchronized-swimming,synchronized swimming,noun,c2
+1125,tank_1,tank,noun,b2
+1126,tetrathlon,tetrathlon,noun,c2
+1127,trimaran,trimaran,noun,c2
+1128,wading-pool,wading pool,noun,c1
+1129,wakeboard,wakeboard,verb,c2
+1130,wakeboarding,wakeboarding,noun,c2
+1131,water-polo,water polo,noun,c2
+1132,waterski_1,waterski,verb,b2
+1133,waterski_2,waterski,noun,b2
+1134,waterskiing,waterskiing,noun,b2
+1135,water-sports,water sports,noun,a1
+1136,wave-machine,wave machine,noun,b2
+1137,weight-belt,weight belt,noun,c1
+1138,wetsuit,wetsuit,noun,c1
+1139,whirlpool,whirlpool,noun,c2
+1140,white-water,white water,noun,c1
+1141,width,width,noun,c1
+1142,windsurf,windsurf,verb,c1
+1143,windsurfer,windsurfer,noun,c1
+1144,windsurfing,windsurfing,noun,c1
+1145,wipe-out,wipe out,phrasal verb,c2
+1146,yacht,yacht,noun,b2
+1147,yachting,yachting,noun,c1
+1148,yawl,yawl,noun,c2

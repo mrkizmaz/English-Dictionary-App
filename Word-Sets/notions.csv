@@ -1,0 +1,1490 @@
+subLink,word,type,level
+0,accelerate,accelerate,verb,c1
+1,acceleration,acceleration,noun,c2
+2,account-for,account for,phrasal verb,b2
+3,accrual,accrual,noun,c2
+4,accrue,accrue,verb,c2
+5,accumulate,accumulate,verb,c1
+6,accumulation,accumulation,noun,c1
+7,accumulative,accumulative,adjective,c2
+8,add-up-to,add up to,phrasal verb,c2
+9,advance_1,advance,noun,c2
+10,advance_2,advance,verb,c2
+11,after-effect,after-effect,noun,c2
+12,aftermath,aftermath,noun,c1
+13,ameliorate,ameliorate,verb,c2
+14,amelioration,amelioration,noun,c2
+15,appreciate,appreciate,verb,c1
+16,appreciation,appreciation,noun,c1
+17,arise,arise,verb,b2
+18,hand_1,at the hands of somebody,idiom,c1
+19,attributable,attributable,adjective,c2
+20,augment,augment,verb,c2
+21,augmentation,augmentation,noun,c2
+22,backwash,backwash,noun,c2
+23,because,because,conjunction,a1
+24,because-of,because of,preposition,a1
+25,guarantee_1,be guaranteed to do something,idiom,c1
+26,bottom_1,be/lie at the bottom of something,idiom,c2
+27,boost_1,boost,verb,b2
+28,boost_2,boost,noun,b2
+29,booster,booster,noun,c2
+30,bring,bring,verb,a2
+31,bring-about,bring about,phrasal verb,c1
+32,build-up_2,build-up,noun,c2
+33,build-up_1,build up,phrasal verb,b2
+34,butterfly-effect,butterfly effect,noun,c2
+35,means,by means of something,idiom,c1
+36,by-product,by-product,noun,c2
+37,causal,causal,adjective,c1
+38,causality,causality,noun,c2
+39,causally,causally,adverb,c2
+40,causation,causation,noun,c2
+41,causative,causative,adjective,c1
+42,cause_1,cause,noun,a2
+43,cause_2,cause,verb,a2
+44,change_1,change,verb,a1
+45,change_2,change,noun,a1
+46,climb_1,climb,verb,b2
+47,climb_2,climb,noun,c1
+48,collapse_1,collapse,verb,b2
+49,collapse_2,collapse,noun,b2
+50,effect_1,come into effect,idiom,c2
+51,consequence,consequence,noun,b1
+52,consequent,consequent,adjective,c1
+53,consequential,consequential,adjective,c2
+54,consequentially,consequentially,adverb,c2
+55,consequently,consequently,adverb,b2
+56,contribute,contribute,verb,b2
+57,contribution,contribution,noun,b2
+58,contributor,contributor,noun,c1
+59,contributory,contributory,adjective,c2
+60,corollary,corollary,noun,c2
+61,cos1,cos,conjunction,c2
+62,coz,coz,conjunction,c2
+63,creep_2,creep,noun,c2
+64,creep-up,creep up,phrasal verb,c2
+65,cumulative,cumulative,adjective,c2
+66,cumulatively,cumulatively,adverb,c2
+67,decline_1,decline,verb,b2
+68,decline_2,decline,noun,b2
+69,decrease_1,decrease,verb,b2
+70,decrease_2,decrease,noun,b2
+71,deteriorate,deteriorate,verb,c1
+72,deterioration,deterioration,noun,c1
+73,develop,develop,verb,b1
+74,development,development,noun,b1
+75,dip_2,dip,noun,c2
+76,domino-effect,domino effect,noun,c2
+77,downswing,downswing,noun,c2
+78,downturn,downturn,noun,c1
+79,downward,downward,adjective,c1
+80,downwardly,downwardly,adverb,c2
+81,downwards,downwards,adverb,b2
+82,drop_1,drop,verb,b1
+83,drop-away,drop away,phrasal verb,c2
+84,drop-off_1,drop off,phrasal verb,c2
+85,due_1,due,adjective,b1
+86,edge_2,edge,verb,c2
+87,effect_1,effect,noun,a2
+88,effect_2,effect,verb,c2
+89,effective,effective,adjective,b1
+90,effectively,effectively,adverb,b1
+91,effectiveness,effectiveness,noun,c1
+92,effectual,effectual,adjective,c2
+93,effectually,effectually,adverb,c2
+94,effectuate,effectuate,verb,c2
+95,elevate,elevate,verb,c2
+96,elevation,elevation,noun,c2
+97,end-result,end result,noun,c1
+98,ensue,ensue,verb,c1
+99,ensuing,ensuing,adjective,c2
+100,eventuate,eventuate,verb,c2
+101,expand,expand,verb,b1
+102,expansion,expansion,noun,b2
+103,factor_1,factor,noun,a2
+104,fall_1,fall,verb,a2
+105,fall_2,fall,noun,a2
+106,fall-back,fall back,phrasal verb,c2
+107,falling-off,falling-off,noun,c2
+108,fall-off_2,fall-off,noun,c2
+109,fall-off_1,fall off,phrasal verb,c2
+110,flow-from,flow from,phrasal verb,c2
+111,follow,follow,verb,a2
+112,following_3,following,preposition,b2
+113,gain_1,gain,verb,b2
+114,gain_2,gain,noun,b2
+115,grow,grow,verb,a1
+116,growing,growing,adjective,b1
+117,growth,growth,noun,b1
+118,guarantee_2,guarantee,noun,b2
+119,happen,happen,verb,a1
+120,hence,hence,adverb,b2
+121,hereby,hereby,adverb,c2
+122,herein,herein,adverb,c2
+123,hereupon,hereupon,adverb,c2
+124,implication,implication,noun,b2
+125,imply,imply,verb,c2
+126,improve_1,improve,verb,a1
+127,improvement,improvement,noun,b1
+128,consequence,in consequence (of something),idiom,c1
+129,increase_1,increase,verb,a2
+130,increase_2,increase,noun,a2
+131,increased,increased,adjective,b1
+132,increasingly,increasingly,adverb,b2
+133,increment,increment,noun,c2
+134,incremental,incremental,adjective,c2
+135,incrementally,incrementally,adverb,c2
+136,indirect,indirect,adjective,b1
+137,indirectly,indirectly,adverb,b1
+138,induce,induce,verb,c1
+139,ineffective,ineffective,adjective,c1
+140,ineffectively,ineffectively,adverb,c2
+141,ineffectiveness,ineffectiveness,noun,c2
+142,ineffectual,ineffectual,adjective,c2
+143,ineffectually,ineffectually,adverb,c2
+144,instigate,instigate,verb,c2
+145,instigation,instigation,noun,c2
+146,instigator,instigator,noun,c2
+147,jump_1,jump,verb,b2
+148,jump_2,jump,noun,b2
+149,lead1_1,lead,verb,a2
+150,leap_1,leap,verb,c1
+151,leap_2,leap,noun,c1
+152,life-changing,life-changing,adjective,b2
+153,lower1_1,lower,verb,b2
+154,mean_1,mean,verb,b1
+155,means,means,noun,b2
+156,mount_1,mount,verb,b2
+157,mounting_1,mounting,adjective,c2
+158,multiply,multiply,verb,b2
+159,network-effect,network effect,noun,c2
+160,nosedive_1,nosedive,noun,c2
+161,nosedive_2,nosedive,verb,c2
+162,occasion_1,occasion,noun,c2
+163,occasion_2,occasion,verb,c2
+164,account_1,on account of somebody/something,idiom,c1
+165,outcome,outcome,noun,b2
+166,plunge_1,plunge,verb,c1
+167,plunge_2,plunge,noun,c1
+168,proceed-from,proceed from,phrasal verb,c2
+169,produce_1,produce,verb,b1
+170,product,product,noun,b2
+171,proliferate,proliferate,verb,c2
+172,proliferation,proliferation,noun,c2
+173,provoke,provoke,verb,c1
+174,raise_1,raise,verb,b1
+175,rally_2,rally,verb,c1
+176,react,react,verb,a2
+177,reaction,reaction,noun,b1
+178,reactive,reactive,adjective,c2
+179,reason_1,reason,noun,a1
+180,recover,recover,verb,b2
+181,recovery,recovery,noun,c1
+182,reduce,reduce,verb,a2
+183,reduction,reduction,noun,b2
+184,relatable,relatable,adjective,c2
+185,repercussion,repercussion,noun,c2
+186,responsible,responsible,adjective,b2
+187,result_1,result,noun,a1
+188,result_2,result,verb,b1
+189,ripple-effect,ripple effect,noun,c2
+190,rise_1,rise,verb,a2
+191,rise_2,rise,noun,b1
+192,rocket_2,rocket,verb,c1
+193,root_1,root,noun,b2
+194,secondary,secondary,adjective,b2
+195,serve_1,serve,verb,c2
+196,set-off,set off,phrasal verb,c2
+197,shoot-up,shoot up,phrasal verb,c1
+198,side-effect,side effect,noun,c1
+199,significant,significant,adjective,b2
+200,significantly,significantly,adverb,b2
+201,sink_1,sink,verb,c1
+202,spawn_1,spawn,verb,c2
+203,spike_1,spike,noun,c2
+204,spike_2,spike,verb,c2
+205,spiral_1,spiral,noun,c1
+206,spiral_3,spiral,verb,c1
+207,spiral-down,spiral down,phrasal verb,c2
+208,spiral-downward,spiral downward,phrasal verb,c2
+209,spiral-downwards,spiral downwards,phrasal verb,c2
+210,the-upshot,the upshot,noun,c2
+211,stem-from,stem from,phrasal verb,c1
+212,surge_1,surge,noun,c1
+213,surge_2,surge,verb,c1
+214,effect_1,take effect,idiom,c2
+215,thereby,thereby,adverb,c1
+216,therefore,therefore,adverb,b1
+217,therein,therein lies…,idiom,c2
+218,thereupon,thereupon,adverb,c2
+219,thus,thus,adverb,b2
+220,trend_1,trend,noun,b1
+221,trigger_1,trigger,verb,b2
+222,trigger_2,trigger,noun,c1
+223,underlie,underlie,verb,c1
+224,upsurge,upsurge,noun,c2
+225,upswing,upswing,noun,c2
+226,upturn,upturn,noun,c2
+227,upward,upward,adjective,c1
+228,upwards,upwards,adverb,b2
+229,whereby,whereby,adverb,c1
+230,whereupon,whereupon,conjunction,c2
+231,cause_3,’cause,conjunction,c1
+232,acutely,acutely,adverb,c1
+233,adventure,adventure,noun,a2
+234,adventurous,adventurous,adjective,b2
+235,afraid,afraid,adjective,a1
+236,alarm_1,alarm,noun,b1
+237,alarmed,alarmed,adjective,b2
+238,leap_2,a leap in the dark,idiom,c2
+239,alert_1,alert,verb,c1
+240,alert_2,alert,noun,c1
+241,alert_3,alert,adjective,c1
+242,marked,a marked man/woman,idiom,c2
+243,wait_1,an accident/a disaster waiting to happen,idiom,c2
+244,antics,antics,noun,c2
+245,at-risk,at-risk,adjective,b2
+246,risk_1,at risk,idiom,b1
+247,avert,avert,verb,c1
+248,lookout,be on the lookout (for somebody/something),idiom,c2
+249,razor,be on the razor’s edge,idiom,c2
+250,watch_2,be on the watch (for somebody/something),idiom,c2
+251,guard_1,be on your guard,idiom,c2
+252,beware,beware,verb,c1
+253,boil-over,boil over,phrasal verb,c2
+254,boil-up,boil up,phrasal verb,c2
+255,breakneck,breakneck,adjective,c2
+256,brink,brink,noun,c2
+257,cancer_1,cancer,noun,c2
+258,canker,canker,noun,c2
+259,caper_1,caper,noun,c2
+260,caution_1,caution,noun,c1
+261,caution_2,caution,verb,c1
+262,chance_1,chance,noun,a2
+263,close2_1,close,adjective,c2
+264,compromise_2,compromise,verb,c1
+265,critical,critical,adjective,b2
+266,critically,critically,adverb,b2
+267,danger,danger,noun,a2
+268,dangerous,dangerous,adjective,a1
+269,dangerously,dangerously,adverb,b1
+270,dare_1,dare,verb,c1
+271,dare_2,dare,noun,c1
+272,daredevil_1,daredevil,noun,c2
+273,daredevil_2,daredevil,adjective,c2
+274,daring_1,daring,adjective,b2
+275,daringly,daringly,adverb,b2
+276,deadly_1,deadly,adjective,b2
+277,death-trap,death trap,noun,c2
+278,desperate,desperate,adjective,b2
+279,dice_2,dice with death,idiom,c2
+280,dicey,dicey,adjective,c2
+281,discretion,discretion is the better part of valour,idiom,c2
+282,distress_1,distress,noun,c1
+283,dodgy,dodgy,adjective,c2
+284,peril,do something at your (own) peril,idiom,c2
+285,risk_1,do something at your own risk,idiom,c2
+286,early-warning,early warning,noun,c1
+287,emergency,emergency,noun,b1
+288,escapade,escapade,noun,c2
+289,escape_1,escape,verb,b1
+290,escape_2,escape,noun,b1
+291,evacuate,evacuate,verb,c1
+292,evacuation,evacuation,noun,c1
+293,evacuee,evacuee,noun,c2
+294,eventful,eventful,adjective,c1
+295,explode,explode,verb,c2
+296,flee,flee,verb,c1
+297,flight_1,flight,noun,c2
+298,flirt-with,flirt with,phrasal verb,c2
+299,foghorn,foghorn,noun,c2
+300,foreboding_1,foreboding,noun,c2
+301,foreboding_2,foreboding,adjective,c2
+302,forewarn,forewarned is forearmed,idiom,c2
+303,fear_1,for fear of something/of doing something,idiom,c1
+304,frankenstein,Frankenstein,noun,c2
+305,gamble_1,gamble,verb,c1
+306,gamble_2,gamble,noun,c1
+307,gamble-on,gamble on,phrasal verb,c2
+308,gamble-on-doing,gamble on doing,phrasal verb,c2
+309,gambler,gambler,noun,c1
+310,game_3,game,adjective,c2
+311,help_1,God/Heaven help somebody,idiom,c2
+312,guard_1,guard,noun,b2
+313,guard_2,guard,verb,b1
+314,hairy,hairy,adjective,c2
+315,hang_1,hang by a hair/thread,idiom,c2
+316,harmless,harmless,adjective,b2
+317,harmlessly,harmlessly,adverb,b2
+318,hazard_1,hazard,noun,c1
+319,hazard_2,hazard,verb,c2
+320,hazardous,hazardous,adjective,c1
+321,help_2,help,noun,a1
+322,high-risk,high-risk,adjective,b2
+323,hold-on,hold on,phrasal verb,c2
+324,hold-out,hold out,phrasal verb,c2
+325,hot_1,hot,adjective,c2
+326,worst_3,if the worst comes to the worst,idiom,c2
+327,imperil,imperil,verb,c2
+328,corner_1,in a (tight) corner/spot,idiom,c2
+329,tight_1,in a (tight) spot,idiom,c2
+330,spot_1,in a (tight) spot/corner,idiom,c2
+331,jeopardy_1,in jeopardy,idiom,c2
+332,insane,insane,adjective,c2
+333,insanity,insanity,noun,c2
+334,face_1,in the face of something,idiom,c1
+335,jungle,jungle,noun,c2
+336,lamb_1,(like) a lamb/lambs to the slaughter,idiom,c2
+337,tell,"live, etc. to tell the tale",idiom,c2
+338,leap_1,look before you leap,idiom,c2
+339,look-out,look out,phrasal verb,b1
+340,low-risk,low-risk,adjective,b2
+341,lunatic_1,lunatic,noun,c2
+342,lurk_1,lurk,verb,c2
+343,madcap,madcap,adjective,c2
+344,madness,madness,noun,c1
+345,maniac_1,maniac,adjective,c2
+346,maniac_2,maniac,noun,c2
+347,menace_1,menace,noun,c1
+348,menace_2,menace,verb,c2
+349,menacing,menacing,adjective,c2
+350,mind_2,mind,verb,b1
+351,mind-out,mind out,phrasal verb,c2
+352,minefield,minefield,noun,c2
+353,nasty,nasty,adjective,b2
+354,venture_2,"nothing ventured, nothing gained",idiom,c2
+355,guard_1,off (your) guard,idiom,c2
+356,parlous,parlous,adjective,c2
+357,peril,peril,noun,c2
+358,perilous,perilous,adjective,c2
+359,perilously,perilously,adverb,c2
+360,pitfall,pitfall,noun,c2
+361,fire_1,play with fire,idiom,c2
+362,powder-keg,powder keg,noun,c2
+363,precarious,precarious,adjective,c2
+364,precariously,precariously,adverb,c2
+365,precaution,precaution,noun,c1
+366,precautionary,precautionary,adjective,c2
+367,presence-of-mind,presence of mind,noun,c2
+368,pressure-cooker,pressure cooker,noun,c2
+369,thing,push things/it,idiom,c2
+370,push_1,push your luck,idiom,c2
+371,quagmire,quagmire,noun,c2
+372,quicksand,quicksand,noun,c2
+373,reckless,reckless,adjective,c1
+374,recklessly,recklessly,adverb,c1
+375,red-alert,red alert,noun,c2
+376,red-flag,red flag,noun,c2
+377,refuge,refuge,noun,c1
+378,rescue_1,rescue,verb,b2
+379,rescue_2,rescue,noun,b2
+380,rescuer,rescuer,noun,b2
+381,rescue-worker,rescue worker,noun,b2
+382,risk_1,risk,noun,b1
+383,risk_2,risk,verb,b1
+384,risk-averse,risk-averse,adjective,c2
+385,risk-taking,risk-taking,noun,c2
+386,safeguard_2,safeguard,noun,c1
+387,safety-measure,safety measure,noun,b1
+388,sail_1,sail close to the wind,idiom,c2
+389,abandon_1,abandon,verb,b2
+390,abandonment,abandonment,noun,c2
+391,abdicate,abdicate,verb,c2
+392,abdication,abdication,noun,c2
+393,ask_2,"a big, huge, tough, etc. ask",idiom,c2
+394,abort,abort,verb,c2
+395,abortive,abortive,adjective,c2
+396,close2_1,a close thing,idiom,c2
+397,dead_1,a dead duck,idiom,c2
+398,agonizing,agonizing,adjective,c1
+399,long_1,a long shot,idiom,c2
+400,also-ran,also-ran,noun,c2
+401,ambitious,ambitious,adjective,b2
+402,miss_2,a miss is as good as a mile,idiom,c2
+403,mug_1,a mug’s game,idiom,c2
+404,nail_1,a nail in somebody’s/something’s coffin,idiom,c2
+405,assault_1,assault,noun,c1
+406,attempt_1,attempt,noun,b2
+407,attempted,attempted,adjective,b2
+408,expense,at the expense of somebody/something,idiom,c1
+409,backfire,backfire,verb,c2
+410,back_4,back the wrong horse,idiom,c2
+411,badly,badly,adverb,b1
+412,balk,balk,verb,c2
+413,banana-skin,banana skin,noun,c2
+414,bang_3,bang goes something,idiom,c2
+415,barely,barely,adverb,b2
+416,barren,barren,adjective,c2
+417,batten_2,batten down the hatches,idiom,c2
+418,battle_1,battle,noun,b1
+419,battle_2,battle,verb,b2
+420,baulk,baulk,verb,c2
+421,downhill_2,be (all) downhill,idiom,c2
+422,bear_1,"bear hard, heavily, severely, etc. on somebody",idiom,c2
+423,head_1,"be banging, etc. your head against a brick wall",idiom,c2
+424,bark_2,be barking up the wrong tree,idiom,c2
+425,bedevil,bedevil,verb,c2
+426,done_1,be done for,idiom,c2
+427,way_1,be downhill all the way,idiom,c2
+428,picnic_1,be no picnic,idiom,c2
+429,skid_2,be on the skids,idiom,c2
+430,game_1,be out of the game,idiom,c2
+431,brick_1,be up against a brick wall,idiom,c2
+432,big_1,big,adjective,b2
+433,bite_1,bite off more than you can chew,idiom,c2
+434,bite_1,bite the dust,idiom,c2
+435,bomb_1,bomb,noun,c2
+436,bomb_2,bomb,verb,c2
+437,bother_2,bother,noun,c2
+438,bothersome,bothersome,adjective,c2
+439,break-down,break down,phrasal verb,c1
+440,breakdown,breakdown,noun,c1
+441,bungle_1,bungle,verb,c2
+442,bungling,bungling,adjective,c2
+443,burden_1,burden,noun,c1
+444,burden_2,burden,verb,c1
+445,burdensome,burdensome,adjective,c2
+446,canute,Canute,noun,c2
+447,car-crash,car crash,noun,c2
+448,catch_2,catch,noun,c2
+449,catch-up-with,catch up with,phrasal verb,c2
+450,chance_2,chance your arm,idiom,c2
+451,chase_1,chase your (own) tail,idiom,c2
+452,checkered,checkered,adjective,c2
+453,chequered,chequered,adjective,c2
+454,choke_1,choke,verb,c2
+455,close2_1,"close, but no cigar",idiom,c2
+456,cockeyed,cockeyed,adjective,c2
+457,collapse_1,collapse,verb,b2
+458,collapse_2,collapse,noun,b2
+459,collapsed,collapsed,adjective,c2
+460,cropper,come a cropper,idiom,c2
+461,gutser,come a gutser,idiom,c2
+462,world,come/go down/up in the world,idiom,c2
+463,come-off,come off,phrasal verb,c2
+464,grief,come to grief,idiom,c2
+465,come_1,come to nothing,idiom,c2
+466,unglued,come unglued,idiom,c2
+467,unstuck,come unstuck,idiom,c2
+468,conquest,conquest,noun,c2
+469,cook_1,cook somebody’s goose,idiom,c2
+470,cost_2,cost,verb,b1
+471,crackbrained,crackbrained,adjective,c2
+472,crestfallen,crestfallen,adjective,c2
+473,crisis_1,crisis,noun,b2
+474,crumble_1,crumble,verb,c2
+475,loss,cut your losses,idiom,c2
+476,damper,damper,noun,c2
+477,dead_1,dead in the water,idiom,c2
+478,deadlock,deadlock,noun,c2
+479,deadlocked,deadlocked,adjective,c2
+480,dead_1,dead on arrival,idiom,c2
+481,dead-weight,dead weight,noun,c2
+482,debacle,debacle,noun,c2
+483,defeat_1,defeat,verb,b2
+484,defeat_2,defeat,noun,b2
+485,defeatism,defeatism,noun,c2
+486,defeatist_1,defeatist,noun,c2
+487,defeatist_2,defeatist,adjective,c2
+488,deficiency,deficiency,noun,c1
+489,demise,demise,noun,c2
+490,desperate,desperate,adjective,b2
+491,die_1,die a/the death,idiom,c2
+492,difficult,difficult,adjective,a1
+493,difficulty,difficulty,noun,b1
+494,disadvantage_1,disadvantage,verb,c1
+495,disadvantage_2,disadvantage,noun,b1
+496,disappointing,disappointing,adjective,b1
+497,disappointingly,disappointingly,adverb,b1
+498,disaster,disaster,noun,a2
+499,disaster-area,disaster area,noun,c1
+500,disastrous,disastrous,adjective,c1
+501,disastrously,disastrously,adverb,c1
+502,dismal,dismal,adjective,c2
+503,dismally,dismally,adverb,c2
+504,dog_1,dog,noun,c2
+505,dog_2,dog,verb,c2
+506,day-job,don’t give up the day job,idiom,c2
+507,doom_2,doom,verb,c1
+508,dop_2,dop,verb,c2
+509,blue_1,do something till you are blue in the face,idiom,c2
+510,elude,elude,verb,c2
+511,elusive,elusive,adjective,c1
+512,elusively,elusively,adverb,c1
+513,enemy,enemy,noun,b2
+514,faff-about,faff about,phrasal verb,c2
+515,faff-around,faff around,phrasal verb,c2
+516,fail_1,fail,verb,a2
+517,fail_2,fail,noun,c1
+518,failed,failed,adjective,b2
+519,failure,failure,noun,b2
+520,faint-hearted,faint-hearted,adjective,c2
+521,fall_2,fall,noun,c1
+522,two,fall between two stools,idiom,c2
+523,wayside,fall by the wayside,idiom,c2
+524,flat_3,fall flat,idiom,c2
+525,flat_3,fall flat on your face,idiom,c2
+526,stony,fall on stony ground,idiom,c2
+527,fallow,fallow,adjective,c2
+528,short_2,fall short of something,idiom,c2
+529,false-move,false move,noun,c2
+530,false-start,false start,noun,c2
+531,fare_2,fare,verb,c2
+532,fatal,fatal,adjective,c1
+533,fatally,fatally,adverb,c1
+534,fiasco,fiasco,noun,c2
+535,battle_1,(fight) a losing battle,idiom,c2
+536,fizzer,fizzer,noun,c2
+537,fizzle-out,fizzle out,phrasal verb,c2
+538,flatline,flatline,verb,c2
+539,flop_1,flop,verb,c2
+540,flop_2,flop,noun,c2
+541,flounder_1,flounder,verb,c2
+542,fluff_2,fluff,verb,c2
+543,flunk,flunk,verb,c2
+544,fool-s-errand,fool’s errand,noun,c2
+545,fool-s-gold,fool’s gold,noun,c2
+546,foredoomed,foredoomed,adjective,c2
+547,forlorn,forlorn,adjective,c2
+548,founder_2,founder,verb,c2
+549,fray_1,fray at/around the edges/seams,idiom,c2
+550,frustrate,frustrate,verb,c2
+551,frustrated,frustrated,adjective,c2
+552,frustration,frustration,noun,c2
+553,futile,futile,adjective,c2
+554,futilely,futilely,adverb,c2
+555,futility,futility,noun,c2
+556,get-behind,get behind,phrasal verb,c2
+557,nowhere,get/go nowhere,idiom,c1
+558,get,get somebody nowhere/not get somebody anywhere,idiom,c2
+559,trouble_1,"give (somebody) (some, no, any, etc.) trouble",idiom,c1
+560,job_1,give somebody/something up as a bad job,idiom,c2
+561,glitch_1,glitch,noun,c2
+562,glitch_2,glitch,verb,c2
+563,glitchy,glitchy,adjective,c2
+564,gloomy,gloomy,adjective,c2
+565,astray,go astray,idiom,c2
+566,belly_1,go belly up,idiom,c2
+567,lead2,go down like a lead balloon,idiom,c2
+568,tube,go down the tube/tubes,idiom,c2
+569,goner,goner,noun,c2
+570,rail_1,go off the rails,idiom,c2
+571,smoke_1,go up in smoke,idiom,c2
+572,hang-up_2,hang-up,noun,c2
+573,hard_1,hard,adjective,a1
+574,hard_2,hard,adverb,a1
+575,hare-brained,hare-brained,adjective,c2
+576,has-been,has-been,noun,c2
+577,hassle_1,hassle,noun,c2
+578,hassle_2,hassle,verb,c2
+579,haunt_1,haunt,verb,c1
+580,job_1,have a (hard/difficult) job doing/to do something,idiom,c2
+581,thin_1,have a thin time (of it),idiom,c2
+582,day,have had your day,idiom,c2
+583,work_2,have your work cut out,idiom,c2
+584,hit-and-miss,hit-and-miss,adjective,c2
+585,hitch_2,hitch,noun,c2
+586,mark_2,hit/miss the mark,idiom,c2
+587,hit-or-miss,hit-or-miss,adjective,c2
+588,hit_1,hit the buffers,idiom,c2
+589,hopeless,hopeless,adjective,b2
+590,hopelessly,hopelessly,adverb,b2
+591,hostile,hostile,adjective,c2
+592,hot-mess,hot mess,noun,c2
+593,house-of-cards,house of cards,noun,c2
+594,hurdle_1,hurdle,noun,c1
+595,worst_3,if the worst comes to the worst,idiom,c2
+596,ill-advised,ill-advised,adjective,c2
+597,ill-advisedly,ill-advisedly,adverb,c2
+598,ill-fated,ill-fated,adjective,c2
+599,ill-omened,ill-omened,adjective,c2
+600,ill-starred,ill-starred,adjective,c2
+601,implode,implode,verb,c2
+602,implosion,implosion,noun,c2
+603,inauspicious,inauspicious,adjective,c2
+604,inauspiciously,inauspiciously,adverb,c2
+605,incommode,incommode,verb,c2
+606,inconvenience_1,inconvenience,noun,c1
+607,inconvenience_2,inconvenience,verb,c1
+608,indaba,indaba,noun,c2
+609,deep_1,in deep water(s),idiom,c2
+610,ineffective,ineffective,adjective,c1
+611,ineffectively,ineffectively,adverb,c2
+612,ineffectual,ineffectual,adjective,c2
+613,reckoning,in/into/out of the reckoning,idiom,c2
+614,running_1,in/out of the running (for something),idiom,c2
+615,instability,instability,noun,c1
+616,insuperable,insuperable,adjective,c2
+617,insurmountable,insurmountable,adjective,c2
+618,interfere-with,interfere with,phrasal verb,c1
+619,face_1,in the face of something,idiom,c1
+620,vain,in vain,idiom,c2
+621,use_2,it’s no use (doing something),idiom,c1
+622,kill_1,kill or cure,idiom,c2
+623,kill_1,kill the goose that lays the golden egg/eggs,idiom,c2
+624,knock_2,knock,noun,c2
+625,knock-back_2,knock-back,noun,c2
+626,knock_1,knock somebody off their pedestal/perch,idiom,c2
+627,lame-duck,lame duck,noun,c2
+628,languish,languish,verb,c2
+629,lead1_1,lead (somebody) nowhere,idiom,c2
+630,lurch_2,leave somebody in the lurch,idiom,c2
+631,let-down_1,let down,phrasal verb,b2
+632,slip_1,let something slip (through your fingers),idiom,c2
+633,side_1,let the side down,idiom,c2
+634,lose,lose,verb,a1
+635,loser,loser,noun,b2
+636,loss,loss,noun,b2
+637,lost_1,lost,adjective,b2
+638,lost-cause,lost cause,noun,c2
+639,rod_1,make a rod for your own back,idiom,c2
+640,life_1,make life difficult (for somebody),idiom,b2
+641,make_1,make or break somebody/something,idiom,c2
+642,malfunction_1,malfunction,verb,c1
+643,malfunction_2,malfunction,noun,c1
+644,manque,manqué,adjective,c2
+645,meltdown,meltdown,noun,c2
+646,messed-up,messed-up,adjective,c2
+647,miscarry,miscarry,verb,c2
+648,miscommunication,miscommunication,noun,c2
+649,misfire,misfire,verb,c2
+650,miss_1,miss,verb,a2
+651,mistake_1,mistake,noun,a1
+652,mockery,mockery,noun,c2
+653,muck-up,muck up,phrasal verb,c2
+654,negativity,negativity,noun,c2
+655,neglect_1,neglect,verb,c1
+656,negligence,negligence,noun,c2
+657,negligent,negligent,adjective,c2
+658,nettlesome,nettlesome,adjective,c2
+659,no-hoper,no-hoper,noun,c2
+660,nonentity,nonentity,noun,c2
+661,non-starter,non-starter,noun,c2
+662,pain_1,"no pain, no gain",idiom,c2
+663,come_1,not come to much,idiom,c2
+664,want_2,not for (the) want of doing something,idiom,c2
+665,try_1,not for want/lack of trying,idiom,c2
+666,look-in_2,(not) get/have a look-in,idiom,c2
+667,first-base,not get to first base (with something/somebody),idiom,c2
+668,obstacle,obstacle,noun,b2
+669,obstacle-course,obstacle course,noun,c2
+670,odds,odds,noun,c1
+671,hiding,on a hiding to nothing,idiom,c2
+672,knife-edge,on a knife-edge,idiom,c2
+673,rock_1,on the rocks,idiom,c2
+674,overambitious,overambitious,adjective,c2
+675,overcome,overcome,verb,b2
+676,over-optimistic,over-optimistic,adjective,c2
+677,overplay,overplay your hand,idiom,c2
+678,overreach,overreach,verb,c2
+679,overshadow,overshadow,verb,c1
+680,own-goal,own goal,noun,c2
+681,paper-tiger,paper tiger,noun,c2
+682,pathetic,pathetic,adjective,c2
+683,pathetically,pathetically,adverb,c2
+684,pessimism,pessimism,noun,b2
+685,pessimistic,pessimistic,adjective,b2
+686,pessimistically,pessimistically,adverb,b2
+687,pike-on,pike on,phrasal verb,c2
+688,pious,pious,adjective,c2
+689,pipe-dream,pipe dream,noun,c2
+690,pitfall,pitfall,noun,c2
+691,plague_2,plague,verb,c2
+692,play-up,play up,phrasal verb,c2
+693,poor-relation,poor relation,noun,c2
+694,precarious,precarious,adjective,c2
+695,problem_1,problem,noun,a1
+696,problematic,problematic,adjective,c1
+697,pull-down_1,pull down,phrasal verb,c2
+698,pushed,pushed,adjective,c2
+699,put-out,put out,phrasal verb,c2
+700,experience_1,put something down to experience,idiom,c2
+701,skid_2,put the skids under somebody/something,idiom,c2
+702,put-to,put to,phrasal verb,c2
+703,quagmire,quagmire,noun,c2
+704,rearguard-action,rearguard action,noun,c2
+705,reversal,reversal,noun,c2
+706,reverse_2,reverse,noun,c2
+707,rocky_1,rocky,adjective,c2
+708,rub_2,rub,noun,c2
+709,headless,run around like a headless chicken,idiom,c2
+710,close2_2,run somebody/something close,idiom,c2
+711,run-up-against,run up against,phrasal verb,c2
+712,scupper,scupper,verb,c2
+713,scuttle_1,scuttle,verb,c2
+714,self-defeating,self-defeating,adjective,c2
+715,setback,setback,noun,c1
+716,shakily,shakily,adverb,c2
+717,shaky,shaky,adjective,c2
+718,shiftless,shiftless,adjective,c2
+719,sink_1,sink,verb,c2
+720,sink_1,sink or swim,idiom,c2
+721,slippage,slippage,noun,c2
+722,small-time,small-time,adjective,c2
+723,snag_1,snag,noun,c2
+724,day,somebody’s/something’s days are numbered,idiom,c2
+725,so_1,so much for something,idiom,c2
+726,near_3,so near and yet so far,idiom,c2
+727,spoiler,spoiler,noun,c2
+728,stillborn,stillborn,adjective,c2
+729,strife,strife,noun,c2
+730,strike-out,strike out,phrasal verb,c2
+731,struggle_1,struggle,verb,b2
+732,struggle_2,struggle,noun,b2
+733,stumble_1,stumble,noun,c2
+734,surmount,surmount,verb,c2
+735,bull,take the bull by the horns,idiom,c2
+736,gilt,take the gilt off the gingerbread,idiom,c2
+737,talk-down,talk down,phrasal verb,c2
+738,tank_2,tank,verb,c2
+739,technical-hitch,technical hitch,noun,c2
+740,stacked,the cards/odds are stacked against you,idiom,c2
+741,kiss_2,the kiss of death,idiom,c2
+742,tide_1,the tide turned,idiom,c2
+743,weak,the weak link (in the chain),idiom,c2
+744,writing,the writing is on the wall,idiom,c2
+745,thorny,thorny,adjective,c2
+746,spanner,(throw) a spanner in the works,idiom,c2
+747,hand_1,throw your hand in,idiom,c2
+748,thumb_1,thumbs up/down,idiom,c2
+749,avail_1,to little/no avail,idiom,c2
+750,effect_1,to no effect,idiom,c1
+751,torpedo_2,torpedo,verb,c2
+752,tortured,tortured,adjective,c2
+753,train-wreck,train wreck,noun,c2
+754,trouble_1,trouble,noun,a2
+755,troublesome,troublesome,adjective,c2
+756,turkey_1,turkey,noun,c2
+757,unambitious,unambitious,adjective,b1
+758,unattainable,unattainable,adjective,c2
+759,unavailing,unavailing,adjective,c2
+760,underdog,underdog,noun,c1
+761,underperform,underperform,verb,c2
+762,undershoot_1,undershoot,verb,c2
+763,undesirable_1,undesirable,adjective,c1
+764,undistinguished,undistinguished,adjective,c2
+765,undo,undo,verb,c2
+766,undoing,undoing,noun,c2
+767,unfeasible,unfeasible,adjective,c2
+768,unfulfilled,unfulfilled,adjective,c2
+769,unpromising,unpromising,adjective,c2
+770,unravel,unravel,verb,c2
+771,unrealized,unrealized,adjective,c2
+772,unrecognized,unrecognized,adjective,c2
+773,unrewarded,unrewarded,adjective,c2
+774,unsuccessful,unsuccessful,adjective,b1
+775,unsuccessfully,unsuccessfully,adverb,b1
+776,unviable,unviable,adjective,c2
+777,unworkable,unworkable,adjective,c2
+778,up_1,up against something,idiom,c1
+779,vain,vain,adjective,c2
+780,vainly,vainly,adverb,c2
+781,washed-up,washed up,adjective,c2
+782,washout,washout,noun,c2
+783,wasted,wasted,adjective,c2
+784,well-intentioned,well intentioned,adjective,c2
+785,well-meaning,well meaning,adjective,c2
+786,well-meant,well meant,adjective,c2
+787,push_2,when push comes to shove,idiom,c2
+788,wildcat_1,wildcat,adjective,c2
+789,win_1,win or lose,idiom,c2
+790,wipeout,wipeout,noun,c2
+791,write-off_2,write-off,noun,c2
+792,write-off_1,write off,phrasal verb,c2
+793,win_1,you win,idiom,c2
+794,z-list,Z-list,adjective,c2
+795,z-lister,Z-lister,noun,c2
+796,academy-awardtm,Academy Award™,noun,c2
+797,dog_1,(a case of) dog eat dog,idiom,c2
+798,accede,accede,verb,c2
+799,accession,accession,noun,c2
+800,acclaim_1,acclaim,verb,c2
+801,acclaim_2,acclaim,noun,c2
+802,accolade,accolade,noun,c2
+803,accomplish,accomplish,verb,b2
+804,accomplishment,accomplishment,noun,c1
+805,accredit,accredit,verb,c2
+806,accreditation,accreditation,noun,c2
+807,accredited,accredited,adjective,c2
+808,ace_1,ace,noun,c2
+809,ace_3,ace,verb,c2
+810,achieve,achieve,verb,a2
+811,achievement,achievement,noun,b1
+812,achiever,achiever,noun,c1
+813,acid-test,acid test,noun,c2
+814,close2_1,a close thing,idiom,c2
+815,adapt,adapt,verb,b2
+816,adaptability,adaptability,noun,c2
+817,adaptable,adaptable,adjective,c1
+818,advance_1,advance,noun,b2
+819,advance_2,advance,verb,c1
+820,advancement,advancement,noun,c1
+821,advantage_1,advantage,noun,a2
+822,advantage_2,advantage,verb,c1
+823,advantaged,advantaged,adjective,c1
+824,fighting,a fighting chance,idiom,c2
+825,flash_1,a flash in the pan,idiom,c2
+826,aggressive,aggressive,adjective,b2
+827,aggressively,aggressively,adverb,b2
+828,act_2,a hard/tough act to follow,idiom,c2
+829,aim_1,aim,verb,b1
+830,aim_2,aim,noun,b1
+831,a-list,A-list,adjective,c2
+832,a-lister,A-lister,noun,c2
+833,all_3,"all the better, harder, more, etc.",idiom,c1
+834,ambition_1,ambition,noun,b1
+835,ambitious,ambitious,adjective,b1
+836,ambitiously,ambitiously,adverb,b1
+837,near_2,a near thing,idiom,c2
+838,luck_1,any luck?,idiom,c2
+839,step_1,a/one step ahead (of somebody/something),idiom,c2
+840,aplomb,aplomb,noun,c2
+841,apogee,apogee,noun,c2
+842,success,a resounding success,idiom,c2
+843,roaring,a roaring success,idiom,c2
+844,aspirant_2,aspirant,noun,c2
+845,aspiration,aspiration,noun,c1
+846,aspirational,aspirational,adjective,c2
+847,aspire,aspire,verb,c1
+848,aspiring,aspiring,adjective,c1
+849,sporting,a sporting chance,idiom,c2
+850,ass-kicking,ass-kicking,adjective,c2
+851,attain,attain,verb,c1
+852,attainable,attainable,adjective,c2
+853,attainment,attainment,noun,c1
+854,augur,augur,verb,c2
+855,auspicious,auspicious,adjective,c2
+856,auspiciously,auspiciously,adverb,c2
+857,track_1,back on track,idiom,c2
+858,banner-year,banner year,noun,c2
+859,bat_2,bat a thousand,idiom,c2
+860,batting-average,batting average,noun,c2
+861,battle_1,battle,noun,b1
+862,battle_2,battle,verb,b2
+863,best_3,be (all) for the best,idiom,a2
+864,bear_1,bear fruit,idiom,c2
+865,rose_1,be coming up roses,idiom,c2
+866,cook_1,be cooking with gas,idiom,c2
+867,beginner-s-luck,beginner’s luck,noun,c2
+868,great_1,be going great guns,idiom,c2
+869,place_1,be going places,idiom,c2
+870,golden,be golden,idiom,c2
+871,home_2,be home and dry,idiom,c2
+872,belong-to,belong to,phrasal verb,c2
+873,belt_1,belt and braces,idiom,c2
+874,roll_2,be on a roll,idiom,c2
+875,tear1_2,be on a tear,idiom,c2
+876,track_1,be on track,idiom,c2
+877,ride_1,be riding high,idiom,c2
+878,best_4,best,verb,c2
+879,game_1,be still/back in the game,idiom,c2
+880,making,be the making of somebody,idiom,c2
+881,late_2,better late than never,idiom,c1
+882,luck_1,better luck next time,idiom,c1
+883,well_1,be well on the way to something/doing something,idiom,c2
+884,bhadralok,bhadralok,noun,c2
+885,bid1_1,bid,noun,c1
+886,bid1_2,bid,verb,c1
+887,big_1,big,adjective,c1
+888,big-hitter,big hitter,noun,c2
+889,big-league_1,big league,noun,c2
+890,big-league_2,big-league,adjective,c2
+891,big-man-on-campus,Big Man on Campus,noun,c2
+892,big-time_2,big time,noun,c1
+893,b-list,B-list,adjective,c2
+894,blockbuster,blockbuster,noun,c1
+895,blockbusting,blockbusting,adjective,c2
+896,blossom_2,blossom,verb,c1
+897,blow_1,blow your own trumpet,idiom,c2
+898,blueprint,blueprint,noun,c2
+899,bluff-your-way-in,bluff your way in,phrasal verb,c2
+900,bluff-your-way-into,bluff your way into,phrasal verb,c2
+901,bluff-your-way-out,bluff your way out,phrasal verb,c2
+902,bluff-your-way-out-of,bluff your way out of,phrasal verb,c2
+903,bluff-your-way-through,bluff your way through,phrasal verb,c2
+904,bmoc,BMOC,abbreviation,c2
+905,boast_1,boast,verb,c1
+906,boast_2,boast,noun,c2
+907,boffo,boffo,adjective,c2
+908,bonanza_1,bonanza,noun,c2
+909,boom_1,boom,noun,c1
+910,boom_2,boom,verb,c1
+911,boom-town,boom town,noun,c2
+912,boost_1,boost,verb,b2
+913,boost_2,boost,noun,b2
+914,bounce-back,bounce back,phrasal verb,c1
+915,bouncebackability,bouncebackability,noun,c2
+916,bragging-rights,bragging rights,noun,c2
+917,break_2,break,noun,c2
+918,break-into,break into,phrasal verb,c2
+919,breakout_2,breakout,adjective,c2
+920,break-through,break through,phrasal verb,c2
+921,breakthrough_1,breakthrough,noun,c1
+922,breakthrough_2,breakthrough,adjective,c2
+923,breeze-through,breeze through,phrasal verb,c2
+924,bright_1,bright,adjective,b1
+925,bright-young-thing,bright young thing,noun,c2
+926,brilliant,brilliant,adjective,a2
+927,brilliantly,brilliantly,adverb,b1
+928,home_2,bring home the bacon,idiom,c2
+929,bring-off,bring off,phrasal verb,c2
+930,bear_1,bring something to bear (on somebody/something),idiom,c2
+931,bubble-under,bubble under,phrasal verb,c2
+932,buccaneer,buccaneer,noun,c2
+933,budding,budding,adjective,c2
+934,bust_1,bust a gut (doing something/to do something),idiom,c2
+935,ass,bust your ass (doing something/to do something),idiom,c2
+936,butt_2,bust your butt/chops/hump (doing something/to do something),idiom,c2
+937,chop_2,bust your chops/butt/hump (doing something/to do something),idiom,c2
+938,hump_1,bust your hump/butt/chops (doing something/to do something),idiom,c2
+939,can-do,can-do,adjective,c2
+940,capstone,capstone,noun,c2
+941,carry_1,carry all/everything before you,idiom,c2
+942,carry-off,carry off,phrasal verb,c2
+943,carry-through,carry through,phrasal verb,c2
+944,day,carry/win the day,idiom,c2
+945,carve,carve,verb,c2
+946,cast-iron_2,cast-iron,adjective,c2
+947,cbe,CBE,noun,c2
+948,cert_1,cert,noun,c2
+949,certificate_1,certificate,noun,b2
+950,certificate_2,certificate,verb,b2
+951,chalk-up,chalk up,phrasal verb,c2
+952,circumvent,circumvent,verb,c2
+953,claim_1,claim,verb,c1
+954,claw_2,"claw your way back, into something, out of something, to something, etc.",idiom,c2
+955,bandwagon,climb/jump on the bandwagon,idiom,c2
+956,clinch_1,clinch,verb,c2
+957,coast_2,coast,verb,c2
+958,comeback,comeback,noun,c1
+959,come-back-in,come back in,phrasal verb,c2
+960,world,come/go down/up in the world,idiom,c2
+961,come-off,come off,phrasal verb,c2
+962,comer,comer,noun,c2
+963,come-through,come through,phrasal verb,c2
+964,trump_1,come up/turn up trumps,idiom,c2
+965,compete,compete,verb,b1
+966,congratulate,congratulate,verb,c1
+967,congratulation,congratulation,noun,a2
+968,conquer,conquer,verb,c1
+969,consolidate,consolidate,verb,c1
+970,consolidation,consolidation,noun,c1
+971,cope_1,cope,verb,b2
+972,credit_1,credit,noun,c2
+973,cross_1,cross your fingers,idiom,c1
+974,crow_2,crow,verb,c2
+975,crown_2,crown,verb,c2
+976,cruise_2,cruise,verb,c2
+977,cure_1,cure,verb,b2
+978,dial-in,dial in,phrasal verb,c2
+979,dial-into,dial into,phrasal verb,c2
+980,dip_1,dip a toe in/into something,idiom,c2
+981,dispose-of,dispose of,phrasal verb,c2
+982,distinguish,distinguish,verb,c1
+983,distinguished,distinguished,adjective,c1
+984,diversification,diversification,noun,c2
+985,diversify,diversify,verb,c1
+986,do1_1,do,verb,a1
+987,dodge_1,dodge a/the bullet,idiom,c2
+988,best_3,"do, mean, etc. something for the best",idiom,c1
+989,count_1,don’t count your chickens (before they are hatched),idiom,c2
+990,job_1,do the job,idiom,c2
+991,trick_1,do the trick,idiom,c2
+992,level_2,do/try your level best (to do something),idiom,c2
+993,well_1,do well,idiom,a2
+994,well_1,do well for yourself,idiom,b2
+995,dream_1,dream,noun,a2
+996,dream_2,dream,verb,a2
+997,drive_2,drive,noun,c1
+998,driven_1,driven,adjective,c1
+999,dynamic_1,dynamic,adjective,b2
+1000,dynamism,dynamism,noun,c2
+1001,effective,effective,adjective,b1
+1002,effectively,effectively,adverb,b1
+1003,effectiveness,effectiveness,noun,c1
+1004,effectual,effectual,adjective,c2
+1005,effectually,effectually,adverb,c2
+1006,efficacious,efficacious,adjective,c2
+1007,effort,effort,noun,b1
+1008,emmy,Emmy,noun,c2
+1009,enfant-terrible,enfant terrible,noun,c2
+1010,enterprise,enterprise,noun,c1
+1011,enterprising,enterprising,adjective,c2
+1012,equal_1,equal,adjective,c2
+1013,establish,establish,verb,b2
+1014,dog_1,every dog has his/its day,idiom,c2
+1015,exercise_1,exercise,noun,b2
+1016,exercise_2,exercise,verb,b2
+1017,fancy_1,fancy,verb,c2
+1018,fare_2,fare,verb,c2
+1019,fast-track_1,fast track,noun,c2
+1020,fast-track_2,fast-track,adjective,c2
+1021,faustian,Faustian,adjective,c2
+1022,favourability,favourability,noun,c2
+1023,favourable,favourable,adjective,c1
+1024,favourably,favourably,adverb,c1
+1025,feasibility,feasibility,noun,c2
+1026,feasible,feasible,adjective,c1
+1027,felicitate,felicitate,verb,c2
+1028,felicitous,felicitous,adjective,c2
+1029,felicitously,felicitously,adverb,c2
+1030,felicity_1,felicity,noun,c2
+1031,fight_1,fight,verb,b1
+1032,fight_2,fight,noun,b1
+1033,fighting,fighting,noun,b1
+1034,first_3,first,noun,c1
+1035,first-fruit,first fruit,noun,c2
+1036,fist-pump_1,fist pump,noun,c2
+1037,fist-pump_2,fist-pump,verb,c2
+1038,fist-pumping,fist-pumping,noun,c2
+1039,flatter,flatter to deceive,idiom,c2
+1040,flourish_1,flourish,verb,c1
+1041,flower_2,flower,verb,c2
+1042,flowering,flowering,noun,c2
+1043,fly_1,fly high,idiom,c1
+1044,foolproof,foolproof,adjective,c2
+1045,foothold,foothold,noun,c2
+1046,forge_1,forge,verb,c1
+1047,fortuitous,fortuitous,adjective,c2
+1048,fortuitously,fortuitously,adverb,c2
+1049,fruition,fruition,noun,c2
+1050,fulfil,fulfil,verb,b2
+1051,fulfilled,fulfilled,adjective,c1
+1052,fulfilling,fulfilling,adjective,c1
+1053,fulfilment,fulfilment,noun,c1
+1054,further_3,further,verb,c1
+1055,furtherance,furtherance,noun,c2
+1056,future_1,future,noun,b1
+1057,gain_1,gain ground,idiom,c2
+1058,game-plan,game plan,noun,c2
+1059,geared,geared,adjective,c2
+1060,gel_2,gel,verb,c2
+1061,get-around,get around,phrasal verb,c1
+1062,rail_1,get back on the rails,idiom,c2
+1063,foot_1,get/have a/your foot in the door,idiom,c2
+1064,shape_1,get/knock/lick something into shape,idiom,c2
+1065,get-on,get on,phrasal verb,c1
+1066,get-round,get round,phrasal verb,c1
+1067,ground_1,get (something) off the ground,idiom,c1
+1068,get,get there,idiom,c1
+1069,get-through,get through,phrasal verb,c2
+1070,act_2,get your act together,idiom,c2
+1071,gimme_2,gimme,noun,c2
+1072,glittering,glittering,adjective,c2
+1073,gloat,gloat,verb,c2
+1074,gloating,gloating,adjective,c2
+1075,glorious,glorious,adjective,c1
+1076,gloriously,gloriously,adverb,c2
+1077,glory_1,glory,noun,c1
+1078,go_1,go,verb,a2
+1079,go-ahead_1,go-ahead,adjective,c2
+1080,goal,goal,noun,a2
+1081,bomb_1,go down a bomb,idiom,c2
+1082,far_1,go far,idiom,c1
+1083,far_1,go far enough,idiom,c2
+1084,go-for,go for,phrasal verb,c1
+1085,strength,go from strength to strength,idiom,c1
+1086,go-getter,go-getter,noun,c2
+1087,strong,going strong,idiom,c2
+1088,golden-age,golden age,noun,c1
+1089,golden-oldie,golden oldie,noun,c2
+1090,golden-rule,golden rule,noun,c2
+1091,luck_1,good luck to somebody,idiom,c2
+1092,big_2,go over big (with somebody),idiom,c2
+1093,end_1,go to the ends of the earth,idiom,c2
+1094,grail,grail,noun,c2
+1095,grammy,Grammy,noun,c2
+1096,grand_1,grand,adjective,b2
+1097,grasp_2,grasp,noun,c2
+1098,great_2,great,noun,c1
+1099,oak,great/tall oaks from little acorns grow,idiom,c2
+1100,hammer-away-at,hammer away at,phrasal verb,c2
+1101,hang_1,hang (on) in there,idiom,c2
+1102,happy,happy,adjective,c1
+1103,hat-trick,hat-trick,noun,c2
+1104,bash_2,have a bash (at something),idiom,c2
+1105,long_1,have a long way to go,idiom,c1
+1106,made,have (got) it made,idiom,c2
+1107,take_1,have (got) what it takes,idiom,c1
+1108,interest_1,have somebody’s interests at heart,idiom,c2
+1109,side_1,have something on your side,idiom,c2
+1110,credit_1,have something to your credit,idiom,c2
+1111,belt_1,have something under your belt,idiom,c2
+1112,last1_1,have the last laugh,idiom,c2
+1113,idea,have the right idea,idiom,c2
+1114,world,have the world at your feet,idiom,c2
+1115,health,health,noun,c1
+1116,healthy,healthy,adjective,c1
+1117,heavy-hitter,heavy hitter,noun,c2
+1118,heroic,heroic,adjective,c1
+1119,laugh_1,he who laughs last laughs longest,idiom,c2
+1120,heyday,heyday,noun,c2
+1121,high_3,high,noun,c2
+1122,high-flyer,high-flyer,noun,c2
+1123,high-flying,high-flying,adjective,c2
+1124,hit_2,hit,noun,a2
+1125,hit_1,hit (it) big,idiom,c2
+1126,mark_2,hit/miss the mark,idiom,c2
+1127,pay-dirt,hit/strike pay dirt,idiom,c2
+1128,hit_1,hit the ground running,idiom,c2
+1129,hold_1,hold,verb,b2
+1130,thumb_1,hold thumbs,idiom,c2
+1131,hope_1,hope for the best,idiom,c2
+1132,hopeful_1,hopeful,adjective,c1
+1133,hopeful_2,hopeful,noun,c2
+1134,hopefully,hopefully,adverb,c1
+1135,hot_1,hot,adjective,c2
+1136,hot-hand,hot hand,noun,c2
+1137,hotshot_1,hotshot,noun,c2
+1138,hotshot_2,hotshot,adjective,c2
+1139,huge,huge,adjective,c2
+1140,ideal_2,ideal,noun,b2
+1141,illustrious,illustrious,adjective,c2
+1142,indian-summer,Indian summer,noun,c2
+1143,infallibility,infallibility,noun,c2
+1144,infallible,infallible,adjective,c2
+1145,infallibly,infallibly,adverb,c2
+1146,reckoning,in/into/out of the reckoning,idiom,c2
+1147,running_1,in/out of the running (for something),idiom,c2
+1148,inroad,inroad,noun,c2
+1149,day,in somebody’s day,idiom,c1
+1150,inspiration,inspiration,noun,c1
+1151,intended,intended,adjective,b2
+1152,invest,invest,verb,c1
+1153,investment,investment,noun,c1
+1154,all-right_2,it’ll be all right on the night,idiom,c2
+1155,alright_2,it’ll be alright on the night,idiom,c2
+1156,jai,Jai,exclamation,c2
+1157,jell,jell,verb,c2
+1158,joy,joy,noun,c2
+1159,jubilant,jubilant,adjective,c2
+1160,jubilation,jubilation,noun,c2
+1161,jump_1,jump through hoops,idiom,c2
+1162,joneses,keep up with the Joneses,idiom,c2
+1163,kick-ass,kick-ass,adjective,c2
+1164,kick_1,kick (some) ass/butt,idiom,c2
+1165,killer-instinct,killer instinct,noun,c2
+1166,kill_1,kill it,idiom,c2
+1167,kill_1,kill or cure,idiom,c2
+1168,kill_1,kill two birds with one stone,idiom,c2
+1169,kudos,kudos,noun,c2
+1170,land_2,land,verb,c2
+1171,last-ditch,last-ditch,adjective,c2
+1172,last-gasp,last-gasp,adjective,c2
+1173,laudable,laudable,adjective,c2
+1174,laugh_1,laugh,verb,c2
+1175,laureate,laureate,noun,c2
+1176,laurel,laurel,noun,c2
+1177,lazarus,Lazarus,noun,c2
+1178,leading1,leading,adjective,b1
+1179,field_1,leave the field clear for somebody,idiom,c2
+1180,lifeblood,lifeblood,noun,c2
+1181,life-s-work,life’s work,noun,c2
+1182,look_1,look good,idiom,c2
+1183,laurel,look to your laurels,idiom,c2
+1184,lucky,lucky,adjective,a2
+1185,machiavellian,Machiavellian,adjective,c2
+1186,magnate,magnate,noun,c2
+1187,mahurat,mahurat,noun,c2
+1188,mainstay,mainstay,noun,c2
+1189,make_1,make,verb,c2
+1190,go_2,make a go of something,idiom,c2
+1191,make_1,make good,idiom,c2
+1192,make_1,make it,idiom,c2
+1193,big_2,make it big,idiom,c2
+1194,make_1,make or break somebody/something,idiom,c2
+1195,make_1,make something of yourself,idiom,c2
+1196,cut_2,make the cut,idiom,c2
+1197,grade_1,make the grade,idiom,c2
+1198,mark_2,make your/a mark (on something),idiom,c1
+1199,manage,manage,verb,b1
+1200,management,management,noun,b1
+1201,market-leader,market leader,noun,c1
+1202,marvel_1,marvel,noun,c2
+1203,master-plan,master plan,noun,c1
+1204,masterstroke,masterstroke,noun,c2
+1205,mbe,MBE,noun,c2
+1206,measure-up,measure up,phrasal verb,c2
+1207,meteoric,meteoric,adjective,c2
+1208,me-too,me-too,adjective,c2
+1209,mettle,mettle,noun,c2
+1210,midas-touch,Midas touch,noun,c2
+1211,mission,mission accomplished,idiom,c2
+1212,moral-victory,moral victory,noun,c2
+1213,move_1,move heaven and earth,idiom,c2
+1214,move_1,move mountains,idiom,c2
+1215,muddle-through,muddle through,phrasal verb,c2
+1216,nail_2,nail,verb,c2
+1217,narrow_1,narrow,adjective,b2
+1218,look_1,never/not look back,idiom,c2
+1219,nice,nice work if you can get it,idiom,c2
+1220,nirvana_1,nirvana,noun,c2
+1221,notch_1,notch,noun,c2
+1222,notch_2,notch,verb,c2
+1223,look-in_2,(not) get/have a look-in,idiom,c2
+1224,succeed,nothing succeeds like success,idiom,c2
+1225,nurture_1,nurture,verb,c2
+1226,obe,OBE,noun,c2
+1227,objective_1,objective,noun,b2
+1228,back_1,off/on the back of something,idiom,c2
+1229,knife-edge,on a knife-edge,idiom,c2
+1230,wing_1,on a wing and a prayer,idiom,c2
+1231,course_1,on course for something/to do something,idiom,c2
+1232,fire_1,on fire,idiom,c2
+1233,coat-tails,on somebody’s coat-tails,idiom,c2
+1234,up_5,on the up,idiom,c2
+1235,up_5,on the up and up,idiom,c2
+1236,open_2,open doors for somebody,idiom,c2
+1237,open-sesame,open sesame,noun,c2
+1238,opportune,opportune,adjective,c2
+1239,opportunity_1,opportunity,noun,a2
+1240,optimism,optimism,noun,c1
+1241,optimist,optimist,noun,b2
+1242,optimistic,optimistic,adjective,b2
+1243,optimistically,optimistically,adverb,b2
+1244,outperform,outperform,verb,c2
+1245,outstrip,outstrip,verb,c2
+1246,overachieve,overachieve,verb,c2
+1247,overachiever,overachiever,noun,c2
+1248,overambitious,overambitious,adjective,c2
+1249,overdog,overdog,noun,c2
+1250,over-optimistic,over-optimistic,adjective,c2
+1251,own_2,own,verb,c2
+1252,parlay-into,parlay into,phrasal verb,c2
+1253,passport,passport,noun,c2
+1254,pay-off_1,pay off,phrasal verb,c1
+1255,peak_1,peak,noun,c1
+1256,perseverance,perseverance,noun,c1
+1257,persevere,persevere,verb,c1
+1258,persevering,persevering,adjective,c1
+1259,pertinacious,pertinacious,adjective,c2
+1260,pertinacity,pertinacity,noun,c2
+1261,phenom,phenom,noun,c2
+1262,phenomenon,phenomenon,noun,c2
+1263,pin_2,pin (all) your hopes on somebody/something,idiom,c2
+1264,pinnacle,pinnacle,noun,c2
+1265,card_1,play your cards right,idiom,c2
+1266,positive_1,positive,adjective,b1
+1267,power-couple,power couple,noun,c2
+1268,practicable,practicable,adjective,c2
+1269,practical_1,practical,adjective,b1
+1270,practicality,practicality,noun,c1
+1271,pre-eminence,pre-eminence,noun,c2
+1272,pre-eminent,pre-eminent,adjective,c2
+1273,premier_1,premier,adjective,c1
+1274,prevail,prevail,verb,c1
+1275,prime_2,prime,noun,c2
+1276,productive,productive,adjective,c1
+1277,productively,productively,adverb,c1
+1278,progress_1,progress,noun,a2
+1279,progress_2,progress,verb,b2
+1280,promise_2,promise,noun,b2
+1281,promising,promising,adjective,b2
+1282,promisingly,promisingly,adverb,c1
+1283,promote,promote,verb,b1
+1284,promotion,promotion,noun,b2
+1285,propitious,propitious,adjective,c2
+1286,propose,propose a toast (to somebody),idiom,c2
+1287,prospect_1,prospect,noun,b2
+1288,prosper,prosper,verb,c1
+1289,prosperity,prosperity,noun,c1
+1290,prosperous,prosperous,adjective,c1
+1291,pull-off,pull off,phrasal verb,c2
+1292,pull_1,pull out all the stops,idiom,c2
+1293,punch_1,punch above your weight,idiom,c2
+1294,purple-patch,purple patch,noun,c2
+1295,pursue,pursue,verb,b2
+1296,push_2,push,noun,c2
+1297,egg_1,put all your eggs in one basket,idiom,c2
+1298,mind_1,put/set/turn your mind to something,idiom,c2
+1299,money,put your money on somebody/something,idiom,c2
+1300,race_1,race,noun,b2
+1301,race_2,race,verb,a2
+1302,rainmaker,rainmaker,noun,c2
+1303,reach_1,reach for the stars,idiom,c2
+1304,realizable,realizable,adjective,c2
+1305,realize,realize,verb,b2
+1306,recognize,recognize,verb,c1
+1307,record_1,record,noun,a2
+1308,record-breaker,record-breaker,noun,c2
+1309,record-breaking,record-breaking,adjective,c1
+1310,resolve_2,resolve,noun,c1
+1311,respect_1,respect,noun,b1
+1312,respect_2,respect,verb,b1
+1313,laurel,rest/sit on your laurels,idiom,c2
+1314,result_1,result,noun,a2
+1315,ride_1,ride the crest of something,idiom,c2
+1316,rip-roaring,rip-roaring,adjective,c2
+1317,rise_1,rise,verb,b2
+1318,rise_2,rise,noun,b2
+1319,rocket_2,rocket,verb,c2
+1320,rosy,rosy,adjective,c2
+1321,rugged,rugged,adjective,c2
+1322,sail-through,sail through,phrasal verb,c2
+1323,satisfaction,satisfaction,noun,b2
+1324,satisfied,satisfied,adjective,b2
+1325,save_1,save the day/situation,idiom,c2
+1326,situation,save the day/situation,idiom,c2
+1327,score_1,score,verb,c2
+1328,scrape-through,scrape through,phrasal verb,c2
+1329,secret_2,secret,noun,b1
+1330,secure_1,secure,verb,b2
+1331,secure_2,secure,adjective,b2
+1332,securely,securely,adverb,b2
+1333,seed-corn,seed corn,noun,c2
+1334,seek,seek,verb,b2
+1335,self-made,self-made,adjective,c2
+1336,self-realization,self-realization,noun,c2
+1337,self-satisfaction,self-satisfaction,noun,c2
+1338,self-satisfied,self-satisfied,adjective,c2
+1339,sell_1,sell your soul (to the devil),idiom,c2
+1340,fair_2,set fair (to do something/for something),idiom,c2
+1341,foot_1,set somebody/something on their/its feet,idiom,c2
+1342,world,set the world on fire,idiom,c2
+1343,shoot-for,shoot for,phrasal verb,c2
+1344,short-circuit_2,short-circuit,verb,c2
+1345,shot_1,shot,noun,c2
+1346,sine-qua-non,sine qua non,noun,c2
+1347,single-minded,single-minded,adjective,c1
+1348,single-mindedly,single-mindedly,adverb,c2
+1349,single-mindedness,single-mindedness,noun,c1
+1350,singleness,singleness,noun,c2
+1351,sink_1,sink or swim,idiom,c2
+1352,slam-dunk_1,slam dunk,noun,c2
+1353,sleeper,sleeper,noun,c2
+1354,gut_1,slog/sweat/work your guts out,idiom,c2
+1355,smile-on,smile on,phrasal verb,c2
+1356,smug,smug,adjective,c2
+1357,smugly,smugly,adverb,c2
+1358,far_1,"so far, so good",idiom,c2
+1359,arrive,somebody has arrived,idiom,c2
+1360,spoil_2,spoil,noun,c2
+1361,start_2,start,noun,b2
+1362,stature,stature,noun,c2
+1363,the-american-dream,the American dream,noun,c2
+1364,the-holy-grail,the Holy Grail,noun,c2
+1365,steal_1,steal somebody’s thunder,idiom,c2
+1366,stepping-stone,stepping stone,noun,c2
+1367,stick-at,stick at,phrasal verb,c2
+1368,streak_1,streak,noun,c2
+1369,strike_1,strike gold,idiom,c2
+1370,strike_1,strike/hit pay dirt,idiom,c2
+1371,strive,strive,verb,c1
+1372,striving,striving,noun,c2
+1373,stroke_1,stroke,noun,b2
+1374,strong,strong,adjective,b2
+1375,succeed,succeed,verb,a2
+1376,success,success,noun,a1
+1377,successful,successful,adjective,a2
+1378,successfully,successfully,adverb,b1
+1379,success-story,success story,noun,c2
+1380,superman,superman,noun,c2
+1381,superwoman,superwoman,noun,c2
+1382,support_1,support,verb,a2
+1383,support_2,support,noun,a2
+1384,sure-fire,sure-fire,adjective,c2
+1385,surmount,surmount,verb,c2
+1386,sweat_2,sweat/slog/work your guts out,idiom,c2
+1387,swing_1,swing,verb,c2
+1388,swing_1,swing for the fences,idiom,c2
+1389,synergistic,synergistic,adjective,c2
+1390,synergy,synergy,noun,c2
+1391,take_1,take,verb,c2
+1392,take-off_1,take off,phrasal verb,c1
+1393,storm_1,take something/somebody by storm,idiom,c2
+1394,next_1,take something to the next level,idiom,b2
+1395,tall-poppy-syndrome,tall poppy syndrome,noun,c2
+1396,target_1,target,noun,a2
+1397,luck_1,the best of luck (with something),idiom,c1
+1398,brass,the brass ring,idiom,c2
+1399,stacked,the cards/odds are stacked in your favour,idiom,c2
+1400,crest_1,the crest of a/the wave,idiom,c2
+1401,law,the law of the jungle,idiom,c2
+1402,psychological,the psychological moment,idiom,c2
+1403,harm_1,there is no harm in (somebody’s) doing something,idiom,c2
+1404,way_1,there’s more than one way to skin a cat,idiom,c2
+1405,sky_1,the sky’s the limit,idiom,c2
+1406,sweet_1,the sweet smell of success,idiom,c2
+1407,tide_1,the tide turned,idiom,c2
+1408,uncrowned,the uncrowned king/queen (of something),idiom,c2
+1409,third_1,third time lucky,idiom,c2
+1410,thrive,thrive,verb,c1
+1411,thrive-on,thrive on,phrasal verb,c1
+1412,thriving,thriving,adjective,c1
+1413,weight_1,throw your weight about/around,idiom,c2
+1414,thumb_1,thumbs up/down,idiom,c2
+1415,tickety-boo,tickety-boo,adjective,c2
+1416,tip_2,tip,verb,c2
+1417,toast_1,toast,noun,c2
+1418,toast_2,toast,verb,c2
+1419,t,to a T/tee,idiom,c2
+1420,effect_1,"to good, great, dramatic, etc. effect",idiom,c1
+1421,tony_2,Tony,noun,c2
+1422,top_3,top,verb,c1
+1423,top-flight,top-flight,adjective,c2
+1424,top-off,top off,phrasal verb,c2
+1425,tour-de-force,tour de force,noun,c2
+1426,track-record,track record,noun,c2
+1427,test_2,tried and tested/trusted,idiom,c2
+1428,trust_2,tried and tested/trusted,idiom,c2
+1429,true_1,tried and true,idiom,c2
+1430,triumph_1,triumph,noun,c1
+1431,triumph_2,triumph,verb,c2
+1432,triumphal,triumphal,adjective,c2
+1433,triumphalism,triumphalism,noun,c2
+1434,triumphalist,triumphalist,adjective,c2
+1435,triumphant,triumphant,adjective,c2
+1436,triumphantly,triumphantly,adverb,c2
+1437,try_1,try your luck (at something),idiom,c2
+1438,turn-around,turn around,phrasal verb,c2
+1439,turn-round,turn round,phrasal verb,c2
+1440,head_1,two heads are better than one,idiom,c2
+1441,tycoon,tycoon,noun,c2
+1442,ugly-duckling,ugly duckling,noun,c2
+1443,up-and-coming,up-and-coming,adjective,c2
+1444,vainglorious,vainglorious,adjective,c2
+1445,vainglory,vainglory,noun,c2
+1446,vanity,vanity,noun,c2
+1447,viability,viability,noun,c2
+1448,viable,viable,adjective,c1
+1449,victor_1,victor,noun,c2
+1450,victorious,victorious,adjective,c2
+1451,victoriously,victoriously,adverb,c2
+1452,victory,victory,noun,b2
+1453,vie,vie,verb,c2
+1454,vintage_2,vintage,adjective,c2
+1455,walk-into,walk into,phrasal verb,c2
+1456,walk_1,walk it,idiom,c2
+1457,waltz_2,waltz,verb,c2
+1458,well-established,well established,adjective,c1
+1459,well-tried,well tried,adjective,c2
+1460,going_1,when the going gets tough (the tough get going),idiom,c2
+1461,white-hope,white hope,noun,c2
+1462,whizz-kid,whizz-kid,noun,c2
+1463,win_1,win,verb,a1
+1464,spur_1,win/earn your spurs,idiom,c2
+1465,winner,winner,noun,a2
+1466,win_1,win or lose,idiom,c2
+1467,win-out,win out,phrasal verb,c2
+1468,win-through,win through,phrasal verb,c2
+1469,win-win,win-win,adjective,c2
+1470,bang_2,with a bang,idiom,c2
+1471,wizardry,wizardry,noun,c2
+1472,workable,workable,adjective,c1
+1473,work-at,work at,phrasal verb,c2
+1474,charm_1,work like a charm,idiom,c2
+1475,work-on,work on,phrasal verb,b1
+1476,work-out,work out,phrasal verb,c1
+1477,miracle,work/perform miracles,idiom,c2
+1478,work-towards,work towards,phrasal verb,c1
+1479,wonder_2,work wonders,idiom,c2
+1480,wow_3,wow,noun,c2
+1481,wunderkind,wunderkind,noun,c2
+1482,bust_1,… or bust,idiom,c2
+1483,x-factor,X factor,noun,c2
+1484,silk,(you can't) make a silk purse out of a sow’s ear,idiom,c2
+1485,man_1,you can’t keep a good man down,idiom,c2
+1486,omelette,you can’t make an omelette without breaking eggs,idiom,c2
+1487,luck_1,your/somebody’s luck is in,idiom,c2
+1488,zenith_1,zenith,noun,c2

@@ -1,0 +1,1323 @@
+subLink,word,type,level
+0,abattoir,abattoir,noun,c2
+1,acre,acre,noun,c1
+2,agricultural,agricultural,adjective,c1
+3,agriculture,agriculture,noun,b2
+4,arable,arable,adjective,c2
+5,bailiff,bailiff,noun,c2
+6,bale_1,bale,noun,c2
+7,barbed-wire,barbed wire,noun,c1
+8,barley,barley,noun,c1
+9,barn,barn,noun,c1
+10,battery,battery,noun,c2
+11,battery-farm,battery farm,noun,c2
+12,bean_1,bean,noun,b1
+13,beet,beet,noun,c2
+14,blight_2,blight,noun,c2
+15,boer,Boer,noun,c2
+16,brand_1,brand,noun,c2
+17,breed_1,breed,verb,c1
+18,buckwheat,buckwheat,noun,c2
+19,butcher_2,butcher,verb,c2
+20,canola,canola,noun,c2
+21,carcass,carcass,noun,c2
+22,cash-crop,cash crop,noun,c1
+23,castrate,castrate,verb,c2
+24,castration,castration,noun,c2
+25,cattle-grid,cattle grid,noun,c2
+26,cattleman,cattleman,noun,c2
+27,cereal,cereal,noun,b2
+28,chaff_1,chaff,noun,c2
+29,combine_2,combine,noun,c2
+30,commercial-farming,commercial farming,noun,b2
+31,corn,corn,noun,b1
+32,cornfield,cornfield,noun,b2
+33,corral_1,corral,noun,c2
+34,cotton_1,cotton,noun,b1
+35,cowboy,cowboy,noun,b2
+36,cowpoke,cowpoke,noun,c2
+37,cowshed,cowshed,noun,c1
+38,croft,croft,noun,c2
+39,crofter,crofter,noun,c2
+40,crofting,crofting,noun,c2
+41,crop_1,crop,noun,b2
+42,crop_2,crop,verb,c2
+43,crop-dusting,crop dusting,noun,c2
+44,cultivate,cultivate,verb,c1
+45,cultivation,cultivation,noun,c1
+46,cultivator,cultivator,noun,c2
+47,dairy_1,dairy,noun,c1
+48,dairyman,dairyman,noun,c2
+49,dirt-farmer,dirt farmer,noun,c2
+50,dryland-farming,dryland farming,noun,c2
+51,dude-ranch,dude ranch,noun,c2
+52,ear,ear,noun,c2
+53,earth_1,earth,noun,b1
+54,elevator,elevator,noun,c2
+55,factory-farm,factory farm,noun,c1
+56,factory-farming,factory farming,noun,c1
+57,fallow,fallow,adjective,c2
+58,farm_1,farm,noun,a1
+59,farmer,farmer,noun,a1
+60,farmhand,farmhand,noun,c2
+61,farming,farming,noun,a2
+62,farmyard,farmyard,noun,c2
+63,fatten,fatten,verb,c2
+64,feed_1,feed,verb,a2
+65,fence_1,fence,noun,b1
+66,fertile,fertile,adjective,c1
+67,fertilization,fertilization,noun,c1
+68,fertilize,fertilize,verb,c1
+69,fertilizer,fertilizer,noun,c1
+70,field_1,field,noun,a2
+71,field-corn,field corn,noun,c2
+72,field-hand,field hand,noun,c2
+73,fish-farm,fish farm,noun,b1
+74,fodder,fodder,noun,c2
+75,fold_3,fold,noun,c2
+76,food-chain,food chain,noun,b2
+77,foot-and-mouth-disease,foot-and-mouth disease,noun,c2
+78,free-range_1,free-range,adjective,c2
+79,fruit_1,fruit,noun,a1
+80,furrow_1,furrow,noun,c2
+81,genetically-modified,genetically modified,adjective,b2
+82,glasshouse,glasshouse,noun,c2
+83,gm_2,GM,abbreviation,b2
+84,grain,grain,noun,b1
+85,grain-elevator,grain elevator,noun,c2
+86,graze_1,graze,verb,c2
+87,grazier,grazier,noun,c2
+88,greenhouse,greenhouse,noun,b2
+89,grow,grow,verb,a1
+90,growing-season,growing season,noun,b2
+91,hand_1,hand,noun,c2
+92,harvest_1,harvest,noun,c1
+93,harvest_2,harvest,verb,c1
+94,hay,hay,noun,c1
+95,hayloft,hayloft,noun,c2
+96,haystack,haystack,noun,c2
+97,hedgerow,hedgerow,noun,c2
+98,herd_2,herd,verb,c2
+99,herder,herder,noun,c2
+100,hired-hand,hired hand,noun,c2
+101,homestead_1,homestead,noun,c2
+102,hoof-and-mouth-disease,hoof-and-mouth disease,noun,c2
+103,husbandry,husbandry,noun,c2
+104,insecticide,insecticide,noun,c1
+105,intensive,intensive,adjective,c1
+106,irrigate,irrigate,verb,c2
+107,jackaroo,jackaroo,noun,c2
+108,jillaroo,jillaroo,noun,c2
+109,keep_1,keep,verb,b2
+110,laborer,laborer,noun,c1
+111,labourer,labourer,noun,c1
+112,lamb_2,lamb,verb,c2
+113,landowner,landowner,noun,c1
+114,legume,legume,noun,c2
+115,lime_1,lime,noun,c2
+116,livestock,livestock,noun,c1
+117,loam,loam,noun,c2
+118,maize,maize,noun,c1
+119,manure_1,manure,noun,c2
+120,manure_2,manure,verb,c2
+121,marginal_1,marginal,adjective,c2
+122,meadow,meadow,noun,c1
+123,meal,meal,noun,c2
+124,milk_2,milk,verb,b2
+125,milking,milking,noun,c1
+126,mill_1,mill,noun,c1
+127,monoculture,monoculture,noun,c2
+128,muck_1,muck,noun,c2
+129,nitrate,nitrate,noun,c2
+130,oats,oats,noun,c2
+131,oilseed-rape,oilseed rape,noun,c2
+132,hoof_1,on the hoof,idiom,c2
+133,orchard,orchard,noun,c2
+134,organic,organic,adjective,b2
+135,paddock,paddock,noun,c2
+136,paddy_1,paddy,noun,c2
+137,pasteurization,pasteurization,noun,c2
+138,pasteurize,pasteurize,verb,c2
+139,pasture_1,pasture,noun,c2
+140,pasture_2,pasture,verb,c2
+141,peasant,peasant,noun,c1
+142,pen_1,pen,noun,c2
+143,permaculture,permaculture,noun,c2
+144,pest,pest,noun,c1
+145,pesticide,pesticide,noun,b2
+146,pick_1,pick,verb,b1
+147,picker,picker,noun,c2
+148,pigsty,pigsty,noun,c2
+149,plant_2,plant,verb,a2
+150,plantation,plantation,noun,c1
+151,planter,planter,noun,c1
+152,plough_1,plough,noun,c2
+153,plough_2,plough,verb,c2
+154,plough-back,plough back,phrasal verb,c2
+155,plough-back-in,plough back in,phrasal verb,c2
+156,ploughman,ploughman,noun,c2
+157,plough-up,plough up,phrasal verb,c2
+158,plow_1,plow,noun,c2
+159,plow_2,plow,verb,c2
+160,polytunnel,polytunnel,noun,c2
+161,produce_1,produce,verb,a2
+162,produce_2,produce,noun,b2
+163,producer,producer,noun,b1
+164,productive,productive,adjective,c1
+165,pulse_1,pulse,noun,c2
+166,raise_1,raise,verb,c1
+167,ranch,ranch,noun,b1
+168,rancher,rancher,noun,c2
+169,rape_1,rape,noun,c2
+170,rapeseed,rapeseed,noun,c2
+171,reap,reap,verb,c1
+172,reaper,reaper,noun,c2
+173,rear_3,rear,verb,c2
+174,rice,rice,noun,a1
+175,ripe,ripe,adjective,c1
+176,rotation,rotation,noun,c1
+177,run_2,run,noun,c2
+178,runt,runt,noun,c2
+179,rustler,rustler,noun,c2
+180,rye,rye,noun,c2
+181,scarecrow,scarecrow,noun,c2
+182,seed_1,seed,noun,b1
+183,serf,serf,noun,c2
+184,sharecropper,sharecropper,noun,c2
+185,shear,shear,verb,c2
+186,shed_2,shed,noun,c1
+187,sheep-dip,sheep dip,noun,c2
+188,sheepfold,sheepfold,noun,c2
+189,sheepherder,sheepherder,noun,c2
+190,shepherd_1,shepherd,noun,c1
+191,silage,silage,noun,c2
+192,silo,silo,noun,c2
+193,slaughter_1,slaughter,noun,c2
+194,slaughter_2,slaughter,verb,c2
+195,slaughterhouse,slaughterhouse,noun,c2
+196,soil_1,soil,noun,b1
+197,sorghum,sorghum,noun,c2
+198,sow1,sow,verb,c2
+199,sower,sower,noun,c2
+200,soya,soya,noun,c1
+201,spray_2,spray,verb,c1
+202,sprayer,sprayer,noun,c2
+203,sprinkler,sprinkler,noun,c2
+204,stable_2,stable,noun,c1
+205,stall_1,stall,noun,c2
+206,staple_2,staple,noun,c2
+207,station_1,station,noun,c2
+208,stile,stile,noun,c2
+209,stockman,stockman,noun,c2
+210,straw,straw,noun,b2
+211,stubble,stubble,noun,c2
+212,stud_1,stud,noun,c2
+213,sty,sty,noun,c2
+214,subsoil,subsoil,noun,c2
+215,sugar-beet,sugar beet,noun,c2
+216,sugar-cane,sugar cane,noun,c1
+217,sunflower,sunflower,noun,b2
+218,team_1,team,noun,c2
+219,terrace,terrace,noun,c2
+220,thresh,thresh,verb,c2
+221,topsoil,topsoil,noun,c1
+222,tractor,tractor,noun,c1
+223,trough,trough,noun,c2
+224,uncultivated,uncultivated,adjective,c2
+225,plough_1,under the plough,idiom,c2
+226,vegetable,vegetable,noun,a1
+227,vet_1,vet,noun,b2
+228,veterinarian,veterinarian,noun,c2
+229,veterinary-surgeon,veterinary surgeon,noun,c2
+230,vineyard,vineyard,noun,c1
+231,vintage_1,vintage,noun,c2
+232,water_2,water,verb,b1
+233,water-tower,water tower,noun,c1
+234,wheat,wheat,noun,b2
+235,windmill,windmill,noun,c1
+236,winegrower,winegrower,noun,c1
+237,winemaker,winemaker,noun,c1
+238,yeoman,yeoman,noun,c2
+239,yield_1,yield,noun,c1
+240,yield_2,yield,verb,c1
+241,africa,Africa,noun,a1
+242,altitude,altitude,noun,c1
+243,antarctic,Antarctic,adjective,b1
+244,antarctica,Antarctica,noun,b1
+245,archipelago,archipelago,noun,c2
+246,arctic_1,Arctic,adjective,b1
+247,arctic_2,Arctic,noun,b1
+248,area,area,noun,a1
+249,arid,arid,adjective,c1
+250,ashore,ashore,adverb,c2
+251,asia,Asia,noun,a1
+252,australasia,Australasia,noun,c2
+253,avalanche,avalanche,noun,b2
+254,babble_2,babble,verb,c2
+255,bank_1,bank,noun,b1
+256,barrage,barrage,noun,c2
+257,barren,barren,adjective,c1
+258,basin,basin,noun,c2
+259,bay_1,bay,noun,c1
+260,beach_1,beach,noun,a1
+261,bed_1,bed,noun,b2
+262,belt_1,belt,noun,c2
+263,bend_2,bend,noun,b1
+264,bog_1,bog,noun,c2
+265,bore_2,bore,noun,c2
+266,boreal,boreal,adjective,c2
+267,bottom_1,bottom,noun,a2
+268,boulder,boulder,noun,c2
+269,branch_1,branch,noun,c1
+270,branch_2,branch,verb,c1
+271,branch-off,branch off,phrasal verb,c2
+272,breakwater,breakwater,noun,c2
+273,bridge_1,bridge,noun,a2
+274,brook_1,brook,noun,c2
+275,brow,brow,noun,c2
+276,brush_2,brush,noun,c2
+277,burn_2,burn,noun,c2
+278,cairn,cairn,noun,c2
+279,calve,calve,verb,c2
+280,canal,canal,noun,b2
+281,canyon,canyon,noun,b2
+282,cape,cape,noun,c2
+283,cascade_1,cascade,noun,c2
+284,cave_1,cave,noun,b2
+285,channel_1,channel,noun,c1
+286,clearing,clearing,noun,c1
+287,cliff_1,cliff,noun,b2
+288,coast_1,coast,noun,a2
+289,coastal,coastal,adjective,c1
+290,coastline,coastline,noun,b1
+291,col_1,col,noun,c2
+292,cold_1,cold,adjective,a1
+293,continent_2,continent,noun,a2
+294,continental_1,continental,adjective,c1
+295,corrie_1,corrie,noun,c2
+296,country,country,noun,a1
+297,countryside,countryside,noun,b1
+298,course_1,course,noun,b2
+299,cove,cove,noun,c1
+300,crag,crag,noun,c2
+301,craggy,craggy,adjective,c2
+302,crater,crater,noun,c1
+303,creek_1,creek,noun,c2
+304,crest_1,crest,noun,c2
+305,cross-current,cross-current,noun,c2
+306,crown_1,crown,noun,c2
+307,culvert,culvert,noun,c2
+308,current_2,current,noun,b2
+309,dale_1,dale,noun,c2
+310,dam_1,dam,noun,c1
+311,dell,dell,noun,c2
+312,delta_1,delta,noun,c2
+313,deposit_1,deposit,noun,c1
+314,deposit_2,deposit,verb,c2
+315,desert_1,desert,noun,a2
+316,desolate_1,desolate,adjective,c1
+317,dike,dike,noun,c2
+318,dip_2,dip,noun,c2
+319,district,district,noun,b2
+320,dock_1,dock,noun,c1
+321,downriver,downriver,adverb,c1
+322,downstate_1,downstate,adverb,c1
+323,downstate_2,downstate,adjective,c1
+324,downstream_1,downstream,adverb,c1
+325,downstream_2,downstream,adjective,c1
+326,driftwood,driftwood,noun,c2
+327,drumlin,drumlin,noun,c2
+328,dry_1,dry,adjective,a2
+329,dune,dune,noun,b2
+330,dyke,dyke,noun,c2
+331,east_1,east,noun,a1
+332,east_2,east,adjective,a1
+333,eastern,eastern,adjective,b1
+334,eddy_1,eddy,noun,c2
+335,equator,equator,noun,b2
+336,equatorial,equatorial,adjective,c2
+337,erode,erode,verb,c1
+338,erosion,erosion,noun,b2
+339,esplanade,esplanade,noun,c2
+340,estuary,estuary,noun,c1
+341,europe,Europe,noun,a1
+342,farmland,farmland,noun,b1
+343,fault_1,fault,noun,c2
+344,fell_1,fell,noun,c2
+345,fertile,fertile,adjective,c1
+346,fiord,fiord,noun,c2
+347,firth,firth,noun,c2
+348,fjord,fjord,noun,c2
+349,flank_1,flank,noun,c2
+350,flat_2,flat,adjective,a2
+351,flood_2,flood,verb,b1
+352,floodgate,floodgate,noun,c2
+353,floodplain,floodplain,noun,c2
+354,flood-tide,flood tide,noun,c2
+355,flow_1,flow,noun,c1
+356,foothill,foothill,noun,c2
+357,ford_1,ford,noun,c2
+358,foreshore,foreshore,noun,c2
+359,forest,forest,noun,a2
+360,fork_1,fork,noun,c1
+361,formation,formation,noun,b2
+362,freshwater,freshwater,adjective,b2
+363,geographer,geographer,noun,b2
+364,geographical,geographical,adjective,b1
+365,geography,geography,noun,a1
+366,geology,geology,noun,b2
+367,glacial,glacial,adjective,c2
+368,glacier,glacier,noun,b2
+369,glade,glade,noun,c2
+370,gorge_1,gorge,noun,c1
+371,gradient,gradient,noun,c1
+372,grassland,grassland,noun,b1
+373,ground_1,ground,noun,a2
+374,groyne,groyne,noun,c2
+375,gulch,gulch,noun,c2
+376,gulf,gulf,noun,c1
+377,hanging-valley,hanging valley,noun,c2
+378,head_1,head,noun,c2
+379,headland,headland,noun,c2
+380,headwaters,headwaters,noun,c2
+381,heath,heath,noun,c2
+382,hemisphere,hemisphere,noun,b2
+383,highland_1,highland,adjective,b2
+384,highland_2,highland,noun,b2
+385,high-tide,high tide,noun,c1
+386,high-water,high water,noun,c2
+387,hill,hill,noun,a2
+388,hillock,hillock,noun,c2
+389,hillside,hillside,noun,b2
+390,hilltop,hilltop,noun,b2
+391,hilly,hilly,adjective,c1
+392,hinterland,hinterland,noun,c2
+393,horizon_1,horizon,noun,c1
+394,hot_1,hot,adjective,a1
+395,humid,humid,adjective,c1
+396,iceberg,iceberg,noun,c1
+397,ice-cap,ice cap,noun,b2
+398,ice-floe,ice floe,noun,c2
+399,ice-sheet,ice sheet,noun,c2
+400,ice-shelf,ice shelf,noun,c2
+401,incline_2,incline,noun,c2
+402,inland_2,inland,adjective,c1
+403,inlet,inlet,noun,c2
+404,inshore_1,inshore,adverb,c2
+405,inshore_2,inshore,adjective,c2
+406,inundate,inundate,verb,c2
+407,island,island,noun,a1
+408,isthmus,isthmus,noun,c2
+409,jetty,jetty,noun,c2
+410,jungle,jungle,noun,b1
+411,knoll,knoll,noun,c2
+412,lagoon,lagoon,noun,c2
+413,lake,lake,noun,a2
+414,lakefront,lakefront,noun,c2
+415,lakeside,lakeside,noun,b2
+416,land-bridge,land bridge,noun,c1
+417,landscape_1,landscape,noun,b2
+418,latitude,latitude,noun,c1
+419,ledge,ledge,noun,c2
+420,levee,levee,noun,c2
+421,loch,loch,noun,b2
+422,longitude,longitude,noun,c1
+423,lough,lough,noun,c2
+424,lowland_2,lowland,noun,b2
+425,low-tide,low tide,noun,c1
+426,low-water,low water,noun,c2
+427,magnetic-north,magnetic north,noun,c2
+428,map_1,map,noun,a1
+429,map_2,map,verb,b2
+430,marina,marina,noun,c2
+431,marine_1,marine,adjective,c1
+432,maritime,maritime,adjective,c2
+433,marsh,marsh,noun,c2
+434,marshy,marshy,adjective,c2
+435,meander_1,meander,verb,c2
+436,meridian,meridian,noun,c2
+437,midstream,midstream,noun,c2
+438,millpond,millpond,noun,c2
+439,millstream,millstream,noun,c2
+440,moor_1,moor,noun,c2
+441,moorland,moorland,noun,c2
+442,moraine,moraine,noun,c2
+443,morass,morass,noun,c2
+444,mound,mound,noun,c2
+445,mount_2,mount,noun,b2
+446,mountain,mountain,noun,a1
+447,mountainous,mountainous,adjective,b2
+448,mountainside,mountainside,noun,b2
+449,mountaintop_1,mountaintop,noun,b2
+450,mountaintop_2,mountaintop,adjective,b2
+451,mouth_1,mouth,noun,b2
+452,mud_1,mud,noun,b1
+453,narrows,narrows,noun,c2
+454,north_1,north,noun,a1
+455,north_2,north,adjective,a1
+456,north-america,North America,noun,a1
+457,north-east_2,north-east,adjective,a2
+458,north-east_3,north-east,noun,a2
+459,north-eastern,north-eastern,adjective,b1
+460,northern,northern,adjective,b1
+461,north-west_2,north-west,adjective,a2
+462,north-west_3,north-west,noun,a2
+463,north-western,north-western,adjective,b1
+464,ocean,ocean,noun,a2
+465,offshore_1,offshore,adjective,c1
+466,oilfield,oilfield,noun,c1
+467,outback,outback,noun,b2
+468,outskirts,outskirts,noun,c1
+469,sea,out to sea,idiom,b2
+470,oxbow,oxbow,noun,c2
+471,parched,parched,adjective,c2
+472,pavement,pavement,noun,c2
+473,peak_1,peak,noun,c1
+474,peatland,peatland,noun,c2
+475,peninsula,peninsula,noun,c1
+476,pinnacle,pinnacle,noun,c2
+477,plain_2,plain,noun,c1
+478,plantation,plantation,noun,c1
+479,plateau_1,plateau,noun,c1
+480,plunge-pool,plunge pool,noun,c1
+481,pole_1,pole,noun,c1
+482,pond,pond,noun,c1
+483,pool_1,pool,noun,a2
+484,port_1,port,noun,b1
+485,pothole,pothole,noun,c2
+486,prairie,prairie,noun,c2
+487,precipice,precipice,noun,c2
+488,promenade_1,promenade,noun,c2
+489,promontory,promontory,noun,c2
+490,quicksand,quicksand,noun,c2
+491,rainforest,rainforest,noun,a2
+492,range_1,range,noun,c1
+493,rapids,rapids,noun,c1
+494,ravine,ravine,noun,c1
+495,reef_1,reef,noun,b2
+496,region,region,noun,a2
+497,reservoir,reservoir,noun,c1
+498,ridge_1,ridge,noun,c1
+499,rift,rift,noun,c1
+500,rift-valley,rift valley,noun,c2
+501,rip-tide,rip tide,noun,c2
+502,river,river,noun,a1
+503,riverbank,riverbank,noun,b2
+504,riverside,riverside,noun,b2
+505,riviera,riviera,noun,c2
+506,rivulet,rivulet,noun,c2
+507,rock_1,rock,noun,a2
+508,rock-face,rock face,noun,c1
+509,rock-pool,rock pool,noun,b2
+510,rolling,rolling,adjective,c2
+511,rugged,rugged,adjective,c1
+512,rural,rural,adjective,b2
+513,salt-marsh,salt marsh,noun,c2
+514,salt-water,salt water,noun,b2
+515,saltwater,saltwater,adjective,b2
+516,sand_1,sand,noun,b1
+517,sandbank,sandbank,noun,c1
+518,sandbar,sandbar,noun,c2
+519,sand-dune,sand dune,noun,b2
+520,sandy_1,sandy,adjective,b2
+521,scree,scree,noun,c2
+522,sea,sea,noun,a1
+523,sea-level,sea level,noun,a2
+524,seashore,seashore,noun,b2
+525,seaside_1,seaside,noun,b1
+526,seaside_2,seaside,adjective,b1
+527,seaward_1,seaward,adjective,c2
+528,seaward_2,seaward,adverb,c2
+529,sediment,sediment,noun,c1
+530,semi-tropical,semi-tropical,adjective,c1
+531,shingle,shingle,noun,c2
+532,shore_1,shore,noun,b2
+533,shoreline,shoreline,noun,c1
+534,shoulder_1,shoulder,noun,c2
+535,silt_1,silt,noun,c2
+536,slope_1,slope,noun,b2
+537,sluice_1,sluice,noun,c2
+538,snowslide,snowslide,noun,c1
+539,source_1,source,noun,b2
+540,south_1,south,noun,a1
+541,south_2,south,adjective,a1
+542,south-america,South America,noun,a1
+543,south-east_2,south-east,adjective,a2
+544,south-east_3,south-east,noun,a2
+545,south-eastern,south-eastern,adjective,b1
+546,southern,southern,adjective,b1
+547,south-west_2,south-west,adjective,a2
+548,south-west_3,south-west,noun,a2
+549,south-western,south-western,adjective,b1
+550,spring_1,spring,noun,b2
+551,spur_1,spur,noun,c2
+552,the-high-seas,the high seas,noun,c2
+553,the-north-pole,the North Pole,noun,b2
+554,the-seabed,the seabed,noun,b2
+555,the-south-pole,the South Pole,noun,b2
+556,the-subtropics,the subtropics,noun,c2
+557,the-shallows,the shallows,noun,c2
+558,steep_1,steep,adjective,b2
+559,stepping-stone,stepping stone,noun,c2
+560,strand_1,strand,noun,c2
+561,stream_1,stream,noun,b2
+562,subarctic,subarctic,adjective,c2
+563,subcontinent,subcontinent,noun,c2
+564,subtropical,subtropical,adjective,c1
+565,suburb,suburb,noun,b2
+566,summit,summit,noun,c1
+567,surf_1,surf,noun,c1
+568,survey_2,survey,verb,c1
+569,swamp_1,swamp,noun,c1
+570,swell_2,swell,noun,c2
+571,tarn,tarn,noun,c2
+572,tectonic,tectonic,adjective,c1
+573,temperate,temperate,adjective,c2
+574,terracing,terracing,noun,c2
+575,terrain,terrain,noun,c1
+576,tidal,tidal,adjective,c1
+577,tidal-wave,tidal wave,noun,c1
+578,tide_1,tide,noun,c1
+579,tideline,tideline,noun,c2
+580,tidemark,tidemark,noun,c2
+581,tor,tor,noun,c2
+582,town,town,noun,a1
+583,treeline,treeline,noun,c2
+584,tributary,tributary,noun,c2
+585,tropic,tropic,noun,c1
+586,tropical,tropical,adjective,b2
+587,true-north,true north,noun,c2
+588,tundra,tundra,noun,c1
+589,upriver,upriver,adverb,c1
+590,upstate_1,upstate,adverb,c1
+591,upstate_2,upstate,adjective,c1
+592,upstream,upstream,adverb,c1
+593,urban,urban,adjective,b2
+594,vale,vale,noun,c2
+595,valley,valley,noun,a2
+596,village,village,noun,a1
+597,volcanic,volcanic,adjective,b2
+598,volcano,volcano,noun,b1
+599,watercourse,watercourse,noun,c2
+600,waterfall,waterfall,noun,b1
+601,water-meadow,water meadow,noun,c2
+602,waterside,waterside,noun,c1
+603,waterway,waterway,noun,b2
+604,weir,weir,noun,c2
+605,west_1,west,noun,a1
+606,west_2,west,adjective,a1
+607,western_1,western,adjective,b1
+608,wharf,wharf,noun,c2
+609,whirlpool,whirlpool,noun,c2
+610,wood,wood,noun,a2
+611,wooded,wooded,adjective,c1
+612,woodland,woodland,noun,b1
+613,zone_1,zone,noun,b2
+614,acacia,acacia,noun,c2
+615,acorn,acorn,noun,c2
+616,algae,algae,noun,c1
+617,aloe,aloe,noun,c2
+618,annual_2,annual,noun,c2
+619,ash_1,ash,noun,c2
+620,aspen_1,aspen,noun,c2
+621,bamboo,bamboo,noun,c1
+622,banyan,banyan,noun,c2
+623,baobab,baobab,noun,c2
+624,bark_1,bark,noun,c1
+625,beech,beech,noun,c2
+626,belladonna,belladonna,noun,c2
+627,biennial_2,biennial,noun,c2
+628,birch,birch,noun,c2
+629,black-cherry,black cherry,noun,c1
+630,blade,blade,noun,c2
+631,bloom_1,bloom,noun,c2
+632,bloom_2,bloom,verb,c2
+633,blossom_1,blossom,noun,c1
+634,blossom_2,blossom,verb,c1
+635,bougainvillea,bougainvillea,noun,c2
+636,bough,bough,noun,c2
+637,bouquet,bouquet,noun,c1
+638,bracken,bracken,noun,c2
+639,bramble,bramble,noun,c2
+640,branch_1,branch,noun,b1
+641,bud_1,bud,noun,c1
+642,bud_2,bud,verb,c2
+643,bulb,bulb,noun,c1
+644,bunch_1,bunch,noun,b2
+645,bur,bur,noun,c2
+646,burdock,burdock,noun,c2
+647,burr,burr,noun,c2
+648,bush,bush,noun,b2
+649,buttercup,buttercup,noun,c2
+650,cactus,cactus,noun,c1
+651,calyx,calyx,noun,c2
+652,cambium,cambium,noun,c2
+653,cane_1,cane,noun,c1
+654,canopy,canopy,noun,c1
+655,carnation,carnation,noun,c2
+656,cattail,cattail,noun,c2
+657,cedar,cedar,noun,c2
+658,cherry_1,cherry,noun,b2
+659,chestnut_1,chestnut,noun,c2
+660,chlorophyll,chlorophyll,noun,c2
+661,chokecherry,chokecherry,noun,c2
+662,chrysanthemum,chrysanthemum,noun,c2
+663,clematis,clematis,noun,c2
+664,climber,climber,noun,c2
+665,clove_1,clove,noun,c2
+666,clover,clover,noun,c2
+667,cone_2,cone,noun,c2
+668,conifer,conifer,noun,c2
+669,coniferous,coniferous,adjective,c2
+670,cork_1,cork,noun,c2
+671,cotyledon,cotyledon,noun,c2
+672,creeper,creeper,noun,c2
+673,crocus,crocus,noun,c2
+674,cross_1,cross,verb,c2
+675,cross_2,cross,noun,c2
+676,crown_1,crown,noun,c1
+677,custard-apple,custard apple,noun,c2
+678,cutting_1,cutting,noun,c1
+679,cypress,cypress,noun,c2
+680,daffodil,daffodil,noun,c1
+681,daisy_1,daisy,noun,c2
+682,dandelion,dandelion,noun,c2
+683,daylily,daylily,noun,c2
+684,deadly-nightshade,deadly nightshade,noun,c2
+685,deciduous,deciduous,adjective,c2
+686,dwarf_2,dwarf,adjective,c2
+687,elm,elm,noun,c2
+688,eucalyptus,eucalyptus,noun,c2
+689,evergreen_1,evergreen,adjective,c2
+690,evergreen_2,evergreen,noun,c2
+691,fern,fern,noun,c2
+692,fig_1,fig,noun,c2
+693,fir_1,fir,noun,c1
+694,flora,flora,noun,c2
+695,flower_1,flower,noun,a1
+696,flower_2,flower,verb,b2
+697,foliage,foliage,noun,c2
+698,foxglove,foxglove,noun,c2
+699,frangipani,frangipani,noun,c2
+700,fuchsia,fuchsia,noun,c2
+701,fungus,fungus,noun,c1
+702,genus,genus,noun,c1
+703,geranium,geranium,noun,c2
+704,ginkgo,ginkgo,noun,c2
+705,goldenrod,goldenrod,noun,c2
+706,gorse,gorse,noun,c2
+707,graft_1,graft,noun,c2
+708,grass_1,grass,noun,a2
+709,hazel_1,hazel,noun,c2
+710,heather_1,heather,noun,c2
+711,hemlock,hemlock,noun,c2
+712,hemp,hemp,noun,c2
+713,hibiscus,hibiscus,noun,c2
+714,holly_1,holly,noun,c2
+715,honeysuckle,honeysuckle,noun,c2
+716,hop_2,hop,noun,c2
+717,horse-chestnut,horse chestnut,noun,c2
+718,husk_1,husk,noun,c2
+719,iris_1,iris,noun,c2
+720,ivy_1,ivy,noun,c2
+721,jacaranda,jacaranda,noun,c2
+722,jasmine_1,jasmine,noun,c2
+723,lavender,lavender,noun,c2
+724,leaf_1,leaf,noun,b1
+725,lilac_1,lilac,noun,c2
+726,lily_1,lily,noun,c2
+727,lime_1,lime,noun,c1
+728,linden,linden,noun,c2
+729,lush_1,lush,adjective,c1
+730,magnolia,magnolia,noun,c2
+731,maidenhair-tree,maidenhair tree,noun,c2
+732,maple,maple,noun,c1
+733,milkweed,milkweed,noun,c2
+734,mimosa,mimosa,noun,c2
+735,mint_1,mint,noun,b1
+736,mistletoe,mistletoe,noun,c2
+737,moss,moss,noun,c2
+738,mountain-ash,mountain ash,noun,c2
+739,mushroom_1,mushroom,noun,a2
+740,needle_1,needle,noun,c1
+741,nettle_1,nettle,noun,c2
+742,nursery_1,nursery,noun,c2
+743,oak,oak,noun,c1
+744,olive_1,olive,noun,b2
+745,orchid,orchid,noun,c1
+746,palm_1,palm,noun,b2
+747,pandanus,pandanus,noun,c2
+748,papyrus,papyrus,noun,c2
+749,parsley,parsley,noun,c2
+750,peppermint,peppermint,noun,c2
+751,perennial_1,perennial,adjective,c2
+752,perennial_2,perennial,noun,c2
+753,petal,petal,noun,c1
+754,pine_1,pine,noun,c1
+755,plankton,plankton,noun,c2
+756,plant_1,plant,noun,a1
+757,pod,pod,noun,c1
+758,pollen,pollen,noun,b2
+759,pollinate,pollinate,verb,c1
+760,poplar,poplar,noun,c2
+761,poppy_1,poppy,noun,c2
+762,prickle_2,prickle,noun,c2
+763,primrose_1,primrose,noun,c2
+764,propagate,propagate,verb,c2
+765,redwood,redwood,noun,c2
+766,reed,reed,noun,c1
+767,ring1_1,ring,noun,b1
+768,root_1,root,noun,b2
+769,rose_1,rose,noun,b2
+770,rowan,rowan,noun,c2
+771,rush_2,rush,noun,c2
+772,samphire,samphire,noun,c2
+773,sap_1,sap,noun,c2
+774,sapling,sapling,noun,c2
+775,scrub_2,scrub,noun,c2
+776,seaweed,seaweed,noun,c1
+777,seed_1,seed,noun,b1
+778,seedling,seedling,noun,c2
+779,sepal,sepal,noun,c2
+780,shamrock,shamrock,noun,c2
+781,shoot_2,shoot,noun,c1
+782,shrub,shrub,noun,c2
+783,snowdrop,snowdrop,noun,c2
+784,spine,spine,noun,c2
+785,spore,spore,noun,c2
+786,sprig,sprig,noun,c2
+787,sprout_1,sprout,verb,c2
+788,sprout_2,sprout,noun,c2
+789,spruce_1,spruce,noun,c2
+790,stalk_1,stalk,noun,c2
+791,stamen,stamen,noun,c2
+792,stem_1,stem,noun,c1
+793,stinging-nettle,stinging nettle,noun,c2
+794,stump_1,stump,noun,c2
+795,sucker_1,sucker,noun,c2
+796,sugar-maple,sugar maple,noun,c2
+797,sunflower,sunflower,noun,b2
+798,sycamore,sycamore,noun,c2
+799,thistle,thistle,noun,c2
+800,thorn,thorn,noun,c2
+801,timber,timber,noun,c1
+802,toadstool,toadstool,noun,c2
+803,tree,tree,noun,a1
+804,trunk,trunk,noun,c1
+805,tulip,tulip,noun,c1
+806,twig_1,twig,noun,c1
+807,undergrowth,undergrowth,noun,c2
+808,vanilla_1,vanilla,noun,c1
+809,vegetation,vegetation,noun,c1
+810,vine,vine,noun,c1
+811,violet_2,violet,noun,c1
+812,walnut,walnut,noun,c2
+813,weed_1,weed,noun,c1
+814,wild_1,wild,adjective,a2
+815,willow_1,willow,noun,c2
+816,window-box,window box,noun,c1
+817,wither,wither,verb,c2
+818,wreath,wreath,noun,c2
+819,yew,yew,noun,c2
+820,yuzu,yuzu,noun,c2
+821,acid-rain,acid rain,noun,c1
+822,act_2,act of God,idiom,c2
+823,aerosol,aerosol,noun,c2
+824,aftershock,aftershock,noun,c2
+825,aid_1,aid,noun,b2
+826,air_1,air,noun,a1
+827,airlift_1,airlift,noun,c2
+828,airlift_2,airlift,verb,c2
+829,air-quality,air quality,noun,a2
+830,alternative-fuel,alternative fuel,noun,b2
+831,asbestos,asbestos,noun,c2
+832,atomic-energy,atomic energy,noun,c1
+833,avalanche,avalanche,noun,b2
+834,biodegradable,biodegradable,adjective,c1
+835,biodiversity,biodiversity,noun,c1
+836,biofuel,biofuel,noun,b2
+837,biogas,biogas,noun,c2
+838,biohazard,biohazard,noun,c2
+839,biological-diversity,biological diversity,noun,c1
+840,biome,biome,noun,b2
+841,blackout,blackout,noun,c2
+842,blizzard,blizzard,noun,b2
+843,bottle-bank,bottle bank,noun,b2
+844,cable_1,cable,noun,b2
+845,cap-and-trade,cap and trade,noun,c2
+846,carbon,carbon,noun,b2
+847,carbon-capture-and-storage,carbon capture and storage,noun,c1
+848,carbon-credit,carbon credit,noun,c2
+849,carbon-debt,carbon debt,noun,c2
+850,carbon-dioxide,carbon dioxide,noun,b2
+851,carbon-footprint,carbon footprint,noun,b2
+852,carbon-monoxide,carbon monoxide,noun,c1
+853,carbon-neutral,carbon-neutral,adjective,c1
+854,carbon-offset,carbon offset,noun,c2
+855,carbon-sequestration,carbon sequestration,noun,c2
+856,carbon-trading,carbon trading,noun,c1
+857,cataclysm,cataclysm,noun,c2
+858,catalytic-converter,catalytic converter,noun,c2
+859,cfc,CFC,noun,c2
+860,clean_1,clean,adjective,a1
+861,clean-up_2,clean-up,noun,b2
+862,clean-up_1,clean up,phrasal verb,b1
+863,climate,climate,noun,a2
+864,climate-action,climate action,noun,b2
+865,climate-change,climate change,noun,a2
+866,climate-change-denial,climate change denial,noun,c1
+867,climate-crisis,climate crisis,noun,b2
+868,climate-denial,climate denial,noun,c1
+869,climate-emergency,climate emergency,noun,b1
+870,climate-strike,climate strike,noun,b2
+871,coal,coal,noun,b1
+872,compost_2,compost,verb,c2
+873,conservancy,conservancy,noun,c2
+874,conservation,conservation,noun,b2
+875,conservation-area,conservation area,noun,b2
+876,conservationist,conservationist,noun,c1
+877,conserve_1,conserve,verb,c1
+878,consume,consume,verb,b1
+879,consumption,consumption,noun,b2
+880,contaminate,contaminate,verb,c1
+881,contamination,contamination,noun,c1
+882,cooling-tower,cooling tower,noun,c2
+883,crude_2,crude,noun,c2
+884,cyclone,cyclone,noun,c1
+885,dam_1,dam,noun,c1
+886,death-toll,death toll,noun,c2
+887,deforestation,deforestation,noun,b2
+888,derrick,derrick,noun,c2
+889,disaster-area,disaster area,noun,b1
+890,disposal,disposal,noun,c1
+891,diversity,diversity,noun,b2
+892,drill_2,drill,verb,c1
+893,drought,drought,noun,b2
+894,dump_1,dump,verb,b2
+895,dumper,dumper,noun,c1
+896,dumping,dumping,noun,c1
+897,dust-storm,dust storm,noun,b2
+898,earthquake,earthquake,noun,b1
+899,eco-anxiety,eco-anxiety,noun,c1
+900,eco-friendly,eco-friendly,adjective,b2
+901,ecological,ecological,adjective,c1
+902,ecologist,ecologist,noun,c1
+903,ecology,ecology,noun,b2
+904,ecosystem,ecosystem,noun,b2
+905,ecoterrorism,ecoterrorism,noun,c2
+906,ecotourism,ecotourism,noun,c2
+907,eco-warrior,eco-warrior,noun,c2
+908,effluent,effluent,noun,c2
+909,electrical-storm,electrical storm,noun,c1
+910,electricity,electricity,noun,a2
+911,emergency-services,emergency services,noun,b2
+912,emission,emission,noun,b2
+913,emissions-trading,emissions trading,noun,c2
+914,energy,energy,noun,a2
+915,environment,environment,noun,a2
+916,environmental,environmental,adjective,b1
+917,environmentalism,environmentalism,noun,c1
+918,environmentalist,environmentalist,noun,b2
+919,environmentally-friendly,environmentally friendly,adjective,b2
+920,epicentre,epicentre,noun,c2
+921,erupt,erupt,verb,b2
+922,eruption,eruption,noun,b2
+923,eruptive,eruptive,adjective,c2
+924,exhaust_1,exhaust,noun,c1
+925,eye_1,eye,noun,c2
+926,fallout,fallout,noun,c2
+927,fast-breeder,fast breeder,noun,c2
+928,fell_2,fell,verb,c2
+929,first-responder,first responder,noun,c2
+930,flash-flood,flash flood,noun,c2
+931,flight-shame,flight shame,noun,c2
+932,flood_1,flood,noun,b1
+933,flooding,flooding,noun,b2
+934,floodwater,floodwater,noun,b2
+935,focus_2,focus,noun,c2
+936,food-mile,food mile,noun,c1
+937,fossil-fuel,fossil fuel,noun,b2
+938,frack,frack,verb,c2
+939,fracking,fracking,noun,c2
+940,fuel_1,fuel,noun,b1
+941,fuel-cell,fuel cell,noun,c2
+942,fuel-rod,fuel rod,noun,c2
+943,fumes,fumes,noun,c1
+944,gaia,Gaia,noun,c2
+945,game-reserve,game reserve,noun,c2
+946,garbage,garbage,noun,a2
+947,gas_1,gas,noun,a2
+948,generate,generate,verb,b2
+949,generation,generation,noun,c1
+950,geothermal,geothermal,adjective,c2
+951,global-heating,global heating,noun,b1
+952,global-warming,global warming,noun,b1
+953,green_1,green,adjective,b1
+954,green_3,green,verb,c2
+955,green-audit,green audit,noun,c2
+956,green-belt,green belt,noun,b2
+957,greenhouse-gas,greenhouse gas,noun,b2
+958,green-manure,green manure,noun,c2
+959,greenwash,greenwash,noun,c2
+960,habitat_1,habitat,noun,b2
+961,hazmat-suit,hazmat suit,noun,c2
+962,hurricane,hurricane,noun,b1
+963,hydroelectric,hydroelectric,adjective,b2
+964,hydroelectricity,hydroelectricity,noun,c1
+965,hydropower,hydropower,noun,c2
+966,landfill,landfill,noun,b2
+967,landslide,landslide,noun,b2
+968,lava,lava,noun,b2
+969,leach,leach,verb,c2
+970,leaded,leaded,adjective,c2
+971,log_3,log,verb,c2
+972,logging,logging,noun,c1
+973,low-carbon,low-carbon,adjective,c1
+974,low-impact,low-impact,adjective,c1
+975,magnitude,magnitude,noun,c2
+976,managed,managed,adjective,c1
+977,microplastic,microplastic,noun,c1
+978,nanoplastic,nanoplastic,noun,c2
+979,national-park,national park,noun,b1
+980,natural_1,natural,adjective,a1
+981,natural-disaster,natural disaster,noun,a2
+982,nature_1,nature,noun,a2
+983,nature-reserve,nature reserve,noun,c1
+984,net-zero,net-zero,adjective,c2
+985,nitrogen-cycle,nitrogen cycle,noun,c2
+986,nitrogen-fixation,nitrogen fixation,noun,c2
+987,nitrogen-fixing,nitrogen-fixing,adjective,c2
+988,non-biodegradable,non-biodegradable,adjective,c2
+989,non-renewable,non-renewable,adjective,b2
+990,nuclear,nuclear,adjective,b1
+991,nuclear-energy,nuclear energy,noun,b1
+992,nuclear-power,nuclear power,noun,b1
+993,nuclear-reactor,nuclear reactor,noun,c1
+994,oil_1,oil,noun,a2
+995,oil-rig,oil rig,noun,b2
+996,oil-slick,oil slick,noun,c2
+997,oil-well,oil well,noun,c1
+998,ozone-friendly,ozone-friendly,adjective,c2
+999,ozone-hole,ozone hole,noun,c2
+1000,ozone-layer,ozone layer,noun,c1
+1001,particulate_1,particulate,adjective,c2
+1002,particulate_2,particulate,noun,c2
+1003,pet_4,PET,noun,c2
+1004,petrol,petrol,noun,a2
+1005,plastic_1,plastic,noun,a2
+1006,plume,plume,noun,c2
+1007,poisonous,poisonous,adjective,b1
+1008,pollute,pollute,verb,b1
+1009,polluter,polluter,noun,b2
+1010,pollution,pollution,noun,a2
+1011,power_1,power,noun,a2
+1012,power-plant,power plant,noun,b1
+1013,power-station,power station,noun,b1
+1014,protect,protect,verb,a2
+1015,protection,protection,noun,b2
+1016,pylon,pylon,noun,c1
+1017,radioactive,radioactive,adjective,c1
+1018,reactor,reactor,noun,c1
+1019,recycle,recycle,verb,a2
+1020,recycling,recycling,noun,a2
+1021,refine,refine,verb,c1
+1022,refinery,refinery,noun,c2
+1023,reintroduce,reintroduce,verb,c1
+1024,relief,relief,noun,b2
+1025,renewable,renewable,adjective,b1
+1026,reserve_1,reserve,noun,b2
+1027,reservist,reservist,noun,c2
+1028,resource_1,resource,noun,b1
+1029,reuse_1,reuse,verb,c1
+1030,reuse_2,reuse,noun,c1
+1031,rewilding,rewilding,noun,c2
+1032,rig_2,rig,noun,b2
+1033,rubbish_1,rubbish,noun,a2
+1034,salvage_1,salvage,noun,c2
+1035,sanctuary,sanctuary,noun,c1
+1036,sandstorm,sandstorm,noun,b1
+1037,seaquake,seaquake,noun,c2
+1038,shelter_2,shelter in place,idiom,c2
+1039,shock_1,shock,noun,b2
+1040,shock-wave,shock wave,noun,c1
+1041,slick_2,slick,noun,c2
+1042,smog,smog,noun,c1
+1043,smoke_1,smoke,noun,a2
+1044,snowslide,snowslide,noun,c1
+1045,solar,solar,adjective,b2
+1046,solar-cell,solar cell,noun,c1
+1047,solar-panel,solar panel,noun,b1
+1048,soot,soot,noun,c2
+1049,the-greenhouse-effect,the greenhouse effect,noun,c1
+1050,storm_1,storm,noun,a2
+1051,substation,substation,noun,c2
+1052,sustainable,sustainable,adjective,b2
+1053,tank_1,tank,noun,b2
+1054,tanker,tanker,noun,c1
+1055,temblor,temblor,noun,c2
+1056,thunderstorm,thunderstorm,noun,b2
+1057,tidal-wave,tidal wave,noun,c1
+1058,toll_1,toll,noun,c1
+1059,tornado_1,tornado,noun,b1
+1060,toxic,toxic,adjective,c1
+1061,toxicity,toxicity,noun,c2
+1062,trash_1,trash,noun,a2
+1063,tremor,tremor,noun,c2
+1064,tsunami,tsunami,noun,b2
+1065,turbine,turbine,noun,b1
+1066,twister,twister,noun,c2
+1067,typhoon,typhoon,noun,b2
+1068,unleaded_1,unleaded,noun,c2
+1069,unleaded_2,unleaded,adjective,c2
+1070,volcanic,volcanic,adjective,b2
+1071,volcano,volcano,noun,b1
+1072,waste_1,waste,noun,b1
+1073,waterspout,waterspout,noun,c2
+1074,wildfire,wildfire,noun,c1
+1075,wind-farm,wind farm,noun,b2
+1076,windstorm,windstorm,noun,b1
+1077,wind-turbine,wind turbine,noun,b1
+1078,zero-carbon,zero-carbon,adjective,c1
+1079,zero-emission,zero-emission,adjective,c1
+1080,acid-rain,acid rain,noun,c1
+1081,air_1,air,noun,a1
+1082,airless,airless,adjective,b2
+1083,anemometer,anemometer,noun,c2
+1084,anticyclone,anticyclone,noun,c2
+1085,atmosphere,atmosphere,noun,b1
+1086,autumnal,autumnal,adjective,c2
+1087,avalanche,avalanche,noun,b2
+1088,awful_1,awful,adjective,a2
+1089,azure_1,azure,adjective,c2
+1090,azure_2,azure,noun,c2
+1091,bad_1,bad,adjective,a1
+1092,baking_2,baking,adjective,c1
+1093,bank_1,bank,noun,c2
+1094,barometer,barometer,noun,c2
+1095,blanket_1,blanket,noun,c1
+1096,bleak,bleak,adjective,c2
+1097,blizzard,blizzard,noun,b2
+1098,blow_1,blow,verb,a2
+1099,blustery,blustery,adjective,c2
+1100,boiling,boiling,adjective,c1
+1101,bolt_1,bolt,noun,c2
+1102,break_1,break,verb,c1
+1103,breeze_1,breeze,noun,b2
+1104,breezy,breezy,adjective,c1
+1105,calm_1,calm,adjective,b1
+1106,celsius_1,Celsius,adjective,b2
+1107,centigrade_1,centigrade,noun,c1
+1108,centigrade_2,centigrade,adjective,c1
+1109,change_1,change,verb,a1
+1110,change_2,change,noun,a1
+1111,changeability,changeability,noun,c2
+1112,changeable,changeable,adjective,c1
+1113,chilly,chilly,adjective,c1
+1114,cirrus,cirrus,noun,c2
+1115,clear_1,clear,adjective,a2
+1116,clear_2,clear,verb,b2
+1117,clear-up_1,clear up,phrasal verb,c1
+1118,close2_1,close,adjective,c2
+1119,cloud_1,cloud,noun,a2
+1120,cloudburst,cloudburst,noun,c2
+1121,cloudless,cloudless,adjective,b2
+1122,cloudy,cloudy,adjective,b1
+1123,cold_1,cold,adjective,a1
+1124,cold_2,cold,noun,b1
+1125,cool_1,cool,adjective,a1
+1126,cool_3,cool,noun,b1
+1127,cover_2,cover,noun,c1
+1128,crack_2,crack,noun,c2
+1129,crepuscular,crepuscular,adjective,c2
+1130,crisp_1,crisp,adjective,c2
+1131,crosswind,crosswind,noun,c2
+1132,cumulonimbus,cumulonimbus,noun,c2
+1133,cumulus,cumulus,noun,c2
+1134,cyclone,cyclone,noun,c1
+1135,damp_1,damp,adjective,c1
+1136,dark_1,dark,adjective,a1
+1137,deluge_1,deluge,noun,c2
+1138,depression,depression,noun,c2
+1139,dew,dew,noun,c2
+1140,dismal,dismal,adjective,c2
+1141,downpour,downpour,noun,c1
+1142,drench,drench,verb,c2
+1143,drift_1,drift,verb,c1
+1144,drift_2,drift,noun,c1
+1145,drizzle_1,drizzle,verb,c2
+1146,drizzle_2,drizzle,noun,c2
+1147,drought,drought,noun,b2
+1148,dry-spell,dry spell,noun,c1
+1149,dull_1,dull,adjective,c1
+1150,dust-storm,dust storm,noun,b2
+1151,east_2,east,adjective,a1
+1152,easterly_1,easterly,adjective,c2
+1153,easterly_2,easterly,noun,c2
+1154,electrical-storm,electrical storm,noun,c1
+1155,element,element,noun,c2
+1156,fahrenheit_2,Fahrenheit,noun,c1
+1157,fair_1,fair,adjective,b2
+1158,fall_2,fall,noun,a2
+1159,favourable,favourable,adjective,c1
+1160,fine_1,fine,adjective,b1
+1161,firmament,firmament,noun,c2
+1162,flake_1,flake,noun,c2
+1163,flash-flood,flash flood,noun,c2
+1164,flood_1,flood,noun,b1
+1165,flood_2,flood,verb,b1
+1166,flurry,flurry,noun,c2
+1167,fog_1,fog,noun,b2
+1168,foggy,foggy,adjective,b2
+1169,force_1,force,noun,c1
+1170,forecast_1,forecast,noun,b2
+1171,foul_1,foul,adjective,c2
+1172,freeze_1,freeze,verb,b1
+1173,freeze_2,freeze,noun,c1
+1174,freezing_1,freezing,adjective,b1
+1175,front_1,front,noun,c1
+1176,frost_1,frost,noun,c1
+1177,frosty,frosty,adjective,c1
+1178,gale,gale,noun,c1
+1179,get-up_1,get up,phrasal verb,c2
+1180,gloomy,gloomy,adjective,c1
+1181,glorious,glorious,adjective,c1
+1182,good_1,good,adjective,a1
+1183,gray_1,gray,adjective,a2
+1184,grey_1,grey,adjective,a2
+1185,gust_1,gust,noun,c2
+1186,gust_2,gust,verb,c2
+1187,gusty,gusty,adjective,c2
+1188,hail_1,hail,verb,c2
+1189,hail_2,hail,noun,c2
+1190,hailstone,hailstone,noun,c2
+1191,hard_1,hard,adjective,c2
+1192,haze_1,haze,noun,c2
+1193,hazy,hazy,adjective,c2
+1194,headwind,headwind,noun,c2
+1195,heat_1,heat,noun,a2
+1196,heat-lightning,heat lightning,noun,c2
+1197,heatwave,heatwave,noun,c1
+1198,high_3,high,noun,c2
+1199,horizon_1,horizon,noun,c1
+1200,horrible,horrible,adjective,b1
+1201,hot_1,hot,adjective,a1
+1202,humid,humid,adjective,c1
+1203,humidity,humidity,noun,c1
+1204,hurricane,hurricane,noun,b1
+1205,ice_1,ice,noun,a1
+1206,icicle,icicle,noun,c2
+1207,icy,icy,adjective,b2
+1208,isobar,isobar,noun,c2
+1209,lightning_1,lightning,noun,b1
+1210,low_3,low,noun,c2
+1211,melt,melt,verb,b2
+1212,mild_1,mild,adjective,b1
+1213,miserable,miserable,adjective,b2
+1214,mist_1,mist,noun,c1
+1215,mistral,mistral,noun,c2
+1216,misty,misty,adjective,c1
+1217,monsoon,monsoon,noun,c1
+1218,muggy,muggy,adjective,c2
+1219,nimbus,nimbus,noun,c2
+1220,nor-easter,nor'easter,noun,c2
+1221,north_2,north,adjective,a1
+1222,northerly_1,northerly,adjective,c2
+1223,northerly_2,northerly,noun,c2
+1224,overcast,overcast,adjective,c2
+1225,overhead_1,overhead,adverb,c1
+1226,pall_1,pall,noun,c2
+1227,pluvial,pluvial,adjective,c2
+1228,pour,pour,verb,b1
+1229,powder_1,powder,noun,b1
+1230,powder-snow,powder snow,noun,c1
+1231,precipitation,precipitation,noun,c2
+1232,pressure_1,pressure,noun,c2
+1233,prevailing,prevailing,adjective,c2
+1234,puddle,puddle,noun,c1
+1235,rain_1,rain,noun,a1
+1236,rain_2,rain,verb,a1
+1237,rainbow,rainbow,noun,c1
+1238,raindrop,raindrop,noun,b2
+1239,rainfall,rainfall,noun,b1
+1240,rainstorm,rainstorm,noun,b1
+1241,rainwater,rainwater,noun,b1
+1242,rainy,rainy,adjective,a2
+1243,rumble_1,rumble,verb,c2
+1244,rumble_2,rumble,noun,c2
+1245,shower_1,shower,noun,b1
+1246,showery,showery,adjective,c2
+1247,sirocco,sirocco,noun,c2
+1248,sky_1,sky,noun,a2
+1249,sleet_1,sleet,noun,c2
+1250,sleet_2,sleet,verb,c2
+1251,slush,slush,noun,c2
+1252,snow_1,snow,noun,a1
+1253,snow_2,snow,verb,a1
+1254,snowbound,snowbound,adjective,c2
+1255,snowdrift,snowdrift,noun,c1
+1256,snowfall,snowfall,noun,b1
+1257,snowflake,snowflake,noun,c1
+1258,snowplough_1,snowplough,noun,c2
+1259,snowslide,snowslide,noun,c1
+1260,snowstorm,snowstorm,noun,b1
+1261,snowy,snowy,adjective,a2
+1262,soak_1,soak,verb,c1
+1263,south_2,south,adjective,a1
+1264,southerly_1,southerly,adjective,c2
+1265,southerly_2,southerly,noun,c2
+1266,spit_1,spit,verb,c2
+1267,spot_1,spot,noun,c1
+1268,sprinkle_1,sprinkle,verb,c2
+1269,squall_1,squall,noun,c2
+1270,starless,starless,adjective,b2
+1271,the-beaufort-scale,the Beaufort scale,noun,c2
+1272,storm_1,storm,noun,a2
+1273,stormy,stormy,adjective,b2
+1274,strong,strong,adjective,b1
+1275,sultry,sultry,adjective,c2
+1276,summery,summery,adjective,c2
+1277,sun_1,sun,noun,a1
+1278,sunburst,sunburst,noun,c2
+1279,sunless,sunless,adjective,b2
+1280,sunny,sunny,adjective,a1
+1281,sunshine,sunshine,noun,b1
+1282,sweltering,sweltering,adjective,c2
+1283,swelteringly,swelteringly,adverb,c2
+1284,tailwind,tailwind,noun,c2
+1285,temperature,temperature,noun,a2
+1286,tempest,tempest,noun,c2
+1287,thaw_1,thaw,verb,c2
+1288,thaw_2,thaw,noun,c2
+1289,thunder_1,thunder,noun,c1
+1290,thunder_2,thunder,verb,c1
+1291,thundercloud,thundercloud,noun,c1
+1292,thunderstorm,thunderstorm,noun,b2
+1293,tornado_1,tornado,noun,b1
+1294,torrent,torrent,noun,c1
+1295,twister,twister,noun,c2
+1296,typhoon,typhoon,noun,b2
+1297,umbrella,umbrella,noun,a1
+1298,unpredictable,unpredictable,adjective,c1
+1299,vapor,vapor,noun,c1
+1300,vapour,vapour,noun,c1
+1301,visibility,visibility,noun,c1
+1302,warm_1,warm,adjective,a1
+1303,warm_2,warm,verb,b1
+1304,warmth,warmth,noun,c1
+1305,weather_1,weather,noun,a1
+1306,weather-forecast,weather forecast,noun,b1
+1307,weathervane,weathervane,noun,c2
+1308,west_2,west,adjective,a1
+1309,westerly_1,westerly,adjective,c2
+1310,westerly_2,westerly,noun,c2
+1311,wet_1,wet,adjective,a2
+1312,whirlwind_1,whirlwind,noun,c1
+1313,white-out,white-out,noun,c2
+1314,wind1_1,wind,noun,a2
+1315,wind-chill,wind chill,noun,c2
+1316,wind-gauge,wind gauge,noun,c2
+1317,windless,windless,adjective,b2
+1318,windy,windy,adjective,a2
+1319,wintry,wintry,adjective,c2
+1320,zenith_1,zenith,noun,c2
+1321,zephyr,zephyr,noun,c2

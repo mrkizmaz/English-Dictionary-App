@@ -1,0 +1,1767 @@
+subLink,word,type,level
+0,acne,acne,noun,c2
+1,adonis,Adonis,noun,c2
+2,afro_1,Afro,noun,c2
+3,afro_2,Afro,adjective,c2
+4,albino_2,albino,noun,c2
+5,allure,allure,noun,c2
+6,alluring,alluring,adjective,c2
+7,angelic,angelic,adjective,c2
+8,appearance,appearance,noun,a2
+9,ash-blonde_2,ash blonde,adjective,c2
+10,attractive,attractive,adjective,a2
+11,attractiveness,attractiveness,noun,c1
+12,auburn_1,auburn,adjective,c2
+13,awkward,awkward,adjective,c1
+14,backcomb,backcomb,verb,c2
+15,bald,bald,adjective,b2
+16,balding,balding,adjective,c2
+17,balm,balm,noun,c2
+18,bang_2,bang,noun,c2
+19,barber,barber,noun,c1
+20,beam_1,beam,noun,c2
+21,beam_2,beam,verb,c2
+22,beanpole,beanpole,noun,c2
+23,beard_1,beard,noun,a2
+24,beaut_1,beaut,noun,c2
+25,beauteous,beauteous,adjective,c2
+26,beautiful,beautiful,adjective,a1
+27,beauty,beauty,noun,b2
+28,beauty-salon,beauty salon,noun,c1
+29,beauty-school,beauty school,noun,c2
+30,beefy,beefy,adjective,c2
+31,beehive,beehive,noun,c2
+32,beer-belly,beer belly,noun,c2
+33,belle,belle,noun,c2
+34,bewitching,bewitching,adjective,c2
+35,bingo-wings,bingo wings,noun,c2
+36,birthmark,birthmark,noun,c2
+37,blackhead,blackhead,noun,c2
+38,blemish_1,blemish,noun,c2
+39,blonde_1,blonde,adjective,a1
+40,blotch,blotch,noun,c2
+41,blow-dry_1,blow-dry,noun,c2
+42,blow-dry_2,blow-dry,verb,c2
+43,blush_1,blush,verb,c1
+44,blush_2,blush,noun,c1
+45,blusher,blusher,noun,c2
+46,bob_1,bob,verb,c2
+47,bob_2,bob,noun,c2
+48,bobbed,bobbed,adjective,c2
+49,body,body,noun,c2
+50,bonny,bonny,adjective,c2
+51,bony,bony,adjective,c2
+52,bottle-blonde_1,bottle blonde,adjective,c2
+53,bouffant,bouffant,adjective,c2
+54,bounce_2,bounce,noun,c2
+55,boyish,boyish,adjective,c2
+56,braid_1,braid,noun,c2
+57,braid_2,braid,verb,c2
+58,brawny,brawny,adjective,c2
+59,brilliantine,brilliantine,noun,c2
+60,bristle_1,bristle,noun,c2
+61,bronzed,bronzed,adjective,c2
+62,brow,brow,noun,c2
+63,brunette,brunette,noun,c2
+64,brush_1,brush,verb,a2
+65,bubble-bath,bubble bath,noun,c2
+66,buff_2,buff,adjective,c2
+67,bumfluff,bumfluff,noun,c2
+68,bun,bun,noun,c2
+69,bunch_1,bunch,noun,c2
+70,bushy,bushy,adjective,c2
+71,buxom,buxom,adjective,c2
+72,buzz-cut,buzz cut,noun,c2
+73,cadaverous,cadaverous,adjective,c2
+74,callus,callus,noun,c2
+75,carroty,carroty,adjective,c2
+76,chignon,chignon,noun,c2
+77,chubbiness,chubbiness,noun,c2
+78,chubby,chubby,adjective,c2
+79,cleanser,cleanser,noun,c2
+80,clean-shaven,clean-shaven,adjective,c2
+81,close-cropped,close-cropped,adjective,c2
+82,clumsy,clumsy,adjective,c1
+83,coiffure,coiffure,noun,c2
+84,cold-cream,cold cream,noun,c2
+85,colorant,colorant,noun,c2
+86,coloring,coloring,noun,c1
+87,colourant,colourant,noun,c2
+88,colouring,colouring,noun,c1
+89,comb_1,comb,noun,b2
+90,comb_2,comb,verb,b2
+91,comb-out,comb out,phrasal verb,c2
+92,comely,comely,adjective,c2
+93,complexion,complexion,noun,c2
+94,concealer,concealer,noun,c2
+95,condition_2,condition,verb,c2
+96,conditioner,conditioner,noun,c2
+97,cornrows,cornrows,noun,c2
+98,corpulence,corpulence,noun,c2
+99,corpulent,corpulent,adjective,c2
+100,cotton-bud,cotton bud,noun,c2
+101,cotton-wool,cotton wool,noun,c2
+102,countenance_1,countenance,noun,c2
+103,cowlick,cowlick,noun,c2
+104,crew-cut_1,crew cut,noun,c2
+105,crew-cut_2,crew-cut,adjective,c2
+106,crimp_1,crimp,verb,c2
+107,crinkly,crinkly,adjective,c2
+108,crop_1,crop,noun,c2
+109,crop_2,crop,verb,c2
+110,crow-s-feet,crow’s feet,noun,c2
+111,curl_1,curl,verb,c1
+112,curl_2,curl,noun,c1
+113,curler,curler,noun,c2
+114,curling-tongs,curling tongs,noun,c2
+115,curly,curly,adjective,a2
+116,cut_2,cut,noun,b1
+117,cute,cute,adjective,b2
+118,cutie,cutie,noun,c2
+119,dainty,dainty,adjective,c2
+120,dandruff,dandruff,noun,c2
+121,dark_1,dark,adjective,a1
+122,dashing,dashing,adjective,c2
+123,debonair,debonair,adjective,c2
+124,deft,deft,adjective,c2
+125,delouse,delouse,verb,c2
+126,dental-floss,dental floss,noun,c2
+127,depilator,depilator,noun,c2
+128,depilatory_1,depilatory,noun,c2
+129,depilatory_2,depilatory,adjective,c2
+130,dimple_1,dimple,noun,c2
+131,dowdy,dowdy,adjective,c2
+132,down_5,down,noun,c2
+133,downcast,downcast,adjective,c2
+134,downy,downy,adjective,c2
+135,dreadlocks,dreadlocks,noun,c2
+136,dreamboat,dreamboat,noun,c2
+137,dreamy,dreamy,adjective,c2
+138,dye_1,dye,verb,b2
+139,dye_2,dye,noun,b2
+140,ectomorph,ectomorph,noun,c2
+141,electric-razor,electric razor,noun,b2
+142,endomorph,endomorph,noun,c2
+143,english-rose,English rose,noun,c2
+144,erect_2,erect,adjective,c2
+145,expression,expression,noun,b1
+146,eyebrow,eyebrow,noun,b2
+147,eyebrow-pencil,eyebrow pencil,noun,c2
+148,eyelash,eyelash,noun,c1
+149,eyeliner,eyeliner,noun,c2
+150,eyeshadow,eyeshadow,noun,c2
+151,face-cream,face cream,noun,c1
+152,face-mask,face mask,noun,c2
+153,face-powder,face powder,noun,c1
+154,fair_1,fair,adjective,b1
+155,fair-haired,fair-haired,adjective,b1
+156,fairness,fairness,noun,c1
+157,fanciable,fanciable,adjective,c2
+158,fat_1,fat,adjective,a1
+159,figure_1,figure,noun,b1
+160,fit_2,fit,adjective,c2
+161,fix_1,fix,verb,c2
+162,flabby,flabby,adjective,c2
+163,flat-top,flat-top,noun,c2
+164,flaxen,flaxen,adjective,c2
+165,flyaway,flyaway,adjective,c2
+166,foundation,foundation,noun,c2
+167,freckle,freckle,noun,c2
+168,freckled,freckled,adjective,c2
+169,french-braid,French braid,noun,c2
+170,french-plait,French plait,noun,c2
+171,french-pleat,French pleat,noun,c2
+172,french-twist,French twist,noun,c2
+173,fringe_1,fringe,noun,c2
+174,frizz_1,frizz,verb,c2
+175,frizz_2,frizz,noun,c2
+176,frizzy,frizzy,adjective,c2
+177,frown_1,frown,verb,c1
+178,frown_2,frown,noun,c1
+179,fuzz,fuzz,noun,c2
+180,fuzzy,fuzzy,adjective,c2
+181,gamine_2,gamine,adjective,c2
+182,gangling,gangling,adjective,c2
+183,gaunt,gaunt,adjective,c2
+184,gel_1,gel,noun,b2
+185,gel_2,gel,verb,c2
+186,ginger_2,ginger,adjective,b2
+187,girn,girn,verb,c2
+188,glamorous,glamorous,adjective,b2
+189,glazed,glazed,adjective,c2
+190,glossy_1,glossy,adjective,c2
+191,glower_2,glower,verb,c2
+192,goatee,goatee,noun,c2
+193,good-looking,good-looking,adjective,a2
+194,gorgeous,gorgeous,adjective,b2
+195,grace_1,grace,noun,c1
+196,graceful,graceful,adjective,c1
+197,graceless,graceless,adjective,c2
+198,gray_1,gray,adjective,a1
+199,greasy,greasy,adjective,c1
+200,grey_1,grey,adjective,a1
+201,grey-haired,grey-haired,adjective,b1
+202,grimace_1,grimace,verb,c2
+203,grimace_2,grimace,noun,c2
+204,grin_1,grin,verb,c1
+205,grin_2,grin,noun,c1
+206,grizzled,grizzled,adjective,c2
+207,grooming,grooming,noun,c2
+208,grotesque_1,grotesque,adjective,c2
+209,grow-back,grow back,phrasal verb,c2
+210,grow-out,grow out,phrasal verb,c2
+211,gurn,gurn,verb,c2
+212,hair_1,hair,noun,a1
+213,hairbrush,hairbrush,noun,a2
+214,haircut,haircut,noun,b1
+215,hairdo,hairdo,noun,c2
+216,hairdresser,hairdresser,noun,a2
+217,hairdryer,hairdryer,noun,b1
+218,hair-extension,hair extension,noun,c2
+219,hairless,hairless,adjective,c2
+220,hairline,hairline,noun,c2
+221,hairpiece,hairpiece,noun,c2
+222,hairspray,hairspray,noun,c2
+223,hairstyle,hairstyle,noun,b1
+224,hairstylist,hairstylist,noun,c2
+225,hairy,hairy,adjective,b2
+226,hand-cream,hand cream,noun,b2
+227,handsome,handsome,adjective,a2
+228,hangdog,hangdog,adjective,c2
+229,heart-throb,heart-throb,noun,c2
+230,heavy_1,heavy,adjective,a2
+231,height,height,noun,a2
+232,henna,henna,noun,c2
+233,hideous,hideous,adjective,c1
+234,highlight_1,highlight,verb,c1
+235,highlight_2,highlight,noun,c1
+236,hirsute,hirsute,adjective,c2
+237,hoary,hoary,adjective,c2
+238,homely,homely,adjective,c2
+239,hunch_1,hunch,verb,c2
+240,hydrogen-peroxide,hydrogen peroxide,noun,c2
+241,knockout_1,knockout,noun,c2
+242,knot_1,knot,noun,c2
+243,knot_2,knot,verb,c2
+244,lacquer_1,lacquer,noun,c2
+245,lacquer_2,lacquer,verb,c2
+246,languid,languid,adjective,c2
+247,languidly,languidly,adverb,c2
+248,lank,lank,adjective,c2
+249,lanky,lanky,adjective,c2
+250,layer_2,layer,verb,c2
+251,lean_2,lean,adjective,c2
+252,leer_1,leer,verb,c2
+253,leer_2,leer,noun,c2
+254,light-footed,light-footed,adjective,c2
+255,liner,liner,noun,c2
+256,lip-balm,lip balm,noun,c2
+257,lip-gloss,lip gloss,noun,c2
+258,lip-liner,lip liner,noun,c2
+259,lipstick,lipstick,noun,b2
+260,lissom,lissom,adjective,c2
+261,lithe,lithe,adjective,c2
+262,lithely,lithely,adverb,c2
+263,liver-spot,liver spot,noun,c2
+264,lock_2,lock,noun,c2
+265,long_1,long,adjective,a1
+266,looker,looker,noun,c2
+267,loose-limbed,loose-limbed,adjective,c2
+268,love-handles,love handles,noun,c2
+269,lovely_1,lovely,adjective,a2
+270,lowlights,lowlights,noun,c2
+271,lumbering,lumbering,adjective,c2
+272,luxuriant,luxuriant,adjective,c2
+273,makeover,makeover,noun,b2
+274,make-up_2,make-up,noun,b2
+275,mascara,mascara,noun,c2
+276,mask_1,mask,noun,c2
+277,matted,matted,adjective,c2
+278,mesomorph,mesomorph,noun,c2
+279,mohican,Mohican,noun,c2
+280,moisturizer,moisturizer,noun,c2
+281,mole,mole,noun,c2
+282,mop_1,mop,noun,c2
+283,mousey,mousey,adjective,c2
+284,mousse,mousse,noun,c2
+285,moustache,moustache,noun,b1
+286,mousy,mousy,adjective,c2
+287,mouthwash,mouthwash,noun,c2
+288,mullet,mullet,noun,c2
+289,muscular,muscular,adjective,c1
+290,nail-clippers,nail clippers,noun,c2
+291,nail-polish,nail polish,noun,c2
+292,nail-scissors,nail scissors,noun,c2
+293,nice-looking,nice-looking,adjective,c1
+294,nimble,nimble,adjective,c2
+295,obese,obese,adjective,b2
+296,obesity,obesity,noun,b2
+297,oil_1,oil,noun,a2
+298,overweight,overweight,adjective,b2
+299,pale_1,pale,adjective,b1
+300,part_2,part,verb,c2
+301,parting_1,parting,noun,c2
+302,pate_1,pate,noun,c2
+303,pepper-and-salt,pepper-and-salt,adjective,c2
+304,perm_1,perm,noun,c2
+305,perm_2,perm,verb,c2
+306,permatan,permatan,noun,c2
+307,peroxide,peroxide,noun,c2
+308,petite,petite,adjective,c2
+309,photogenic,photogenic,adjective,c2
+310,pigtail,pigtail,noun,c2
+311,pimple,pimple,noun,c2
+312,pimply,pimply,adjective,c2
+313,plain_1,plain,adjective,b2
+314,plait_1,plait,noun,c2
+315,plait_2,plait,verb,c2
+316,platinum-blonde_1,platinum blonde,adjective,c2
+317,plump_1,plump,adjective,c2
+318,podgy,podgy,adjective,c2
+319,pomade,pomade,noun,c2
+320,ponytail,ponytail,noun,c2
+321,pore_1,pore,noun,c2
+322,portly,portly,adjective,c2
+323,port-wine-stain,port wine stain,noun,c2
+324,posture_1,posture,noun,c1
+325,pot-bellied,pot-bellied,adjective,c2
+326,powder-puff,powder puff,noun,c2
+327,pretty_2,pretty,adjective,a1
+328,primp,primp,verb,c2
+329,product,product,noun,c1
+330,face_1,pull/make faces/a face (at somebody),idiom,c2
+331,pumice,pumice,noun,c2
+332,punky,punky,adjective,c2
+333,quiff,quiff,noun,c2
+334,rangy,rangy,adjective,c2
+335,raven_2,raven,adjective,c2
+336,ravishing,ravishing,adjective,c2
+337,razor,razor,noun,b2
+338,recede,recede,verb,c2
+339,red_1,red,adjective,a1
+340,redhead,redhead,noun,c2
+341,red-headed,red-headed,adjective,c2
+342,ringlet,ringlet,noun,c2
+343,rinse_2,rinse,noun,c2
+344,roller,roller,noun,c2
+345,roly-poly_2,roly-poly,adjective,c2
+346,rosy,rosy,adjective,c2
+347,rotund,rotund,adjective,c2
+348,rotundity,rotundity,noun,c2
+349,round-shouldered,round-shouldered,adjective,c2
+350,rugged,rugged,adjective,c2
+351,salon,salon,noun,b2
+352,salt-and-pepper,salt-and-pepper,adjective,c2
+353,sandy_1,sandy,adjective,c2
+354,scissors,scissors,noun,b1
+355,scowl_1,scowl,verb,c2
+356,scowl_2,scowl,noun,c2
+357,scrawny,scrawny,adjective,c2
+358,scruffy,scruffy,adjective,c1
+359,scrunch_2,scrunch,verb,c2
+360,scrunch-dry,scrunch-dry,verb,c2
+361,set_1,set,verb,c2
+362,sex-appeal,sex appeal,noun,c2
+363,sex-symbol,sex symbol,noun,c2
+364,sexy,sexy,adjective,b2
+365,shaggy,shaggy,adjective,c2
+366,shampoo_1,shampoo,noun,b1
+367,shampoo_2,shampoo,verb,b1
+368,shapely,shapely,adjective,c2
+369,shave_1,shave,verb,b1
+370,shaven,shaven,adjective,c2
+371,shaver,shaver,noun,b1
+372,shear,shear,verb,c2
+373,shiny,shiny,adjective,b1
+374,shock_1,shock,noun,c2
+375,shock-headed,shock-headed,adjective,c2
+376,short_1,short,adjective,a1
+377,shoulder-length,shoulder-length,adjective,c1
+378,sideburn,sideburn,noun,c2
+379,side-whiskers,side whiskers,noun,c2
+380,silky_2,silky,adjective,c2
+381,sinewy,sinewy,adjective,c2
+382,bolt_3,sit/stand bolt upright,idiom,c2
+383,skin_1,skin,noun,a2
+384,skinhead,skinhead,noun,c2
+385,skinny_1,skinny,adjective,b2
+386,slaphead,slaphead,noun,c2
+387,sleek_1,sleek,adjective,c2
+388,slender,slender,adjective,c1
+389,slick_3,slick,verb,c2
+390,slight_1,slight,adjective,c2
+391,slim_1,slim,adjective,a2
+392,slouch_1,slouch,verb,c2
+393,slouchy,slouchy,adjective,c2
+394,slumped,slumped,adjective,c2
+395,smile_1,smile,verb,a2
+396,smile_2,smile,noun,a2
+397,smirk_1,smirk,verb,c2
+398,smirk_2,smirk,noun,c2
+399,smize_1,smize,verb,c2
+400,smize_2,smize,noun,c2
+401,sneer_1,sneer,verb,c2
+402,sneer_2,sneer,noun,c2
+403,soap_1,soap,noun,a2
+404,face_1,somebody’s face is like thunder,idiom,c2
+405,sour-faced,sour-faced,adjective,c2
+406,southern-belle,southern belle,noun,c2
+407,spare-tyre,spare tyre,noun,c2
+408,spiky,spiky,adjective,c2
+409,split-end,split end,noun,c2
+410,spot_1,spot,noun,b1
+411,squat_3,squat,adjective,c2
+412,squint_1,squint,verb,c2
+413,statuesque,statuesque,adjective,c2
+414,stockily,stockily,adverb,c2
+415,stocky,stocky,adjective,c2
+416,stoop_1,stoop,verb,c2
+417,stooped,stooped,adjective,c2
+418,stout_1,stout,adjective,c2
+419,straight_2,straight,adjective,a2
+420,strand_1,strand,noun,c1
+421,strawberry-blonde,strawberry blonde,adjective,c2
+422,streak_1,streak,noun,c1
+423,striking,striking,adjective,c1
+424,stringy,stringy,adjective,c2
+425,stubble,stubble,noun,c2
+426,stunner,stunner,noun,c2
+427,stunning,stunning,adjective,b2
+428,styling,styling,noun,c1
+429,stylist,stylist,noun,c1
+430,sullen,sullen,adjective,c2
+431,sunburned,sunburned,adjective,b2
+432,suntan_2,suntan,noun,c1
+433,suntanned,suntanned,adjective,c1
+434,supple,supple,adjective,c2
+435,svelte,svelte,adjective,c2
+436,swarthy,swarthy,adjective,c2
+437,sweep_1,sweep,verb,c2
+438,swept-back,swept-back,adjective,c2
+439,sylph,sylph,noun,c2
+440,talcum-powder,talcum powder,noun,c2
+441,tall,tall,adjective,a1
+442,tan_1,tan,verb,c1
+443,tan_2,tan,noun,c1
+444,tangle_1,tangle,noun,c2
+445,tanned,tanned,adjective,c1
+446,tattoo_1,tattoo,noun,b2
+447,tease_1,tease,verb,c2
+448,tendril,tendril,noun,c2
+449,thatch_1,thatch,noun,c2
+450,thick_1,thick,adjective,b1
+451,thin_1,thin,adjective,a2
+452,top_1,thin/bald on top,idiom,c2
+453,tint_1,tint,noun,c2
+454,tint_2,tint,verb,c2
+455,tone_1,tone,noun,c2
+456,toner,toner,noun,c2
+457,tongs,tongs,noun,c2
+458,tonic,tonic,noun,c2
+459,toothpaste,toothpaste,noun,b1
+460,topknot,topknot,noun,c2
+461,toupee,toupee,noun,c2
+462,tousle,tousle,verb,c2
+463,tousled,tousled,adjective,c2
+464,tresses,tresses,noun,c2
+465,trim_1,trim,verb,c2
+466,tubby,tubby,adjective,c2
+467,tuft,tuft,noun,c2
+468,tweezers,tweezers,noun,c2
+469,ugly,ugly,adjective,b1
+470,unattractive,unattractive,adjective,b1
+471,uncombed,uncombed,adjective,c2
+472,uncoordinated,uncoordinated,adjective,c2
+473,undercut_2,undercut,noun,c2
+474,underweight,underweight,adjective,b2
+475,ungainly,ungainly,adjective,c2
+476,unkempt,unkempt,adjective,c2
+477,unlovely,unlovely,adjective,c2
+478,untangle,untangle,verb,c2
+479,upright_1,upright,adjective,c1
+480,volumize,volumize,verb,c2
+481,voluptuous,voluptuous,adjective,c2
+482,wave_1,wave,noun,c1
+483,wave_2,wave,verb,c1
+484,wavy,wavy,adjective,a2
+485,wear_1,wear,verb,c1
+486,weight_1,weight,noun,a2
+487,well-dressed,well dressed,adjective,b1
+488,wet-look_1,wet look,noun,c2
+489,wet-look_2,wet-look,adjective,c2
+490,wig_1,wig,noun,c1
+491,wince_1,wince,noun,c2
+492,wince_2,wince,verb,c2
+493,wind-blown,wind-blown,adjective,c2
+494,wink_1,wink,verb,c2
+495,wink_2,wink,noun,c2
+496,winning,winning,adjective,c2
+497,wiry,wiry,adjective,c2
+498,wisp,wisp,noun,c2
+499,wrinkle_1,wrinkle,noun,c1
+500,abdomen,abdomen,noun,c2
+501,abductor,abductor,noun,c2
+502,achilles-tendon,Achilles tendon,noun,c2
+503,adam-s-apple,Adam’s apple,noun,c2
+504,adductor,adductor,noun,c2
+505,adenoids,adenoids,noun,c2
+506,adrenaline,adrenaline,noun,c1
+507,anatomy,anatomy,noun,c2
+508,ankle,ankle,noun,a2
+509,antibody,antibody,noun,c2
+510,anus,anus,noun,c2
+511,anvil,anvil,noun,c2
+512,aorta,aorta,noun,c2
+513,appendix,appendix,noun,c2
+514,aquiline,aquiline,adjective,c2
+515,arch_1,arch,noun,c2
+516,arm_1,arm,noun,a1
+517,armpit,armpit,noun,c2
+518,artery,artery,noun,c1
+519,auricle,auricle,noun,c2
+520,baby-tooth,baby tooth,noun,c1
+521,back_1,back,noun,a1
+522,backbone,backbone,noun,b1
+523,backside,backside,noun,c2
+524,ball_1,ball,noun,c2
+525,beady,beady,adjective,c2
+526,belly_1,belly,noun,c1
+527,belly-button,belly button,noun,c2
+528,biceps,biceps,noun,c2
+529,big-toe,big toe,noun,b2
+530,bile,bile,noun,c2
+531,bile-duct,bile duct,noun,c2
+532,bladder,bladder,noun,c2
+533,bleary,bleary,adjective,c2
+534,blood_1,blood,noun,a2
+535,bloodshot,bloodshot,adjective,c2
+536,bloodstream,bloodstream,noun,c2
+537,blood-vessel,blood vessel,noun,c1
+538,body,body,noun,a1
+539,bone_1,bone,noun,a2
+540,bone-marrow,bone marrow,noun,c2
+541,bosom,bosom,noun,c2
+542,bottom_1,bottom,noun,b1
+543,bowel,bowel,noun,c2
+544,brace_1,brace,noun,c2
+545,brain_1,brain,noun,a2
+546,breast_1,breast,noun,b2
+547,breastbone,breastbone,noun,c2
+548,breath,breath,noun,b1
+549,breathe,breathe,verb,b1
+550,breathing,breathing,noun,b1
+551,bridge_1,bridge,noun,c2
+552,brow,brow,noun,c2
+553,bum_1,bum,noun,c1
+554,bust_2,bust,noun,c2
+555,buttock,buttock,noun,c2
+556,calf,calf,noun,c1
+557,canal,canal,noun,c2
+558,canine_2,canine,noun,c2
+559,cap_2,cap,verb,c2
+560,capillary,capillary,noun,c2
+561,cartilage,cartilage,noun,c2
+562,cavity,cavity,noun,c2
+563,cell,cell,noun,b2
+564,cervix,cervix,noun,c2
+565,cheek_1,cheek,noun,b2
+566,cheekbone,cheekbone,noun,c1
+567,chest,chest,noun,b1
+568,chin,chin,noun,b2
+569,ciliary-muscle,ciliary muscle,noun,c2
+570,circulation,circulation,noun,c1
+571,clavicle,clavicle,noun,c2
+572,cleavage,cleavage,noun,c2
+573,clitoris,clitoris,noun,c2
+574,coccyx,coccyx,noun,c2
+575,cochlea,cochlea,noun,c2
+576,collarbone,collarbone,noun,c1
+577,colon,colon,noun,c2
+578,connective-tissue,connective tissue,noun,c2
+579,cornea,cornea,noun,c2
+580,corneal,corneal,adjective,c2
+581,cortex,cortex,noun,c2
+582,cranial,cranial,adjective,c2
+583,cranium,cranium,noun,c2
+584,cross-eyed,cross-eyed,adjective,c2
+585,crotch,crotch,noun,c2
+586,crown_1,crown,noun,c2
+587,cuticle,cuticle,noun,c2
+588,deep-set,deep-set,adjective,c2
+589,deltoids,deltoids,noun,c2
+590,denture,denture,adjective,c2
+591,dentures,dentures,noun,c2
+592,diaphragm,diaphragm,noun,c2
+593,dimple_1,dimple,noun,c2
+594,disc,disc,noun,c2
+595,duct,duct,noun,c2
+596,duodenal,duodenal,adjective,c2
+597,duodenum,duodenum,noun,c2
+598,ear,ear,noun,a1
+599,ear-canal,ear canal,noun,c2
+600,eardrum,eardrum,noun,c2
+601,earlobe,earlobe,noun,c2
+602,elbow_1,elbow,noun,b2
+603,enamel,enamel,noun,c2
+604,epidermis,epidermis,noun,c2
+605,epinephrine,epinephrine,noun,c2
+606,extensor,extensor,noun,c2
+607,eye_1,eye,noun,a1
+608,eyeball_1,eyeball,noun,c1
+609,eyebrow,eyebrow,noun,b2
+610,eyelash,eyelash,noun,c1
+611,eyelid,eyelid,noun,c1
+612,face_1,face,noun,a1
+613,false-teeth,false teeth,noun,b1
+614,fat_2,fat,noun,a2
+615,femur,femur,noun,c2
+616,fibre,fibre,noun,c1
+617,fibula,fibula,noun,c2
+618,filling_1,filling,noun,c2
+619,finger_1,finger,noun,a2
+620,fingernail,fingernail,noun,b2
+621,fingertip,fingertip,noun,c1
+622,first-finger,first finger,noun,c2
+623,fist,fist,noun,c1
+624,flesh_1,flesh,noun,c1
+625,flexor,flexor,noun,c2
+626,foot_1,foot,noun,a1
+627,forearm1,forearm,noun,c2
+628,forefinger,forefinger,noun,c2
+629,forehead,forehead,noun,b2
+630,foreskin,foreskin,noun,c2
+631,gall-bladder,gall bladder,noun,c2
+632,ganglion,ganglion,noun,c2
+633,genitals,genitals,noun,c2
+634,gland,gland,noun,c2
+635,grecian-nose,Grecian nose,noun,c2
+636,groin,groin,noun,c2
+637,gullet,gullet,noun,c2
+638,gum_1,gum,noun,c1
+639,gut_1,gut,noun,c1
+640,hair_1,hair,noun,a1
+641,hairline,hairline,noun,c2
+642,hammer_1,hammer,noun,c2
+643,hamstring_1,hamstring,noun,c2
+644,hand_1,hand,noun,a1
+645,head_1,head,noun,a1
+646,heart_1,heart,noun,a2
+647,heel_1,heel,noun,b2
+648,hemisphere,hemisphere,noun,c2
+649,hip_1,hip,noun,b2
+650,hip-bone,hip bone,noun,c1
+651,hormone,hormone,noun,c1
+652,humerus,humerus,noun,c2
+653,hypothalamus,hypothalamus,noun,c2
+654,incisor,incisor,noun,c2
+655,incus,incus,noun,c2
+656,index-finger,index finger,noun,c2
+657,instep,instep,noun,c2
+658,intestinal,intestinal,adjective,c2
+659,intestine,intestine,noun,c2
+660,iris_1,iris,noun,c2
+661,jaw_1,jaw,noun,c1
+662,jawbone,jawbone,noun,c1
+663,joint_2,joint,noun,b2
+664,jugular,jugular,noun,c2
+665,kidney,kidney,noun,c1
+666,knee_1,knee,noun,a2
+667,kneecap_1,kneecap,noun,c2
+668,knuckle_1,knuckle,noun,c2
+669,lantern-jaw,lantern jaw,noun,c2
+670,lap_1,lap,noun,c1
+671,larynx,larynx,noun,c2
+672,leg_1,leg,noun,a1
+673,lens,lens,noun,c1
+674,ligament,ligament,noun,c2
+675,limb,limb,noun,c1
+676,limbic-system,limbic system,noun,c2
+677,lip,lip,noun,b1
+678,little-finger,little finger,noun,b2
+679,liver,liver,noun,c1
+680,lobe,lobe,noun,c2
+681,lung,lung,noun,b2
+682,malleus,malleus,noun,c2
+683,mandible,mandible,noun,c2
+684,marrow,marrow,noun,c2
+685,medulla-oblongata,medulla oblongata,noun,c2
+686,membrane,membrane,noun,c2
+687,metatarsal,metatarsal,noun,c2
+688,middle-finger,middle finger,noun,b2
+689,midriff,midriff,noun,c2
+690,milk-tooth,milk tooth,noun,c2
+691,molar,molar,noun,c2
+692,motor_2,motor,adjective,c2
+693,mouth_1,mouth,noun,a1
+694,mucus,mucus,noun,c2
+695,muscle_1,muscle,noun,b1
+696,muscular,muscular,adjective,c1
+697,musculature,musculature,noun,c2
+698,nail_1,nail,noun,b1
+699,nail-bed,nail bed,noun,c2
+700,nape,nape,noun,c2
+701,nasal,nasal,adjective,c2
+702,navel,navel,noun,c2
+703,neck_1,neck,noun,a2
+704,nephron,nephron,noun,c2
+705,nerve_1,nerve,noun,b2
+706,nervous-system,nervous system,noun,c1
+707,neuron,neuron,noun,c2
+708,nipple,nipple,noun,c2
+709,nose_1,nose,noun,a1
+710,nostril,nostril,noun,c2
+711,occipital-bone,occipital bone,noun,c2
+712,oesophagus,oesophagus,noun,c2
+713,oral_1,oral,adjective,c1
+714,organ,organ,noun,b2
+715,orifice,orifice,noun,c2
+716,ossicle,ossicle,noun,c2
+717,ovary,ovary,noun,c2
+718,oviduct,oviduct,noun,c2
+719,palate,palate,noun,c2
+720,palm_1,palm,noun,b2
+721,pancreas,pancreas,noun,c2
+722,pancreatic,pancreatic,adjective,c2
+723,patella,patella,noun,c2
+724,pelvic,pelvic,adjective,c2
+725,pelvis,pelvis,noun,c2
+726,penis,penis,noun,c1
+727,pericardium,pericardium,noun,c2
+728,pharynx,pharynx,noun,c2
+729,phlegm,phlegm,noun,c2
+730,physical_1,physical,adjective,a2
+731,physically,physically,adverb,b1
+732,pinky,pinky,noun,c2
+733,pinna,pinna,noun,c2
+734,plaque,plaque,noun,c2
+735,plasma,plasma,noun,c2
+736,pore_1,pore,noun,c2
+737,premolar,premolar,noun,c2
+738,pulp_1,pulp,noun,c2
+739,pulse_1,pulse,noun,c1
+740,pupil,pupil,noun,c2
+741,quadriceps,quadriceps,noun,c2
+742,quads,quads,noun,c2
+743,radius,radius,noun,c2
+744,rear-end_1,rear end,noun,c1
+745,rectum,rectum,noun,c2
+746,renal,renal,adjective,c2
+747,respiration,respiration,noun,c2
+748,retina,retina,noun,c2
+749,retinal,retinal,adjective,c2
+750,rheumy,rheumy,adjective,c2
+751,rib_1,rib,noun,c1
+752,ribcage,ribcage,noun,c2
+753,ring-finger,ring finger,noun,c2
+754,roman-nose,Roman nose,noun,c2
+755,roof_1,roof,noun,c1
+756,root_1,root,noun,b2
+757,sacrum,sacrum,noun,c2
+758,saliva,saliva,noun,c2
+759,scalp_1,scalp,noun,c2
+760,scapula,scapula,noun,c2
+761,septum,septum,noun,c2
+762,shin_1,shin,noun,c1
+763,shin-bone,shin bone,noun,c1
+764,shoulder_1,shoulder,noun,a2
+765,shoulder-blade,shoulder blade,noun,c2
+766,sinew,sinew,noun,c2
+767,sinus,sinus,noun,c2
+768,skeleton,skeleton,noun,b2
+769,skin_1,skin,noun,a2
+770,skull,skull,noun,b2
+771,small_3,small,noun,c2
+772,solar-plexus,solar plexus,noun,c2
+773,sole_2,sole,noun,c1
+774,sphincter,sphincter,noun,c2
+775,spinal,spinal,adjective,c2
+776,spinal-cord,spinal cord,noun,c2
+777,spine,spine,noun,c1
+778,spleen,spleen,noun,c2
+779,stapes,stapes,noun,c2
+780,stem-cell,stem cell,noun,c2
+781,sternum,sternum,noun,c2
+782,stirrup,stirrup,noun,c2
+783,stomach_1,stomach,noun,a2
+784,stubby_1,stubby,adjective,c2
+785,sunken,sunken,adjective,c2
+786,tailbone,tailbone,noun,c2
+787,tarsal,tarsal,noun,c2
+788,tartar,tartar,noun,c2
+789,taste-bud,taste bud,noun,c2
+790,tear-duct,tear duct,noun,c2
+791,temple,temple,noun,c1
+792,tendon,tendon,noun,c2
+793,testicle,testicle,noun,c2
+794,thalamus,thalamus,noun,c2
+795,thigh,thigh,noun,c1
+796,thigh-bone,thigh bone,noun,c1
+797,throat,throat,noun,b1
+798,thumb_1,thumb,noun,b2
+799,tibia,tibia,noun,c2
+800,tissue,tissue,noun,c1
+801,toe_1,toe,noun,b1
+802,toenail,toenail,noun,b2
+803,tongue_1,tongue,noun,b1
+804,tonsil,tonsil,noun,c2
+805,tooth,tooth,noun,a1
+806,torso,torso,noun,c2
+807,trachea,trachea,noun,c2
+808,tract,tract,noun,c2
+809,triceps,triceps,noun,c2
+810,trunk,trunk,noun,c2
+811,tummy,tummy,noun,c1
+812,tummy-button,tummy button,noun,c2
+813,tush,tush,noun,c2
+814,ulna,ulna,noun,c2
+815,unfocused,unfocused,adjective,c2
+816,urethra,urethra,noun,c2
+817,uterine,uterine,adjective,c2
+818,uterus,uterus,noun,c2
+819,uvula,uvula,noun,c2
+820,vagina,vagina,noun,c2
+821,vein,vein,noun,c1
+822,ventricle,ventricle,noun,c2
+823,vertebra,vertebra,noun,c2
+824,vertebral,vertebral,adjective,c2
+825,waist,waist,noun,b2
+826,windpipe,windpipe,noun,c2
+827,wisdom-tooth,wisdom tooth,noun,c2
+828,womb,womb,noun,c2
+829,wrist,wrist,noun,b2
+830,accessory_1,accessory,noun,c1
+831,acrylic_2,acrylic,noun,c2
+832,a-line,A-line,adjective,c2
+833,amber_2,amber,noun,c2
+834,amethyst,amethyst,noun,c2
+835,amulet,amulet,noun,c2
+836,ankh,ankh,noun,c2
+837,anklet,anklet,noun,c2
+838,anorak,anorak,noun,c2
+839,apron,apron,noun,b2
+840,aquamarine_1,aquamarine,noun,c2
+841,armband,armband,noun,c2
+842,ascot_1,ascot,noun,c2
+843,athleisuretm,athleisure™,noun,c2
+844,athletic-shoe,athletic shoe,noun,b2
+845,attire,attire,noun,c2
+846,backless,backless,adjective,c2
+847,badge,badge,noun,b2
+848,bag_1,bag,noun,a1
+849,baggy,baggy,adjective,b1
+850,balaclava,balaclava,noun,c2
+851,balmoral_1,balmoral,noun,c2
+852,bandana,bandana,noun,c2
+853,bandeau,bandeau,noun,c2
+854,bangle,bangle,noun,c2
+855,barrette,barrette,noun,c2
+856,basque_1,basque,noun,c2
+857,bather,bather,noun,c2
+858,bathing-suit,bathing suit,noun,c1
+859,bathrobe,bathrobe,noun,b2
+860,bauble,bauble,noun,c2
+861,bead,bead,noun,c1
+862,beanie,beanie,noun,c2
+863,bearskin,bearskin,noun,c2
+864,becoming,becoming,adjective,c2
+865,be-dressed-up,be dressed up,phrasal verb,b2
+866,bell-bottoms,bell-bottoms,noun,c2
+867,belt_1,belt,noun,a2
+868,beret,beret,noun,c2
+869,bib,bib,noun,c1
+870,bikini,bikini,noun,b2
+871,billfold,billfold,noun,c2
+872,blazer,blazer,noun,c2
+873,bling_1,bling,adjective,c2
+874,bling_2,bling,noun,c2
+875,blouse,blouse,noun,b1
+876,boater,boater,noun,c2
+877,bobble-hat,bobble hat,noun,c2
+878,bobby-pin,bobby pin,noun,c2
+879,bodice,bodice,noun,c2
+880,body,body,noun,c2
+881,body-piercing,body piercing,noun,b2
+882,bodysuit,bodysuit,noun,c2
+883,boiler-suit,boiler suit,noun,c2
+884,bonnet,bonnet,noun,c2
+885,boob-tube,boob tube,noun,c2
+886,boot_1,boot,noun,a1
+887,bow2_1,bow,noun,c1
+888,bowler,bowler,noun,c2
+889,bow-tie,bow tie,noun,c1
+890,boxer-shorts,boxer shorts,noun,c1
+891,bra,bra,noun,b1
+892,brace_1,brace,noun,c2
+893,bracelet,bracelet,noun,c1
+894,brassiere,brassière,noun,c2
+895,bridal,bridal,adjective,c2
+896,brief_1,brief,adjective,c1
+897,briefs,briefs,noun,c1
+898,brim_1,brim,noun,c2
+899,brogue,brogue,noun,c2
+900,brooch,brooch,noun,c2
+901,buckle_2,buckle,noun,c1
+902,burka,burka,noun,c2
+903,burqa,burqa,noun,c2
+904,busby,busby,noun,c2
+905,button_1,button,noun,a2
+906,buttonhole_1,buttonhole,noun,c2
+907,cagoule,cagoule,noun,c2
+908,cameo,cameo,noun,c2
+909,cap_1,cap,noun,b1
+910,cape,cape,noun,c1
+911,capri-pants,capri pants,noun,c2
+912,carat,carat,noun,c2
+913,cardigan,cardigan,noun,b2
+914,cargo-pants,cargo pants,noun,c2
+915,cashmere,cashmere,noun,c2
+916,casual_1,casual,adjective,b2
+917,catwalk,catwalk,noun,c1
+918,chain_1,chain,noun,b1
+919,charm_1,charm,noun,c2
+920,check_2,check,noun,c1
+921,checked,checked,adjective,c1
+922,chic_1,chic,noun,c2
+923,chic_2,chic,adjective,c2
+924,chiffon,chiffon,noun,c2
+925,choker,choker,noun,c2
+926,clasp_2,clasp,noun,c2
+927,cleat,cleat,noun,c2
+928,clinging,clinging,adjective,c2
+929,cloak_1,cloak,noun,c1
+930,cloche,cloche,noun,c2
+931,clodhopper,clodhopper,noun,c2
+932,clog_2,clog,noun,c2
+933,close-fitting,close-fitting,adjective,c2
+934,cloth,cloth,noun,b1
+935,clothe,clothe,verb,c2
+936,clothes,clothes,noun,a1
+937,clothing,clothing,noun,a2
+938,coat_1,coat,noun,a1
+939,collar_1,collar,noun,b2
+940,collection,collection,noun,b2
+941,combats,combats,noun,c2
+942,comfortable,comfortable,adjective,a2
+943,coordinate_1,coordinate,verb,c2
+944,coordinate_2,coordinate,noun,c2
+945,coral_1,coral,noun,b2
+946,cord,cord,noun,c2
+947,corduroy,corduroy,noun,c2
+948,corset,corset,noun,c2
+949,costume,costume,noun,b1
+950,cotton_1,cotton,noun,b1
+951,court-shoe,court shoe,noun,c2
+952,couture,couture,noun,c2
+953,coverall_2,coverall,noun,c2
+954,cowboy-boot,cowboy boot,noun,c1
+955,cowboy-hat,cowboy hat,noun,c1
+956,crash-helmet,crash helmet,noun,c1
+957,cravat,cravat,noun,c2
+958,crew-neck,crew neck,noun,c2
+959,crocstm,Crocs™,noun,c2
+960,cross-trainer,cross trainer,noun,c2
+961,crown_1,crown,noun,c1
+962,crepe,crêpe,noun,c2
+963,crystal,crystal,noun,c1
+964,cuff_1,cuff,noun,c1
+965,cufflink,cufflink,noun,c2
+966,cut_2,cut,noun,c1
+967,cut-off_1,cut-off,adjective,c2
+968,deck-shoe,deck shoe,noun,c2
+969,denim,denim,noun,b1
+970,derby_1,derby,noun,c2
+971,designer_1,designer,noun,a2
+972,designer_2,designer,adjective,b1
+973,diamond,diamond,noun,b1
+974,disguise_2,disguise,noun,b2
+975,dj_1,DJ,noun,c2
+976,dms,DMs,noun,c2
+977,doc-martens,Doc Martens,noun,c2
+978,dress_1,dress,noun,a1
+979,dress_2,dress,verb,a1
+980,dress-down,dress down,phrasal verb,c2
+981,dressing-gown,dressing gown,noun,c1
+982,dress-up,dress up,phrasal verb,b2
+983,dressy,dressy,adjective,c2
+984,dr-martenstm,Dr Martens™,noun,c2
+985,duffel-coat,duffel coat,noun,c2
+986,dummy_1,dummy,noun,c2
+987,dunce-s-cap,dunce’s cap,noun,c2
+988,dungarees,dungarees,noun,c2
+989,earring,earring,noun,b1
+990,elegant,elegant,adjective,b2
+991,emerald_2,emerald,noun,c2
+992,engagement-ring,engagement ring,noun,c1
+993,espadrille,espadrille,noun,c2
+994,fabric,fabric,noun,b2
+995,fancy-dress,fancy dress,noun,b2
+996,fashion_1,fashion,noun,a2
+997,fashionable,fashionable,adjective,b1
+998,fashion-conscious,fashion-conscious,adjective,b2
+999,fashion-designer,fashion designer,noun,a2
+1000,fashion-statement,fashion statement,noun,c1
+1001,fashion-victim,fashion victim,noun,c1
+1002,fasten,fasten,verb,b1
+1003,fastener,fastener,noun,c1
+1004,feather-boa,feather boa,noun,c2
+1005,fedora,fedora,noun,c2
+1006,fetching,fetching,adjective,c2
+1007,fez,fez,noun,c2
+1008,figure-hugging,figure-hugging,adjective,c2
+1009,finery,finery,noun,c2
+1010,fit_1,fit,verb,a2
+1011,fit_3,fit,noun,b2
+1012,fitted,fitted,adjective,c1
+1013,flamboyant,flamboyant,adjective,c2
+1014,flannel,flannel,noun,c2
+1015,flare_1,flare,verb,c2
+1016,flare_2,flare,noun,c2
+1017,flared,flared,adjective,c2
+1018,flat_1,flat,noun,c1
+1019,flattering,flattering,adjective,c2
+1020,flatties,flatties,noun,c2
+1021,fleece_1,fleece,noun,c2
+1022,flight-suit,flight suit,noun,c2
+1023,flip-flop_2,flip-flop,noun,c1
+1024,flipper,flipper,noun,c2
+1025,flowery,flowery,adjective,c1
+1026,fly_2,fly,noun,c1
+1027,flying-suit,flying suit,noun,c2
+1028,football-boot,football boot,noun,a2
+1029,footwear,footwear,noun,c1
+1030,formal,formal,adjective,a2
+1031,form-fitting,form-fitting,adjective,c2
+1032,frumpy,frumpy,adjective,c2
+1033,fur,fur,noun,b1
+1034,galoshes,galoshes,noun,c2
+1035,garish,garish,adjective,c2
+1036,garment,garment,noun,c1
+1037,garter,garter,noun,c2
+1038,gaudy_1,gaudy,adjective,c2
+1039,gem,gem,noun,c1
+1040,gilet,gilet,noun,c2
+1041,glam_1,glam,adjective,c2
+1042,glam_2,glam,noun,c2
+1043,glamorous,glamorous,adjective,b2
+1044,glamorously,glamorously,adverb,b2
+1045,glamour_1,glamour,noun,c1
+1046,glam-up,glam up,phrasal verb,c2
+1047,glass_1,glass,noun,a1
+1048,glengarry,glengarry,noun,c2
+1049,glove,glove,noun,b1
+1050,goggles,goggles,noun,c1
+1051,gold_1,gold,noun,a2
+1052,gown,gown,noun,c2
+1053,grungy,grungy,adjective,c2
+1054,gym-shoe,gym shoe,noun,c2
+1055,haberdashery,haberdashery,noun,c2
+1056,hairband,hairband,noun,c2
+1057,hairgrip,hairgrip,noun,c2
+1058,hairnet,hairnet,noun,c2
+1059,hairpin,hairpin,noun,c2
+1060,hairslide,hairslide,noun,c2
+1061,halter,halter,noun,c2
+1062,handbag,handbag,noun,a2
+1063,hard-hat,hard hat,noun,c2
+1064,hat,hat,noun,a1
+1065,hatband,hatband,noun,c2
+1066,hatpin,hatpin,noun,c2
+1067,haute-couture,haute couture,noun,c2
+1068,have-on,have on,phrasal verb,b1
+1069,headband,headband,noun,c2
+1070,headgear,headgear,noun,c2
+1071,headscarf,headscarf,noun,c2
+1072,heel_1,heel,noun,b2
+1073,helmet,helmet,noun,b2
+1074,hem_1,hem,noun,c2
+1075,high-heeled,high-heeled,adjective,c1
+1076,high-heels,high heels,noun,c1
+1077,high-top,high-top,adjective,c2
+1078,high-tops,high-tops,noun,c2
+1079,high-visibility,high-visibility,adjective,c1
+1080,hijab,hijab,noun,c2
+1081,hip_2,hip,adjective,c2
+1082,hobnail-boot,hobnail boot,noun,c2
+1083,homburg,homburg,noun,c2
+1084,hood_1,hood,noun,c1
+1085,hoody,hoody,noun,c2
+1086,hoop,hoop,noun,c2
+1087,hosiery,hosiery,noun,c2
+1088,in_3,in,adjective,c1
+1089,informal,informal,adjective,a2
+1090,jacket,jacket,noun,a1
+1091,jade_1,jade,noun,c2
+1092,jammies,jammies,noun,c2
+1093,jeans,jeans,noun,a1
+1094,jeggingstm,jeggings™,noun,c2
+1095,jersey,jersey,noun,b2
+1096,jewel,jewel,noun,b1
+1097,jewellery,jewellery,noun,a2
+1098,jilbab,jilbab,noun,c2
+1099,jodhpurs,jodhpurs,noun,c2
+1100,jogging-suit,jogging suit,noun,b1
+1101,jumper,jumper,noun,c2
+1102,kagoul,kagoul,noun,c2
+1103,karat,karat,noun,c2
+1104,kick_2,kick,noun,c2
+1105,kilt,kilt,noun,c1
+1106,kitten-heels,kitten heels,noun,c2
+1107,knee_1,knee,noun,a2
+1108,knickers,knickers,noun,b2
+1109,label_1,label,noun,b1
+1110,lace_1,lace,noun,b2
+1111,ladder_1,ladder,noun,c2
+1112,layer-up,layer up,phrasal verb,c2
+1113,lbd,LBD,noun,c2
+1114,leather,leather,noun,b1
+1115,leg_1,leg,noun,a1
+1116,leggings,leggings,noun,b2
+1117,leg-warmer,leg warmer,noun,c1
+1118,leisurewear,leisurewear,noun,c2
+1119,leotard,leotard,noun,c2
+1120,linen,linen,noun,c1
+1121,lingerie,lingerie,noun,c2
+1122,lining,lining,noun,b2
+1123,little-black-dress,little black dress,noun,b2
+1124,loafer,loafer,noun,c2
+1125,locket,locket,noun,c2
+1126,loose_1,loose,adjective,b2
+1127,loose-fitting,loose-fitting,adjective,c1
+1128,loud_1,loud,adjective,c2
+1129,loungewear,loungewear,noun,c2
+1130,low-cut,low-cut,adjective,c1
+1131,mac_1,mac,noun,c2
+1132,mack,mack,noun,c2
+1133,mackintosh,mackintosh,noun,c2
+1134,made-to-measure,made to measure,adjective,c1
+1135,measure_2,made to measure,idiom,c1
+1136,match_2,match,verb,b2
+1137,material_1,material,noun,b1
+1138,maxi,maxi,noun,c2
+1139,medallion,medallion,noun,c2
+1140,menswear,menswear,noun,c1
+1141,mini_1,mini,noun,c2
+1142,miniskirt,miniskirt,noun,b2
+1143,miter_1,miter,noun,c2
+1144,mitre_1,mitre,noun,c2
+1145,mitten,mitten,noun,c2
+1146,moccasin,moccasin,noun,c2
+1147,model_1,model,noun,a2
+1148,model_2,model,verb,b1
+1149,mohair,mohair,noun,c2
+1150,moleskin,moleskin,noun,c2
+1151,mortar-board,mortar board,noun,c2
+1152,mule,mule,noun,c2
+1153,muslin,muslin,noun,c2
+1154,natty,natty,adjective,c2
+1155,neck_1,neck,noun,a2
+1156,necklace_1,necklace,noun,b1
+1157,necktie,necktie,noun,a2
+1158,nightcap,nightcap,noun,c2
+1159,nightdress,nightdress,noun,c1
+1160,nightgown,nightgown,noun,c2
+1161,nightie,nightie,noun,c1
+1162,nightshirt,nightshirt,noun,c1
+1163,nightwear,nightwear,noun,c1
+1164,niqab,niqab,noun,c2
+1165,normcore,normcore,noun,c2
+1166,nose-ring,nose ring,noun,c2
+1167,nylon,nylon,noun,c1
+1168,peg_1,off the peg,idiom,c2
+1169,rack_1,off the rack,idiom,c2
+1170,opal,opal,noun,c2
+1171,open-necked,open-necked,adjective,c1
+1172,outerwear,outerwear,noun,c2
+1173,outfit_1,outfit,noun,b2
+1174,overall_3,overall,noun,c1
+1175,overcoat,overcoat,noun,c1
+1176,overdressed,overdressed,adjective,c2
+1177,pair_1,pair,noun,a1
+1178,panama_1,panama,noun,c2
+1179,panties,panties,noun,b1
+1180,pants,pants,noun,a2
+1181,patent-leather,patent leather,noun,c2
+1182,pattern_1,pattern,noun,b1
+1183,patterned,patterned,adjective,c1
+1184,peak_1,peak,noun,c2
+1185,pearl,pearl,noun,c1
+1186,pendant,pendant,noun,c2
+1187,petite,petite,adjective,c2
+1188,petticoat,petticoat,noun,c2
+1189,photographer,photographer,noun,b1
+1190,piercing_2,piercing,noun,b2
+1191,pinafore,pinafore,noun,c2
+1192,pinny,pinny,noun,c2
+1193,pinstripe,pinstripe,noun,c2
+1194,pinstriped,pinstriped,adjective,c2
+1195,pith-helmet,pith helmet,noun,c2
+1196,pjs,PJs,noun,c2
+1197,plain_1,plain,adjective,b2
+1198,platform,platform,noun,b2
+1199,platinum,platinum,noun,c2
+1200,pleat,pleat,noun,c2
+1201,plimsoll,plimsoll,noun,c2
+1202,plunging,plunging,adjective,c2
+1203,pocket_1,pocket,noun,a2
+1204,polo-neck,polo neck,noun,c2
+1205,polyester,polyester,noun,c2
+1206,pork-pie-hat,pork-pie hat,noun,c2
+1207,precious-stone,precious stone,noun,b2
+1208,pullover,pullover,noun,c2
+1209,pump_2,pump,noun,c2
+1210,purse_1,purse,noun,a2
+1211,put-on_1,put on,phrasal verb,a2
+1212,pyjama_1,pyjama,adjective,b2
+1213,pyjamas,pyjamas,noun,b1
+1214,rag_1,rag,noun,c1
+1215,ragged,ragged,adjective,c1
+1216,raincoat,raincoat,noun,b1
+1217,rainwear,rainwear,noun,c2
+1218,ready-to-wear,ready-to-wear,adjective,c1
+1219,remove_1,remove,verb,a2
+1220,retro_1,retro,adjective,c2
+1221,revealing,revealing,adjective,c2
+1222,rhinestone,rhinestone,noun,c2
+1223,ribbed,ribbed,adjective,c2
+1224,ribbon,ribbon,noun,c1
+1225,ring1_1,ring,noun,a2
+1226,robe_1,robe,noun,c2
+1227,rollerbladetm,Rollerblade™,noun,c2
+1228,roller-skate_2,roller skate,noun,c2
+1229,ruby_2,ruby,noun,c1
+1230,ruched,ruched,adjective,c2
+1231,safari-suit,safari suit,noun,c2
+1232,sandal,sandal,noun,b2
+1233,sandshoe,sandshoe,noun,c2
+1234,sapphire_1,sapphire,noun,c2
+1235,sari,sari,noun,b2
+1236,sarong,sarong,noun,c2
+1237,sash,sash,noun,c2
+1238,satin_1,satin,noun,c2
+1239,scanty,scanty,adjective,c2
+1240,scarf_1,scarf,noun,a2
+1241,scooped,scooped,adjective,c2
+1242,scrunchy,scrunchy,noun,c2
+1243,season_1,season,noun,b2
+1244,see-through_2,see-through,adjective,c1
+1245,sharp_1,sharp,adjective,c2
+1246,shawl,shawl,noun,c1
+1247,shirt,shirt,noun,a1
+1248,shoe_1,shoe,noun,a1
+1249,shoelace,shoelace,noun,c1
+1250,shorts,shorts,noun,a2
+1251,shoulder_1,shoulder,noun,a2
+1252,shoulder-pad,shoulder pad,noun,c1
+1253,silk,silk,noun,b2
+1254,silky_2,silky,adjective,c2
+1255,silver_1,silver,noun,a2
+1256,size_1,size,noun,a2
+1257,skate_2,skate,noun,b2
+1258,skate-shoe,skate shoe,noun,c2
+1259,skid-lid,skid lid,noun,c2
+1260,skimpy,skimpy,adjective,c2
+1261,skinny_1,skinny,adjective,c2
+1262,skintight,skintight,adjective,c1
+1263,skirt_1,skirt,noun,a1
+1264,sleeve,sleeve,noun,b2
+1265,sleeveless,sleeveless,adjective,c1
+1266,slider,slider,noun,c2
+1267,slingback,slingback,noun,c2
+1268,slinky,slinky,adjective,c2
+1269,slip_2,slip,noun,c2
+1270,slip-on,slip-on,noun,c2
+1271,slipper,slipper,noun,b2
+1272,sloppy,sloppy,adjective,c2
+1273,smart_1,smart,adjective,b1
+1274,smart-casual,smart casual,noun,c1
+1275,smartly,smartly,adverb,b1
+1276,smock,smock,noun,c2
+1277,snappy,snappy,adjective,c2
+1278,sneaker,sneaker,noun,c1
+1279,snood,snood,noun,c2
+1280,sober_1,sober,adjective,c2
+1281,sock_1,sock,noun,a2
+1282,sola-topi,sola topi,noun,c2
+1283,sole_2,sole,noun,c1
+1284,sombrero,sombrero,noun,c2
+1285,sou-wester,sou’wester,noun,c2
+1286,specs,specs,noun,a1
+1287,spectacle,spectacle,noun,c1
+1288,sportswear,sportswear,noun,c1
+1289,sporty,sporty,adjective,b2
+1290,spotted,spotted,adjective,c2
+1291,stetson,stetson,noun,c2
+1292,stiletto,stiletto,noun,c2
+1293,stocking,stocking,noun,c1
+1294,stone_1,stone,noun,b2
+1295,strap_1,strap,noun,c1
+1296,strapless,strapless,adjective,c1
+1297,streetwear,streetwear,noun,c2
+1298,strip_2,strip,verb,c1
+1299,stripe,stripe,noun,b1
+1300,striped,striped,adjective,b2
+1301,stripy,stripy,adjective,b2
+1302,stud_1,stud,noun,c2
+1303,style_1,style,noun,a1
+1304,stylish,stylish,adjective,b2
+1305,stylishly,stylishly,adverb,b2
+1306,stylishness,stylishness,noun,c1
+1307,suede,suede,noun,c2
+1308,suit_1,suit,noun,a2
+1309,sunglasses,sunglasses,noun,a2
+1310,sun-hat,sun hat,noun,b1
+1311,supermodel,supermodel,noun,b1
+1312,suspender,suspender,noun,c2
+1313,sweatband,sweatband,noun,c2
+1314,sweater,sweater,noun,a1
+1315,sweatshirt,sweatshirt,noun,b1
+1316,sweatshop,sweatshop,noun,c2
+1317,swimming-costume,swimming costume,noun,b1
+1318,swimming-trunks,swimming trunks,noun,b1
+1319,swimsuit,swimsuit,noun,b1
+1320,tail_1,tail,noun,c2
+1321,tailor_1,tailor,noun,b2
+1322,tailored,tailored,adjective,c2
+1323,tailor-made,tailor-made,adjective,c1
+1324,take_1,take,verb,c1
+1325,tam-o-shanter_2,tam-o’shanter,noun,c2
+1326,tank-top,tank top,noun,c2
+1327,tarboosh,tarboosh,noun,c2
+1328,tartan,tartan,noun,c2
+1329,tee_1,tee,noun,c2
+1330,tee-shirt,tee shirt,noun,b1
+1331,ten-gallon-hat,ten-gallon hat,noun,c2
+1332,tennis-shoe,tennis shoe,noun,b1
+1333,textile,textile,noun,c2
+1334,thermal_1,thermal,adjective,c2
+1335,thermal_2,thermal,noun,c2
+1336,thong,thong,noun,c2
+1337,tiara,tiara,noun,c2
+1338,tie_2,tie,noun,a2
+1339,tight_1,tight,adjective,b1
+1340,tights,tights,noun,b1
+1341,toggle_1,toggle,noun,c2
+1342,tongue_1,tongue,noun,c2
+1343,top_1,top,noun,a2
+1344,topee,topee,noun,c2
+1345,top-hat,top hat,noun,c1
+1346,topi,topi,noun,c2
+1347,toque,toque,noun,c2
+1348,track-shoe,track shoe,noun,c2
+1349,tracksuit,tracksuit,noun,b2
+1350,trainer,trainer,noun,a2
+1351,training-shoe,training shoe,noun,a2
+1352,trendy_1,trendy,adjective,b1
+1353,trilby,trilby,noun,c2
+1354,trim_1,trim,verb,c2
+1355,trinket,trinket,noun,c2
+1356,trouser_1,trouser,adjective,b1
+1357,trousers,trousers,noun,a1
+1358,t-shirt,T-shirt,noun,a1
+1359,tube-top,tube top,noun,c2
+1360,tunic,tunic,noun,c2
+1361,tuque,tuque,noun,c2
+1362,turban,turban,noun,c2
+1363,turquoise_1,turquoise,noun,c2
+1364,turtleneck,turtleneck,noun,c2
+1365,tuxedo,tuxedo,noun,c2
+1366,tweed,tweed,noun,c2
+1367,uncomfortable,uncomfortable,adjective,b1
+1368,underclothes,underclothes,noun,c1
+1369,underdressed,underdressed,adjective,c2
+1370,underpants,underpants,noun,b1
+1371,underskirt,underskirt,noun,c1
+1372,underwear,underwear,noun,b1
+1373,undress_1,undress,verb,b1
+1374,unfashionable,unfashionable,adjective,b1
+1375,unfasten,unfasten,verb,b1
+1376,unflattering,unflattering,adjective,c2
+1377,unhip,unhip,adjective,c2
+1378,uniform_1,uniform,noun,a2
+1379,veil_1,veil,noun,c1
+1380,velcrotm,Velcro™,noun,c2
+1381,velvet,velvet,noun,c1
+1382,vest_1,vest,noun,b2
+1383,visor,visor,noun,c2
+1384,v-neck,V-neck,noun,c2
+1385,v-necked,V-necked,adjective,c2
+1386,vogue_1,vogue,noun,c2
+1387,waistband,waistband,noun,c2
+1388,waistcoat,waistcoat,noun,b2
+1389,waistline,waistline,noun,c1
+1390,wallet,wallet,noun,a2
+1391,wardrobe,wardrobe,noun,b2
+1392,watch_2,watch,noun,a1
+1393,waterproof_1,waterproof,adjective,b2
+1394,waterproof_2,waterproof,noun,b2
+1395,wear_1,wear,verb,a1
+1396,wear_2,wear,noun,b2
+1397,wear-out,wear out,phrasal verb,b2
+1398,well-cut,well cut,adjective,c2
+1399,wellington_1,wellington,noun,c2
+1400,wetsuit,wetsuit,noun,c1
+1401,wig_1,wig,noun,c1
+1402,winkle-picker,winkle-picker,noun,c2
+1403,womenswear,womenswear,noun,c1
+1404,wool,wool,noun,b1
+1405,woollen,woollen,adjective,b2
+1406,woolly_1,woolly,adjective,b2
+1407,wristband,wristband,noun,c2
+1408,zip_1,zip,noun,b2
+1409,amber_1,amber,adjective,c2
+1410,angle_1,angle,noun,b2
+1411,apricot_2,apricot,adjective,c2
+1412,aquamarine_2,aquamarine,adjective,c2
+1413,arc_1,arc,noun,c2
+1414,arch_1,arch,noun,c1
+1415,asymmetric,asymmetric,adjective,c2
+1416,asymmetrically,asymmetrically,adverb,c2
+1417,asymmetry,asymmetry,noun,c2
+1418,auburn_1,auburn,adjective,c2
+1419,aureate,aureate,adjective,c2
+1420,axis,axis,noun,c2
+1421,azure_1,azure,adjective,c2
+1422,baby-blue_1,baby blue,adjective,c2
+1423,bay_3,bay,adjective,c2
+1424,beige_1,beige,adjective,c1
+1425,black_1,black,adjective,a1
+1426,black_2,black,noun,a1
+1427,blackness,blackness,noun,b2
+1428,blonde_1,blonde,adjective,a1
+1429,blood-red,blood-red,adjective,b2
+1430,blue_1,blue,adjective,a1
+1431,blue_2,blue,noun,a1
+1432,blueness,blueness,noun,b2
+1433,bluish,bluish,adjective,c1
+1434,bottle-green_1,bottle green,noun,c2
+1435,bottle-green_2,bottle-green,adjective,c2
+1436,brassy,brassy,adjective,c2
+1437,brazen_1,brazen,adjective,c2
+1438,bright_1,bright,adjective,a2
+1439,brighten,brighten,verb,c1
+1440,brightness,brightness,noun,b2
+1441,bronze_2,bronze,adjective,c1
+1442,brown_1,brown,adjective,a1
+1443,brown_2,brown,noun,a1
+1444,brownish,brownish,adjective,c1
+1445,buff_2,buff,adjective,c2
+1446,burgundy_1,burgundy,noun,c2
+1447,burgundy_2,burgundy,adjective,c2
+1448,burnt-ochre,burnt ochre,noun,c2
+1449,burnt-sienna,burnt sienna,noun,c2
+1450,burnt-umber,burnt umber,noun,c2
+1451,carmine_2,carmine,adjective,c2
+1452,carroty,carroty,adjective,c2
+1453,cerise_1,cerise,adjective,c2
+1454,cerulean,cerulean,adjective,c2
+1455,cherry_2,cherry,adjective,c2
+1456,chestnut_2,chestnut,adjective,c1
+1457,china-blue_1,china blue,noun,c2
+1458,china-blue_2,china-blue,adjective,c2
+1459,chocolate,chocolate,noun,b2
+1460,circle_1,circle,noun,a2
+1461,circular_1,circular,adjective,c1
+1462,circumference,circumference,noun,c2
+1463,claret,claret,noun,c2
+1464,clash_2,clash,verb,c2
+1465,coal-black,coal-black,adjective,c2
+1466,cobalt,cobalt,noun,c2
+1467,coffee,coffee,noun,b2
+1468,color_1,color,noun,a1
+1469,color_2,color,verb,a1
+1470,colored_1,colored,adjective,b1
+1471,colorful,colorful,adjective,b2
+1472,colour_1,colour,noun,a1
+1473,colour_2,colour,verb,b1
+1474,coloured_1,coloured,adjective,b1
+1475,colourful,colourful,adjective,b2
+1476,colour-in,colour in,phrasal verb,c1
+1477,column,column,noun,c1
+1478,concave,concave,adjective,c2
+1479,concavity,concavity,noun,c2
+1480,concentric,concentric,adjective,c2
+1481,cone_2,cone,noun,c1
+1482,conical,conical,adjective,c2
+1483,conic-section,conic section,noun,c2
+1484,contrast_1,contrast,noun,c1
+1485,convex,convex,adjective,c2
+1486,coppery,coppery,adjective,c2
+1487,coral_2,coral,adjective,c2
+1488,cream_1,cream,noun,b1
+1489,cream_2,cream,adjective,b1
+1490,creamy,creamy,adjective,c1
+1491,crescent,crescent,noun,c2
+1492,crimson_2,crimson,adjective,c2
+1493,cross_2,cross,noun,a2
+1494,cruciform,cruciform,adjective,c2
+1495,cube_1,cube,noun,c1
+1496,cubic,cubic,adjective,c2
+1497,curl_1,curl,verb,c1
+1498,curl_2,curl,noun,c1
+1499,curve_1,curve,noun,b2
+1500,curve_2,curve,verb,b2
+1501,curved,curved,adjective,b2
+1502,cylinder,cylinder,noun,c1
+1503,dark_1,dark,adjective,a1
+1504,darkness,darkness,noun,b2
+1505,decagon,decagon,noun,c2
+1506,decahedron,decahedron,noun,c2
+1507,deep_1,deep,adjective,b2
+1508,diagonal_1,diagonal,adjective,c2
+1509,diagonal_2,diagonal,noun,c2
+1510,diameter,diameter,noun,c1
+1511,diamond,diamond,noun,b1
+1512,dimension,dimension,noun,c1
+1513,discolour,discolour,verb,c2
+1514,dodecagon,dodecagon,noun,c2
+1515,dull_1,dull,adjective,c1
+1516,dun_1,dun,adjective,c2
+1517,dun_2,dun,noun,c2
+1518,dusky,dusky,adjective,c2
+1519,dye_1,dye,verb,b2
+1520,dye_2,dye,noun,b2
+1521,ebony_2,ebony,adjective,c2
+1522,ecru,ecru,noun,c2
+1523,ellipse,ellipse,noun,c2
+1524,emerald_1,emerald,adjective,c2
+1525,emerald_2,emerald,noun,c2
+1526,fawn_1,fawn,adjective,c2
+1527,fawn_2,fawn,noun,c2
+1528,flaming,flaming,adjective,c2
+1529,flat_2,flat,adjective,a2
+1530,flaxen,flaxen,adjective,c2
+1531,form_1,form,noun,b2
+1532,geometric,geometric,adjective,c2
+1533,ginger_1,ginger,noun,c1
+1534,ginger_2,ginger,adjective,b2
+1535,gingery,gingery,adjective,c2
+1536,gold_1,gold,noun,a2
+1537,gold_2,gold,adjective,a2
+1538,golden,golden,adjective,b2
+1539,gray_1,gray,adjective,a1
+1540,grayish,grayish,adjective,c1
+1541,green_1,green,adjective,a1
+1542,green_2,green,noun,a1
+1543,greenish,greenish,adjective,c1
+1544,greenness,greenness,noun,b2
+1545,grey_1,grey,adjective,a1
+1546,grey_2,grey,noun,a1
+1547,greyish,greyish,adjective,c1
+1548,greyness,greyness,noun,b2
+1549,hazel_2,hazel,adjective,c1
+1550,helix,helix,noun,c2
+1551,hemisphere,hemisphere,noun,c2
+1552,hendecagon,hendecagon,noun,c2
+1553,heptagon,heptagon,noun,c2
+1554,hexagon,hexagon,noun,c2
+1555,hexagram,hexagram,noun,c2
+1556,hexahedron,hexahedron,noun,c2
+1557,honeyed,honeyed,adjective,c2
+1558,horizontal_1,horizontal,adjective,b2
+1559,hot-pink_2,hot pink,noun,c2
+1560,hot-pink_1,hot pink,adjective,c2
+1561,ice-blue,ice-blue,adjective,c2
+1562,indigo_1,indigo,adjective,c2
+1563,indigo_2,indigo,noun,c2
+1564,iron-grey,iron-grey,adjective,c2
+1565,jade_1,jade,noun,c2
+1566,jet-black,jet black,adjective,c2
+1567,khaki_2,khaki,adjective,c2
+1568,leaden,leaden,adjective,c2
+1569,lemon_1,lemon,noun,b2
+1570,lemon_2,lemon,adjective,b2
+1571,light_2,light,adjective,a1
+1572,light-coloured,light-coloured,adjective,b2
+1573,lighten,lighten,verb,c1
+1574,lightness,lightness,noun,b2
+1575,lilac_1,lilac,noun,c2
+1576,lilac_2,lilac,adjective,c2
+1577,lily-white,lily-white,adjective,c2
+1578,lime_1,lime,noun,c2
+1579,lime-green_2,lime-green,adjective,c2
+1580,line_1,line,noun,a1
+1581,livid,livid,adjective,c2
+1582,loud_1,loud,adjective,c2
+1583,lozenge,lozenge,noun,c2
+1584,luminous,luminous,adjective,c2
+1585,lurid,lurid,adjective,c2
+1586,magenta_1,magenta,adjective,c2
+1587,magenta_2,magenta,noun,c2
+1588,maroon_1,maroon,adjective,c2
+1589,match_2,match,verb,b2
+1590,mauve_1,mauve,noun,c2
+1591,mauve_2,mauve,adjective,c2
+1592,mellow_1,mellow,adjective,c2
+1593,midnight-blue_1,midnight blue,noun,c2
+1594,midnight-blue_2,midnight blue,adjective,c2
+1595,monochrome_2,monochrome,noun,c2
+1596,mustard_1,mustard,adjective,c2
+1597,mustard_2,mustard,noun,c2
+1598,navy-blue_1,navy blue,noun,c2
+1599,navy-blue_2,navy blue,adjective,c2
+1600,neutral_1,neutral,adjective,c1
+1601,nonagon,nonagon,noun,c2
+1602,nut-brown,nut-brown,adjective,c2
+1603,oatmeal_1,oatmeal,adjective,c2
+1604,oatmeal_2,oatmeal,noun,c2
+1605,oblong_1,oblong,noun,c2
+1606,oblong_2,oblong,adjective,c2
+1607,ochre,ochre,noun,c2
+1608,octagon,octagon,noun,c2
+1609,off-white_1,off-white,adjective,c2
+1610,off-white_2,off-white,noun,c2
+1611,olive_1,olive,noun,c1
+1612,olive_2,olive,adjective,c1
+1613,orange_1,orange,noun,a1
+1614,orange_2,orange,adjective,a1
+1615,oval_1,oval,adjective,c1
+1616,oval_2,oval,noun,c1
+1617,pale_1,pale,adjective,b1
+1618,palely,palely,adverb,c2
+1619,paleness,paleness,noun,b2
+1620,parabola,parabola,noun,c2
+1621,parallel_1,parallel,adjective,b2
+1622,parallelogram,parallelogram,noun,c2
+1623,peach_1,peach,noun,c2
+1624,peach_2,peach,adjective,c2
+1625,peachy,peachy,adjective,c2
+1626,peacock-blue_1,peacock blue,noun,c2
+1627,peacock-blue_2,peacock blue,adjective,c2
+1628,pea-green_2,pea-green,adjective,c2
+1629,pentagon,pentagon,noun,c2
+1630,pentagram,pentagram,noun,c2
+1631,pentahedron,pentahedron,noun,c2
+1632,perimeter,perimeter,noun,c2
+1633,petrol-blue_1,petrol blue,adjective,c2
+1634,petrol-blue_2,petrol blue,noun,c2
+1635,pillar-box-red_1,pillar-box red,noun,c2
+1636,pillar-box-red_2,pillar-box red,adjective,c2
+1637,pink_1,pink,adjective,a1
+1638,pink_2,pink,noun,a1
+1639,pinkish,pinkish,adjective,c1
+1640,plummy,plummy,adjective,c2
+1641,polygon,polygon,noun,c2
+1642,polyhedron,polyhedron,noun,c2
+1643,powder-blue_1,powder blue,noun,c2
+1644,powder-blue_2,powder blue,adjective,c2
+1645,primrose_1,primrose,noun,c2
+1646,primrose_2,primrose,adjective,c2
+1647,prism,prism,noun,c2
+1648,prismatic,prismatic,adjective,c2
+1649,puce_1,puce,noun,c2
+1650,puce_2,puce,adjective,c2
+1651,purple_1,purple,adjective,a1
+1652,purple_2,purple,noun,a1
+1653,purplish,purplish,adjective,c1
+1654,pyramid,pyramid,noun,b2
+1655,quadrilateral_1,quadrilateral,noun,c2
+1656,quadrilateral_2,quadrilateral,adjective,c2
+1657,rectangle,rectangle,noun,c1
+1658,rectangular,rectangular,adjective,c1
+1659,red_1,red,adjective,a1
+1660,red_2,red,noun,a1
+1661,reddish,reddish,adjective,c1
+1662,redness,redness,noun,b2
+1663,rhomboid,rhomboid,noun,c2
+1664,rhombus,rhombus,noun,c2
+1665,right-angle,right angle,noun,c1
+1666,right-angled,right-angled,adjective,c2
+1667,right-angled-triangle,right-angled triangle,noun,c2
+1668,right-triangle,right triangle,noun,c2
+1669,rose_2,rose,adjective,c1
+1670,roseate,roseate,adjective,c2
+1671,rose-coloured,rose-coloured,adjective,c1
+1672,rosy,rosy,adjective,c2
+1673,round_1,round,adjective,a2
+1674,ruby_1,ruby,adjective,c2
+1675,ruby_2,ruby,noun,c2
+1676,ruddy_1,ruddy,adjective,c2
+1677,run_1,run,verb,c2
+1678,russet_1,russet,adjective,c2
+1679,saffron_1,saffron,noun,c2
+1680,saffron_2,saffron,adjective,c2
+1681,salmon-pink_1,salmon pink,adjective,c2
+1682,salmon-pink_2,salmon pink,noun,c2
+1683,sandy_1,sandy,adjective,c2
+1684,sapphire_1,sapphire,noun,c2
+1685,sapphire_2,sapphire,adjective,c2
+1686,scarlet_1,scarlet,noun,c2
+1687,scarlet_2,scarlet,adjective,c2
+1688,sea-green_1,sea green,noun,c1
+1689,sea-green_2,sea-green,adjective,c1
+1690,semicircle,semicircle,noun,c2
+1691,sepia_1,sepia,adjective,c2
+1692,sepia_2,sepia,noun,c2
+1693,shade_1,shade,noun,b2
+1694,shape_1,shape,noun,a2
+1695,shaped,shaped,adjective,b2
+1696,shocking-pink_1,shocking pink,adjective,c2
+1697,shocking-pink_2,shocking pink,noun,c2
+1698,silver_1,silver,noun,a2
+1699,silver_2,silver,adjective,a2
+1700,silvery,silvery,adjective,c2
+1701,sky-blue_1,sky blue,noun,c1
+1702,sky-blue_2,sky-blue,adjective,c1
+1703,slate-grey,slate-grey,adjective,c2
+1704,smoky,smoky,adjective,c2
+1705,snow-white_2,snow-white,adjective,c1
+1706,soft,soft,adjective,c1
+1707,solid_1,solid,adjective,c1
+1708,solid_2,solid,noun,c1
+1709,sombre,sombre,adjective,c2
+1710,sooty,sooty,adjective,c2
+1711,sphere,sphere,noun,c1
+1712,spherical,spherical,adjective,c2
+1713,spheroid,spheroid,noun,c2
+1714,spiral_1,spiral,noun,c1
+1715,spiral_2,spiral,adjective,c1
+1716,square_1,square,adjective,a2
+1717,square_2,square,noun,a2
+1718,squarish,squarish,adjective,c1
+1719,stain_1,stain,verb,c2
+1720,star_1,star,noun,a2
+1721,steely,steely,adjective,c2
+1722,straight_2,straight,adjective,a2
+1723,subtle,subtle,adjective,c1
+1724,surface_1,surface,noun,b1
+1725,symmetrical,symmetrical,adjective,c2
+1726,symmetrically,symmetrically,adverb,c2
+1727,symmetry,symmetry,noun,c2
+1728,tan_2,tan,noun,c1
+1729,tan_3,tan,adjective,c1
+1730,tangerine_1,tangerine,adjective,c2
+1731,tangerine_2,tangerine,noun,c2
+1732,taupe_1,taupe,adjective,c2
+1733,taupe_2,taupe,noun,c2
+1734,tawny,tawny,adjective,c2
+1735,tetrahedron,tetrahedron,noun,c2
+1736,tint_1,tint,noun,c2
+1737,tone_1,tone,noun,c2
+1738,tone_2,tone,verb,c2
+1739,trapezium,trapezium,noun,c2
+1740,trapezoid,trapezoid,noun,c2
+1741,triangle,triangle,noun,b2
+1742,triangular,triangular,adjective,c1
+1743,trihedron,trihedron,noun,c2
+1744,turquoise_1,turquoise,noun,c1
+1745,turquoise_2,turquoise,adjective,c1
+1746,vermilion_1,vermilion,adjective,c2
+1747,vermilion_2,vermilion,noun,c2
+1748,vertical_1,vertical,adjective,b2
+1749,vibrancy,vibrancy,noun,c2
+1750,vibrant,vibrant,adjective,c1
+1751,vibrantly,vibrantly,adverb,c1
+1752,violet_1,violet,adjective,c1
+1753,violet_2,violet,noun,c1
+1754,viridian,viridian,noun,c2
+1755,vivid,vivid,adjective,b2
+1756,white_1,white,adjective,a1
+1757,white_2,white,noun,a1
+1758,whiteness,whiteness,noun,b2
+1759,whitish,whitish,adjective,c1
+1760,wishy-washy,wishy-washy,adjective,c2
+1761,yellow_1,yellow,adjective,a1
+1762,yellow_2,yellow,noun,a1
+1763,yellowish,yellowish,adjective,c1
+1764,yellowness,yellowness,noun,b2
+1765,zigzag_2,zigzag,noun,c2

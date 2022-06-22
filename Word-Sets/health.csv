@@ -1,0 +1,1258 @@
+subLink,word,type,level
+0,access_1,access,noun,b1
+1,accessibility,accessibility,noun,c1
+2,alexia,alexia,noun,c2
+3,american-sign-language,American Sign Language,noun,b2
+4,aphasia,aphasia,noun,c2
+5,asd,ASD,noun,c2
+6,asl,ASL,noun,c2
+7,asperger-s-syndrome,Asperger’s syndrome,noun,c2
+8,assistance-dog,assistance dog,noun,c1
+9,assisted-living,assisted living,noun,c2
+10,autism,autism,noun,c1
+11,autism-spectrum-disorder,autism spectrum disorder,noun,c2
+12,autistic,autistic,adjective,c1
+13,blind_1,blind,adjective,b2
+14,blindness,blindness,noun,b2
+15,blue-badge,blue badge,noun,c2
+16,brain-damage,brain damage,noun,c2
+17,british-sign-language,British Sign Language,noun,b2
+18,bsl,BSL,noun,c2
+19,cerebral-palsy,cerebral palsy,noun,c2
+20,closed-captioned,closed-captioned,adjective,c2
+21,deaf,deaf,adjective,b2
+22,deafness,deafness,noun,b2
+23,disability,disability,noun,b2
+24,disabled,disabled,adjective,b2
+25,down-syndrome,Down syndrome,noun,c2
+26,down-s-syndrome,Down’s syndrome,noun,c2
+27,dyslexia,dyslexia,noun,c2
+28,dysphasia,dysphasia,noun,c2
+29,echolalia,echolalia,noun,c2
+30,guide-dog,guide dog,noun,b1
+31,hard-of-hearing,hard of hearing,adjective,c1
+32,hearing-aid,hearing aid,noun,c1
+33,hearing-dog,hearing dog,noun,b2
+34,impaired,impaired,adjective,c2
+35,impairment,impairment,noun,c2
+36,learning-difficulty,learning difficulty,noun,b2
+37,learning-disability,learning disability,noun,c1
+38,limb-difference,limb difference,noun,c2
+39,makatontm,Makaton™,noun,c2
+40,mobility,mobility,noun,c1
+41,mobility-scooter,mobility scooter,noun,c2
+42,spectrum,on the spectrum,idiom,c2
+43,paralympian_1,Paralympian,noun,c2
+44,paralympian_2,Paralympian,adjective,c2
+45,paralyse,paralyse,verb,c2
+46,paralysis,paralysis,noun,c2
+47,paraplegia,paraplegia,noun,c2
+48,paraplegic_2,paraplegic,adjective,c2
+49,partially-sighted,partially sighted,adjective,c2
+50,quadriplegia,quadriplegia,noun,c2
+51,quadriplegic_2,quadriplegic,adjective,c2
+52,ramp_1,ramp,noun,c1
+53,savant-syndrome,savant syndrome,noun,c2
+54,seeing-eye-dogtm,Seeing Eye dog™,noun,c1
+55,sen_1,SEN,abbreviation,c2
+56,sheltered-housing,sheltered housing,noun,c2
+57,sighted,sighted,adjective,c1
+58,sign-language,sign language,noun,b2
+59,special-needs,special needs,noun,b2
+60,spina-bifida,spina bifida,noun,c2
+61,the-paralympics,the Paralympics,noun,c1
+62,walker,walker,noun,c1
+63,walking-frame,walking frame,noun,c1
+64,walking-stick,walking stick,noun,c2
+65,wheelchair,wheelchair,noun,b1
+66,zimmer-frametm,Zimmer frame™,noun,c2
+67,able-bodied,able-bodied,adjective,c2
+68,breath,a breath of (fresh) air,idiom,c2
+69,activity-tracker,activity tracker,noun,c2
+70,aerobic,aerobic,adjective,c1
+71,aerobics,aerobics,noun,b2
+72,alive,alive and kicking,idiom,c2
+73,anaerobic,anaerobic,adjective,c2
+74,hundred,a/one hundred per cent,idiom,c2
+75,athlete,athlete,noun,b1
+76,athletic,athletic,adjective,b2
+77,beauty-sleep,beauty sleep,noun,c2
+78,bloom_1,bloom,noun,c2
+79,bloom_2,bloom,verb,c2
+80,blossom_2,blossom,verb,c1
+81,bouncing,bouncing,adjective,c2
+82,bubble_1,bubble,noun,c2
+83,bubble-with,bubble with,phrasal verb,c2
+84,burn_2,burn,noun,c2
+85,burpee,burpee,noun,c2
+86,cardio_1,cardio,noun,c2
+87,circuit,circuit,noun,c2
+88,circuit-breaker,circuit breaker,noun,c2
+89,circuit-training,circuit training,noun,c2
+90,circulation,circulation,noun,c1
+91,clean-living,clean-living,adjective,c2
+92,crossfittm,CrossFit™,noun,c2
+93,cross-trainer,cross trainer,noun,c2
+94,cross-training,cross-training,noun,c2
+95,elbow-bump,elbow bump,noun,c2
+96,elbump,elbump,noun,c2
+97,energy,energy,noun,a2
+98,exercise_1,exercise,noun,a1
+99,exercise_2,exercise,verb,a1
+100,exercise-bike,exercise bike,noun,b1
+101,fine_1,fine,adjective,a1
+102,fit_2,fit,adjective,a2
+103,fitness,fitness,noun,b1
+104,fitness-centre,fitness centre,noun,b2
+105,fitness-tracker,fitness tracker,noun,c2
+106,flourish_1,flourish,verb,c1
+107,foam-roller,foam roller,noun,c2
+108,form_1,form,noun,c1
+109,fresh-faced,fresh-faced,adjective,c2
+110,shape_1,get (yourself) into shape,idiom,c2
+111,glow_1,glow,verb,c2
+112,good_1,good,adjective,a1
+113,gym,gym,noun,a1
+114,gymnasium,gymnasium,noun,c1
+115,health,health,noun,a1
+116,health-club,health club,noun,b1
+117,health-spa,health spa,noun,c2
+118,healthy,healthy,adjective,a1
+119,heartbeat,heartbeat,noun,b2
+120,heart-rate,heart rate,noun,b1
+121,high-intensity-interval-training,high-intensity interval training,noun,c2
+122,hiit,HIIT,noun,c2
+123,immune,immune,adjective,b2
+124,immunity,immunity,noun,c1
+125,interval,interval,noun,c2
+126,interval-training,interval training,noun,c2
+127,jog_1,jog,verb,a2
+128,jog_2,jog,noun,a2
+129,jogger,jogger,noun,b1
+130,jogging,jogging,noun,a2
+131,jumping-jack,jumping jack,noun,c2
+132,keep-fit,keep-fit,noun,c1
+133,kettlebell,kettlebell,noun,c2
+134,lock-down,lock down,phrasal verb,c2
+135,mountain-climber,mountain climber,noun,c2
+136,non-disabled,non-disabled,adjective,b2
+137,pant_1,pant,verb,c2
+138,pant_2,pant,noun,c2
+139,pe,PE,noun,b1
+140,personal-trainer,personal trainer,noun,c1
+141,physical-distancing,physical distancing,noun,c2
+142,physical-education,physical education,noun,b1
+143,physically-distanced,physically distanced,adjective,c2
+144,plank,plank,noun,c2
+145,power-walking,power walking,noun,c2
+146,press-up,press-up,noun,c1
+147,puffed,puffed,adjective,c2
+148,pump_1,pump iron,idiom,c2
+149,punchbag,punchbag,noun,c2
+150,punching-bag,punching bag,noun,c2
+151,push-up,push-up,noun,c1
+152,radiance,radiance,noun,c2
+153,regimen,regimen,noun,c2
+154,rep_1,rep,noun,c2
+155,resistance,resistance,noun,c1
+156,resistant,resistant,adjective,c1
+157,rested,rested,adjective,b2
+158,robust,robust,adjective,c1
+159,run_1,run,verb,a1
+160,self-care,self-care,noun,b2
+161,short-winded,short-winded,adjective,c2
+162,sit-up_2,sit-up,noun,c2
+163,social-bubble,social bubble,noun,c2
+164,social-distance,social distance,noun,c2
+165,social-distancing,social distancing,noun,c2
+166,socially-distanced,socially distanced,adjective,c2
+167,spinning,spinning,noun,c2
+168,squat-thrust,squat thrust,noun,c2
+169,stamina,stamina,noun,c1
+170,step_1,step,noun,c1
+171,strength,strength,noun,b1
+172,strengthen,strengthen,verb,b2
+173,strenuous,strenuous,adjective,c2
+174,stretch_1,stretch,verb,b2
+175,strong,strong,adjective,a1
+176,sturdy,sturdy,adjective,c2
+177,support-bubble,support bubble,noun,c2
+178,sweat_2,sweat,verb,b2
+179,tabatatm,Tabata™,noun,c2
+180,thrive,thrive,verb,c1
+181,thrive-on,thrive on,phrasal verb,c1
+182,thriving,thriving,adjective,c1
+183,tone_2,tone,verb,c2
+184,tonify,tonify,verb,c2
+185,train_2,train,verb,a2
+186,treadmill,treadmill,noun,c2
+187,trim_3,trim,adjective,c2
+188,walk_1,walk,verb,a1
+189,walker,walker,noun,b1
+190,walking_1,walking,noun,a2
+191,warm-up_2,warm-up,noun,c2
+192,weight_1,weight,noun,a2
+193,well_2,well,adjective,a1
+194,wellness,wellness,noun,c2
+195,work-out,work out,phrasal verb,a2
+196,workout,workout,noun,c1
+197,zumbatm,Zumba™,noun,c2
+198,abnormality,abnormality,noun,c2
+199,accident,accident,noun,a2
+200,ache_1,ache,verb,a2
+201,ache_2,ache,noun,a2
+202,achy,achy,adjective,c2
+203,acne,acne,noun,c2
+204,acute,acute,adjective,c1
+205,addict,addict,noun,c1
+206,addicted,addicted,adjective,b2
+207,addiction,addiction,noun,b2
+208,addictive,addictive,adjective,c1
+209,affliction,affliction,noun,c2
+210,after-effect,after-effect,noun,c2
+211,aggravate,aggravate,verb,c2
+212,aggressive,aggressive,adjective,c2
+213,agony,agony,noun,c1
+214,aholic,-aholic,suffix,c2
+215,aids,AIDS,noun,b2
+216,ail,ail,verb,c2
+217,ailing,ailing,adjective,c2
+218,ailment,ailment,noun,c1
+219,alcoholic_1,alcoholic,adjective,b1
+220,alcoholic_2,alcoholic,noun,c1
+221,alcoholics-anonymoustm,Alcoholics Anonymous™,noun,c2
+222,alcoholism,alcoholism,noun,c2
+223,all-clear,all-clear,noun,c2
+224,allergic,allergic,adjective,b2
+225,allergy,allergy,noun,b2
+226,als,ALS,noun,c2
+227,alzheimer-s,Alzheimer’s,noun,c2
+228,amyotrophic-lateral-sclerosis,amyotrophic lateral sclerosis,noun,c2
+229,anaemia,anaemia,noun,c2
+230,anaemic,anaemic,adjective,c2
+231,anemia_2,anemia,noun,c2
+232,anthrax,anthrax,noun,c2
+233,appendicitis,appendicitis,noun,c2
+234,arthritis,arthritis,noun,c2
+235,asthma,asthma,noun,c1
+236,asthmatic_2,asthmatic,noun,c2
+237,death,at death’s door,idiom,c2
+238,attack_1,attack,noun,b1
+239,avian-flu,avian flu,noun,c2
+240,bad_1,bad,adjective,a2
+241,bang_1,bang,verb,b2
+242,banged-up,banged up,adjective,c2
+243,battered,battered,adjective,c2
+244,bedridden,bedridden,adjective,c2
+245,bedsore,bedsore,noun,c2
+246,down_1,be/go down with something,idiom,c2
+247,bend_2,bend,noun,c2
+248,benign,benign,adjective,c2
+249,sick_1,be sick,idiom,a2
+250,better_1,better,adjective,a2
+251,bird-flu,bird flu,noun,c1
+252,bite_2,bite,noun,b1
+253,black-eye,black eye,noun,b2
+254,bleed,bleed,verb,c1
+255,blister_1,blister,noun,c1
+256,bounce-back,bounce back,phrasal verb,c1
+257,bout,bout,noun,c2
+258,break_1,break,verb,b1
+259,break_2,break,noun,b1
+260,breathless,breathless,adjective,c1
+261,breathlessness,breathlessness,noun,c1
+262,broken_1,broken,adjective,a2
+263,bronchitis,bronchitis,noun,c2
+264,bruise_1,bruise,noun,b2
+265,bruise_2,bruise,verb,b2
+266,bse,BSE,noun,c2
+267,bug_1,bug,noun,b2
+268,bump_1,bump,verb,b2
+269,bump_2,bump,noun,b2
+270,burn_2,burn,noun,b2
+271,burnout,burnout,noun,c2
+272,burnt,burnt,adjective,b1
+273,c-19,C-19,noun,c1
+274,cancer_1,cancer,noun,b2
+275,cancerous,cancerous,adjective,c2
+276,cardiac,cardiac,adjective,c2
+277,carpal-tunnel-syndrome,carpal tunnel syndrome,noun,c2
+278,carrier,carrier,noun,c1
+279,cataract,cataract,noun,c2
+280,catarrh,catarrh,noun,c2
+281,catch_1,catch,verb,b1
+282,catching,catching,adjective,c1
+283,celiac_1,celiac,adjective,c2
+284,celiac_2,celiac,noun,c2
+285,celiac-disease,celiac disease,noun,c2
+286,chicken-flu,chicken flu,noun,c1
+287,chickenpox,chickenpox,noun,c2
+288,chill_1,chill,noun,c2
+289,cholera,cholera,noun,c2
+290,chronic,chronic,adjective,c1
+291,chronic-fatigue-syndrome,chronic fatigue syndrome,noun,c2
+292,cirrhosis,cirrhosis,noun,c2
+293,cjd,CJD,abbreviation,c2
+294,coeliac_1,coeliac,adjective,c2
+295,coeliac_2,coeliac,noun,c2
+296,coeliac-disease,coeliac disease,noun,c2
+297,cold_2,cold,noun,a1
+298,cold-turkey_1,cold turkey,adverb,c2
+299,cold-turkey_2,cold turkey,noun,c2
+300,colic,colic,noun,c2
+301,collapse_1,collapse,verb,b2
+302,collapse_2,collapse,noun,c1
+303,coma,coma,noun,c2
+304,comatose,comatose,adjective,c2
+305,come-down-with,come down with,phrasal verb,c2
+306,community-spread,community spread,noun,c2
+307,community-transmission,community transmission,noun,c2
+308,complain-of,complain of,phrasal verb,c1
+309,complaint,complaint,noun,c2
+310,complication,complication,noun,c1
+311,concuss,concuss,verb,c2
+312,concussed,concussed,adjective,c2
+313,concussion,concussion,noun,c2
+314,condition_1,condition,noun,a2
+315,congenital,congenital,adjective,c2
+316,constipation,constipation,noun,c2
+317,contagion,contagion,noun,c2
+318,contagious,contagious,adjective,c1
+319,contract_2,contract,verb,c2
+320,contusion,contusion,noun,c2
+321,convalesce,convalesce,verb,c2
+322,convalescence,convalescence,noun,c2
+323,corona,corona,noun,c2
+324,coronary,coronary,adjective,c2
+325,coronary-thrombosis,coronary thrombosis,noun,c2
+326,coronavirus,coronavirus,noun,b2
+327,cough_1,cough,verb,b1
+328,cough_2,cough,noun,b1
+329,covid,Covid,noun,b2
+330,covid-19,Covid-19,noun,b2
+331,cramp_1,cramp,noun,c2
+332,creutzfeldt-jakob-disease,Creutzfeldt-Jakob disease,noun,c2
+333,cripple_1,cripple,verb,c2
+334,crippling,crippling,adjective,c2
+335,crisis_1,crisis,noun,b2
+336,croup,croup,noun,c2
+337,curable,curable,adjective,c2
+338,cut_1,cut,verb,a1
+339,cut_2,cut,noun,b1
+340,cyst,cyst,noun,c2
+341,dead-leg,dead leg,noun,c2
+342,debility,debility,noun,c2
+343,deep-vein-thrombosis,deep vein thrombosis,noun,c2
+344,dehydrate,dehydrate,verb,c2
+345,dehydrated,dehydrated,adjective,c2
+346,dehydration,dehydration,noun,c2
+347,delicate,delicate,adjective,c1
+348,delirium,delirium,noun,c2
+349,delta_1,delta,noun,c2
+350,demented,demented,adjective,c2
+351,dementia,dementia,noun,c2
+352,dependence,dependence,noun,c1
+353,dependent_1,dependent,adjective,b2
+354,develop,develop,verb,b1
+355,diabetes,diabetes,noun,b2
+356,diabetic_1,diabetic,adjective,c2
+357,diabetic_2,diabetic,noun,c2
+358,diarrhoea,diarrhoea,noun,c1
+359,diphtheria,diphtheria,noun,c2
+360,discomfort_1,discomfort,noun,c1
+361,disease,disease,noun,a2
+362,diseased,diseased,adjective,c2
+363,dislocate,dislocate,verb,c2
+364,disorder,disorder,noun,b2
+365,distressed,distressed,adjective,c2
+366,dizzy,dizzy,adjective,c1
+367,doddering,doddering,adjective,c2
+368,drawn_1,drawn,adjective,c2
+369,dysentery,dysentery,noun,c2
+370,dyspepsia,dyspepsia,noun,c2
+371,earache,earache,noun,a2
+372,ebola,Ebola,noun,c2
+373,eclampsia,eclampsia,noun,c2
+374,eczema,eczema,noun,c2
+375,electric-shock,electric shock,noun,c1
+376,emaciated,emaciated,adjective,c2
+377,emaciation,emaciation,noun,c2
+378,epidemic_1,epidemic,noun,c1
+379,epilepsy,epilepsy,noun,c2
+380,epileptic_1,epileptic,noun,c2
+381,episode,episode,noun,c2
+382,exacerbate,exacerbate,verb,c2
+383,exacerbation,exacerbation,noun,c2
+384,exposure,exposure,noun,c1
+385,fade-away,fade away,phrasal verb,c2
+386,faint_1,faint,adjective,c1
+387,faint_2,faint,verb,c1
+388,faint_3,faint,noun,c1
+389,fatal,fatal,adjective,c1
+390,fatally,fatally,adverb,c1
+391,fatigue,fatigue,noun,c1
+392,fetal-alcohol-syndrome,fetal alcohol syndrome,noun,c2
+393,fever,fever,noun,b2
+394,feverish,feverish,adjective,c1
+395,fibroid,fibroid,noun,c2
+396,fight_1,fight for (your) life,idiom,c1
+397,first-degree_2,first-degree,adjective,c2
+398,fit_3,fit,noun,c1
+399,flare_2,flare,noun,c2
+400,flare-up_2,flare-up,noun,c2
+401,flatulence,flatulence,noun,c2
+402,flatulent,flatulent,adjective,c2
+403,flu,flu,noun,a2
+404,flutter_1,flutter,verb,c2
+405,flutter_2,flutter,noun,c2
+406,food-poisoning,food poisoning,noun,b2
+407,fracture_1,fracture,noun,c1
+408,fracture_2,fracture,verb,c1
+409,fragile,fragile,adjective,c1
+410,frail,frail,adjective,c2
+411,frostbite,frostbite,noun,c2
+412,funny,funny,adjective,c2
+413,ganglion,ganglion,noun,c2
+414,gangrene,gangrene,noun,c2
+415,gastric,gastric,adjective,c2
+416,gastric-flu,gastric flu,noun,c2
+417,genetic,genetic,adjective,b2
+418,germ,germ,noun,b2
+419,german-measles,German measles,noun,c2
+420,get,get,verb,a1
+421,get-over,get over,phrasal verb,b2
+422,ghastly,ghastly,adjective,c2
+423,give_1,give,verb,a1
+424,glue-sniffing,glue-sniffing,noun,c2
+425,graze_1,graze,verb,c2
+426,grim,grim,adjective,c2
+427,groggy,groggy,adjective,c2
+428,haemophilia,haemophilia,noun,c2
+429,haemophiliac,haemophiliac,noun,c2
+430,haemorrhage_1,haemorrhage,noun,c2
+431,haemorrhoids,haemorrhoids,noun,c2
+432,hangover,hangover,noun,c2
+433,harm_2,harm,verb,b2
+434,have_1,have,verb,a1
+435,foot_1,have one foot in the grave,idiom,c2
+436,hay-fever,hay fever,noun,c1
+437,headache,headache,noun,a2
+438,heal,heal,verb,b2
+439,heart-attack,heart attack,noun,b2
+440,heatstroke,heatstroke,noun,c2
+441,hemophilia,hemophilia,noun,c2
+442,hepatitis,hepatitis,noun,c2
+443,hereditary,hereditary,adjective,c2
+444,hernia,hernia,noun,c2
+445,herniated-disc,herniated disc,noun,c2
+446,hit_1,hit,verb,a2
+447,hiv,HIV,noun,c1
+448,hobble,hobble,verb,c2
+449,hooked,hooked,adjective,c1
+450,hot-zone,hot zone,noun,c2
+451,housebound,housebound,adjective,c2
+452,hungover,hungover,adjective,c2
+453,hurt_1,hurt,verb,a2
+454,hurt_2,hurt,adjective,a2
+455,hypertension,hypertension,noun,c2
+456,hypertensive,hypertensive,adjective,c2
+457,ill_1,ill,adjective,a2
+458,illness,illness,noun,a2
+459,incapacity,incapacity,noun,c2
+460,incubate,incubate,verb,c2
+461,incubation,incubation,noun,c2
+462,incurable,incurable,adjective,c2
+463,indigestion,indigestion,noun,c2
+464,infect,infect,verb,c1
+465,infected,infected,adjective,c1
+466,infection,infection,noun,b2
+467,infectious,infectious,adjective,c1
+468,infirm,infirm,adjective,c2
+469,infirmity,infirmity,noun,c2
+470,inflamed,inflamed,adjective,c2
+471,inflammation,inflammation,noun,c2
+472,injure,injure,verb,b1
+473,injured,injured,adjective,b1
+474,injury,injury,noun,a2
+475,invalid_2,invalid,noun,c2
+476,invasive,invasive,adjective,c2
+477,irritable-bowel-syndrome,irritable bowel syndrome,noun,c2
+478,irritate,irritate,verb,c2
+479,irritation,irritation,noun,c2
+480,jaundice,jaundice,noun,c2
+481,keel-over,keel over,phrasal verb,c2
+482,knock_1,knock,verb,b1
+483,knock-out,knock out,phrasal verb,c1
+484,kwashiorkor,kwashiorkor,noun,c2
+485,laryngitis,laryngitis,noun,c2
+486,lay-up_1,lay up,phrasal verb,c2
+487,leprosy,leprosy,noun,c2
+488,leukaemia,leukaemia,noun,c2
+489,life-limiting,life-limiting,adjective,b2
+490,limp_2,limp,verb,c2
+491,limp_3,limp,noun,c2
+492,long-covid,long Covid,noun,c2
+493,lou-gehrig-s-disease,Lou Gehrig's disease,noun,c2
+494,lump_1,lump,noun,c1
+495,mad-cow-disease,mad cow disease,noun,c2
+496,make_1,make it,idiom,c2
+497,malady,malady,noun,c2
+498,malaise,malaise,noun,c2
+499,malaria,malaria,noun,b2
+500,malarial,malarial,adjective,c2
+501,malignant,malignant,adjective,c2
+502,malnourished,malnourished,adjective,c2
+503,malnutrition,malnutrition,noun,c2
+504,measles,measles,noun,c1
+505,meningitis,meningitis,noun,c2
+506,migraine,migraine,noun,c2
+507,miscarriage,miscarriage,noun,c2
+508,mnd,MND,abbreviation,c2
+509,motor-neurone-disease,motor neurone disease,noun,c2
+510,multiple-sclerosis,multiple sclerosis,noun,c2
+511,mumps,mumps,noun,c2
+512,nausea,nausea,noun,c2
+513,nauseous,nauseous,adjective,c2
+514,ncov,nCoV,noun,c2
+515,niggle_1,niggle,noun,c2
+516,non-malignant,non-malignant,adjective,c2
+517,notifiable,notifiable,adjective,c2
+518,obese,obese,adjective,b2
+519,obesity,obesity,noun,b2
+520,od,OD,verb,c2
+521,omicron,omicron,noun,c2
+522,mend_2,on the mend,idiom,c2
+523,foot_1,on your feet,idiom,c2
+524,outbreak,outbreak,noun,c1
+525,breath,out of breath,idiom,c1
+526,overdose_2,overdose,verb,c1
+527,overeat,overeat,verb,c2
+528,overeating,overeating,noun,c2
+529,overweight,overweight,adjective,b2
+530,pain_1,pain,noun,a2
+531,painful,painful,adjective,b1
+532,painfully,painfully,adverb,b1
+533,pale_1,pale,adjective,b1
+534,pallid,pallid,adjective,c2
+535,pallor,pallor,noun,c2
+536,pandemic_1,pandemic,noun,b2
+537,pandemic_2,pandemic,adjective,b2
+538,paralyse,paralyse,verb,c2
+539,paralysis,paralysis,noun,c2
+540,parasite,parasite,noun,c1
+541,pass-out,pass out,phrasal verb,c2
+542,pathogen,pathogen,noun,c2
+543,pathological,pathological,adjective,c2
+544,patient-zero,patient zero,noun,c2
+545,peaked,peaked,adjective,c2
+546,peaky,peaky,adjective,c2
+547,peculiar,peculiar,adjective,c2
+548,pellagra,pellagra,noun,c2
+549,pertussis,pertussis,noun,c2
+550,phlegm,phlegm,noun,c2
+551,plague_1,plague,noun,c1
+552,pneumonia,pneumonia,noun,c2
+553,polio,polio,noun,c2
+554,poor,poor,adjective,b1
+555,poorly_2,poorly,adjective,c2
+556,post-operative,post-operative,adjective,c2
+557,present_3,present,verb,c2
+558,prolapse,prolapse,noun,c2
+559,pull_1,pull,verb,b1
+560,pull_2,pull,noun,c1
+561,pull-through,pull through,phrasal verb,c2
+562,queasy,queasy,adjective,c2
+563,rabies,rabies,noun,c2
+564,rally_2,rally,verb,c2
+565,rash_1,rash,noun,c1
+566,react,react,verb,b1
+567,reaction,reaction,noun,b1
+568,recover,recover,verb,b2
+569,recovery,recovery,noun,b2
+570,recuperate,recuperate,verb,c2
+571,recuperative,recuperative,adjective,c2
+572,red-zone,red zone,noun,c2
+573,reject_1,reject,verb,b1
+574,rejection,rejection,noun,c2
+575,relapse_1,relapse,noun,c2
+576,relapse_2,relapse,verb,c2
+577,remission,remission,noun,c2
+578,rheumatism,rheumatism,noun,c2
+579,rickets,rickets,noun,c2
+580,ropy,ropy,adjective,c2
+581,rosacea,rosacea,noun,c2
+582,rotten_1,rotten,adjective,c2
+583,rsi,RSI,noun,c2
+584,rubella,rubella,noun,c2
+585,run-down_2,run-down,adjective,c2
+586,rupture_1,rupture,noun,c2
+587,rupture_2,rupture,verb,c2
+588,salmonella,salmonella,noun,c2
+589,sars,SARS,noun,c2
+590,sars-cov-2,SARS-CoV-2,noun,c2
+591,scab,scab,noun,c2
+592,scald_1,scald,verb,c2
+593,scald_2,scald,noun,c2
+594,scar_1,scar,noun,c1
+595,scar_2,scar,verb,c1
+596,scrape_1,scrape,verb,c2
+597,scrapie,scrapie,noun,c2
+598,scratch_1,scratch,verb,b2
+599,scratch_2,scratch,noun,b2
+600,seasick,seasick,adjective,b1
+601,seasickness,seasickness,noun,b2
+602,second-degree,second-degree,adjective,c2
+603,seizure,seizure,noun,c2
+604,septic,septic,adjective,c2
+605,serious,serious,adjective,a2
+606,severe,severe,adjective,b2
+607,severely,severely,adverb,b2
+608,shake_2,shake,noun,c1
+609,shaky,shaky,adjective,c2
+610,shield_2,shield,verb,c2
+611,shiver_1,shiver,verb,c1
+612,shiver_2,shiver,noun,c2
+613,shivery,shivery,adjective,c2
+614,shock_1,shock,noun,b2
+615,shortness,shortness,noun,c2
+616,short-winded,short-winded,adjective,c2
+617,shut-in_2,shut-in,noun,c2
+618,sick_1,sick,adjective,a1
+619,sicken,sicken,verb,c2
+620,sickly,sickly,adjective,c2
+621,sickness,sickness,noun,b2
+622,slipped-disc,slipped disc,noun,c2
+623,smallpox,smallpox,noun,c2
+624,sneeze_1,sneeze,verb,b2
+625,sneeze_2,sneeze,noun,b2
+626,snow-blind,snow-blind,adjective,c2
+627,snow-blindness,snow-blindness,noun,c2
+628,sober_1,sober,adjective,c2
+629,sobriety,sobriety,noun,c2
+630,sore_1,sore,adjective,c2
+631,sore_2,sore,noun,c2
+632,spasm,spasm,noun,c2
+633,splitting,splitting,adjective,c2
+634,spot_1,spot,noun,b1
+635,sprain_1,sprain,verb,b2
+636,sprain_2,sprain,noun,b2
+637,spread_1,spread,verb,b1
+638,the-walking-wounded,the walking wounded,noun,c2
+639,the-common-cold,the common cold,noun,b2
+640,stiffness,stiffness,noun,c2
+641,sting_1,sting,verb,b2
+642,sting_2,sting,noun,b2
+643,stomach-ache,stomach ache,noun,a2
+644,strain_1,strain,noun,c1
+645,stricken,stricken,adjective,c2
+646,stroke_1,stroke,noun,c1
+647,substance-use-disorder,substance use disorder,noun,c2
+648,succumb,succumb,verb,c2
+649,suffer,suffer,verb,b1
+650,sufferer,sufferer,noun,b1
+651,suffering,suffering,noun,b2
+652,sunburn,sunburn,noun,c1
+653,sunburned,sunburned,adjective,b2
+654,sunstroke,sunstroke,noun,c2
+655,superspreader,superspreader,noun,c2
+656,sustain,sustain,verb,c2
+657,swell_1,swell,verb,c1
+658,swelling,swelling,noun,c1
+659,swine-flu,swine flu,noun,c2
+660,swollen_1,swollen,adjective,c1
+661,symptom,symptom,noun,b1
+662,symptomatic,symptomatic,adjective,c2
+663,syndrome,syndrome,noun,c1
+664,tb_2,TB,noun,c2
+665,tear1_1,tear,verb,c1
+666,temperature,temperature,noun,a2
+667,tender_1,tender,adjective,c1
+668,terminal_2,terminal,adjective,c1
+669,terrible,terrible,adjective,a1
+670,tetanus,tetanus,noun,c2
+671,third-degree_2,third-degree,adjective,c2
+672,thrombosis,thrombosis,noun,c2
+673,tonsillitis,tonsillitis,noun,c2
+674,toothache,toothache,noun,a2
+675,toxoplasmosis,toxoplasmosis,noun,c2
+676,transfer_1,transfer,verb,b2
+677,trauma,trauma,noun,c2
+678,trouble_1,trouble,noun,b1
+679,tubercular,tubercular,adjective,c2
+680,tuberculosis,tuberculosis,noun,c2
+681,tumour,tumour,noun,c1
+682,turn_2,turn,noun,c2
+683,twist_1,twist,verb,c1
+684,typhoid,typhoid,noun,c2
+685,typhus,typhus,noun,c2
+686,ulcer,ulcer,noun,c2
+687,unconscious_1,unconscious,adjective,b2
+688,unconsciousness,unconsciousness,noun,c1
+689,underfed,underfed,adjective,c2
+690,undernourished,undernourished,adjective,c2
+691,undernourishment,undernourishment,noun,c2
+692,weather_1,under the weather,idiom,c2
+693,underweight,underweight,adjective,b2
+694,unfit,unfit,adjective,b2
+695,unhealthy,unhealthy,adjective,a2
+696,unwell,unwell,adjective,b1
+697,upset_1,upset,adjective,b1
+698,upset_2,upset,verb,b1
+699,upset_3,upset,noun,b1
+700,varicose-vein,varicose vein,noun,c2
+701,vector,vector,noun,c2
+702,victim,victim,noun,b1
+703,viral,viral,adjective,c1
+704,virulence,virulence,noun,c2
+705,virulent,virulent,adjective,c2
+706,virus,virus,noun,a2
+707,vomit_1,vomit,verb,c2
+708,wart,wart,noun,c2
+709,waste-away,waste away,phrasal verb,c2
+710,wasted,wasted,adjective,c2
+711,weak,weak,adjective,a2
+712,weaken,weaken,verb,c1
+713,wheeze_1,wheeze,verb,c2
+714,whiplash-injury,whiplash injury,noun,c2
+715,whooping-cough,whooping cough,noun,c2
+716,withdrawal,withdrawal,noun,c1
+717,wound1_1,wound,noun,b2
+718,wound1_2,wound,verb,b2
+719,wrench_1,wrench,verb,c2
+720,yellow-fever,yellow fever,noun,c2
+721,abort,abort,verb,c2
+722,abortion,abortion,noun,c1
+723,accident-and-emergency,accident and emergency,noun,b2
+724,acetaminophen,acetaminophen,noun,c2
+725,acupressure,acupressure,noun,c2
+726,acupuncture,acupuncture,noun,b2
+727,acupuncturist,acupuncturist,noun,c2
+728,administer,administer,verb,c1
+729,administration,administration,noun,b2
+730,admission,admission,noun,c1
+731,admit,admit,verb,c1
+732,aftercare,aftercare,noun,c2
+733,aggressive,aggressive,adjective,c2
+734,alexander-technique,Alexander technique,noun,c2
+735,alternative-medicine,alternative medicine,noun,b2
+736,ambulance,ambulance,noun,b2
+737,amputate,amputate,verb,c2
+738,amputation,amputation,noun,c2
+739,anaesthesia,anaesthesia,noun,c2
+740,anaesthetic_1,anaesthetic,noun,c1
+741,anaesthetic_2,anaesthetic,adjective,c1
+742,anaesthetist,anaesthetist,noun,c2
+743,anaesthetize,anaesthetize,verb,c2
+744,anesthesia_2,anesthesia,noun,c2
+745,antibiotic_1,antibiotic,noun,b2
+746,antidote,antidote,noun,c2
+747,antihistamine,antihistamine,noun,c2
+748,antiseptic_1,antiseptic,noun,c1
+749,anti-vaccine,anti-vaccine,adjective,c1
+750,antiviral_1,antiviral,adjective,c2
+751,antiviral_2,antiviral,noun,c2
+752,appointment,appointment,noun,b1
+753,arthroscopic-surgery,arthroscopic surgery,noun,c2
+754,aseptic,aseptic,adjective,c2
+755,aspirin,aspirin,noun,b2
+756,attendant_1,attendant,noun,b2
+757,ayurvedic-medicine,Ayurvedic medicine,noun,c2
+758,bandage_1,bandage,noun,b2
+759,bandage_2,bandage,verb,b2
+760,band-aidtm,Band-Aid™,noun,c2
+761,barbiturate,barbiturate,noun,c2
+762,barium-meal,barium meal,noun,c2
+763,bathe_1,bathe,verb,c1
+764,bedpan,bedpan,noun,c2
+765,bed-rest,bed rest,noun,b2
+766,bedside-manner,bedside manner,noun,c2
+767,biopsy,biopsy,noun,c2
+768,blood-group,blood group,noun,c1
+769,blood-test,blood test,noun,b1
+770,blood-type,blood type,noun,c1
+771,booster,booster,noun,c2
+772,brace_1,brace,noun,c1
+773,bypass_1,bypass,noun,c2
+774,caesarean_1,caesarean,noun,c2
+775,caesarean_2,caesarean,adjective,c2
+776,cannula,cannula,noun,c2
+777,caplettm,Caplet™,noun,c2
+778,capsule,capsule,noun,c1
+779,care_1,care,noun,a2
+780,care-for,care for,phrasal verb,b1
+781,caregiver,caregiver,noun,c1
+782,carer,carer,noun,b2
+783,cast_2,cast,noun,b2
+784,casualty_1,casualty,noun,c1
+785,catheter,catheter,noun,c2
+786,cat-scan,CAT scan,noun,c2
+787,ccu,CCU,noun,c2
+788,cesarean_1,cesarean,noun,c2
+789,cesarian_1,cesarian,noun,c2
+790,check-up,check-up,noun,b2
+791,chemist,chemist,noun,a2
+792,chemo,chemo,noun,c2
+793,chemotherapy,chemotherapy,noun,c2
+794,chiropodist,chiropodist,noun,c2
+795,chiropractic,chiropractic,noun,c2
+796,chiropractor,chiropractor,noun,c2
+797,circumcise,circumcise,verb,c2
+798,circumcision,circumcision,noun,c2
+799,cleanse,cleanse,verb,c1
+800,clinic,clinic,noun,b2
+801,clinical-trial,clinical trial,noun,c1
+802,clinician,clinician,noun,c2
+803,codeine,codeine,noun,c2
+804,come-around,come around,phrasal verb,c1
+805,come-round,come round,phrasal verb,c1
+806,community-hospital,community hospital,noun,c1
+807,complementary-medicine,complementary medicine,noun,c2
+808,consult,consult,verb,b2
+809,consultant,consultant,noun,b2
+810,contact-tracer,contact tracer,noun,c2
+811,contact-tracing,contact tracing,noun,c2
+812,contraceptive_2,contraceptive,noun,c2
+813,conventional,conventional,adjective,b2
+814,cottage-hospital,cottage hospital,noun,c2
+815,cough-mixture,cough mixture,noun,c2
+816,course_1,course,noun,b2
+817,critical-care,critical care,noun,c1
+818,crutch,crutch,noun,c1
+819,curative,curative,adjective,c2
+820,cure_1,cure,verb,b2
+821,cure_2,cure,noun,b2
+822,curettage,curettage,noun,c2
+823,deep-clean,deep-clean,verb,c2
+824,deep-cleaning,deep-cleaning,noun,c2
+825,defibrillator,defibrillator,noun,c2
+826,dental-surgeon,dental surgeon,noun,c1
+827,dentist,dentist,noun,a2
+828,dentistry,dentistry,noun,c1
+829,dermatologist,dermatologist,noun,c2
+830,diagnose,diagnose,verb,c1
+831,diagnosis,diagnosis,noun,c1
+832,diagnostic_1,diagnostic,adjective,c2
+833,dietician,dietician,noun,c2
+834,dilatation-and-curettage,dilatation and curettage,noun,c2
+835,discharge_1,discharge,verb,c1
+836,dispensary,dispensary,noun,c2
+837,dispense,dispense,verb,c2
+838,dispensing-chemist,dispensing chemist,noun,c2
+839,district-nurse,district nurse,noun,c2
+840,doctor_1,doctor,noun,a1
+841,dosage,dosage,noun,c2
+842,dose_1,dose,noun,c1
+843,downer,downer,noun,c2
+844,dr,Dr,abbreviation,b1
+845,draught_1,draught,noun,c2
+846,dress_2,dress,verb,c1
+847,dressing,dressing,noun,c1
+848,drip_2,drip,noun,c2
+849,drug_1,drug,noun,a2
+850,druggist,druggist,noun,c2
+851,echocardiogram,echocardiogram,noun,c2
+852,echocardiography,echocardiography,noun,c2
+853,emergency-room,emergency room,noun,b2
+854,endoscope,endoscope,noun,c2
+855,ent_1,ENT,abbreviation,c2
+856,epipentm,EpiPen™,noun,c2
+857,examination,examination,noun,b2
+858,examine,examine,verb,b1
+859,face-covering,face covering,noun,c1
+860,facelift,facelift,noun,c2
+861,face-mask,face mask,noun,c1
+862,faith-healing,faith healing,noun,c2
+863,family-doctor,family doctor,noun,b1
+864,family-medicine,family medicine,noun,b2
+865,family-practice,family practice,noun,c2
+866,family-practitioner,family practitioner,noun,c1
+867,first-aid,first aid,noun,b2
+868,forceps,forceps,noun,c2
+869,fringe-medicine,fringe medicine,noun,c2
+870,gastric-bypass,gastric bypass,noun,c2
+871,gastroenterology,gastroenterology,noun,c2
+872,general-practice,general practice,noun,c2
+873,general-practitioner,general practitioner,noun,c2
+874,geriatric_1,geriatric,noun,c2
+875,government-health-warning,government health warning,noun,c2
+876,gown,gown,noun,c2
+877,gp,GP,noun,c2
+878,graft_1,graft,noun,c2
+879,graft_2,graft,verb,c2
+880,gynaecologist,gynaecologist,noun,c2
+881,gynaecology,gynaecology,noun,c2
+882,hand-gel,hand gel,noun,c2
+883,hand-sanitizer,hand sanitizer,noun,c2
+884,heal,heal,verb,b2
+885,healer,healer,noun,c1
+886,healing,healing,noun,c1
+887,healthcare,healthcare,noun,b2
+888,health-check,health check,noun,b1
+889,health-professional,health professional,noun,b2
+890,herbalism,herbalism,noun,c2
+891,herd-immunity,herd immunity,noun,c2
+892,holism,holism,noun,c2
+893,homeopath,homeopath,noun,c2
+894,homeopathy,homeopathy,noun,c2
+895,hospice,hospice,noun,c2
+896,hospital,hospital,noun,a1
+897,hospitalist,hospitalist,noun,c2
+898,hospitalization,hospitalization,noun,c1
+899,hospitalize,hospitalize,verb,c1
+900,house-call,house call,noun,c1
+901,hypnotherapist,hypnotherapist,noun,c2
+902,hypnotherapy,hypnotherapy,noun,c2
+903,hypodermic_1,hypodermic,adjective,c2
+904,hypodermic_2,hypodermic,noun,c2
+905,ice-pack,ice pack,noun,c1
+906,icu,ICU,noun,c2
+907,immunize,immunize,verb,c1
+908,implant_1,implant,verb,b2
+909,implant_2,implant,noun,b2
+910,incision,incision,noun,c2
+911,incubator,incubator,noun,c2
+912,infirmary,infirmary,noun,c2
+913,informed-consent,informed consent,noun,c1
+914,infuse,infuse,verb,c2
+915,infusion,infusion,noun,c2
+916,inhaler,inhaler,noun,c2
+917,inject,inject,verb,c1
+918,injection,injection,noun,c1
+919,inoculate,inoculate,verb,c2
+920,inoculation,inoculation,noun,c2
+921,inpatient,inpatient,noun,c2
+922,insulin,insulin,noun,c2
+923,intensive-care,intensive care,noun,c1
+924,intern_2,intern,noun,c2
+925,internship,internship,noun,c2
+926,intravenous,intravenous,adjective,c2
+927,intravenously,intravenously,adverb,c2
+928,invasive,invasive,adjective,c2
+929,iridology,iridology,noun,c2
+930,isolate,isolate,verb,b2
+931,isolation,isolation,noun,c1
+932,jab_2,jab,noun,c2
+933,junior-doctor,junior doctor,noun,b2
+934,keyhole-surgery,keyhole surgery,noun,c2
+935,laxative_2,laxative,noun,c2
+936,life-support-machine,life support machine,noun,c1
+937,liver-salts,liver salts,noun,c2
+938,lobotomy,lobotomy,noun,c2
+939,locum,locum,noun,c2
+940,lozenge,lozenge,noun,c2
+941,managed-care,managed care,noun,c2
+942,mask_1,mask,noun,c1
+943,massage_1,massage,noun,b2
+944,massage_2,massage,verb,b2
+945,maternity,maternity,noun,b2
+946,matron,matron,noun,c2
+947,medic,medic,noun,c2
+948,medical_1,medical,adjective,a2
+949,medical_2,medical,noun,b2
+950,medicate,medicate,verb,c2
+951,medication,medication,noun,b2
+952,medicine,medicine,noun,a2
+953,medicine-man,medicine man,noun,c1
+954,midwife,midwife,noun,c2
+955,midwifery,midwifery,noun,c2
+956,monitor_1,monitor,noun,b2
+957,morphine,morphine,noun,c2
+958,mortuary,mortuary,noun,c2
+959,mri,MRI,noun,c2
+960,mrsa,MRSA,noun,c2
+961,narcotic_1,narcotic,noun,c2
+962,narcotic_2,narcotic,adjective,c2
+963,naturopath,naturopath,noun,c2
+964,naturopathic,naturopathic,adjective,c2
+965,naturopathy,naturopathy,noun,c2
+966,needle_1,needle,noun,b1
+967,neurologist,neurologist,noun,c2
+968,neurosurgeon,neurosurgeon,noun,c2
+969,neurosurgery,neurosurgery,noun,c2
+970,nip-and-tuck_1,nip and tuck,noun,c2
+971,nose-job,nose job,noun,c1
+972,nurse_1,nurse,noun,a1
+973,nutritionist,nutritionist,noun,b2
+974,obstetrics,obstetrics,noun,c2
+975,occupational-therapist,occupational therapist,noun,c2
+976,occupational-therapy,occupational therapy,noun,c2
+977,ointment,ointment,noun,c2
+978,op_1,op,noun,b1
+979,open-heart-surgery,open-heart surgery,noun,c2
+980,operable,operable,adjective,c2
+981,operate,operate,verb,b2
+982,operating-table,operating table,noun,b2
+983,operating-theatre,operating theatre,noun,b2
+984,operation,operation,noun,b1
+985,operative_2,operative,adjective,c2
+986,ophthalmic-optician,ophthalmic optician,noun,c2
+987,ophthalmologist,ophthalmologist,noun,c2
+988,opiate,opiate,noun,c2
+989,opioid_1,opioid,noun,c2
+990,opioid_2,opioid,adjective,c2
+991,optician,optician,noun,c1
+992,orderly_2,orderly,noun,c2
+993,orthopaedics,orthopaedics,noun,c2
+994,osteopath,osteopath,noun,c2
+995,osteopathy,osteopathy,noun,c2
+996,outpatient,outpatient,noun,c2
+997,counter_1,over the counter,idiom,c2
+998,over-the-counter,over-the-counter,adjective,c2
+999,oxygen-mask,oxygen mask,noun,c1
+1000,pacemaker,pacemaker,noun,c2
+1001,pack_2,pack,noun,c1
+1002,paediatrician,paediatrician,noun,c2
+1003,painkiller,painkiller,noun,b2
+1004,painkilling,painkilling,adjective,c1
+1005,painless,painless,adjective,b2
+1006,paracetamol,paracetamol,noun,c1
+1007,paramedic,paramedic,noun,c1
+1008,paramedical,paramedical,adjective,c2
+1009,patient_1,patient,noun,a2
+1010,pcp,PCP,noun,c2
+1011,pediatrics,pediatrics,noun,c2
+1012,penicillin,penicillin,noun,c1
+1013,personal-protective-equipment,personal protective equipment,noun,c1
+1014,pharma,pharma,noun,c2
+1015,pharmaceutical_1,pharmaceutical,adjective,c1
+1016,pharmaceutical_2,pharmaceutical,noun,c1
+1017,pharmacist,pharmacist,noun,b2
+1018,pharmacy,pharmacy,noun,b2
+1019,phial,phial,noun,c2
+1020,physician,physician,noun,c1
+1021,physician-s-assistant,physician's assistant,noun,c1
+1022,physio_1,physio,noun,c2
+1023,physiotherapist,physiotherapist,noun,c1
+1024,physiotherapy,physiotherapy,noun,c1
+1025,pill_1,pill,noun,b2
+1026,placebo,placebo,noun,c1
+1027,plaster_1,plaster,noun,b2
+1028,plaster-cast,plaster cast,noun,c2
+1029,plastic-surgeon,plastic surgeon,noun,c1
+1030,plastic-surgery,plastic surgery,noun,c1
+1031,podiatrist,podiatrist,noun,c2
+1032,polyclinic,polyclinic,noun,c2
+1033,post-operative,post-operative,adjective,c2
+1034,ppe,PPE,noun,c2
+1035,practice_1,practice,noun,b2
+1036,practitioner,practitioner,noun,c1
+1037,prep_2,prep,verb,c2
+1038,prescribe,prescribe,verb,c1
+1039,prescription,prescription,noun,c1
+1040,primary-care-physician,primary care physician,noun,c2
+1041,primary-health-care,primary health care,noun,c2
+1042,private_1,private,adjective,b1
+1043,probe_1,probe,noun,c2
+1044,probe_2,probe,verb,c2
+1045,procedure,procedure,noun,b2
+1046,prognosis,prognosis,noun,c2
+1047,prozactm,Prozac™,noun,c2
+1048,quarantine_1,quarantine,noun,c2
+1049,quarantine_2,quarantine,verb,c2
+1050,r_2,R,noun,c2
+1051,radiography,radiography,noun,c2
+1052,radiologist,radiologist,noun,c2
+1053,radiotherapy,radiotherapy,noun,c2
+1054,readmit,readmit,verb,c2
+1055,recovery,recovery,noun,c2
+1056,reflexology,reflexology,noun,c2
+1057,registrar,registrar,noun,c2
+1058,rehab,rehab,noun,c2
+1059,rehabilitate,rehabilitate,verb,c2
+1060,reiki,reiki,noun,c2
+1061,reject_1,reject,verb,b1
+1062,remedy_1,remedy,noun,c1
+1063,resident_1,resident,noun,c2
+1064,rest_1,rest,noun,a2
+1065,rest_2,rest,verb,a2
+1066,rest-cure,rest cure,noun,c2
+1067,restorative_1,restorative,adjective,c2
+1068,revive,revive,verb,c1
+1069,r-number,R number,noun,c2
+1070,round_4,round,noun,b2
+1071,salve_1,salve,noun,c2
+1072,sample_1,sample,noun,b2
+1073,sanatorium,sanatorium,noun,c2
+1074,sanitarium,sanitarium,noun,c2
+1075,scalpel,scalpel,noun,c2
+1076,scan_1,scan,verb,b2
+1077,scan_2,scan,noun,b2
+1078,scanner,scanner,noun,c1
+1079,screen_1,screen,noun,c2
+1080,screen_2,screen,verb,c1
+1081,scrub_2,scrub,noun,c2
+1082,scrub-up,scrub up,phrasal verb,c2
+1083,sedative_1,sedative,noun,c2
+1084,self-isolate,self-isolate,verb,c1
+1085,self-isolation,self-isolation,noun,c1
+1086,self-medicate,self-medicate,verb,c2
+1087,self-quarantine_1,self-quarantine,noun,c2
+1088,self-quarantine_2,self-quarantine,verb,c2
+1089,senior-nursing-officer,senior nursing officer,noun,c2
+1090,set_1,set,verb,c2
+1091,shelter_2,shelter in place,idiom,c2
+1092,shiatsu,shiatsu,noun,c2
+1093,shot_1,shot,noun,c1
+1094,side-effect,side effect,noun,b2
+1095,sister,sister,noun,c1
+1096,skin-graft,skin graft,noun,c2
+1097,sleeping-pill,sleeping pill,noun,b2
+1098,sling_2,sling,noun,c1
+1099,socialized-medicine,socialized medicine,noun,c2
+1100,soothe,soothe,verb,c1
+1101,specialist_1,specialist,noun,b2
+1102,specimen,specimen,noun,c1
+1103,speculum,speculum,noun,c2
+1104,splint,splint,noun,c2
+1105,stethoscope,stethoscope,noun,c2
+1106,sticking-plaster,sticking plaster,noun,c1
+1107,stitch_1,stitch,noun,c1
+1108,stitch_2,stitch,verb,c1
+1109,stool,stool,noun,c2
+1110,strap_2,strap,verb,c2
+1111,stretcher_1,stretcher,noun,c2
+1112,support_2,support,noun,b2
+1113,surgeon,surgeon,noun,b2
+1114,surgery,surgery,noun,b2
+1115,surgical,surgical,adjective,c1
+1116,swab_1,swab,noun,c2
+1117,swab_2,swab,verb,c2
+1118,syringe_1,syringe,noun,c2
+1119,tablet,tablet,noun,b1
+1120,tape_2,tape,verb,b1
+1121,termination,termination,noun,c2
+1122,test_1,test,noun,a2
+1123,test_2,test,verb,a2
+1124,therapist,therapist,noun,b2
+1125,therapy,therapy,noun,b2
+1126,thermometer,thermometer,noun,c1
+1127,tonic,tonic,noun,c2
+1128,tourniquet,tourniquet,noun,c2
+1129,traction,traction,noun,c2
+1130,traditional-medicine,traditional medicine,noun,b2
+1131,tranquillize,tranquillize,verb,c2
+1132,transplant_1,transplant,verb,b2
+1133,transplant_2,transplant,noun,b2
+1134,treat_1,treat,verb,b1
+1135,treatment,treatment,noun,b1
+1136,triage,triage,noun,c2
+1137,tuck_2,tuck,noun,c2
+1138,ultrasound,ultrasound,noun,c2
+1139,knife_1,under the knife,idiom,c1
+1140,unit,unit,noun,b2
+1141,vaccinate,vaccinate,verb,c1
+1142,vaccination,vaccination,noun,c1
+1143,vaccine,vaccine,noun,c1
+1144,vasectomy,vasectomy,noun,c2
+1145,vax,vax,,c1
+1146,ventilator,ventilator,noun,c2
+1147,ward_1,ward,noun,c1
+1148,wheelchair,wheelchair,noun,b1
+1149,x-ray_1,X-ray,verb,b2
+1150,x-ray_2,X-ray,noun,b2
+1151,add_2,ADD,abbreviation,c2
+1152,adhd,ADHD,abbreviation,c2
+1153,amnesia,amnesia,noun,c2
+1154,anorexia,anorexia,noun,c2
+1155,anorexic_1,anorexic,noun,c2
+1156,anorexic_2,anorexic,adjective,c2
+1157,antidepressant_1,antidepressant,noun,c2
+1158,antidepressant_2,antidepressant,adjective,c2
+1159,anxiety,anxiety,noun,b2
+1160,art-therapy,art therapy,noun,c2
+1161,attention-deficit-disorder,attention deficit disorder,noun,c2
+1162,autogenic-training,autogenic training,noun,c2
+1163,aversion-therapy,aversion therapy,noun,c2
+1164,baby-blues,baby blues,noun,c2
+1165,battle-fatigue,battle fatigue,noun,c2
+1166,bdd,BDD,abbreviation,c2
+1167,bipolar_2,bipolar,adjective,c2
+1168,bipolar-disorder,bipolar disorder,noun,c2
+1169,body-dysmorphic-disorder,body dysmorphic disorder,noun,c2
+1170,borderline-personality-disorder,borderline personality disorder,noun,c2
+1171,bpd,BPD,abbreviation,c2
+1172,breakdown,breakdown,noun,c1
+1173,bulimia,bulimia,noun,c2
+1174,catatonia,catatonia,noun,c2
+1175,combat-fatigue,combat fatigue,noun,c2
+1176,come-off,come off,phrasal verb,c2
+1177,complex_2,complex,noun,c2
+1178,depressed,depressed,adjective,b2
+1179,depression,depression,noun,b2
+1180,deranged,deranged,adjective,c2
+1181,detoxification,detoxification,noun,c2
+1182,detoxify,detoxify,verb,c2
+1183,diazepam,diazepam,noun,c2
+1184,did_2,DID,abbreviation,c2
+1185,disordered,disordered,adjective,c2
+1186,dissociative-identity-disorder,dissociative identity disorder,noun,c2
+1187,eating-disorder,eating disorder,noun,b2
+1188,egomania,egomania,noun,c2
+1189,electroconvulsive-therapy,electroconvulsive therapy,noun,c2
+1190,electroshock-therapy,electroshock therapy,noun,c2
+1191,exhibitionism,exhibitionism,noun,c2
+1192,gender-dysphoria,gender dysphoria,noun,c2
+1193,group-therapy,group therapy,noun,c2
+1194,health-anxiety,health anxiety,noun,b2
+1195,hyperactivity,hyperactivity,noun,c2
+1196,hypochondriac_1,hypochondriac,adjective,c2
+1197,hypochondriac_2,hypochondriac,noun,c2
+1198,inferiority-complex,inferiority complex,noun,c2
+1199,instability,instability,noun,c2
+1200,kleptomania,kleptomania,noun,c2
+1201,maladjusted,maladjusted,adjective,c2
+1202,manic-depressive_2,manic-depressive,adjective,c2
+1203,megalomania,megalomania,noun,c2
+1204,mental_1,mental,adjective,b1
+1205,mental-health,mental health,noun,b2
+1206,mentally,mentally,adverb,b1
+1207,mindful,mindful,adjective,c2
+1208,mindfulness,mindfulness,noun,c2
+1209,monomania,monomania,noun,c2
+1210,narcissistic-personality-disorder,narcissistic personality disorder,noun,c2
+1211,nervous-breakdown,nervous breakdown,noun,c1
+1212,neurosis,neurosis,noun,c2
+1213,non-compos-mentis,non compos mentis,adjective,c2
+1214,obsessive-compulsive-disorder,obsessive compulsive disorder,noun,c2
+1215,ocd,OCD,noun,c2
+1216,orthorexia,orthorexia,noun,c2
+1217,paranoia,paranoia,noun,c2
+1218,paranoid_1,paranoid,adjective,c2
+1219,paranoid_2,paranoid,noun,c2
+1220,persecution-complex,persecution complex,noun,c2
+1221,personality-disorder,personality disorder,noun,c1
+1222,postnatal-depression,postnatal depression,noun,c2
+1223,post-partum-depression,post-partum depression,noun,c2
+1224,post-traumatic-stress-disorder,post-traumatic stress disorder,noun,c2
+1225,psychiatric,psychiatric,adjective,c1
+1226,psychiatrist,psychiatrist,noun,c1
+1227,psychiatry,psychiatry,noun,c1
+1228,psychoanalysis,psychoanalysis,noun,c1
+1229,psychoanalytic,psychoanalytic,adjective,c2
+1230,psychopath,psychopath,noun,c2
+1231,psychopathy,psychopathy,noun,c2
+1232,psychosis,psychosis,noun,c2
+1233,psychosomatic,psychosomatic,adjective,c2
+1234,psychotherapy,psychotherapy,noun,c1
+1235,psychotic_1,psychotic,adjective,c2
+1236,psychotic_2,psychotic,noun,c2
+1237,ptsd,PTSD,abbreviation,c2
+1238,pyromania,pyromania,noun,c2
+1239,quit,quit,verb,b1
+1240,rebirthing,rebirthing,noun,c2
+1241,rehab,rehab,noun,c2
+1242,sad_2,SAD,abbreviation,c2
+1243,schizophrenia,schizophrenia,noun,c2
+1244,seasonal-affective-disorder,seasonal affective disorder,noun,c2
+1245,section_2,section,verb,c2
+1246,self-harm_1,self-harm,noun,c1
+1247,self-mutilation,self-mutilation,noun,c2
+1248,shell-shock,shell shock,noun,c2
+1249,shock-therapy,shock therapy,noun,c2
+1250,sociopath,sociopath,noun,c2
+1251,temazepam,temazepam,noun,c2
+1252,therapist,therapist,noun,b2
+1253,therapy,therapy,noun,b2
+1254,tranquillizer,tranquillizer,noun,c2
+1255,trauma,trauma,noun,c1
+1256,valiumtm,Valium™,noun,c2

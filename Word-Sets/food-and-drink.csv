@@ -1,0 +1,1472 @@
+subLink,word,type,level
+0,abstain,abstain,verb,c2
+1,abstemious,abstemious,adjective,c2
+2,abstinence,abstinence,noun,c2
+3,afternoon-tea,afternoon tea,noun,b2
+4,al-dente_1,al dente,adverb,c2
+5,all-you-can-eat,all-you-can-eat,adjective,c1
+6,anorexia,anorexia,noun,c2
+7,anorexic_1,anorexic,noun,c2
+8,anorexic_2,anorexic,adjective,c2
+9,antioxidant,antioxidant,noun,c2
+10,antipasto,antipasto,noun,c2
+11,appetite,appetite,noun,c1
+12,appetizer,appetizer,noun,c1
+13,appetizing,appetizing,adjective,c1
+14,bake_1,bake,verb,b1
+15,baking_1,baking,noun,b1
+16,baking-powder,baking powder,noun,c2
+17,baking-sheet,baking sheet,noun,c2
+18,balanced,balanced,adjective,b2
+19,balloon-whisk,balloon whisk,noun,c2
+20,banquet,banquet,noun,c1
+21,barbecue_1,barbecue,noun,b1
+22,barbecue_2,barbecue,verb,b1
+23,barbie,barbie,noun,c2
+24,baste,baste,verb,c2
+25,batter_2,batter,noun,c1
+26,beat_1,beat,verb,b2
+27,starve,be starving (for something),idiom,c2
+28,bill_1,bill,noun,a1
+29,bill-of-fare,bill of fare,noun,c2
+30,binge_1,binge,noun,c2
+31,binge_2,binge,verb,c2
+32,bistro,bistro,noun,c1
+33,bitter_1,bitter,adjective,b2
+34,bland,bland,adjective,c1
+35,blend_1,blend,verb,c1
+36,blender,blender,noun,c1
+37,blowout,blowout,noun,c2
+38,boil_1,boil,verb,a2
+39,boil-over,boil over,phrasal verb,c2
+40,book_2,book,verb,a2
+41,booth,booth,noun,c2
+42,bottle_1,bottle,noun,a1
+43,bouillon-cube,bouillon cube,noun,c2
+44,bowl_1,bowl,noun,a2
+45,braise,braise,verb,c2
+46,brasserie,brasserie,noun,c2
+47,breakfast_1,breakfast,noun,a1
+48,broil,broil,verb,c2
+49,broiler,broiler,noun,c2
+50,brunch,brunch,noun,c1
+51,buffet1,buffet,noun,c1
+52,bulimia,bulimia,noun,c2
+53,burner,burner,noun,c2
+54,busboy,busboy,noun,c2
+55,butter-knife,butter knife,noun,b1
+56,cafe,cafe,noun,a1
+57,cafeteria,cafeteria,noun,b1
+58,calorie,calorie,noun,b1
+59,calorific,calorific,adjective,c2
+60,carb,carb,noun,b2
+61,carbohydrate,carbohydrate,noun,b2
+62,carry-out_2,carry-out,noun,b2
+63,carve,carve,verb,c1
+64,carvery,carvery,noun,c2
+65,carving-knife,carving knife,noun,c1
+66,chargrill,chargrill,verb,c2
+67,check_2,check,noun,a2
+68,cheesy,cheesy,adjective,b2
+69,chef,chef,noun,a2
+70,chewy,chewy,adjective,c1
+71,cholesterol,cholesterol,noun,c1
+72,chop_1,chop,verb,b2
+73,chopping-board,chopping board,noun,c1
+74,chopstick,chopstick,noun,b2
+75,christmas,Christmas,noun,a1
+76,chunky,chunky,adjective,c1
+77,clean-eating,clean eating,noun,c2
+78,cling-film,cling film,noun,c2
+79,cocktail-stick,cocktail stick,noun,c2
+80,colander,colander,noun,c2
+81,comfort-food,comfort food,noun,c1
+82,commis,commis,noun,c2
+83,convection-oven,convection oven,noun,c2
+84,convenience-food,convenience food,noun,c1
+85,cook_1,cook,verb,a1
+86,cook_2,cook,noun,a2
+87,cookbook,cookbook,noun,b1
+88,cooker,cooker,noun,a2
+89,cookery,cookery,noun,b1
+90,cookery-book,cookery book,noun,b1
+91,cooking_1,cooking,noun,a1
+92,cookware,cookware,noun,c2
+93,corkage,corkage,noun,c2
+94,corkscrew_1,corkscrew,noun,c1
+95,counter_1,counter,noun,b2
+96,countertop,countertop,noun,b2
+97,course_1,course,noun,b1
+98,cream-tea,cream tea,noun,c2
+99,creamy,creamy,adjective,c1
+100,crisp_1,crisp,adjective,c1
+101,crispy,crispy,adjective,c1
+102,crockery,crockery,noun,c2
+103,crunchy,crunchy,adjective,c1
+104,crusty_1,crusty,adjective,c2
+105,cuisine,cuisine,noun,b2
+106,culinary,culinary,adjective,c2
+107,cutlery,cutlery,noun,c1
+108,deep-fry,deep-fry,verb,c1
+109,defrost,defrost,verb,c1
+110,delicious,delicious,adjective,a1
+111,dessert,dessert,noun,a2
+112,dessertspoon,dessertspoon,noun,c2
+113,dice_2,dice,verb,c2
+114,diet_1,diet,noun,a1
+115,diet_2,diet,verb,b1
+116,dietary,dietary,adjective,b2
+117,dieter,dieter,noun,b1
+118,dietician,dietician,noun,c2
+119,digest_1,digest,verb,c1
+120,digestion,digestion,noun,c1
+121,dine,dine,verb,c2
+122,dine-out,dine out,phrasal verb,c2
+123,diner,diner,noun,c1
+124,dining-table,dining table,noun,c1
+125,dinner,dinner,noun,a1
+126,dinner-theater,dinner theater,noun,c2
+127,dish_1,dish,noun,a1
+128,dishwasher,dishwasher,noun,a2
+129,doggy-bag,doggy bag,noun,c2
+130,doily,doily,noun,c2
+131,dressed,dressed,adjective,c2
+132,drive-through,drive-through,noun,c1
+133,dry_1,dry,adjective,a2
+134,eat,eat,verb,a1
+135,eatery,eatery,noun,c2
+136,eat-in_2,eat-in,adjective,b2
+137,eat-in_1,eat in,phrasal verb,c2
+138,eating,eating,noun,a1
+139,eating-disorder,eating disorder,noun,b2
+140,eat-out,eat out,phrasal verb,a2
+141,elevenses,elevenses,noun,c2
+142,entree,entrée,noun,c2
+143,fan-oven,fan oven,noun,c2
+144,fast_4,fast,noun,c2
+145,fast-food,fast food,noun,a2
+146,fat_2,fat,noun,a2
+147,fattening,fattening,adjective,c1
+148,fatty-acid,fatty acid,noun,c2
+149,feast_1,feast,noun,c1
+150,fibre,fibre,noun,c1
+151,filling_2,filling,adjective,c1
+152,finger-bowl,finger bowl,noun,b2
+153,fish-knife,fish knife,noun,b2
+154,five,five a day,idiom,c2
+155,flavour_2,flavour,verb,b2
+156,flavour-enhancer,flavour enhancer,noun,c2
+157,food,food,noun,a1
+158,food-court,food court,noun,c2
+159,food-group,food group,noun,c1
+160,foodie_1,foodie,noun,c2
+161,food-processor,food processor,noun,c1
+162,food-truck,food truck,noun,c1
+163,foody,foody,noun,c2
+164,fork_1,fork,noun,a2
+165,free-from,free-from,adjective,c2
+166,fresh_1,fresh,adjective,a2
+167,fry_1,fry,verb,b1
+168,frying-pan,frying pan,noun,b2
+169,fry-up,fry-up,noun,c2
+170,full-bodied,full-bodied,adjective,c2
+171,garbage-disposal,garbage disposal,noun,c1
+172,garlic-press,garlic press,noun,c2
+173,garnish_1,garnish,verb,c2
+174,gas-ring,gas ring,noun,c1
+175,gastropub,gastropub,noun,c2
+176,gelatin,gelatin,noun,c2
+177,gingery,gingery,adjective,c2
+178,glass_1,glass,noun,a1
+179,glassware,glassware,noun,c2
+180,gram,gram,noun,b2
+181,gramme,gramme,noun,b2
+182,grate_2,grate,verb,c1
+183,grater,grater,noun,c2
+184,gratuity,gratuity,noun,c2
+185,greaseproof-paper,greaseproof paper,noun,c2
+186,greasy,greasy,adjective,c1
+187,greasy-spoon,greasy spoon,noun,c2
+188,greeter,greeter,noun,c2
+189,griddle_1,griddle,noun,c2
+190,grill_1,grill,noun,c1
+191,grill_2,grill,verb,b2
+192,grind_1,grind,verb,c1
+193,grinder,grinder,noun,c1
+194,halal,halal,adjective,c2
+195,health-food,health food,noun,b2
+196,healthful,healthful,adjective,c2
+197,healthy,healthy,adjective,a1
+198,heat_2,heat,verb,a2
+199,heat-up,heat up,phrasal verb,b2
+200,helping,helping,noun,c2
+201,high-tea,high tea,noun,c2
+202,hob,hob,noun,c2
+203,hors-d-oeuvre,hors d’oeuvre,noun,c2
+204,host_1,host,noun,b1
+205,hostess,hostess,noun,c2
+206,hot_1,hot,adjective,b1
+207,hotplate,hotplate,noun,c2
+208,ice_2,ice,verb,c1
+209,ingredient,ingredient,noun,b1
+210,insipid,insipid,adjective,c2
+211,intolerant,intolerant,adjective,c2
+212,jar_1,jar,noun,b2
+213,juicer,juicer,noun,c2
+214,juicy,juicy,adjective,b2
+215,julienne,julienne,adjective,c2
+216,junk-food,junk food,noun,a2
+217,kettle_1,kettle,noun,b1
+218,kilo_1,kilo,noun,a2
+219,kilogram,kilogram,noun,a2
+220,kitchen,kitchen,noun,a1
+221,kitchen-porter,kitchen porter,noun,c2
+222,knead,knead,verb,c2
+223,knife_1,knife,noun,a2
+224,kopitiam,kopitiam,noun,c2
+225,kosher,kosher,adjective,c2
+226,lacto-ovo-vegetarian,lacto-ovo-vegetarian,noun,c2
+227,lacto-vegetarian,lacto-vegetarian,noun,c2
+228,ladle_1,ladle,noun,c2
+229,lean_2,lean,adjective,b2
+230,lemon-squeezer,lemon-squeezer,noun,c1
+231,light_2,light,adjective,b1
+232,liquid_1,liquid,noun,b1
+233,liquidize,liquidize,verb,c2
+234,liquidizer,liquidizer,noun,c2
+235,lite,lite,adjective,c2
+236,liter,liter,noun,b1
+237,litre,litre,noun,b2
+238,live-on,live on,phrasal verb,c1
+239,lo-cal,lo-cal,adjective,c2
+240,low-cal,low-cal,adjective,c2
+241,low-carb,low-carb,adjective,c1
+242,low-fat,low-fat,adjective,b2
+243,lunch_1,lunch,noun,a1
+244,lunch_2,lunch,verb,b1
+245,luncheonette,luncheonette,noun,c2
+246,lunchtime,lunchtime,noun,a2
+247,main_1,main,adjective,a1
+248,main-course,main course,noun,b1
+249,marinade_1,marinade,noun,c2
+250,marinade_2,marinade,verb,c2
+251,marinate,marinate,verb,c2
+252,mash_2,mash,verb,c1
+253,mature_1,mature,adjective,c2
+254,maitre-d,maître d’,noun,c2
+255,meal,meal,noun,a1
+256,measure_1,measure,verb,b1
+257,measuring-cup,measuring cup,noun,c2
+258,measuring-jug,measuring jug,noun,c1
+259,meat-grinder,meat grinder,noun,c2
+260,meaty,meaty,adjective,c1
+261,menu,menu,noun,a1
+262,microwave_1,microwave,noun,b1
+263,microwave_2,microwave,verb,b1
+264,mild_1,mild,adjective,b1
+265,mince_1,mince,verb,c2
+266,mincer,mincer,noun,c2
+267,mineral,mineral,noun,b2
+268,mix_1,mix,verb,b1
+269,mixer,mixer,noun,b2
+270,mixing-bowl,mixing bowl,noun,b2
+271,moreish,moreish,adjective,c2
+272,mug_1,mug,noun,b2
+273,mushy,mushy,adjective,c2
+274,napkin,napkin,noun,c1
+275,nibble_2,nibble,noun,c2
+276,nosh-up,nosh-up,noun,c2
+277,nourish,nourish,verb,c2
+278,nourishment,nourishment,noun,c2
+279,nutrition,nutrition,noun,b2
+280,nutritional,nutritional,adjective,c1
+281,nutritionally,nutritionally,adverb,c1
+282,nutritious,nutritious,adjective,b2
+283,oily,oily,adjective,c1
+284,omega-3,Omega-3,noun,c2
+285,opener,opener,noun,c1
+286,order_1,order,noun,a2
+287,order_2,order,verb,a1
+288,organic,organic,adjective,b2
+289,ounce,ounce,noun,c1
+290,oven,oven,noun,a2
+291,ovenware,ovenware,noun,c2
+292,overfed,overfed,adjective,c2
+293,overfeed,overfeed,verb,c2
+294,packed-lunch,packed lunch,noun,b1
+295,paleo-diet,Paleo diet,noun,c2
+296,pan1_1,pan,noun,b1
+297,paper-towel,paper towel,noun,b1
+298,parboil,parboil,verb,c2
+299,patronage,patronage,noun,c2
+300,patronize,patronize,verb,c2
+301,peel_1,peel,verb,b2
+302,peeler,peeler,noun,c2
+303,pestle,pestle,noun,c2
+304,picante,picante,adjective,c2
+305,picnic_1,picnic,noun,b1
+306,pitcher,pitcher,noun,c1
+307,pizzeria,pizzeria,noun,b2
+308,place-mat,place mat,noun,c2
+309,plate_1,plate,noun,a2
+310,plate_2,plate,verb,c2
+311,pluck_1,pluck,verb,c2
+312,poach,poach,verb,c2
+313,portion_1,portion,noun,b2
+314,pot_1,pot,noun,b1
+315,pound_1,pound,noun,b1
+316,preheat,preheat,verb,c2
+317,prepare,prepare,verb,a1
+318,press_2,press,verb,c1
+319,pressure-cooker,pressure cooker,noun,c2
+320,protein,protein,noun,b2
+321,pud,pud,noun,c2
+322,pudding,pudding,noun,b2
+323,pungent,pungent,adjective,c2
+324,range_1,range,noun,c2
+325,rare,rare,adjective,c2
+326,ready-meal,ready meal,noun,c1
+327,recipe,recipe,noun,a2
+328,regime,regime,noun,c1
+329,regimen,regimen,noun,c2
+330,regular_2,regular,noun,c1
+331,reheat,reheat,verb,c1
+332,reservation,reservation,noun,b1
+333,reserve_2,reserve,verb,b2
+334,restaurant,restaurant,noun,a1
+335,rich,rich,adjective,b2
+336,ripe,ripe,adjective,c1
+337,roadhouse,roadhouse,noun,c2
+338,roast_1,roast,verb,b1
+339,roast_2,roast,noun,b2
+340,roaster,roaster,noun,c2
+341,rolling-pin,rolling pin,noun,c2
+342,rotisserie,rotisserie,noun,c2
+343,rubbery,rubbery,adjective,c2
+344,salty,salty,adjective,a2
+345,saucepan,saucepan,noun,b1
+346,saucer,saucer,noun,c1
+347,saute_1,sauté,adjective,c2
+348,saute_2,sauté,verb,c2
+349,savory_1,savory,adjective,c1
+350,savoury_1,savoury,adjective,c1
+351,scale_1,scale,noun,b2
+352,scoop_1,scoop,noun,c2
+353,scramble_1,scramble,verb,c2
+354,scrumptious,scrumptious,adjective,c2
+355,season_2,season,verb,c2
+356,self-service_1,self-service,adjective,b2
+357,self-service_2,self-service,noun,b2
+358,serve_1,serve,verb,a2
+359,server,server,noun,b2
+360,servery,servery,noun,c2
+361,service_1,service,noun,b1
+362,service-charge,service charge,noun,c1
+363,serviette,serviette,noun,c1
+364,setting,setting,noun,c2
+365,short-order-cook,short-order cook,noun,c2
+366,shout_1,shout,verb,c2
+367,side-dish,side dish,noun,c1
+368,side-order,side order,noun,c2
+369,side-plate,side plate,noun,c1
+370,side-salad,side salad,noun,c1
+371,sieve_1,sieve,noun,c2
+372,silverware,silverware,noun,c2
+373,simmer_1,simmer,verb,c1
+374,skewer_1,skewer,noun,c2
+375,skillet,skillet,noun,c2
+376,slice_2,slice,verb,b1
+377,slotted-spoon,slotted spoon,noun,c2
+378,slow-cooker,slow cooker,noun,c2
+379,smokehouse,smokehouse,noun,c2
+380,snack_1,snack,noun,a2
+381,snack-bar,snack bar,noun,b1
+382,sommelier,sommelier,noun,c2
+383,sour_1,sour,adjective,b2
+384,sous-chef,sous-chef,noun,c2
+385,spatula,spatula,noun,c2
+386,special_2,special,noun,c2
+387,speciality,speciality,noun,c1
+388,specialty,specialty,noun,c1
+389,spicy,spicy,adjective,b1
+390,spit-roast,spit-roast,verb,c2
+391,spoon_1,spoon,noun,a2
+392,spoonful,spoonful,noun,b2
+393,spread_1,spread,verb,b2
+394,sprinkle_1,sprinkle,verb,c2
+395,squeeze_1,squeeze,verb,c1
+396,stale,stale,adjective,c1
+397,staple_2,staple,noun,c2
+398,staple-diet,staple diet,noun,c2
+399,starchy,starchy,adjective,c2
+400,starter,starter,noun,b1
+401,the-atkins-diettm,the Atkins Diet™,,c2
+402,steakhouse,steakhouse,noun,c2
+403,steak-knife,steak knife,noun,b2
+404,steam_3,steam,verb,c1
+405,steamer,steamer,noun,c2
+406,stew_2,stew,verb,c1
+407,stir_1,stir,verb,c1
+408,stir-fry_2,stir-fry,verb,c2
+409,stock-cube,stock cube,noun,c2
+410,stodgy,stodgy,adjective,c2
+411,stove_1,stove,noun,b2
+412,stovetop,stovetop,noun,c2
+413,strain_2,strain,verb,c2
+414,strainer,strainer,noun,c2
+415,street-food,street food,noun,b2
+416,stringy,stringy,adjective,c2
+417,strong,strong,adjective,b1
+418,stuff_2,stuff,verb,c2
+419,sun-dried,sun-dried,adjective,c1
+420,supper,supper,noun,b2
+421,sweet_1,sweet,adjective,a2
+422,sweet_2,sweet,noun,b2
+423,tab_1,tab,noun,c2
+424,tablecloth,tablecloth,noun,c1
+425,table-d-hote,table d’hôte,noun,c2
+426,table-mat,table mat,noun,c1
+427,table-napkin,table napkin,noun,c1
+428,tablespoon,tablespoon,noun,c1
+429,takeaway,takeaway,noun,b2
+430,tariff,tariff,noun,c1
+431,tart_2,tart,adjective,c2
+432,taste_1,taste,noun,a2
+433,taste_2,taste,verb,a2
+434,tasteless,tasteless,adjective,c1
+435,tasty,tasty,adjective,b1
+436,tea,tea,noun,a1
+437,tea-room,tea room,noun,c2
+438,tea-shop,tea shop,noun,c2
+439,teaspoon,teaspoon,noun,b2
+440,teatime,teatime,noun,c1
+441,teetotal,teetotal,adjective,c2
+442,teetotalism,teetotalism,noun,c2
+443,tender_1,tender,adjective,c1
+444,tenderize,tenderize,verb,c2
+445,texture,texture,noun,c1
+446,thick_1,thick,adjective,b1
+447,thin_1,thin,adjective,b1
+448,tin,tin,noun,b1
+449,tinned,tinned,adjective,c1
+450,tin-opener,tin opener,noun,c1
+451,tip_1,tip,noun,b1
+452,tip_2,tip,verb,b1
+453,toast_2,toast,verb,b1
+454,toaster,toaster,noun,b2
+455,go_1,to go,idiom,c1
+456,tongs,tongs,noun,c2
+457,topping,topping,noun,b2
+458,tough_1,tough,adjective,b2
+459,trans-fatty-acid,trans-fatty acid,noun,c2
+460,trattoria,trattoria,noun,c2
+461,tray,tray,noun,c1
+462,tureen,tureen,noun,c2
+463,tv-dinner,TV dinner,noun,c2
+464,umami,umami,noun,c2
+465,unhealthy,unhealthy,adjective,a2
+466,unpalatable,unpalatable,adjective,c2
+467,unwholesome,unwholesome,adjective,c2
+468,utensil,utensil,noun,c1
+469,valet_1,valet,noun,c2
+470,vegan_1,vegan,noun,c1
+471,vegetarian_1,vegetarian,noun,a2
+472,vegetarian_2,vegetarian,adjective,a2
+473,vegetarianism,vegetarianism,noun,c1
+474,veggie_2,veggie,noun,c2
+475,vitamin,vitamin,noun,b2
+476,wait_1,wait at table,idiom,c2
+477,waiter,waiter,noun,a1
+478,waitperson,waitperson,noun,c2
+479,waitress,waitress,noun,b1
+480,waitstaff,waitstaff,noun,c2
+481,wait_1,wait tables,idiom,c2
+482,warm_2,warm,verb,b1
+483,warm-up_1,warm up,phrasal verb,c1
+484,washing-up,washing-up,noun,b1
+485,waste-disposal-unit,waste disposal unit,noun,c1
+486,watery,watery,adjective,c1
+487,wax-paper,wax paper,noun,c2
+488,weigh,weigh,verb,b1
+489,well-done,well done,adjective,c1
+490,whip_1,whip,verb,c1
+491,whip-up,whip up,phrasal verb,c2
+492,whisk_2,whisk,noun,c2
+493,wholefood,wholefood,noun,c2
+494,wholesome,wholesome,adjective,c2
+495,wine-bar,wine bar,noun,b1
+496,wine-list,wine list,noun,b1
+497,wine-steward,wine steward,noun,c2
+498,wine-waiter,wine waiter,noun,b1
+499,wok,wok,noun,c2
+500,wooden-spoon,wooden spoon,noun,b2
+501,worktop,worktop,noun,c2
+502,a-la-carte,à la carte,adjective,c2
+503,yeast,yeast,noun,c2
+504,yummy,yummy,adjective,c1
+505,zippy,zippy,adjective,c2
+506,absinthe,absinthe,noun,c2
+507,advocaat,advocaat,noun,c2
+508,alcohol,alcohol,noun,b1
+509,alcoholic_1,alcoholic,adjective,b1
+510,alcopop,alcopop,noun,c2
+511,ale,ale,noun,c2
+512,aperitif,aperitif,noun,c2
+513,bar_1,bar,noun,a2
+514,barley-water,barley water,noun,c2
+515,beef-tea,beef tea,noun,c2
+516,beer,beer,noun,a1
+517,beverage,beverage,noun,c1
+518,bloody-mary,Bloody Mary,noun,c2
+519,booze_1,booze,noun,c2
+520,bourbon,bourbon,noun,c2
+521,bovriltm,Bovril™,noun,c2
+522,brandy,brandy,noun,c1
+523,brew_1,brew,verb,c1
+524,brewery,brewery,noun,c1
+525,bubble-tea,bubble tea,noun,c2
+526,buck-s-fizz,Buck’s Fizz,noun,c2
+527,burgundy_1,burgundy,noun,c2
+528,buttermilk,buttermilk,noun,c2
+529,caffe-latte,caffè latte,noun,c2
+530,calvados,Calvados,noun,c2
+531,champagne,champagne,noun,b1
+532,chartreuse,chartreuse,noun,c2
+533,cider,cider,noun,c2
+534,claret,claret,noun,c2
+535,coca-colatm,Coca-Cola™,noun,a1
+536,cocktail,cocktail,noun,c1
+537,cocoa,cocoa,noun,b2
+538,coffee,coffee,noun,a1
+539,cognac,cognac,noun,c2
+540,cointreautm,Cointreau™,noun,c2
+541,cold-brew,cold brew,noun,c2
+542,cordial_2,cordial,noun,c2
+543,corkscrew_1,corkscrew,noun,c1
+544,craft-beer,craft beer,noun,c2
+545,craft-brewery,craft brewery,noun,c2
+546,cream-soda,cream soda,noun,c2
+547,creme-de-cacao,crème de cacao,noun,c2
+548,creme-de-menthe,crème de menthe,noun,c2
+549,decaffeinated_2,decaffeinated,adjective,c1
+550,distil,distil,verb,c2
+551,distillery,distillery,noun,c2
+552,drink_1,drink,noun,a1
+553,drink_2,drink,verb,a1
+554,drinking-chocolate,drinking chocolate,noun,a2
+555,eggnog,eggnog,noun,c2
+556,energy-drink,energy drink,noun,c1
+557,fizzy,fizzy,adjective,b1
+558,flat_2,flat,adjective,c2
+559,g-and-t,G and T,noun,c2
+560,gin,gin,noun,c1
+561,ginger-ale,ginger ale,noun,c2
+562,ginger-beer,ginger beer,noun,c2
+563,ginger-wine,ginger wine,noun,c2
+564,goldwasser,goldwasser,noun,c2
+565,grand-marniertm,Grand Marnier™,noun,c2
+566,grappa,grappa,noun,c2
+567,gulp_1,gulp,verb,c2
+568,gulp_2,gulp,noun,c2
+569,guzzle,guzzle,verb,c2
+570,herbal-tea,herbal tea,noun,c2
+571,horlickstm,Horlicks™,noun,c2
+572,hot-chocolate,hot chocolate,noun,a2
+573,ice_1,ice,noun,a1
+574,ice-cube,ice cube,noun,b2
+575,infusion,infusion,noun,c2
+576,isotonic,isotonic,adjective,c2
+577,juice_1,juice,noun,a1
+578,julep,julep,noun,c2
+579,kefir,kefir,noun,c2
+580,kettle_1,kettle,noun,b1
+581,lager,lager,noun,c2
+582,latte,latte,noun,c2
+583,lemonade,lemonade,noun,b1
+584,limeade,limeade,noun,c2
+585,liqueur,liqueur,noun,c2
+586,liquor,liquor,noun,c2
+587,malt,malt,noun,c2
+588,malted-milk,malted milk,noun,c2
+589,malt-liquor,malt liquor,noun,c2
+590,manhattan_1,manhattan,noun,c2
+591,margarita,margarita,noun,c2
+592,martini,martini,noun,c2
+593,microbrewery,microbrewery,noun,c2
+594,milk_1,milk,noun,a1
+595,milkshake,milkshake,noun,b2
+596,milk-tea,milk tea,noun,c1
+597,milky,milky,adjective,b1
+598,mimosa,mimosa,noun,c2
+599,mineral-water,mineral water,noun,b2
+600,mint-julep,mint julep,noun,c2
+601,mixer,mixer,noun,c2
+602,mocha,mocha,noun,c2
+603,neat,neat,adjective,c2
+604,non-alcoholic,non-alcoholic,adjective,b1
+605,ice_1,on ice,idiom,b2
+606,orange_1,orange,noun,a1
+607,orangeade,orangeade,noun,c2
+608,orange-squash,orange squash,noun,c2
+609,pina-colada,pina colada,noun,c2
+610,pint,pint,noun,c1
+611,port_1,port,noun,c2
+612,poteen,poteen,noun,c2
+613,potheen,potheen,noun,c2
+614,pour,pour,verb,b1
+615,proseccotm,Prosecco™,noun,c2
+616,protein-shake,protein shake,noun,c2
+617,pub,pub,noun,a2
+618,public-house,public house,noun,c2
+619,punch_2,punch,noun,c2
+620,quench,quench,verb,c2
+621,raki,raki,noun,c2
+622,rose_5,rosé,noun,c2
+623,rum_1,rum,noun,c2
+624,sake2,sake,noun,c2
+625,sangria,sangria,noun,c2
+626,sarsaparilla,sarsaparilla,noun,c2
+627,scotch_2,Scotch,noun,c2
+628,shandy,shandy,noun,c2
+629,sherry,sherry,noun,c2
+630,short_3,short,noun,c2
+631,sip_1,sip,verb,c1
+632,skimmed-milk,skimmed milk,noun,b2
+633,slurp_1,slurp,verb,c2
+634,smoothie,smoothie,noun,c1
+635,soda,soda,noun,b1
+636,soft,soft,adjective,c1
+637,soft-drink,soft drink,noun,b2
+638,sparkling,sparkling,adjective,b2
+639,spirit_1,spirit,noun,b2
+640,spritzer,spritzer,noun,c2
+641,squash_2,squash,noun,c2
+642,still_2,still,adjective,c1
+643,straight_2,straight,adjective,c2
+644,tea,tea,noun,a1
+645,tea-leaf,tea leaf,noun,c1
+646,teapot,teapot,noun,b1
+647,tequila,tequila,noun,c2
+648,tequila-sunrise,tequila sunrise,noun,c2
+649,thirst_1,thirst,noun,b2
+650,thirsty,thirsty,adjective,a1
+651,tonic,tonic,noun,c2
+652,vintage_1,vintage,noun,c2
+653,vintage_2,vintage,adjective,c2
+654,vodka,vodka,noun,c1
+655,water_1,water,noun,a1
+656,whisky,whisky,noun,b2
+657,whisky-mac,whisky mac,noun,c2
+658,whisky-sour,whisky sour,noun,c2
+659,wine_1,wine,noun,a1
+660,acid-drop,acid drop,noun,c2
+661,aioli,aioli,noun,c2
+662,alfalfa,alfalfa,noun,c2
+663,allspice,allspice,noun,c2
+664,almond,almond,noun,c1
+665,alphabet-soup,alphabet soup,noun,c2
+666,american-cheese,American cheese,noun,c1
+667,angel-hair,angel hair,noun,c2
+668,apple,apple,noun,a1
+669,apple-pie,apple pie,noun,b2
+670,apricot_1,apricot,noun,c1
+671,arancini,arancini,noun,c2
+672,artichoke,artichoke,noun,c2
+673,asparagus,asparagus,noun,c1
+674,aubergine,aubergine,noun,c1
+675,avocado,avocado,noun,c1
+676,bacon,bacon,noun,b1
+677,bagel,bagel,noun,b2
+678,baguette,baguette,noun,b2
+679,baked-alaska,baked Alaska,noun,c2
+680,baked-beans,baked beans,noun,b2
+681,baked-goods,baked goods,noun,c1
+682,baked-potato,baked potato,noun,a2
+683,bakewell-tart,Bakewell tart,noun,c2
+684,baking_1,baking,noun,c1
+685,baking-flour,baking flour,noun,c1
+686,baklava,baklava,noun,c2
+687,balsamic-vinegar,balsamic vinegar,noun,c2
+688,balti,balti,noun,c2
+689,banana,banana,noun,a1
+690,banana-split,banana split,noun,c2
+691,banger,banger,noun,c2
+692,banh-mi,banh mi,noun,c2
+693,banoffi-pie,banoffi pie,noun,c2
+694,bap,bap,noun,c2
+695,barbacoa,barbacoa,noun,c2
+696,barbecue-sauce,barbecue sauce,noun,c1
+697,barley,barley,noun,c1
+698,barley-sugar,barley sugar,noun,c2
+699,basil_1,basil,noun,c1
+700,bay_1,bay,noun,c2
+701,bay-leaf,bay leaf,noun,c2
+702,bean_1,bean,noun,a2
+703,bean-curd,bean curd,noun,c2
+704,beef_1,beef,noun,a2
+705,beefburger,beefburger,noun,a2
+706,beefsteak,beefsteak,noun,b2
+707,beet,beet,noun,c2
+708,bell-pepper,bell pepper,noun,c1
+709,bento,bento,noun,c2
+710,berry,berry,noun,c1
+711,besan,besan,noun,c2
+712,bhaji,bhaji,noun,c2
+713,biltong,biltong,noun,c2
+714,biriani,biriani,noun,c2
+715,biriyani,biriyani,noun,c2
+716,biscotti,biscotti,noun,c2
+717,biscuit,biscuit,noun,a2
+718,blackberry,blackberry,noun,c1
+719,black-cherry,black cherry,noun,c1
+720,blackcurrant,blackcurrant,noun,c1
+721,black-pepper,black pepper,noun,b1
+722,blancmange,blancmange,noun,c2
+723,blintz,blintz,noun,c2
+724,blue-cheese,blue cheese,noun,c1
+725,boiled-sweet,boiled sweet,noun,c2
+726,bombe,bombe,noun,c2
+727,bonbon,bonbon,noun,c2
+728,borage,borage,noun,c2
+729,boysenberry,boysenberry,noun,c2
+730,brandy-snap,brandy snap,noun,c2
+731,bread,bread,noun,a1
+732,bread-and-butter-pudding,bread-and-butter pudding,noun,c2
+733,breadcrumbs,breadcrumbs,noun,c1
+734,bread-pudding,bread pudding,noun,c2
+735,bread-roll,bread roll,noun,b1
+736,breadstick,breadstick,noun,c1
+737,breast_1,breast,noun,b2
+738,brie,Brie,noun,c2
+739,brinjal,brinjal,noun,c2
+740,brioche,brioche,noun,c2
+741,brisket,brisket,noun,c2
+742,broad-bean,broad bean,noun,c2
+743,broccoli,broccoli,noun,b2
+744,broth,broth,noun,c2
+745,brownie,brownie,noun,c2
+746,brown-rice,brown rice,noun,b2
+747,bruschetta,bruschetta,noun,c2
+748,brussels-sprout,Brussels sprout,noun,c2
+749,bubblegum_1,bubblegum,noun,c2
+750,buckwheat,buckwheat,noun,c2
+751,buffalo-wings,Buffalo wings,noun,c2
+752,bulgar,bulgar,noun,c2
+753,bun,bun,noun,c1
+754,burger,burger,noun,b1
+755,burrito,burrito,noun,c2
+756,bushmeat,bushmeat,noun,c2
+757,butter_1,butter,noun,a1
+758,butternut-squash,butternut squash,noun,c2
+759,butterscotch,butterscotch,noun,c2
+760,bearnaise-sauce,Béarnaise sauce,noun,c2
+761,bechamel,béchamel,noun,c2
+762,cabbage,cabbage,noun,b1
+763,cabinet-pudding,cabinet pudding,noun,c2
+764,cake_1,cake,noun,a1
+765,calabrese,calabrese,noun,c2
+766,camembert,Camembert,noun,c2
+767,canadian-bacon,Canadian bacon,noun,c2
+768,canape,canapé,noun,c2
+769,candy,candy,noun,a2
+770,candy-cane,candy cane,noun,c2
+771,candyfloss,candyfloss,noun,c2
+772,cannelloni,cannelloni,noun,c2
+773,cantaloupe,cantaloupe,noun,c2
+774,caprese,caprese,adjective,c2
+775,caramel,caramel,noun,c2
+776,carbohydrate,carbohydrate,noun,b2
+777,carbonara,carbonara,adjective,c2
+778,cardamom,cardamom,noun,c2
+779,carob,carob,noun,c2
+780,carpaccio,carpaccio,noun,c2
+781,carrot,carrot,noun,a1
+782,cashew,cashew,noun,c2
+783,cassava,cassava,noun,c2
+784,casserole_1,casserole,noun,c1
+785,cassoulet,cassoulet,noun,c2
+786,catsup,catsup,noun,c2
+787,cauliflower,cauliflower,noun,c1
+788,cauliflower-cheese,cauliflower cheese,noun,c2
+789,caviar,caviar,noun,c2
+790,celeriac,celeriac,noun,c2
+791,celery,celery,noun,c1
+792,cereal,cereal,noun,b2
+793,challah,challah,noun,c2
+794,chapatti,chapatti,noun,c2
+795,chard,chard,noun,c2
+796,charlotte_1,charlotte,noun,c2
+797,cheddar,Cheddar,noun,c2
+798,cheese,cheese,noun,a1
+799,cheeseboard,cheeseboard,noun,c2
+800,cheeseburger,cheeseburger,noun,b1
+801,cheesecake,cheesecake,noun,c1
+802,cheese-straw,cheese straw,noun,c2
+803,chef-s-salad,chef’s salad,noun,c2
+804,cherry_1,cherry,noun,b2
+805,chervil,chervil,noun,c2
+806,chestnut_1,chestnut,noun,c2
+807,chewing-gum,chewing gum,noun,b2
+808,chicken_1,chicken,noun,a1
+809,chicken-fried-steak,chicken-fried steak,noun,c2
+810,chicken-rice,chicken rice,noun,b2
+811,chickpea,chickpea,noun,c2
+812,chickpea-flour,chickpea flour,noun,c2
+813,chicory,chicory,noun,c2
+814,chili,chili,noun,b2
+815,chili-dog,chili dog,noun,c2
+816,chilli,chilli,noun,b2
+817,chilli-con-carne,chilli con carne,noun,c2
+818,chinese-cabbage,Chinese cabbage,noun,c2
+819,chip_1,chip,noun,a2
+820,chipped-beef,chipped beef,noun,c2
+821,chives,chives,noun,c2
+822,chocolate,chocolate,noun,a1
+823,chop-suey,chop suey,noun,c2
+824,chorizo,chorizo,noun,c2
+825,chow-mein,chow mein,noun,c2
+826,christmas-pudding,Christmas pudding,noun,c2
+827,chutney,chutney,noun,c2
+828,ciabatta,ciabatta,noun,c2
+829,cinnamon,cinnamon,noun,c2
+830,citrus,citrus,noun,c1
+831,clementine_1,clementine,noun,c2
+832,clotted-cream,clotted cream,noun,c2
+833,clove_1,clove,noun,c2
+834,cocktail,cocktail,noun,c1
+835,coconut,coconut,noun,c1
+836,cocoyam,cocoyam,noun,c2
+837,cold-cuts,cold cuts,noun,c2
+838,comfit,comfit,noun,c2
+839,compote,compote,noun,c2
+840,confit,confit,noun,c2
+841,cookie,cookie,noun,a2
+842,coq-au-vin,coq au vin,noun,c2
+843,coriander,coriander,noun,c2
+844,corn,corn,noun,b1
+845,cornbread,cornbread,noun,c2
+846,corn-dog,corn dog,noun,c2
+847,cornflakes,cornflakes,noun,c1
+848,cornflour,cornflour,noun,c1
+849,corn-on-the-cob,corn on the cob,noun,c2
+850,corn-pone,corn pone,noun,c2
+851,cornstarch,cornstarch,noun,c2
+852,coronation-chicken,coronation chicken,noun,c2
+853,cottage-cheese,cottage cheese,noun,c2
+854,cotton-candy,cotton candy,noun,c2
+855,courgette,courgette,noun,b2
+856,couscous,couscous,noun,c2
+857,crab,crab,noun,b2
+858,crab-apple,crab apple,noun,c2
+859,cracked-wheat,cracked wheat,noun,c2
+860,cracker,cracker,noun,b2
+861,cracknel,cracknel,noun,c2
+862,cranberry,cranberry,noun,c2
+863,cream_1,cream,noun,a1
+864,cream-cheese,cream cheese,noun,c1
+865,cream-cracker,cream cracker,noun,c2
+866,cress,cress,noun,c2
+867,crisp_2,crisp,noun,a2
+868,crispbread,crispbread,noun,c2
+869,croissant,croissant,noun,c1
+870,croquette,croquette,noun,c2
+871,crowdie,crowdie,noun,c2
+872,crumb,crumb,noun,c1
+873,crumble_2,crumble,noun,c1
+874,crumpet,crumpet,noun,c2
+875,crepe,crêpe,noun,c2
+876,cucumber,cucumber,noun,b2
+877,cumin,cumin,noun,c2
+878,curd-cheese,curd cheese,noun,c2
+879,currant,currant,noun,c2
+880,curry_1,curry,noun,b1
+881,curry-leaf,curry leaf,noun,c2
+882,curry-powder,curry powder,noun,c2
+883,custard,custard,noun,c1
+884,custard-apple,custard apple,noun,c2
+885,cut_2,cut,noun,c1
+886,cutlet,cutlet,noun,c2
+887,daikon,daikon,noun,c2
+888,dairy_1,dairy,noun,b2
+889,damson,damson,noun,c2
+890,danish-blue,Danish blue,noun,c2
+891,danish-pastry,Danish pastry,noun,c2
+892,dark-meat,dark meat,noun,c2
+893,date_1,date,noun,c2
+894,dessert,dessert,noun,a2
+895,dewberry,dewberry,noun,c2
+896,digestive-biscuit,digestive biscuit,noun,c2
+897,dill,dill,noun,c2
+898,dim-sum,dim sum,noun,c2
+899,dip_2,dip,noun,c1
+900,doner-kebab,doner kebab,noun,c2
+901,donut,donut,noun,c1
+902,dopiaza,dopiaza,noun,c2
+903,dosa,dosa,noun,c2
+904,dough,dough,noun,c1
+905,doughnut,doughnut,noun,c1
+906,dragon-fruit,dragon fruit,noun,c1
+907,dressing,dressing,noun,c1
+908,dripping_2,dripping,noun,c2
+909,drop_2,drop,noun,c2
+910,drumstick,drumstick,noun,c2
+911,duck_1,duck,noun,a2
+912,duckling,duckling,noun,c1
+913,dumpling,dumpling,noun,c2
+914,durian,durian,noun,c2
+915,durum,durum,noun,c2
+916,eclair,eclair,noun,c2
+917,edam,Edam,noun,c2
+918,egg_1,egg,noun,a1
+919,eggplant,eggplant,noun,c1
+920,eggs-benedict,eggs Benedict,noun,c2
+921,emmental,Emmental,noun,c2
+922,enchilada,enchilada,noun,c2
+923,energy-bar,energy bar,noun,c1
+924,escalope,escalope,noun,c2
+925,faggot,faggot,noun,c2
+926,fajitas,fajitas,noun,c2
+927,falafel,falafel,noun,c2
+928,farfalle,farfalle,noun,c2
+929,fat_2,fat,noun,a2
+930,felafel,felafel,noun,c2
+931,fennel,fennel,noun,c2
+932,fenugreek,fenugreek,noun,c2
+933,feta-cheese,feta cheese,noun,c2
+934,fettuccine,fettuccine,noun,c2
+935,fig_1,fig,noun,c2
+936,filet,filet,noun,c2
+937,fillet_1,fillet,noun,c2
+938,fines-herbes,fines herbes,noun,c2
+939,finger-food,finger food,noun,c1
+940,fish_1,fish,noun,a1
+941,fish-and-chips,fish and chips,noun,a2
+942,fishcake,fishcake,noun,c2
+943,flan,flan,noun,c2
+944,flapjack,flapjack,noun,c2
+945,flesh_1,flesh,noun,c1
+946,florentine_2,florentine,noun,c2
+947,flour_1,flour,noun,b1
+948,fondant,fondant,noun,c2
+949,fondue,fondue,noun,c2
+950,fool_1,fool,noun,c2
+951,fortune-cookie,fortune cookie,noun,c2
+952,fowl,fowl,noun,c2
+953,frankfurter,frankfurter,noun,c2
+954,french-bread,French bread,noun,c1
+955,fried-rice,fried rice,noun,b2
+956,fritter_2,fritter,noun,c2
+957,fromage-frais,fromage frais,noun,c2
+958,frosting,frosting,noun,c2
+959,fruit_1,fruit,noun,a1
+960,fruit-salad,fruit salad,noun,b1
+961,fudge_1,fudge,noun,c2
+962,fusilli,fusilli,noun,c2
+963,gammon,gammon,noun,c2
+964,garbanzo,garbanzo,noun,c2
+965,garibaldi,garibaldi,noun,c2
+966,garlic,garlic,noun,b1
+967,gateau,gateau,noun,c2
+968,gigot,gigot,noun,c2
+969,ginger_1,ginger,noun,c1
+970,gingerbread_1,gingerbread,noun,c2
+971,ginger-nut,ginger nut,noun,c2
+972,globe-artichoke,globe artichoke,noun,c2
+973,gnocchi,gnocchi,noun,c2
+974,goat-cheese,goat cheese,noun,b2
+975,gobstopper,gobstopper,noun,c2
+976,goose_1,goose,noun,c1
+977,gooseberry,gooseberry,noun,c2
+978,gorgonzola,Gorgonzola,noun,c2
+979,gouda,Gouda,noun,c2
+980,goulash,goulash,noun,c2
+981,graham-cracker,graham cracker,noun,c2
+982,grain,grain,noun,b1
+983,gram-flour,gram flour,noun,c2
+984,granita,granita,noun,c2
+985,grape,grape,noun,b1
+986,grapefruit,grapefruit,noun,c1
+987,gratin,gratin,noun,c2
+988,gravy,gravy,noun,c1
+989,greek-salad,Greek salad,noun,c1
+990,greek-yogurt,Greek yogurt,noun,b2
+991,green_2,green,noun,b1
+992,green-bean,green bean,noun,b1
+993,greengage,greengage,noun,c2
+994,green-onion,green onion,noun,c2
+995,green-pepper,green pepper,noun,b2
+996,green-vegetable,green vegetable,noun,a1
+997,gristle,gristle,noun,c2
+998,groundnut,groundnut,noun,c2
+999,grouse_1,grouse,noun,c2
+1000,gruyere,Gruyère,noun,c2
+1001,guacamole,guacamole,noun,c2
+1002,guava,guava,noun,c2
+1003,guinea-fowl,guinea fowl,noun,c2
+1004,gulab-jamun,gulab jamun,noun,c2
+1005,gum_1,gum,noun,b2
+1006,gumball,gumball,noun,c2
+1007,gumdrop,gumdrop,noun,c2
+1008,gur,gur,noun,c2
+1009,haggis,haggis,noun,c2
+1010,halloumitm,halloumi™,noun,c2
+1011,halwa,halwa,noun,c2
+1012,ham_1,ham,noun,a1
+1013,hamburger,hamburger,noun,a2
+1014,hard-candy,hard candy,noun,b2
+1015,hash_1,hash,noun,c2
+1016,hash-browns,hash browns,noun,c2
+1017,hazelnut,hazelnut,noun,c2
+1018,herb_1,herb,noun,b2
+1019,hoagie,hoagie,noun,c2
+1020,hollandaise-sauce,hollandaise sauce,noun,c2
+1021,honey,honey,noun,b1
+1022,horseradish,horseradish,noun,c2
+1023,hot-cross-bun,hot cross bun,noun,c2
+1024,hot-dog_1,hot dog,noun,a2
+1025,houmous,houmous,noun,c2
+1026,huckleberry,huckleberry,noun,c2
+1027,hummus,hummus,noun,c2
+1028,iceberg-lettuce,iceberg lettuce,noun,c2
+1029,ice-cream,ice cream,noun,a1
+1030,ice-lolly,ice lolly,noun,c2
+1031,icing,icing,noun,c2
+1032,irish-stew,Irish stew,noun,c2
+1033,jack-cheese,Jack cheese,noun,c2
+1034,jacket-potato,jacket potato,noun,c1
+1035,jackfruit,jackfruit,noun,c2
+1036,jaggery,jaggery,noun,c2
+1037,jam_1,jam,noun,a2
+1038,jambalaya,jambalaya,noun,c2
+1039,jawbreakertm,jawbreaker™,noun,c2
+1040,jelly,jelly,noun,c1
+1041,jelly-baby,jelly baby,noun,c2
+1042,jelly-bean,jelly bean,noun,c2
+1043,jerky_2,jerky,noun,c2
+1044,jerusalem-artichoke,Jerusalem artichoke,noun,c2
+1045,joint_2,joint,noun,c2
+1046,kabob,kabob,noun,b2
+1047,kaiser,kaiser,noun,c2
+1048,kale,kale,noun,c2
+1049,kebab,kebab,noun,b2
+1050,ketchup,ketchup,noun,b2
+1051,kidney,kidney,noun,c1
+1052,kimchi,kimchi,noun,c2
+1053,kipper,kipper,noun,c2
+1054,kiwi-fruit,kiwi fruit,noun,c2
+1055,knickerbocker-glory,Knickerbocker Glory,noun,c2
+1056,kofta,kofta,noun,c2
+1057,kohlrabi,kohlrabi,noun,c2
+1058,korma,korma,noun,c2
+1059,kumquat,kumquat,noun,c2
+1060,laksa,laksa,noun,c2
+1061,lamb_1,lamb,noun,a2
+1062,lancashire-hotpot,Lancashire hotpot,noun,c2
+1063,lard_1,lard,noun,c2
+1064,lasagne,lasagne,noun,c1
+1065,leek,leek,noun,c2
+1066,lemon_1,lemon,noun,a2
+1067,lemongrass,lemongrass,noun,c2
+1068,lentil,lentil,noun,c1
+1069,lettuce,lettuce,noun,b1
+1070,lichee,lichee,noun,c2
+1071,licorice,licorice,noun,c2
+1072,lime_1,lime,noun,c1
+1073,linguine,linguine,noun,c2
+1074,liquorice,liquorice,noun,c2
+1075,litchi,litchi,noun,c2
+1076,liver,liver,noun,c1
+1077,loaf_1,loaf,noun,b1
+1078,lobster,lobster,noun,c1
+1079,lobster-thermidor,lobster thermidor,noun,c2
+1080,loganberry,loganberry,noun,c2
+1081,loin,loin,noun,c2
+1082,lollipop,lollipop,noun,c2
+1083,lolly,lolly,noun,c2
+1084,loquat,loquat,noun,c2
+1085,lovage,lovage,noun,c2
+1086,luncheon-meat,luncheon meat,noun,c2
+1087,lunch-meat,lunch meat,noun,c2
+1088,lychee,lychee,noun,c2
+1089,macadamia,macadamia,noun,c2
+1090,macaron,macaron,noun,c2
+1091,macaroni,macaroni,noun,c2
+1092,macaroni-cheese,macaroni cheese,noun,c2
+1093,macaroon,macaroon,noun,c2
+1094,mace,mace,noun,c2
+1095,madras,madras,noun,c2
+1096,maize,maize,noun,c1
+1097,mandarin,mandarin,noun,c2
+1098,mango,mango,noun,b2
+1099,mangosteen,mangosteen,noun,c2
+1100,manioc,manioc,noun,c2
+1101,maple-syrup,maple syrup,noun,c2
+1102,margarine,margarine,noun,b2
+1103,marinara,marinara,noun,c2
+1104,marjoram,marjoram,noun,c2
+1105,marmalade,marmalade,noun,c1
+1106,marrow,marrow,noun,c2
+1107,marshmallow,marshmallow,noun,c2
+1108,marzipan,marzipan,noun,c2
+1109,masa1,masa,noun,c2
+1110,masala,masala,noun,c2
+1111,mascarpone,mascarpone,noun,c2
+1112,matzo,matzo,noun,c2
+1113,mayonnaise,mayonnaise,noun,c1
+1114,meal,meal,noun,c2
+1115,meat,meat,noun,a1
+1116,meatball,meatball,noun,c1
+1117,melon,melon,noun,b2
+1118,meringue,meringue,noun,c2
+1119,methi,methi,noun,c2
+1120,milk-pudding,milk pudding,noun,c2
+1121,millet,millet,noun,c2
+1122,mince_2,mince,noun,c1
+1123,mince-pie,mince pie,noun,c2
+1124,minestrone,minestrone,noun,c2
+1125,mint_1,mint,noun,b1
+1126,mixed-grill,mixed grill,noun,c2
+1127,monterey-jack,Monterey Jack,noun,c2
+1128,mooli,mooli,noun,c2
+1129,mornay,mornay,adjective,c2
+1130,moussaka,moussaka,noun,c2
+1131,mousse,mousse,noun,c1
+1132,mousseline,mousseline,noun,c2
+1133,mozzarella,mozzarella,noun,c2
+1134,muenster,Muenster,noun,c2
+1135,muesli,muesli,noun,c2
+1136,muffin,muffin,noun,c2
+1137,mushroom_1,mushroom,noun,a2
+1138,mustard_2,mustard,noun,b2
+1139,mutton,mutton,noun,c2
+1140,naan,naan,noun,c2
+1141,nachos,nachos,noun,c2
+1142,nan2,nan,noun,c2
+1143,nasi-lemak,nasi lemak,noun,c2
+1144,nectarine,nectarine,noun,c2
+1145,noodle,noodle,noun,b2
+1146,nougat,nougat,noun,c2
+1147,nut_1,nut,noun,a2
+1148,nutmeg,nutmeg,noun,c2
+1149,oatcake,oatcake,noun,c2
+1150,oatmeal_2,oatmeal,noun,c2
+1151,oats,oats,noun,c2
+1152,offal,offal,noun,c2
+1153,oil_1,oil,noun,a2
+1154,okra,okra,noun,c2
+1155,olive_1,olive,noun,b1
+1156,olive-oil,olive oil,noun,b1
+1157,omelette,omelette,noun,b2
+1158,onion,onion,noun,a1
+1159,open-faced-sandwich,open-faced sandwich,noun,c2
+1160,oregano,oregano,noun,c2
+1161,orzo,orzo,noun,c2
+1162,pad-thai,pad thai,noun,c2
+1163,paella,paella,noun,c1
+1164,pancake,pancake,noun,b1
+1165,pancetta,pancetta,noun,c2
+1166,pandowdy,pandowdy,noun,c2
+1167,paneer,paneer,noun,c2
+1168,panini,panini,noun,c2
+1169,panir,panir,noun,c2
+1170,panna-cotta,panna cotta,noun,c2
+1171,pap_1,pap,noun,c2
+1172,papaya,papaya,noun,c2
+1173,paprika,paprika,noun,c2
+1174,paratha,paratha,noun,c2
+1175,parmesan,Parmesan,noun,c2
+1176,parsley,parsley,noun,c2
+1177,parsnip,parsnip,noun,c2
+1178,passion-fruit,passion fruit,noun,c2
+1179,pasta,pasta,noun,a2
+1180,paste_1,paste,noun,c2
+1181,pastille,pastille,noun,c2
+1182,pastry,pastry,noun,b2
+1183,pasty1,pasty,noun,c2
+1184,pavlova,pavlova,noun,c2
+1185,pawpaw,pawpaw,noun,c2
+1186,pea,pea,noun,a2
+1187,peach_1,peach,noun,a2
+1188,peach-melba,peach Melba,noun,c2
+1189,peanut,peanut,noun,b1
+1190,peanut-butter,peanut butter,noun,b1
+1191,pear,pear,noun,b1
+1192,pecan,pecan,noun,c2
+1193,pecorino,pecorino,noun,c2
+1194,pepper_1,pepper,noun,a1
+1195,peppermint,peppermint,noun,c2
+1196,persimmon,persimmon,noun,c2
+1197,pesto,pesto,noun,c2
+1198,petit-four,petit four,noun,c2
+1199,pheasant,pheasant,noun,c2
+1200,pho,pho,noun,c2
+1201,pickle_1,pickle,noun,c2
+1202,pie,pie,noun,a2
+1203,pigs-in-blankets,pigs in blankets,noun,c2
+1204,pineapple,pineapple,noun,b1
+1205,pip_1,pip,noun,c2
+1206,piri-piri,piri-piri,noun,c2
+1207,pistachio,pistachio,noun,c2
+1208,pita,pita,noun,c2
+1209,pitta,pitta,noun,c2
+1210,pizza,pizza,noun,a1
+1211,plain-flour,plain flour,noun,c1
+1212,plantain,plantain,noun,c2
+1213,plant-based,plant-based,adjective,b1
+1214,ploughman-s-lunch,ploughman’s lunch,noun,c2
+1215,plum_1,plum,noun,c1
+1216,polenta,polenta,noun,c2
+1217,pomegranate,pomegranate,noun,c2
+1218,pomelo,pomelo,noun,c2
+1219,pone,pone,noun,c2
+1220,popcorn,popcorn,noun,c1
+1221,poppadom,poppadom,noun,c2
+1222,pork,pork,noun,a2
+1223,porridge_1,porridge,noun,c1
+1224,potato,potato,noun,a1
+1225,pot-cheese,pot cheese,noun,c2
+1226,pot-pie,pot pie,noun,c2
+1227,poultry,poultry,noun,c1
+1228,poutine,poutine,noun,c2
+1229,praline,praline,noun,c2
+1230,preserve_2,preserve,noun,c2
+1231,pretzel,pretzel,noun,c2
+1232,prickly-pear,prickly pear,noun,c2
+1233,prosciutto,prosciutto,noun,c2
+1234,prune_1,prune,noun,c2
+1235,pud,pud,noun,c2
+1236,pudding,pudding,noun,b2
+1237,pulled-pork,pulled pork,noun,c2
+1238,pulse_1,pulse,noun,c2
+1239,pumpernickel,pumpernickel,noun,c2
+1240,pumpkin,pumpkin,noun,c1
+1241,puree_1,purée,noun,c2
+1242,pate_2,pâté,noun,c2
+1243,quark,quark,noun,c2
+1244,quesadilla,quesadilla,noun,c2
+1245,quiche,quiche,noun,c2
+1246,quince,quince,noun,c2
+1247,rabbit_1,rabbit,noun,a2
+1248,rack_1,rack,noun,c2
+1249,radicchio,radicchio,noun,c2
+1250,radish,radish,noun,c2
+1251,ragout,ragout,noun,c2
+1252,raisin,raisin,noun,c1
+1253,rambutan,rambutan,noun,c2
+1254,rarebit,rarebit,noun,c2
+1255,rasher,rasher,noun,c2
+1256,raspberry,raspberry,noun,b2
+1257,ratatouille,ratatouille,noun,c2
+1258,ravioli,ravioli,noun,c2
+1259,redcurrant,redcurrant,noun,c2
+1260,red-meat,red meat,noun,b1
+1261,red-pepper,red pepper,noun,b2
+1262,relish_2,relish,noun,c2
+1263,rendang,rendang,noun,c2
+1264,rhubarb,rhubarb,noun,c2
+1265,rib_1,rib,noun,c2
+1266,rice,rice,noun,a1
+1267,rice-pudding,rice pudding,noun,b2
+1268,ricotta,ricotta,noun,c2
+1269,rigatoni,rigatoni,noun,c2
+1270,risotto,risotto,noun,c2
+1271,rissole,rissole,noun,c2
+1272,roast_2,roast,noun,b2
+1273,rock_1,rock,noun,c2
+1274,rock-candy,rock candy,noun,c2
+1275,roe,roe,noun,c2
+1276,rogan-josh,rogan josh,noun,c2
+1277,roll_2,roll,noun,b1
+1278,root_1,root,noun,b2
+1279,roqueforttm,Roquefort™,noun,c2
+1280,rosemary_1,rosemary,noun,c2
+1281,roti,roti,noun,c2
+1282,rump,rump,noun,c2
+1283,runner-bean,runner bean,noun,c2
+1284,rusk,rusk,noun,c2
+1285,rutabaga,rutabaga,noun,c2
+1286,rye,rye,noun,c2
+1287,saccharin,saccharin,noun,c2
+1288,saffron_1,saffron,noun,c2
+1289,sage_1,sage,noun,c2
+1290,salad,salad,noun,a1
+1291,salad-cream,salad cream,noun,c2
+1292,salad-dressing,salad dressing,noun,c1
+1293,salami,salami,noun,c2
+1294,salmonberry,salmonberry,noun,c2
+1295,salsa,salsa,noun,c2
+1296,salt_1,salt,noun,a1
+1297,sambal,sambal,noun,c2
+1298,samphire,samphire,noun,c2
+1299,sandwich_1,sandwich,noun,a1
+1300,sarnie,sarnie,noun,c2
+1301,satay,satay,noun,c2
+1302,satsuma,satsuma,noun,c2
+1303,sauce,sauce,noun,a2
+1304,sauerkraut,sauerkraut,noun,c2
+1305,sausage,sausage,noun,a2
+1306,sausage-meat,sausage meat,noun,b1
+1307,savoury_2,savoury,noun,c1
+1308,scallion,scallion,noun,c2
+1309,scampi,scampi,noun,c2
+1310,schnitzel,schnitzel,noun,c2
+1311,scone,scone,noun,c2
+1312,scrod,scrod,noun,c2
+1313,seafood,seafood,noun,b1
+1314,seakale,seakale,noun,c2
+1315,segment_1,segment,noun,c2
+1316,self-raising-flour,self-raising flour,noun,c1
+1317,self-rising-flour,self-rising flour,noun,c1
+1318,semolina,semolina,noun,c2
+1319,shallot,shallot,noun,c2
+1320,shawarma,shawarma,noun,c2
+1321,shepherd-s-pie,shepherd’s pie,noun,c2
+1322,sherbet,sherbet,noun,c2
+1323,shish-kebab,shish kebab,noun,c2
+1324,shortbread,shortbread,noun,c2
+1325,short-ribs,short ribs,noun,c2
+1326,shoulder_1,shoulder,noun,b1
+1327,sirloin,sirloin,noun,c2
+1328,skin_1,skin,noun,a2
+1329,slider,slider,noun,c2
+1330,sloe,sloe,noun,c2
+1331,sloppy-joe,sloppy joe,noun,c2
+1332,soda-bread,soda bread,noun,c2
+1333,sorbet,sorbet,noun,c2
+1334,sorrel,sorrel,noun,c2
+1335,souffle,soufflé,noun,c2
+1336,soup_1,soup,noun,a1
+1337,sour-cream,sour cream,noun,b2
+1338,sourdough,sourdough,noun,c2
+1339,souvlaki,souvlaki,noun,c2
+1340,soya,soya,noun,c1
+1341,soya-bean,soya bean,noun,c1
+1342,soy-sauce,soy sauce,noun,c2
+1343,spaghetti,spaghetti,noun,b1
+1344,spaghetti-bolognese,spaghetti bolognese,noun,c2
+1345,spam_1,spam,noun,c2
+1346,spare-rib,spare rib,noun,c2
+1347,spearmint,spearmint,noun,c2
+1348,spice_1,spice,noun,b2
+1349,spinach,spinach,noun,c1
+1350,sponge_1,sponge,noun,c2
+1351,sponge-cake,sponge cake,noun,c2
+1352,sponge-pudding,sponge pudding,noun,c2
+1353,spotted-dick,spotted dick,noun,c2
+1354,spring-onion,spring onion,noun,c2
+1355,sprout_2,sprout,noun,c2
+1356,spud,spud,noun,c2
+1357,star-anise,star anise,noun,c2
+1358,star-fruit,star fruit,noun,c2
+1359,steak,steak,noun,b1
+1360,stem-ginger,stem ginger,noun,c2
+1361,stew_1,stew,noun,c1
+1362,sticky-rice,sticky rice,noun,c1
+1363,sticky-toffee-pudding,sticky toffee pudding,noun,c2
+1364,stiltontm,Stilton™,noun,c2
+1365,stir-fry_1,stir-fry,noun,c1
+1366,stock_1,stock,noun,c2
+1367,strawberry,strawberry,noun,a2
+1368,string-bean,string bean,noun,c2
+1369,string-cheese,string cheese,noun,c2
+1370,stroganoff,stroganoff,noun,c2
+1371,stuffing,stuffing,noun,c2
+1372,succotash,succotash,noun,c2
+1373,suet,suet,noun,c2
+1374,sugar_1,sugar,noun,a1
+1375,sugarplum,sugarplum,noun,c2
+1376,sultana,sultana,noun,c2
+1377,summer-pudding,summer pudding,noun,c2
+1378,sundae,sundae,noun,c2
+1379,sushi,sushi,noun,c2
+1380,swede_1,swede,noun,c2
+1381,sweet_2,sweet,noun,a2
+1382,sweet-and-sour,sweet-and-sour,adjective,c2
+1383,sweetcorn,sweetcorn,noun,b2
+1384,sweet-pepper,sweet pepper,noun,b2
+1385,sweet-potato,sweet potato,noun,b2
+1386,swiss-chard,Swiss chard,noun,c2
+1387,swiss-cheese,Swiss cheese,noun,c1
+1388,syllabub,syllabub,noun,c2
+1389,syrup,syrup,noun,c1
+1390,tabascotm,Tabasco™,noun,c2
+1391,tabbouleh,tabbouleh,noun,c2
+1392,tabouli,tabouli,noun,c2
+1393,taco,taco,noun,c2
+1394,taffy_1,taffy,noun,c2
+1395,tagliatelle,tagliatelle,noun,c2
+1396,tamarind,tamarind,noun,c2
+1397,tangelo,tangelo,noun,c2
+1398,tangerine_2,tangerine,noun,c2
+1399,taramasalata,taramasalata,noun,c2
+1400,tarragon,tarragon,noun,c2
+1401,tart_1,tart,noun,c1
+1402,tartare-sauce,tartare sauce,noun,c2
+1403,tayberry,tayberry,noun,c2
+1404,tempeh,tempeh,noun,c2
+1405,tenderloin,tenderloin,noun,c2
+1406,teriyaki,teriyaki,noun,c2
+1407,terrine,terrine,noun,c2
+1408,thousand-island-dressing,Thousand Island dressing,noun,c2
+1409,thyme,thyme,noun,c2
+1410,tian,tian,noun,c2
+1411,tikka,tikka,noun,c2
+1412,tikka-masala,tikka masala,noun,c2
+1413,tiramisu,tiramisu,noun,c2
+1414,toad-in-the-hole,toad-in-the-hole,noun,c2
+1415,toast_1,toast,noun,a2
+1416,toffee,toffee,noun,c1
+1417,tofu,tofu,noun,c1
+1418,tollhouse-cookie,tollhouse cookie,noun,c2
+1419,tomato,tomato,noun,a1
+1420,tomato-ketchup,tomato ketchup,noun,b2
+1421,tortellini,tortellini,noun,c2
+1422,tortilla,tortilla,noun,c2
+1423,trail-mix,trail mix,noun,c2
+1424,treacle,treacle,noun,c2
+1425,trifle_1,trifle,noun,c2
+1426,truffle,truffle,noun,c2
+1427,tunny,tunny,noun,c2
+1428,turkey_1,turkey,noun,b1
+1429,turkish-delight,Turkish delight,noun,c2
+1430,turmeric,turmeric,noun,c2
+1431,turnip,turnip,noun,c2
+1432,tzatziki,tzatziki,noun,c2
+1433,ugali,ugali,noun,c2
+1434,vanilla_1,vanilla,noun,c1
+1435,variety-meats,variety meats,noun,c2
+1436,veal,veal,noun,c1
+1437,veg_1,veg,noun,b2
+1438,vegetable,vegetable,noun,a1
+1439,venison,venison,noun,c2
+1440,vermicelli,vermicelli,noun,c2
+1441,vindaloo,vindaloo,noun,c2
+1442,vinegar,vinegar,noun,b2
+1443,wafer,wafer,noun,c2
+1444,waffle_1,waffle,noun,c2
+1445,wagyu,Wagyu,noun,c2
+1446,walnut,walnut,noun,c2
+1447,wasabi,wasabi,noun,c2
+1448,water-biscuit,water biscuit,noun,c2
+1449,watercress,watercress,noun,c2
+1450,water-ice,water ice,noun,c2
+1451,watermelon,watermelon,noun,b2
+1452,wax-bean,wax bean,noun,c2
+1453,welsh-rarebit,Welsh rarebit,noun,c2
+1454,wheat,wheat,noun,b2
+1455,wheatmeal,wheatmeal,noun,c2
+1456,white_2,white,noun,b1
+1457,white-bread_1,white bread,noun,a1
+1458,white-flour,white flour,noun,b1
+1459,white-meat,white meat,noun,b1
+1460,white-sauce,white sauce,noun,b2
+1461,wholemeal,wholemeal,adjective,c1
+1462,wiener,wiener,noun,c2
+1463,wine-gum,wine gum,noun,c2
+1464,wing_1,wing,noun,b1
+1465,worcestershire-sauce,Worcestershire sauce,noun,c2
+1466,yam,yam,noun,c2
+1467,yogurt,yogurt,noun,b1
+1468,yolk,yolk,noun,c1
+1469,yuzu,yuzu,noun,c2
+1470,zucchini,zucchini,noun,b2

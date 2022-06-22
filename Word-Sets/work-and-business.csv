@@ -1,0 +1,1738 @@
+subLink,word,type,level
+0,line_1,above the line,idiom,c2
+1,accept,accept,verb,a2
+2,access-provider,access provider,noun,c2
+3,accountant,accountant,noun,b2
+4,acquisition,acquisition,noun,c1
+5,ad_1,ad,noun,b1
+6,administration,administration,noun,b2
+7,administrative,administrative,adjective,c1
+8,administrator,administrator,noun,c1
+9,advert,advert,noun,a2
+10,advertise,advertise,verb,a2
+11,advertisement,advertisement,noun,a2
+12,advertorial,advertorial,noun,c2
+13,afloat,afloat,adjective,c2
+14,agency,agency,noun,b2
+15,agent,agent,noun,b1
+16,agile,agile,adjective,c2
+17,agreement,agreement,noun,b1
+18,analyst,analyst,noun,b2
+19,angel,angel,noun,c2
+20,business,any other business,idiom,c2
+21,approach_2,approach,verb,b2
+22,assemble,assemble,verb,c1
+23,assembly,assembly,noun,c1
+24,assembly-line,assembly line,noun,c1
+25,associate_3,associate,noun,c1
+26,attorney,attorney,noun,c1
+27,audit_1,audit,noun,c1
+28,audit_2,audit,verb,c1
+29,auditor,auditor,noun,c2
+30,audit-trail,audit trail,noun,c2
+31,back_4,back,verb,b2
+32,backer,backer,noun,c1
+33,backing,backing,noun,c1
+34,back-order_1,back order,noun,c2
+35,back-order_2,back-order,verb,c2
+36,balance-sheet,balance sheet,noun,c2
+37,bandwidth,bandwidth,noun,c2
+38,banker,banker,noun,b2
+39,banner-ad,banner ad,noun,c2
+40,bargaining-power,bargaining power,noun,c1
+41,even_2,be even,idiom,c2
+42,black_2,be in the black,idiom,c2
+43,red_2,be in the red,idiom,c2
+44,line_1,below the line,idiom,c2
+45,bid1_1,bid,noun,b2
+46,bid1_2,bid,verb,b2
+47,bill_1,bill,noun,c2
+48,billable,billable,adjective,c2
+49,billboard_1,billboard,noun,b2
+50,blitz_1,blitz,noun,c2
+51,blue-chip,blue-chip,adjective,c2
+52,blue-collar,blue-collar,adjective,c2
+53,board_1,board,noun,b2
+54,boardroom,boardroom,noun,c1
+55,book_1,book,noun,c1
+56,bookkeeper,bookkeeper,noun,c2
+57,bootstrap_1,bootstrap,noun,c2
+58,bootstrap_2,bootstrap,verb,c2
+59,boss_1,boss,noun,a2
+60,bottleneck,bottleneck,noun,c2
+61,bottom-line,bottom line,noun,c2
+62,brand_1,brand,noun,b1
+63,brand-ambassador,brand ambassador,noun,c2
+64,branding,branding,noun,b2
+65,brewery,brewery,noun,c1
+66,table_1,bring something to the party/table,idiom,c2
+67,broker_1,broker,noun,c2
+68,broker_2,broker,verb,c2
+69,buoyancy,buoyancy,noun,c2
+70,buoyant,buoyant,adjective,c2
+71,burn-rate,burn rate,noun,c2
+72,business,business,noun,a1
+73,businessman,businessman,noun,a2
+74,business-person,business person,noun,a2
+75,business-plan,business plan,noun,b1
+76,business-to-business,business-to-business,adjective,c2
+77,businesswoman,businesswoman,noun,a2
+78,bust_3,bust,adjective,c2
+79,buyout,buyout,noun,c2
+80,call-centre,call centre,noun,b2
+81,campaign_1,campaign,noun,b1
+82,capacity,capacity,noun,c1
+83,capital_1,capital,noun,b2
+84,capitalize,capitalize,verb,c2
+85,captain-of-industry,captain of industry,noun,c2
+86,cartel,cartel,noun,c2
+87,cash-cow,cash cow,noun,c2
+88,cash-flow,cash flow,noun,c2
+89,ceo,CEO,noun,b2
+90,cfo,CFO,noun,c1
+91,chairman,chairman,noun,b2
+92,chief-executive-officer,chief executive officer,noun,b2
+93,chieftain,chieftain,noun,c2
+94,classified,classified,noun,c2
+95,classified-advertisement,classified advertisement,noun,c2
+96,clerk_1,clerk,noun,b2
+97,client,client,noun,b1
+98,clientele,clientele,noun,c2
+99,close1_1,close,verb,c1
+100,close1_1,close its doors,idiom,c2
+101,co_2,Co.,abbreviation,c2
+102,co-branding,co-branding,noun,c2
+103,code-of-practice,code of practice,noun,c2
+104,cold-calling,cold-calling,noun,c2
+105,collective_2,collective,noun,c2
+106,commerce,commerce,noun,c1
+107,commercial_1,commercial,adjective,b1
+108,commoditization,commoditization,noun,c2
+109,commoditize,commoditize,verb,c2
+110,commodity,commodity,noun,c1
+111,compete,compete,verb,b1
+112,competing,competing,adjective,b2
+113,competition,competition,noun,b1
+114,competitive,competitive,adjective,b1
+115,competitor,competitor,noun,b1
+116,comptroller,comptroller,noun,c2
+117,concern_2,concern,noun,c2
+118,conglomerate,conglomerate,noun,c2
+119,consultant,consultant,noun,b2
+120,consumer,consumer,noun,b1
+121,consumerism,consumerism,noun,c1
+122,consumerist,consumerist,adjective,c1
+123,contract_1,contract,noun,b2
+124,controller,controller,noun,c2
+125,co-op,co-op,noun,c2
+126,cooperative_1,cooperative,adjective,c1
+127,cooperative_2,cooperative,noun,c1
+128,copy_1,copy,noun,c2
+129,corporate,corporate,adjective,b2
+130,corporate-responsibility,corporate responsibility,noun,c2
+131,corporation,corporation,noun,b2
+132,cost_2,cost,verb,a1
+133,cost-centre,cost centre,noun,c2
+134,craft-brewery,craft brewery,noun,c2
+135,credit-crunch,credit crunch,noun,c2
+136,cross-functional,cross-functional,adjective,c2
+137,customer,customer,noun,a1
+138,customer-engagement,customer engagement,noun,c1
+139,customer-service,customer service,noun,b1
+140,cut-throat,cut-throat,adjective,c2
+141,deal_2,deal,noun,b1
+142,dealer,dealer,noun,b2
+143,dealing,dealing,noun,c1
+144,dealmaker,dealmaker,noun,c1
+145,deficit,deficit,noun,c1
+146,department,department,noun,a2
+147,deputy,deputy,noun,c1
+148,digital-disruption,digital disruption,noun,c2
+149,direct-cost,direct cost,noun,c2
+150,direct-marketing,direct marketing,noun,c2
+151,director,director,noun,a2
+152,discount_1,discount,noun,b1
+153,disrupt,disrupt,verb,c2
+154,disruption,disruption,noun,c2
+155,disruptor,disruptor,noun,c2
+156,distribution,distribution,noun,b2
+157,dividend,dividend,noun,c2
+158,down-payment,down payment,noun,c2
+159,downsize,downsize,verb,c2
+160,downsizing,downsizing,noun,c2
+161,downtown_1,downtown,adverb,b2
+162,draft_1,draft,noun,b2
+163,draft_2,draft,verb,b2
+164,due-diligence,due diligence,noun,c2
+165,embargo_1,embargo,noun,c2
+166,empire,empire,noun,c1
+167,employ_1,employ,verb,a2
+168,employer,employer,noun,a2
+169,endorse,endorse,verb,c1
+170,endorsement,endorsement,noun,c1
+171,end-user,end user,noun,c2
+172,enterprise,enterprise,noun,c1
+173,entrant,entrant,noun,c2
+174,entrepreneur,entrepreneur,noun,b2
+175,exec,exec,noun,c2
+176,executive_1,executive,noun,b2
+177,executive_2,executive,adjective,b2
+178,expand,expand,verb,b1
+179,expenditure,expenditure,noun,c1
+180,factory,factory,noun,a2
+181,factory-floor,factory floor,noun,c2
+182,fail_1,fail,verb,b2
+183,failure,failure,noun,b2
+184,fall-through,fall through,phrasal verb,c2
+185,finance_1,finance,noun,b2
+186,finance_2,finance,verb,b2
+187,financial,financial,adjective,b1
+188,financier,financier,noun,c2
+189,financing,financing,noun,b2
+190,firm_1,firm,noun,b2
+191,fixed-costs,fixed costs,noun,c1
+192,flagship,flagship,noun,c2
+193,flash-sale,flash sale,noun,c2
+194,flat_2,flat,adjective,c2
+195,fold_1,fold,verb,c2
+196,food-grade,food-grade,adjective,c2
+197,foothold,foothold,noun,c2
+198,forecast_1,forecast,noun,b2
+199,forecast_2,forecast,verb,b2
+200,foreman,foreman,noun,c2
+201,forewoman,forewoman,noun,c2
+202,foundry,foundry,noun,c2
+203,franchise_1,franchise,noun,c1
+204,fulfil,fulfil,verb,c1
+205,fulfilment,fulfilment,noun,c1
+206,fulfilment-centre,fulfilment centre,noun,c2
+207,full-page,full-page,adjective,b2
+208,fund_1,fund,noun,b2
+209,fund_2,fund,verb,b2
+210,funding,funding,noun,b2
+211,gearing,gearing,noun,c2
+212,generator,generator,noun,c1
+213,gimmick,gimmick,noun,c2
+214,gimmicky,gimmicky,adjective,c2
+215,giveaway_1,giveaway,noun,c2
+216,globalization,globalization,noun,b2
+217,globalize,globalize,verb,c1
+218,go-getter,go-getter,noun,c2
+219,goods,goods,noun,b1
+220,wall_1,go to the wall,idiom,c2
+221,go-under,go under,phrasal verb,c2
+222,group_1,group,noun,b1
+223,hardball,hardball,noun,c2
+224,headquarters,headquarters,noun,b2
+225,heavy-industry,heavy industry,noun,c1
+226,hoarding,hoarding,noun,c2
+227,horse-trading,horse-trading,noun,c2
+228,hostile,hostile,adjective,c2
+229,human-capital,human capital,noun,c1
+230,human-resources,human resources,noun,b2
+231,income,income,noun,b2
+232,incorporated,incorporated,adjective,c1
+233,index-linked,index-linked,adjective,c2
+234,index-linking,index-linking,noun,c2
+235,indirect-cost,indirect cost,noun,c2
+236,industrial,industrial,adjective,b2
+237,industry,industry,noun,a2
+238,infomercial,infomercial,noun,c2
+239,ink_2,ink,verb,c2
+240,insurance,insurance,noun,b2
+241,inventory_1,inventory,noun,c2
+242,invest,invest,verb,b1
+243,invoice_1,invoice,noun,c1
+244,ironworks,ironworks,noun,c2
+245,junk-mail,junk mail,noun,c1
+246,just-in-time,just-in-time,adjective,c2
+247,labor_1,labor,noun,b2
+248,labor-union,labor union,noun,b1
+249,labour_1,labour,noun,b2
+250,launch_1,launch,verb,b2
+251,launch_2,launch,noun,b2
+252,lay-off_2,lay-off,noun,c2
+253,lay-off_1,lay off,phrasal verb,c2
+254,lead1_2,lead,noun,c2
+255,leader,leader,noun,a2
+256,lead-time,lead time,noun,c2
+257,leverage_1,leverage,noun,c2
+258,light-industry,light industry,noun,c1
+259,line-management,line management,noun,c2
+260,liquidate,liquidate,verb,c2
+261,logistics,logistics,noun,c2
+262,loss,loss,noun,b2
+263,ltd,Ltd,abbreviation,c1
+264,machinery,machinery,noun,c1
+265,madison-avenue,Madison Avenue,noun,c2
+266,magnate,magnate,noun,c2
+267,mailshot,mailshot,noun,c2
+268,maladministration,maladministration,noun,c2
+269,manage,manage,verb,a2
+270,management,management,noun,b1
+271,manager,manager,noun,a2
+272,manageress,manageress,noun,c1
+273,managerial,managerial,adjective,c1
+274,managing-director,managing director,noun,b2
+275,manufacture_1,manufacture,verb,b2
+276,manufacture_2,manufacture,noun,b2
+277,manufacturer,manufacturer,noun,b2
+278,manufacturing,manufacturing,noun,b2
+279,margin,margin,noun,c1
+280,market_2,market,verb,b1
+281,marketable,marketable,adjective,c1
+282,marketer,marketer,noun,b2
+283,marketing,marketing,noun,b1
+284,marketplace,marketplace,noun,c1
+285,market-research,market research,noun,b2
+286,markup,markup,noun,c2
+287,mass-market,mass-market,adjective,c2
+288,mba,MBA,noun,c1
+289,meeting,meeting,noun,a1
+290,merch,merch,noun,c2
+291,merchandise_1,merchandise,noun,c1
+292,merge,merge,verb,c1
+293,merger,merger,noun,c1
+294,microbrewery,microbrewery,noun,c2
+295,middle-management,middle management,noun,c2
+296,mill_1,mill,noun,c1
+297,mnc,MNC,noun,c2
+298,moneylender,moneylender,noun,c1
+299,multinational_1,multinational,adjective,b2
+300,multinational_2,multinational,noun,b2
+301,negotiate,negotiate,verb,b2
+302,negotiation,negotiation,noun,b2
+303,network_1,network,noun,a2
+304,network_2,network,verb,c1
+305,networking,networking,noun,c1
+306,niche_1,niche,noun,c1
+307,niche_2,niche,adjective,c1
+308,nominee,nominee,noun,c1
+309,non-core,non-core,adjective,c1
+310,offer_1,offer,verb,a2
+311,offer_2,offer,noun,a2
+312,office-worker,office worker,noun,a2
+313,oligarch,oligarch,noun,c2
+314,onboard,onboard,verb,c2
+315,onboarding,onboarding,noun,c2
+316,market_1,on the market,idiom,c1
+317,op_1,op,noun,c2
+318,operation,operation,noun,b2
+319,operational,operational,adjective,c1
+320,operator,operator,noun,b2
+321,opportunity-cost,opportunity cost,noun,c2
+322,order_1,order,noun,b1
+323,order-book,order book,noun,c2
+324,outlay,outlay,noun,c2
+325,outlet,outlet,noun,c1
+326,output_1,output,noun,b2
+327,outsourcing,outsourcing,noun,c2
+328,overhead_2,overhead,adjective,c2
+329,overheads,overheads,noun,c2
+330,own_2,own,verb,c2
+331,paperwork,paperwork,noun,b2
+332,partner_1,partner,noun,b1
+333,partnership,partnership,noun,b2
+334,patent_1,patent,noun,c1
+335,personnel,personnel,noun,c1
+336,plan_1,plan,noun,a1
+337,plant_1,plant,noun,b1
+338,poster,poster,noun,a2
+339,pr,PR,noun,c1
+340,premises,premises,noun,c1
+341,pre-order_1,pre-order,noun,c1
+342,pre-order_2,pre-order,verb,c1
+343,pressure_1,pressure,noun,b1
+344,price_1,price,noun,a1
+345,price_2,price,verb,b2
+346,price-point,price point,noun,c1
+347,product,product,noun,a1
+348,production,production,noun,b1
+349,production-line,production line,noun,c1
+350,product-placement,product placement,noun,c2
+351,profit_1,profit,noun,b1
+352,profit_2,profit,verb,b1
+353,profitable,profitable,adjective,c1
+354,profit-margin,profit margin,noun,b2
+355,profit-sharing,profit-sharing,noun,c1
+356,profit-warning,profit warning,noun,c2
+357,project_2,project,verb,b2
+358,projection,projection,noun,c1
+359,promote,promote,verb,b1
+360,promotion,promotion,noun,c1
+361,proposal,proposal,noun,b2
+362,proprietor,proprietor,noun,c2
+363,publicize,publicize,verb,c1
+364,public-relations,public relations,noun,c1
+365,pull-out_2,pull out,phrasal verb,c2
+366,pull_1,pull the plug on somebody/something,idiom,c2
+367,pyramid-selling,pyramid selling,noun,c2
+368,quality-control,quality control,noun,c1
+369,receipt,receipt,noun,b1
+370,receivables,receivables,noun,c2
+371,receivership,receivership,noun,c2
+372,reference_1,reference,noun,b2
+373,refinery,refinery,noun,c2
+374,reject_1,reject,verb,b1
+375,representative_1,representative,noun,b2
+376,research-and-development,research and development,noun,c1
+377,restructure,restructure,verb,c2
+378,restructuring,restructuring,noun,c2
+379,result_1,result,noun,b1
+380,retail1_1,retail,noun,b2
+381,retailer,retailer,noun,c1
+382,revenue,revenue,noun,b2
+383,revenue-stream,revenue stream,noun,c2
+384,roaster,roaster,noun,c2
+385,robot,robot,noun,b1
+386,run_1,run,verb,b1
+387,sale,sale,noun,a2
+388,sales-slip,sales slip,noun,b1
+389,sawmill,sawmill,noun,c2
+390,schedule_2,schedule,verb,b2
+391,scheme_1,scheme,noun,b2
+392,secretary,secretary,noun,a2
+393,seed-money,seed money,noun,c2
+394,sell_1,sell,verb,a1
+395,service_1,service,noun,a2
+396,service-provider,service provider,noun,b2
+397,shake-out_2,shake-out,noun,c2
+398,shareholder,shareholder,noun,c1
+399,shark,shark,noun,c2
+400,shift_1,shift,noun,b1
+401,ship_3,ship,verb,b2
+402,shipping,shipping,noun,c1
+403,shop-floor,shop floor,noun,c2
+404,silent-partner,silent partner,noun,c2
+405,slack_1,slack,adjective,c2
+406,slack_2,slack,noun,c2
+407,sleeping-partner,sleeping partner,noun,c2
+408,slogan,slogan,noun,b2
+409,small-ad,small ad,noun,c2
+410,social-enterprise,social enterprise,noun,c2
+411,soft-launch_1,soft launch,noun,c2
+412,solicitor,solicitor,noun,c1
+413,spam_1,spam,noun,c1
+414,spamming,spamming,noun,c2
+415,spiv,spiv,noun,c2
+416,sponsor_1,sponsor,verb,b2
+417,sponsor_2,sponsor,noun,b2
+418,sponsorship,sponsorship,noun,b2
+419,staff_1,staff,noun,b1
+420,stake_1,stake,noun,c1
+421,start-up_1,start-up,noun,c1
+422,start-up_3,start-up,adjective,c1
+423,stocktaking,stocktaking,noun,c2
+424,strategy,strategy,noun,b2
+425,subliminal,subliminal,adjective,c2
+426,subsidiary_1,subsidiary,adjective,c2
+427,subsidiary_2,subsidiary,noun,c2
+428,sunrise-industry,sunrise industry,noun,c2
+429,sunset-industry,sunset industry,noun,c2
+430,supply-chain,supply chain,noun,c1
+431,supremo,supremo,noun,c2
+432,sweatshop,sweatshop,noun,c2
+433,syndicate_1,syndicate,noun,c2
+434,systems-analyst,systems analyst,noun,c2
+435,take-over,take over,phrasal verb,c1
+436,takeover,takeover,noun,c2
+437,tco,TCO,abbreviation,c2
+438,teaser,teaser,noun,c2
+439,telemarketing,telemarketing,noun,c2
+440,telesales,telesales,noun,c2
+441,teleshopping,teleshopping,noun,c2
+442,thought-leader,thought leader,noun,c2
+443,thought-leadership,thought leadership,noun,c2
+444,top-line_2,top-line,adjective,c2
+445,top-line_1,top line,noun,c2
+446,touch-point,touch point,noun,c2
+447,tourism,tourism,noun,a2
+448,trade-fair,trade fair,noun,c1
+449,trade-in_1,trade in,phrasal verb,c2
+450,trader,trader,noun,b1
+451,trade-show,trade show,noun,c1
+452,trade-union,trade union,noun,b1
+453,trade-unionism,trade unionism,noun,c2
+454,transact,transact,verb,c2
+455,transaction,transaction,noun,c1
+456,troubleshoot,troubleshoot,verb,c2
+457,trustee,trustee,noun,c1
+458,turnover,turnover,noun,c1
+459,tycoon,tycoon,noun,c2
+460,union,union,noun,b1
+461,venture_1,venture,noun,c1
+462,venture-capital,venture capital,noun,c2
+463,vice-president,vice-president,noun,c2
+464,viral-marketing,viral marketing,noun,c2
+465,want-ad,want ad,noun,c2
+466,warehouse,warehouse,noun,c1
+467,wheeler-dealer,wheeler-dealer,noun,c2
+468,wholesale_1,wholesale,adverb,c2
+469,winemaking,winemaking,noun,c1
+470,workforce,workforce,noun,b2
+471,working-capital,working capital,noun,c2
+472,workshop,workshop,noun,b2
+473,yield_1,yield,noun,c1
+474,yield_2,yield,verb,c1
+475,academic_1,academic,adjective,b1
+476,accountant,accountant,noun,b2
+477,acting_2,acting,adjective,b2
+478,actor,actor,noun,a1
+479,actress,actress,noun,a1
+480,actuary,actuary,noun,c2
+481,administrative,administrative,adjective,c1
+482,administrator,administrator,noun,c1
+483,adviser,adviser,noun,b1
+484,agent,agent,noun,b1
+485,aide,aide,noun,c1
+486,air-hostess,air hostess,noun,c1
+487,air-traffic-controller,air traffic controller,noun,c1
+488,ambassador,ambassador,noun,c1
+489,analyst,analyst,noun,b2
+490,ancillary,ancillary,adjective,c2
+491,apprentice_1,apprentice,noun,b2
+492,apprenticeship,apprenticeship,noun,c1
+493,archaeologist,archaeologist,noun,b2
+494,archeologist,archeologist,noun,b2
+495,architect_1,architect,noun,a2
+496,archivist,archivist,noun,c2
+497,artisan_1,artisan,noun,c2
+498,artisan_2,artisan,adjective,c2
+499,artist,artist,noun,a1
+500,assistant_1,assistant,noun,a2
+501,assistant_2,assistant,adjective,a2
+502,astronaut,astronaut,noun,b1
+503,attendant_1,attendant,noun,b1
+504,attorney,attorney,noun,c1
+505,auctioneer,auctioneer,noun,c2
+506,auditor,auditor,noun,c2
+507,au-pair,au pair,noun,c1
+508,babysit,babysit,verb,b2
+509,bailiff,bailiff,noun,c2
+510,baker,baker,noun,b1
+511,ballerina,ballerina,noun,c2
+512,banker,banker,noun,b2
+513,barber,barber,noun,c1
+514,barmaid,barmaid,noun,c2
+515,barman,barman,noun,b2
+516,barrister,barrister,noun,c2
+517,bartender,bartender,noun,c2
+518,beautician,beautician,noun,c1
+519,bishop,bishop,noun,c1
+520,blacksmith,blacksmith,noun,c2
+521,bodyguard,bodyguard,noun,c1
+522,bookie,bookie,noun,c2
+523,bookkeeper,bookkeeper,noun,c2
+524,bookkeeping,bookkeeping,noun,c2
+525,bookmaker,bookmaker,noun,c2
+526,bookseller,bookseller,noun,b2
+527,boss_1,boss,noun,a2
+528,bouncer,bouncer,noun,c2
+529,bricklayer,bricklayer,noun,c2
+530,bricklaying,bricklaying,noun,c2
+531,broadcaster,broadcaster,noun,b2
+532,broker_1,broker,noun,c2
+533,builder,builder,noun,a2
+534,bursar,bursar,noun,c2
+535,businessman,businessman,noun,a2
+536,business-person,business person,noun,a2
+537,businesswoman,businesswoman,noun,a2
+538,butcher_1,butcher,noun,b2
+539,butler,butler,noun,c1
+540,buyer,buyer,noun,b2
+541,cab-driver,cab driver,noun,b2
+542,cabin-crew,cabin crew,noun,b2
+543,care-assistant,care assistant,noun,c1
+544,carer,carer,noun,b2
+545,care-worker,care worker,noun,c1
+546,carpenter,carpenter,noun,b2
+547,cashier_1,cashier,noun,b2
+548,cash_1,cash in hand,idiom,c2
+549,casual_1,casual,adjective,c1
+550,caterer,caterer,noun,c1
+551,ceo,CEO,noun,b2
+552,certified-financial-planner,certified financial planner,noun,c2
+553,cfo,CFO,noun,c1
+554,chambermaid,chambermaid,noun,c2
+555,chartered,chartered,adjective,c2
+556,chauffeur_1,chauffeur,noun,c1
+557,chef,chef,noun,a2
+558,chemist,chemist,noun,a2
+559,chief_2,chief,noun,b2
+560,chief-executive,chief executive,noun,b2
+561,chief-financial-officer,chief financial officer,noun,c1
+562,chief-technology-officer,chief technology officer,noun,c1
+563,childminder,childminder,noun,c1
+564,chimney-sweep,chimney sweep,noun,c2
+565,chiropodist,chiropodist,noun,c2
+566,civil-servant,civil servant,noun,c1
+567,cleaner,cleaner,noun,a2
+568,clerical,clerical,adjective,c2
+569,clerk_1,clerk,noun,b2
+570,clown_1,clown,noun,b2
+571,coal-miner,coal miner,noun,b2
+572,coastguard,coastguard,noun,c2
+573,cobbler,cobbler,noun,c2
+574,cocktail-waiter,cocktail waiter,noun,c1
+575,cocktail-waitress,cocktail waitress,noun,c1
+576,comedian,comedian,noun,b2
+577,community-organizer,community organizer,noun,c1
+578,composer,composer,noun,b2
+579,conductor,conductor,noun,c2
+580,constable,constable,noun,c2
+581,consul,consul,noun,c2
+582,consultant,consultant,noun,b2
+583,contact-tracer,contact tracer,noun,c2
+584,cook_2,cook,noun,a2
+585,coroner,coroner,noun,c2
+586,counsellor,counsellor,noun,c1
+587,courier_1,courier,noun,c1
+588,court-reporter,court reporter,noun,c2
+589,cowboy,cowboy,noun,b2
+590,cowpoke,cowpoke,noun,c2
+591,cpa,CPA,abbreviation,c2
+592,craftsman,craftsman,noun,c1
+593,creative_1,creative,adjective,a2
+594,critic,critic,noun,b2
+595,cto,CTO,noun,c1
+596,curate1,curate,noun,c2
+597,curator,curator,noun,c1
+598,custodian,custodian,noun,c2
+599,dancer,dancer,noun,a1
+600,day-labor,day labor,noun,c1
+601,day-labourer,day labourer,noun,c1
+602,dealer,dealer,noun,b2
+603,debt-collector,debt collector,noun,c1
+604,decorator,decorator,noun,c1
+605,demote,demote,verb,c2
+606,dental-surgeon,dental surgeon,noun,c1
+607,dentist,dentist,noun,a2
+608,designer_1,designer,noun,a2
+609,detective,detective,noun,a2
+610,developer,developer,noun,b2
+611,dietician,dietician,noun,c2
+612,diplomat,diplomat,noun,c1
+613,diplomatist,diplomatist,noun,c2
+614,director,director,noun,a2
+615,disc-jockey,disc jockey,noun,b2
+616,disk-jockey,disk jockey,noun,b2
+617,dispensing-chemist,dispensing chemist,noun,c2
+618,dispensing-optician,dispensing optician,noun,c2
+619,diver,diver,noun,b1
+620,dj_1,DJ,noun,b2
+621,doctor_1,doctor,noun,a1
+622,doorman,doorman,noun,c1
+623,doorwoman,doorwoman,noun,c1
+624,draftsman,draftsman,noun,c2
+625,driver,driver,noun,a1
+626,dustman,dustman,noun,c1
+627,duty,duty,noun,b2
+628,economist,economist,noun,b2
+629,editor,editor,noun,b1
+630,editor-in-chief,editor-in-chief,noun,c2
+631,electrician,electrician,noun,b2
+632,employ_1,employ,verb,a2
+633,employment,employment,noun,b1
+634,engine-driver,engine driver,noun,b2
+635,engineer_1,engineer,noun,a2
+636,engineering,engineering,noun,b1
+637,entrepreneur,entrepreneur,noun,b2
+638,entrepreneurial,entrepreneurial,adjective,c2
+639,entrepreneurship,entrepreneurship,noun,c2
+640,estate-agent,estate agent,noun,b2
+641,event-manager,event manager,noun,c1
+642,executioner,executioner,noun,c2
+643,executive_1,executive,noun,b2
+644,executive_2,executive,adjective,b2
+645,executive-director,executive director,noun,c1
+646,exterminator,exterminator,noun,c2
+647,farmer,farmer,noun,a1
+648,fashion-designer,fashion designer,noun,a2
+649,fire-chief,fire chief,noun,c1
+650,firefighter,firefighter,noun,b2
+651,fireman,fireman,noun,b2
+652,fisherman,fisherman,noun,b2
+653,fishmonger,fishmonger,noun,c2
+654,flexitime,flexitime,noun,c2
+655,flight-attendant,flight attendant,noun,b1
+656,florist,florist,noun,c1
+657,flying-doctor,flying doctor,noun,b2
+658,food-technologist,food technologist,noun,c1
+659,foreman,foreman,noun,c2
+660,forewoman,forewoman,noun,c2
+661,freelance_1,freelance,adjective,b2
+662,frogman,frogman,noun,c2
+663,frontline,frontline,adjective,c1
+664,full-professor,full professor,noun,c1
+665,full-time_2,full-time,adjective,b2
+666,fund-manager,fund manager,noun,c2
+667,fundraiser,fundraiser,noun,c2
+668,funeral-director,funeral director,noun,c2
+669,gamekeeper,gamekeeper,noun,c2
+670,garbage-man,garbage man,noun,b1
+671,gardener,gardener,noun,b1
+672,general-secretary,general secretary,noun,b2
+673,gig-economy,gig economy,noun,c2
+674,glazier,glazier,noun,c2
+675,governor,governor,noun,c1
+676,gp,GP,noun,c2
+677,graduate-assistant,graduate assistant,noun,c1
+678,greengrocer,greengrocer,noun,b2
+679,grocer,grocer,noun,b2
+680,groom_2,groom,noun,c2
+681,ground-crew,ground crew,noun,c2
+682,guard_1,guard,noun,b1
+683,guild,guild,noun,c2
+684,hairdresser,hairdresser,noun,a2
+685,hairstylist,hairstylist,noun,c2
+686,handler,handler,noun,c2
+687,handyman,handyman,noun,c1
+688,handywoman,handywoman,noun,c1
+689,hangman,hangman,noun,c1
+690,head_1,head,noun,a2
+691,health-professional,health professional,noun,b2
+692,homeopath,homeopath,noun,c2
+693,hotelier,hotelier,noun,c2
+694,house-husband,house husband,noun,b2
+695,housekeeper,housekeeper,noun,c1
+696,housewife,housewife,noun,b1
+697,illustrator,illustrator,noun,b2
+698,imam,imam,noun,c2
+699,industrial,industrial,adjective,b2
+700,influencer,influencer,noun,c1
+701,inspector,inspector,noun,c1
+702,instructor,instructor,noun,a2
+703,interior-design,interior design,noun,c1
+704,internship,internship,noun,c1
+705,interpreter,interpreter,noun,b2
+706,janitor,janitor,noun,c2
+707,jeweller,jeweller,noun,c1
+708,job_1,job,noun,a1
+709,jobber,jobber,noun,c2
+710,job-share_2,job-share,verb,c1
+711,job-sharing,job-sharing,noun,c1
+712,joiner,joiner,noun,c2
+713,joinery,joinery,noun,c2
+714,journalist,journalist,noun,a2
+715,judge_1,judge,noun,b1
+716,junior_1,junior,adjective,b2
+717,key-worker,key worker,noun,c2
+718,laborer,laborer,noun,c1
+719,laboring,laboring,noun,c2
+720,labourer,labourer,noun,c1
+721,labouring,labouring,noun,c2
+722,landlady,landlady,noun,c1
+723,landlord,landlord,noun,c1
+724,landscape-architect,landscape architect,noun,c2
+725,landscape-architecture,landscape architecture,noun,c2
+726,landscape-gardener,landscape gardener,noun,c2
+727,landscape-gardening,landscape gardening,noun,c2
+728,launderer,launderer,noun,c2
+729,lawyer,lawyer,noun,a2
+730,lecturer,lecturer,noun,b1
+731,librarian,librarian,noun,b2
+732,librarianship,librarianship,noun,c2
+733,life-coach,life coach,noun,c2
+734,life-coaching,life coaching,noun,c2
+735,lifeguard,lifeguard,noun,c1
+736,live-in_2,live-in,adjective,c1
+737,lock-keeper,lock-keeper,noun,c2
+738,locksmith,locksmith,noun,c2
+739,logger,logger,noun,c2
+740,lucrative,lucrative,adjective,c1
+741,machinist,machinist,noun,c2
+742,magistrate,magistrate,noun,c1
+743,maid,maid,noun,c1
+744,mail-carrier,mail carrier,noun,b2
+745,mailman,mailman,noun,b1
+746,mailwoman,mailwoman,noun,b1
+747,management-consultant,management consultant,noun,c1
+748,manager,manager,noun,a2
+749,manageress,manageress,noun,c1
+750,managerial,managerial,adjective,c1
+751,managing-director,managing director,noun,b2
+752,managing-editor,managing editor,noun,c2
+753,manual_1,manual,adjective,c1
+754,marketing,marketing,noun,b1
+755,mason_1,mason,noun,c2
+756,masseur,masseur,noun,c2
+757,matron,matron,noun,c2
+758,mechanic,mechanic,noun,b2
+759,medical_1,medical,adjective,a2
+760,member-of-parliament,Member of Parliament,noun,b1
+761,merchant_1,merchant,noun,c1
+762,meteorologist,meteorologist,noun,c2
+763,midwife,midwife,noun,c2
+764,midwifery,midwifery,noun,c2
+765,milkman,milkman,noun,c2
+766,milkwoman,milkwoman,noun,c2
+767,minder,minder,noun,c2
+768,miner,miner,noun,b2
+769,minister_1,minister,noun,b2
+770,missionary,missionary,noun,c1
+771,model_1,model,noun,a2
+772,monitor_1,monitor,noun,c2
+773,mortician,mortician,noun,c2
+774,mp,MP,noun,b1
+775,musician,musician,noun,a2
+776,nanny,nanny,noun,c1
+777,newsagent,newsagent,noun,b2
+778,newsreader,newsreader,noun,b1
+779,nightwatchman,nightwatchman,noun,c2
+780,nurse_1,nurse,noun,a1
+781,occupation,occupation,noun,b2
+782,occupational,occupational,adjective,c1
+783,occupationally,occupationally,adverb,c2
+784,officer,officer,noun,a2
+785,ombudsman,ombudsman,noun,c2
+786,ombudswoman,ombudswoman,noun,c2
+787,operator,operator,noun,b2
+788,ophthalmic-optician,ophthalmic optician,noun,c2
+789,optician,optician,noun,c1
+790,orderly_2,orderly,noun,c2
+791,organization-chart,organization chart,noun,c1
+792,osteopath,osteopath,noun,c2
+793,pa_2,PA,noun,c1
+794,painter,painter,noun,a2
+795,paramedic,paramedic,noun,c1
+796,paramedical,paramedical,adjective,c2
+797,partner_1,partner,noun,b1
+798,part-time,part-time,adjective,b2
+799,pawnbroker,pawnbroker,noun,c2
+800,pc_2,PC,abbreviation,c2
+801,permanent_1,permanent,adjective,b2
+802,personnel,personnel,noun,c1
+803,pharmacist,pharmacist,noun,b2
+804,photographer,photographer,noun,b1
+805,photojournalist,photojournalist,noun,b2
+806,physiotherapist,physiotherapist,noun,c1
+807,pilot_1,pilot,noun,a2
+808,placement,placement,noun,b2
+809,plasterer,plasterer,noun,c2
+810,plumber,plumber,noun,b2
+811,podiatrist,podiatrist,noun,c2
+812,police-constable,police constable,noun,c2
+813,policeman,policeman,noun,a1
+814,police-officer,police officer,noun,a2
+815,policewoman,policewoman,noun,a1
+816,politician,politician,noun,b1
+817,porter,porter,noun,c1
+818,postie,postie,noun,c2
+819,postman,postman,noun,b1
+820,practice_1,practice,noun,b2
+821,practise,practise,verb,b2
+822,practitioner,practitioner,noun,c1
+823,presenter,presenter,noun,b1
+824,president,president,noun,b1
+825,principal_2,principal,noun,c1
+826,producer,producer,noun,b1
+827,profession,profession,noun,b1
+828,professional_1,professional,adjective,b1
+829,professor,professor,noun,a2
+830,programmer,programmer,noun,b1
+831,promote,promote,verb,b1
+832,promoter,promoter,noun,c1
+833,promotion,promotion,noun,b2
+834,prostitute_1,prostitute,noun,c2
+835,psychiatrist,psychiatrist,noun,c1
+836,psychoanalyst,psychoanalyst,noun,c2
+837,psychologist,psychologist,noun,b2
+838,publican,publican,noun,c2
+839,publicist,publicist,noun,c2
+840,public-relations,public relations,noun,c1
+841,qualified,qualified,adjective,b1
+842,quant,quant,noun,c2
+843,quantitative-analyst,quantitative analyst,noun,c2
+844,rabbi,rabbi,noun,c2
+845,radiographer,radiographer,noun,c2
+846,real-estate-agent,real estate agent,noun,c1
+847,receptionist,receptionist,noun,a2
+848,registrar,registrar,noun,c2
+849,report-to,report to,phrasal verb,c1
+850,representative_1,representative,noun,b2
+851,researcher,researcher,noun,a2
+852,retire,retire,verb,b1
+853,retired,retired,adjective,b1
+854,retirement,retirement,noun,b2
+855,runner,runner,noun,c2
+856,sailor,sailor,noun,b1
+857,sales-clerk,sales clerk,noun,c1
+858,salesman,salesman,noun,b2
+859,salesperson,salesperson,noun,b2
+860,saleswoman,saleswoman,noun,b2
+861,scientific,scientific,adjective,b1
+862,scientist,scientist,noun,a1
+863,sculptor,sculptor,noun,c1
+864,seasonal,seasonal,adjective,c1
+865,secret-agent,secret agent,noun,b1
+866,secretarial,secretarial,adjective,c2
+867,secretary,secretary,noun,a2
+868,security-guard,security guard,noun,b2
+869,self-employed,self-employed,adjective,b2
+870,self-employment,self-employment,noun,c1
+871,senior_1,senior,adjective,b2
+872,sergeant,sergeant,noun,c2
+873,servant,servant,noun,b1
+874,sheepherder,sheepherder,noun,c2
+875,shepherd_1,shepherd,noun,c1
+876,sheriff,sheriff,noun,c1
+877,shipbuilder,shipbuilder,noun,b2
+878,shop-assistant,shop assistant,noun,a2
+879,shopkeeper,shopkeeper,noun,b2
+880,side-hustle,side hustle,noun,c2
+881,singer,singer,noun,a1
+882,skilled,skilled,adjective,b2
+883,smith_1,smith,noun,c2
+884,social-worker,social worker,noun,c1
+885,soldier_1,soldier,noun,a2
+886,solicitor,solicitor,noun,c1
+887,songwriter,songwriter,noun,b1
+888,specialist_1,specialist,noun,b2
+889,spokesman,spokesman,noun,b2
+890,sportsman,sportsman,noun,b1
+891,sportswoman,sportswoman,noun,b1
+892,spy_1,spy,noun,c1
+893,staff-writer,staff writer,noun,c2
+894,steady_1,steady,adjective,b2
+895,steeplejack,steeplejack,noun,c2
+896,steward,steward,noun,c1
+897,stewardess,stewardess,noun,c1
+898,stockbroker,stockbroker,noun,c2
+899,stockjobber,stockjobber,noun,c2
+900,stonemason,stonemason,noun,c2
+901,storekeeper,storekeeper,noun,c2
+902,striker,striker,noun,c2
+903,structural-engineer,structural engineer,noun,c1
+904,stylist,stylist,noun,c1
+905,superintendent,superintendent,noun,c2
+906,supermodel,supermodel,noun,b1
+907,supervise,supervise,verb,c1
+908,supervision,supervision,noun,c1
+909,supervisor,supervisor,noun,c1
+910,supervisory,supervisory,adjective,c2
+911,surf-lifesaver,surf lifesaver,noun,c2
+912,surgeon,surgeon,noun,b2
+913,surveyor,surveyor,noun,c2
+914,sweep_2,sweep,noun,c2
+915,tailor_1,tailor,noun,b2
+916,teacher,teacher,noun,a1
+917,technician,technician,noun,b2
+918,temp_1,temp,noun,c2
+919,temporary,temporary,adjective,b2
+920,therapy,therapy,noun,b2
+921,title_1,title,noun,b1
+922,trader,trader,noun,b1
+923,tradesman,tradesman,noun,c1
+924,tradeswoman,tradeswoman,noun,c1
+925,traffic-warden,traffic warden,noun,c2
+926,train_2,train,verb,a2
+927,trainee,trainee,noun,b2
+928,training,training,noun,a2
+929,translator,translator,noun,b1
+930,travel-agent,travel agent,noun,b2
+931,treasurer,treasurer,noun,c2
+932,trustee,trustee,noun,c1
+933,turf-accountant,turf accountant,noun,c2
+934,tutor_1,tutor,noun,b1
+935,typist,typist,noun,c2
+936,undertaker,undertaker,noun,c2
+937,unpaid,unpaid,adjective,b2
+938,unqualified,unqualified,adjective,b1
+939,unskilled,unskilled,adjective,b1
+940,vet_1,vet,noun,b2
+941,veterinarian,veterinarian,noun,c2
+942,veterinary-surgeon,veterinary surgeon,noun,c2
+943,vicar,vicar,noun,c1
+944,vice_2,vice-,combining form,c2
+945,vice-president,vice-president,noun,c2
+946,vocational,vocational,adjective,c1
+947,voluntary_1,voluntary,adjective,b2
+948,wage_1,wage,noun,b2
+949,waiter,waiter,noun,a1
+950,waitress,waitress,noun,b1
+951,warden,warden,noun,c2
+952,warder,warder,noun,c2
+953,well-paid,well paid,adjective,b2
+954,window-cleaner,window cleaner,noun,b1
+955,window-washer,window washer,noun,b2
+956,work_1,work,verb,a1
+957,work_2,work,noun,a1
+958,workaholic,workaholic,noun,c2
+959,working_1,working,adjective,a2
+960,workman,workman,noun,b1
+961,workmate,workmate,noun,c1
+962,work-placement,work placement,noun,b2
+963,writer,writer,noun,a1
+964,line_1,above the line,idiom,c2
+965,account_1,account,noun,b1
+966,accountancy,accountancy,noun,c1
+967,accountant,accountant,noun,b2
+968,accounting,accounting,noun,b2
+969,admission,admission,noun,c1
+970,adviser,adviser,noun,b1
+971,aggregate_1,aggregate,noun,c2
+972,aid_1,aid,noun,b2
+973,alimony,alimony,noun,c2
+974,amount_1,amount,noun,a2
+975,annual_1,annual,adjective,b2
+976,head_1,a/per head,idiom,c1
+977,appeal_1,appeal,noun,b2
+978,appreciate,appreciate,verb,c1
+979,arrears,arrears,noun,c2
+980,asset,asset,noun,b2
+981,asset-stripping,asset-stripping,noun,c2
+982,atm,ATM,noun,b2
+983,auction_1,auction,noun,b2
+984,auction_2,auction,verb,b2
+985,audit_1,audit,noun,c1
+986,audit_2,audit,verb,c1
+987,award_1,award,noun,c1
+988,back_4,back,verb,b2
+989,backing,backing,noun,c1
+990,bail_1,bail,noun,c1
+991,bailout,bailout,noun,c2
+992,balance_1,balance,noun,b1
+993,bank_1,bank,noun,a1
+994,bank_2,bank,verb,b2
+995,bank-account,bank account,noun,b1
+996,banker,banker,noun,b2
+997,banking,banking,noun,b1
+998,bank-machine,bank machine,noun,c2
+999,banknote,banknote,noun,a1
+1000,bankroll_1,bankroll,verb,c2
+1001,bankrupt_1,bankrupt,adjective,c1
+1002,bankruptcy,bankruptcy,noun,c1
+1003,bank-statement,bank statement,noun,b2
+1004,bargain_1,bargain,noun,b2
+1005,base-rate,base rate,noun,c2
+1006,beg,beg,verb,b2
+1007,beggar_1,beggar,noun,b2
+1008,arrears,be in arrears,idiom,c2
+1009,line_1,below the line,idiom,c2
+1010,belt-tightening,belt-tightening,noun,c2
+1011,benefit_1,benefit,noun,b2
+1012,bet_1,bet,verb,b2
+1013,bet_2,bet,noun,b2
+1014,betting,betting,noun,b2
+1015,billfold,billfold,noun,c2
+1016,billion,billion,number,a2
+1017,black-market,black market,noun,c2
+1018,blank-cheque,blank cheque,noun,c2
+1019,blow_1,blow,verb,c2
+1020,bomb_1,bomb,noun,c2
+1021,bond_1,bond,noun,c2
+1022,bonus,bonus,noun,c1
+1023,boom_1,boom,noun,c1
+1024,boom_2,boom,verb,c1
+1025,boom_1,boom and bust,idiom,c2
+1026,borrow,borrow,verb,a2
+1027,borrower,borrower,noun,b1
+1028,borrowing,borrowing,noun,b2
+1029,bottom-line,bottom line,noun,c2
+1030,bottom-out,bottom out,phrasal verb,c2
+1031,bounce-back,bounce back,phrasal verb,c2
+1032,bribe_1,bribe,noun,c1
+1033,bribe_2,bribe,verb,c1
+1034,broke_1,broke,adjective,c1
+1035,broker_1,broker,noun,c2
+1036,bubble_1,bubble,noun,c2
+1037,buck_1,buck,noun,c1
+1038,budget_1,budget,noun,b2
+1039,budget_2,budget,verb,b2
+1040,building-society,building society,noun,c2
+1041,bureau-de-change,bureau de change,noun,c2
+1042,bust_2,bust,noun,c2
+1043,buy_1,buy,verb,a1
+1044,buyout,buyout,noun,c2
+1045,capital_1,capital,noun,b2
+1046,capitalism,capitalism,noun,c1
+1047,capital-loss,capital loss,noun,c2
+1048,capital-market,capital market,noun,c2
+1049,cash_1,cash,noun,a2
+1050,cash_2,cash,verb,c1
+1051,cashback,cashback,noun,c1
+1052,cash-card,cash card,noun,b2
+1053,cash-dispenser,cash dispenser,noun,c2
+1054,cash_1,cash in hand,idiom,c2
+1055,cash-machine,cash machine,noun,b1
+1056,cash-starved,cash-starved,adjective,c2
+1057,cash-transfer,cash transfer,noun,c1
+1058,casino,casino,noun,c1
+1059,cent_1,cent,noun,a1
+1060,central-bank,central bank,noun,b2
+1061,change_1,change,verb,a1
+1062,change_2,change,noun,b1
+1063,charge_1,charge,noun,b1
+1064,charge_2,charge,verb,b1
+1065,cheap_1,cheap,adjective,a1
+1066,check_2,check,noun,b1
+1067,checkbook,checkbook,noun,c2
+1068,check-card,check card,noun,c2
+1069,checkout,checkout,noun,b2
+1070,cheque,cheque,noun,b1
+1071,chequebook,chequebook,noun,c2
+1072,chequing-account,chequing account,noun,c2
+1073,child-maintenance,child maintenance,noun,c2
+1074,child-support,child support,noun,b2
+1075,chip_1,chip,noun,c2
+1076,city,city,noun,c2
+1077,clearing-house,clearing house,noun,c2
+1078,climb_1,climb,verb,b2
+1079,climb_2,climb,noun,c1
+1080,coin_1,coin,noun,b1
+1081,collapse_1,collapse,verb,b2
+1082,collapse_2,collapse,noun,b2
+1083,collateral_1,collateral,noun,c2
+1084,commercial-bank,commercial bank,noun,c1
+1085,commodity,commodity,noun,c1
+1086,common-market,common market,noun,c1
+1087,concession,concession,noun,c2
+1088,consolidate,consolidate,verb,c1
+1089,consumer-economy,consumer economy,noun,b2
+1090,consumer-spending,consumer spending,noun,c1
+1091,contactless,contactless,adjective,c1
+1092,contingency,contingency,noun,c2
+1093,convertible_1,convertible,adjective,c2
+1094,cool-down,cool down,phrasal verb,c2
+1095,cooling-off-period,cooling-off period,noun,c2
+1096,cool-off,cool off,phrasal verb,c2
+1097,corporate-welfare,corporate welfare,noun,c2
+1098,cost_1,cost,noun,a1
+1099,cost-cutting,cost-cutting,noun,c1
+1100,costly,costly,adjective,c1
+1101,coupon,coupon,noun,b2
+1102,crash_1,crash,noun,b2
+1103,crash_2,crash,verb,b2
+1104,credit_1,credit,noun,a2
+1105,credit_2,credit,verb,b2
+1106,credit-agency,credit agency,noun,c2
+1107,credit-bureau,credit bureau,noun,c2
+1108,credit-card,credit card,noun,a2
+1109,credit-score,credit score,noun,c2
+1110,crown_1,crown,noun,c2
+1111,crunch_1,crunch,noun,c2
+1112,cryptocurrency,cryptocurrency,noun,c2
+1113,currency,currency,noun,b1
+1114,current-account,current account,noun,c1
+1115,cut_1,cut,verb,b1
+1116,cut_2,cut,noun,b1
+1117,cycle_1,cycle,noun,b1
+1118,dealing,dealing,noun,c2
+1119,dear_1,dear,adjective,c2
+1120,debit_1,debit,noun,c1
+1121,debit-card,debit card,noun,c1
+1122,debt,debt,noun,b2
+1123,debt-ceiling,debt ceiling,noun,c2
+1124,debt-relief,debt relief,noun,c1
+1125,declare,declare,verb,c1
+1126,decline_2,decline,noun,b2
+1127,decrease_1,decrease,verb,b2
+1128,decrease_2,decrease,noun,b2
+1129,deficit-spending,deficit spending,noun,c2
+1130,deflation,deflation,noun,c2
+1131,defund,defund,verb,c2
+1132,deposit_1,deposit,noun,c1
+1133,deposit_2,deposit,verb,c1
+1134,deposit-account,deposit account,noun,c2
+1135,depositor,depositor,noun,c2
+1136,depreciate,depreciate,verb,c2
+1137,depressed,depressed,adjective,c1
+1138,depression,depression,noun,c1
+1139,deregulate,deregulate,verb,c2
+1140,deregulation,deregulation,noun,c2
+1141,deregulatory,deregulatory,adjective,c2
+1142,devalue,devalue,verb,c2
+1143,developing,developing,adjective,b1
+1144,development,development,noun,b1
+1145,dime,dime,noun,c1
+1146,dip_1,dip,verb,c1
+1147,dip_2,dip,noun,c2
+1148,direct-debit,direct debit,noun,c1
+1149,discount_1,discount,noun,b1
+1150,discount_2,discount,verb,b2
+1151,dive_1,dive,verb,c1
+1152,dividend,dividend,noun,c2
+1153,dollar,dollar,noun,a1
+1154,donate,donate,verb,b1
+1155,donation,donation,noun,b2
+1156,donor,donor,noun,c1
+1157,double-dip_1,double-dip,noun,c2
+1158,double-dip-recession,double-dip recession,noun,c2
+1159,double-entry-bookkeeping,double-entry bookkeeping,noun,c2
+1160,down-payment,down payment,noun,c2
+1161,downtrend,downtrend,noun,c2
+1162,downturn,downturn,noun,c1
+1163,draw_1,draw,verb,c1
+1164,drop_2,drop,noun,b2
+1165,due_1,due,adjective,b2
+1166,duopoly,duopoly,noun,c2
+1167,duty,duty,noun,c1
+1168,duty-free_1,duty-free,adjective,c1
+1169,duty-free_3,duty-free,adverb,c1
+1170,earn,earn,verb,a2
+1171,earnings,earnings,noun,c1
+1172,economic,economic,adjective,b1
+1173,economical,economical,adjective,b2
+1174,economics,economics,noun,b2
+1175,economist,economist,noun,b2
+1176,economy,economy,noun,b1
+1177,employment,employment,noun,b1
+1178,emu_2,EMU,abbreviation,c2
+1179,entrepreneurial,entrepreneurial,adjective,c2
+1180,entrepreneurship,entrepreneurship,noun,c2
+1181,equilibrium,equilibrium,noun,c1
+1182,equity_1,equity,noun,c2
+1183,euro_1,euro,noun,a1
+1184,exchange_1,exchange,noun,b1
+1185,exchange_2,exchange,verb,b1
+1186,expand,expand,verb,b1
+1187,expansionary,expansionary,adjective,c2
+1188,expense,expense,noun,b2
+1189,expensive,expensive,adjective,a1
+1190,export_1,export,noun,b1
+1191,export_2,export,verb,b1
+1192,extravagant,extravagant,adjective,c1
+1193,face-value,face value,noun,c2
+1194,fair-trade_1,fair trade,noun,b2
+1195,fair-trade_2,fair-trade,adjective,b2
+1196,fall_1,fall,verb,a2
+1197,fare_1,fare,noun,b2
+1198,fee,fee,noun,b2
+1199,fiddle_1,fiddle,verb,c2
+1200,finance_1,finance,noun,b2
+1201,finance_2,finance,verb,b2
+1202,financial,financial,adjective,b1
+1203,financials,financials,noun,c1
+1204,financing,financing,noun,b2
+1205,fine_3,fine,noun,c1
+1206,fintech,fintech,noun,c2
+1207,fiscal,fiscal,adjective,c2
+1208,fiscal-cliff,fiscal cliff,noun,c2
+1209,fiver,fiver,noun,c2
+1210,fixed,fixed,adjective,b1
+1211,float_1,float,verb,c2
+1212,fluctuate,fluctuate,verb,c1
+1213,fluctuation,fluctuation,noun,c1
+1214,folding-money,folding money,noun,c2
+1215,foreign-direct-investment,foreign direct investment,noun,c2
+1216,fortune,fortune,noun,b2
+1217,franc,franc,noun,c1
+1218,free_1,free,adjective,a2
+1219,free-enterprise,free enterprise,noun,c2
+1220,free-market,free market,noun,c1
+1221,free-trade,free trade,noun,c1
+1222,freeze_1,freeze,verb,c1
+1223,freeze_2,freeze,noun,c1
+1224,fund_1,fund,noun,b2
+1225,fund_2,fund,verb,b2
+1226,fundraising,fundraising,noun,c1
+1227,future_1,future,noun,c2
+1228,gamble_1,gamble,verb,c1
+1229,gamble_2,gamble,noun,c1
+1230,gambling,gambling,noun,c1
+1231,game-theory,game theory,noun,c2
+1232,gearing,gearing,noun,c2
+1233,generous,generous,adjective,b1
+1234,gig-economy,gig economy,noun,c2
+1235,gilt,gilt,noun,c2
+1236,giro,giro,noun,c2
+1237,give_1,give,verb,a1
+1238,global,global,adjective,b1
+1239,globalization,globalization,noun,b2
+1240,go-down,go down,phrasal verb,a2
+1241,go-up,go up,phrasal verb,a2
+1242,grant_2,grant,noun,b2
+1243,greed,greed,noun,c1
+1244,greedy,greedy,adjective,b2
+1245,grow,grow,verb,a1
+1246,growth,growth,noun,b1
+1247,haggle,haggle,verb,c2
+1248,hard-currency,hard currency,noun,c2
+1249,hedge-against,hedge against,phrasal verb,c2
+1250,heir,heir,noun,c1
+1251,heiress,heiress,noun,c1
+1252,hoard_1,hoard,noun,c1
+1253,hoard_2,hoard,verb,c1
+1254,hole-in-the-wall_1,hole in the wall,noun,c2
+1255,home-loan,home loan,noun,b2
+1256,hyperinflation,hyperinflation,noun,c2
+1257,imf,IMF,abbreviation,c2
+1258,import_1,import,noun,b1
+1259,import_2,import,verb,b1
+1260,arrears,in arrears,idiom,c2
+1261,incentive,incentive,noun,c1
+1262,income,income,noun,b2
+1263,income-tax,income tax,noun,c1
+1264,increase_1,increase,verb,a2
+1265,increase_2,increase,noun,a2
+1266,index_1,index,noun,c1
+1267,industrialism,industrialism,noun,c2
+1268,inflation,inflation,noun,b2
+1269,inherit,inherit,verb,b2
+1270,initial-public-offering,initial public offering,noun,c2
+1271,insider-trading,insider trading,noun,c2
+1272,instability,instability,noun,c1
+1273,instalment,instalment,noun,c2
+1274,insure,insure,verb,c2
+1275,interest_1,interest,noun,b1
+1276,interventionism,interventionism,noun,c2
+1277,interventionist_2,interventionist,adjective,c2
+1278,invest,invest,verb,b1
+1279,investment,investment,noun,b2
+1280,investment-bank,investment bank,noun,c1
+1281,invoice_1,invoice,noun,c1
+1282,iou,IOU,noun,c2
+1283,ipo,IPO,abbreviation,c2
+1284,isa1,ISA,noun,c2
+1285,laissez-faire_1,laissez-faire,noun,c2
+1286,laissez-faire_2,laissez-faire,adjective,c2
+1287,launder,launder,verb,c2
+1288,lend,lend,verb,a2
+1289,lender,lender,noun,b1
+1290,lending,lending,noun,b2
+1291,level-off,level off,phrasal verb,c1
+1292,level-out,level out,phrasal verb,c1
+1293,leverage_1,leverage,noun,c2
+1294,leveraged-buyout,leveraged buyout,noun,c2
+1295,line-item,line item,noun,c2
+1296,line-of-credit,line of credit,noun,c2
+1297,liquid_2,liquid,adjective,c2
+1298,liquidity,liquidity,noun,c2
+1299,live-on,live on,phrasal verb,c1
+1300,loan_1,loan,noun,b2
+1301,lose,lose,verb,a1
+1302,loss,loss,noun,b2
+1303,lottery,lottery,noun,b2
+1304,lump-sum,lump sum,noun,c2
+1305,macroeconomic,macroeconomic,adjective,c2
+1306,macroeconomics,macroeconomics,noun,c2
+1307,maintenance,maintenance,noun,c2
+1308,make_1,make,verb,a2
+1309,mark_2,mark,noun,c2
+1310,market_1,market,noun,b1
+1311,market-capitalization,market capitalization,noun,c2
+1312,market-economy,market economy,noun,c1
+1313,market-forces,market forces,noun,c2
+1314,market-segmentation,market segmentation,noun,c2
+1315,mean_2,mean,adjective,c2
+1316,means,means,noun,c2
+1317,mercantilism,mercantilism,noun,c2
+1318,merger,merger,noun,c1
+1319,micropayment,micropayment,noun,c2
+1320,millionaire,millionaire,noun,b1
+1321,monetarism,monetarism,noun,c2
+1322,money,money,noun,a1
+1323,money-transfer,money transfer,noun,c1
+1324,monopoly,monopoly,noun,c1
+1325,mortgage_1,mortgage,noun,b2
+1326,mortgage_2,mortgage,verb,b2
+1327,mortgage-bond,mortgage bond,noun,c2
+1328,mutual-fund,mutual fund,noun,c2
+1329,national-debt,national debt,noun,b2
+1330,negative-equity,negative equity,noun,c2
+1331,nickel,nickel,noun,c1
+1332,note_1,note,noun,b1
+1333,nyse,NYSE,abbreviation,c2
+1334,oecd,OECD,abbreviation,c2
+1335,offshore_1,offshore,adjective,c2
+1336,old-age-pension,old-age pension,noun,b2
+1337,oligopoly,oligopoly,noun,c2
+1338,option_1,option,noun,c2
+1339,outspend,outspend,verb,c2
+1340,overdraft,overdraft,noun,c1
+1341,overdrawn,overdrawn,adjective,c1
+1342,overdue,overdue,adjective,c2
+1343,overheads,overheads,noun,c2
+1344,overheat,overheat,verb,c2
+1345,overheated,overheated,adjective,c2
+1346,owe,owe,verb,b2
+1347,p_1,p,abbreviation,b2
+1348,pay_1,pay,verb,a1
+1349,pay_2,pay,noun,a2
+1350,payable,payable,adjective,c2
+1351,pay-as-you-go,pay-as-you-go,adjective,c2
+1352,pay-back,pay back,phrasal verb,b2
+1353,payday-loan,payday loan,noun,c2
+1354,payer,payer,noun,b2
+1355,payment,payment,noun,b1
+1356,pay-off_1,pay off,phrasal verb,c1
+1357,payor,payor,noun,c2
+1358,pay-up,pay up,phrasal verb,c2
+1359,peak_1,peak,noun,c1
+1360,peak_2,peak,verb,c1
+1361,peak_3,peak,adjective,c1
+1362,penalty,penalty,noun,b2
+1363,penny_1,penny,noun,a2
+1364,pension1_1,pension,noun,b2
+1365,pension-pot,pension pot,noun,c2
+1366,per-cent_2,per cent,noun,a2
+1367,per-cent_1,per cent,adjective,a2
+1368,pin_3,PIN,noun,c2
+1369,plateau_1,plateau,noun,c2
+1370,plateau_2,plateau,verb,c2
+1371,plummet,plummet,verb,c2
+1372,pocket-money,pocket money,noun,b1
+1373,poor,poor,adjective,a1
+1374,portfolio,portfolio,noun,c1
+1375,pound_1,pound,noun,a1
+1376,poverty,poverty,noun,b1
+1377,predatory-pricing,predatory pricing,noun,c2
+1378,prepaid,prepaid,adjective,c1
+1379,price_1,price,noun,a1
+1380,price_2,price,verb,b2
+1381,price-fixing,price-fixing,noun,c1
+1382,private-enterprise,private enterprise,noun,c2
+1383,privatization,privatization,noun,c1
+1384,privatize,privatize,verb,c1
+1385,progressive_1,progressive,adjective,c2
+1386,public-spending,public spending,noun,b1
+1387,purse_1,purse,noun,a2
+1388,quarter_1,quarter,noun,c1
+1389,quotation,quotation,noun,c1
+1390,quote_1,quote,verb,c1
+1391,raffle_1,raffle,noun,c2
+1392,raise_1,raise,verb,b1
+1393,raise_2,raise,noun,b1
+1394,ransom_1,ransom,noun,c1
+1395,rate_1,rate,noun,b1
+1396,receipt,receipt,noun,b1
+1397,recession,recession,noun,b2
+1398,recovery,recovery,noun,c1
+1399,reduce,reduce,verb,a2
+1400,reduction,reduction,noun,b2
+1401,reflate,reflate,verb,c2
+1402,reflation,reflation,noun,c2
+1403,reflationary,reflationary,adjective,c2
+1404,refund_1,refund,noun,b2
+1405,refund_2,refund,verb,b2
+1406,regulation_1,regulation,noun,c1
+1407,regulator,regulator,noun,c1
+1408,relief,relief,noun,b2
+1409,rent_1,rent,noun,b1
+1410,rent_2,rent,verb,b1
+1411,repay,repay,verb,c1
+1412,repayment,repayment,noun,c1
+1413,reserve_1,reserve,noun,b2
+1414,revenue,revenue,noun,b2
+1415,revenue-stream,revenue stream,noun,c2
+1416,rich,rich,adjective,a1
+1417,rise_1,rise,verb,a2
+1418,rise_2,rise,noun,b1
+1419,risk_1,risk,noun,c2
+1420,safe_2,safe,noun,c1
+1421,salary,salary,noun,a2
+1422,sales-slip,sales slip,noun,b1
+1423,save_1,save,verb,a2
+1424,saver,saver,noun,b1
+1425,saving,saving,noun,b2
+1426,savings-account,savings account,noun,c1
+1427,savings-bank,savings bank,noun,c1
+1428,savings-rate,savings rate,noun,c1
+1429,scholarship,scholarship,noun,b2
+1430,security,security,noun,c2
+1431,sell_1,sell,verb,a1
+1432,settle_1,settle,verb,c1
+1433,share_3,share,noun,b2
+1434,sharing-economy,sharing economy,noun,c1
+1435,shilling,shilling,noun,c2
+1436,short_1,short,adjective,b2
+1437,silent-auction,silent auction,noun,c2
+1438,slump_1,slump,verb,c2
+1439,slump_2,slump,noun,c2
+1440,soar,soar,verb,c1
+1441,social-security,social security,noun,c2
+1442,sovereign-debt,sovereign debt,noun,c2
+1443,spend_1,spend,verb,a1
+1444,spending,spending,noun,b1
+1445,spiral_3,spiral,verb,c1
+1446,spread-betting,spread betting,noun,c2
+1447,stable_1,stable,adjective,b2
+1448,stagflation,stagflation,noun,c2
+1449,stake_1,stake,noun,c2
+1450,stake_2,stake,verb,c1
+1451,standard-of-living,standard of living,noun,b2
+1452,statement_1,statement,noun,b2
+1453,the-dow-jones-index,the Dow Jones Index,noun,c2
+1454,the-federal-reserve-system,the Federal Reserve System,noun,c2
+1455,the-ftse-indextm,the FTSE index™,noun,c2
+1456,the-nasdaq,the NASDAQ,noun,c2
+1457,the-public-sector,the public sector,noun,c1
+1458,the-private-sector,the private sector,noun,c1
+1459,the-world-bank,the World Bank,noun,c1
+1460,the-financial-times-index,the Financial Times index,noun,c2
+1461,steady_1,steady,adjective,b2
+1462,steady_3,steady,adverb,b2
+1463,sterling_1,sterling,noun,c2
+1464,stock_1,stock,noun,c2
+1465,stock-exchange,stock exchange,noun,c1
+1466,stock-market,stock market,noun,b2
+1467,sub-prime,sub-prime,adjective,c2
+1468,subsidy,subsidy,noun,c1
+1469,sum_1,sum,noun,b2
+1470,supply-and-demand,supply and demand,noun,c1
+1471,supply-side,supply-side,adjective,c2
+1472,support_1,support,verb,b1
+1473,sweepstake,sweepstake,noun,c2
+1474,dive_2,take a dive,idiom,c2
+1475,take-out,take out,phrasal verb,b1
+1476,takeover,takeover,noun,c2
+1477,takings,takings,noun,c2
+1478,tariff,tariff,noun,c1
+1479,tax_1,tax,noun,b1
+1480,tax_2,tax,verb,b1
+1481,taxable,taxable,adjective,c2
+1482,taxation,taxation,noun,c1
+1483,tax-avoidance,tax avoidance,noun,c2
+1484,tax-evasion,tax evasion,noun,c2
+1485,tax-free_2,tax-free,adjective,c1
+1486,tax-haven,tax haven,noun,c2
+1487,tco,TCO,abbreviation,c2
+1488,teller,teller,noun,c2
+1489,tenner,tenner,noun,c2
+1490,bank_1,the Bank of Mum and Dad,idiom,c2
+1491,bottom_1,the bottom drops/falls out (of something),idiom,c2
+1492,till_2,till,noun,c1
+1493,tip_1,tip,noun,b1
+1494,tip_2,tip,verb,b1
+1495,top-up_2,top-up,noun,c2
+1496,trade_1,trade,noun,b1
+1497,trade_2,trade,verb,b1
+1498,trade-deficit,trade deficit,noun,c2
+1499,trading,trading,noun,b2
+1500,transfer_1,transfer,verb,b2
+1501,traveller-s-cheque,traveller’s cheque,noun,c1
+1502,treasurer,treasurer,noun,c2
+1503,treasury,treasury,noun,c2
+1504,trend_1,trend,noun,b1
+1505,trough,trough,noun,c2
+1506,uncosted,uncosted,adjective,c1
+1507,undercut_1,undercut,verb,c2
+1508,underwrite,underwrite,verb,c2
+1509,unit-trust,unit trust,noun,c2
+1510,unstable,unstable,adjective,b2
+1511,upsell_1,upsell,noun,c2
+1512,upsell_2,upsell,verb,c2
+1513,upselling,upselling,noun,c2
+1514,utility_1,utility,noun,c1
+1515,valuable,valuable,adjective,b1
+1516,valuation,valuation,noun,c2
+1517,value_1,value,noun,b1
+1518,value_2,value,verb,b2
+1519,valueless,valueless,adjective,c2
+1520,voucher,voucher,noun,c1
+1521,wage_1,wage,noun,b2
+1522,wallet,wallet,noun,a2
+1523,wall-street,Wall Street,noun,c2
+1524,weak,weak,adjective,b1
+1525,wealth,wealth,noun,b2
+1526,wealthy,wealthy,adjective,b2
+1527,welfare,welfare,noun,b2
+1528,will_4,will,noun,b2
+1529,win_1,win,verb,b1
+1530,withdraw,withdraw,verb,b2
+1531,withdrawal,withdrawal,noun,c1
+1532,worth_1,worth,adjective,b1
+1533,worth_2,worth,noun,b1
+1534,worthless,worthless,adjective,c1
+1535,wto,WTO,abbreviation,c2
+1536,yield_1,yield,noun,c1
+1537,yield_2,yield,verb,c1
+1538,absentee,absentee,noun,c2
+1539,achieve,achieve,verb,a2
+1540,adjourn,adjourn,verb,c2
+1541,adjournment,adjournment,noun,c2
+1542,adjourn-to,adjourn to,phrasal verb,c2
+1543,agenda,agenda,noun,b2
+1544,agm,AGM,noun,c2
+1545,aob,AOB,abbreviation,c2
+1546,apology,apology,noun,c2
+1547,application,application,noun,b1
+1548,apply,apply,verb,a2
+1549,appoint,appoint,verb,c1
+1550,appointment,appointment,noun,b1
+1551,arduous,arduous,adjective,c2
+1552,attend,attend,verb,a2
+1553,attendance,attendance,noun,c1
+1554,back-breaking,back-breaking,adjective,c2
+1555,job_1,between jobs,idiom,c1
+1556,blue-monday,blue Monday,noun,c2
+1557,boardroom,boardroom,noun,c1
+1558,bonus,bonus,noun,c1
+1559,boring,boring,adjective,a1
+1560,boss_1,boss,noun,a2
+1561,brainstorm_1,brainstorm,verb,b2
+1562,brainstorming,brainstorming,noun,b2
+1563,break_2,break,noun,a1
+1564,breakout_2,breakout,adjective,c2
+1565,business,business,noun,a1
+1566,call_1,call,verb,b1
+1567,candidate,candidate,noun,b1
+1568,career_1,career,noun,a1
+1569,chair_1,chair,noun,b2
+1570,chair_2,chair,verb,b2
+1571,challenging,challenging,adjective,b2
+1572,clock-in,clock in,phrasal verb,c2
+1573,clock-off,clock off,phrasal verb,c2
+1574,clock-on,clock on,phrasal verb,c2
+1575,clock-out,clock out,phrasal verb,c2
+1576,collaborative,collaborative,adjective,c1
+1577,colleague,colleague,noun,a2
+1578,commence,commence,verb,c1
+1579,commission_1,commission,noun,b2
+1580,committee,committee,noun,b2
+1581,competitive,competitive,adjective,b1
+1582,condition_1,condition,noun,b1
+1583,contract_1,contract,noun,b2
+1584,convene,convene,verb,c2
+1585,copier,copier,noun,b2
+1586,covering-letter,covering letter,noun,b2
+1587,co-worker,co-worker,noun,b2
+1588,creative_1,creative,adjective,a2
+1589,cv,CV,noun,b1
+1590,danger-money,danger money,noun,c2
+1591,dangerous,dangerous,adjective,a1
+1592,demanding,demanding,adjective,b2
+1593,department,department,noun,a2
+1594,desk,desk,noun,a1
+1595,diary,diary,noun,a2
+1596,discipline_1,discipline,noun,b2
+1597,discrimination,discrimination,noun,c1
+1598,easy_1,easy,adjective,a1
+1599,employee,employee,noun,a2
+1600,employer,employer,noun,a2
+1601,exciting,exciting,adjective,a1
+1602,exhausting,exhausting,adjective,b2
+1603,exit-interview,exit interview,noun,c2
+1604,experience_1,experience,noun,a2
+1605,exploit_1,exploit,verb,b2
+1606,file_1,file,noun,b1
+1607,filing-cabinet,filing cabinet,noun,c1
+1608,follow-up_1,follow up,phrasal verb,c1
+1609,grill_2,grill,verb,c2
+1610,gruelling,gruelling,adjective,c2
+1611,hard_1,hard,adjective,a1
+1612,hazard-pay,hazard pay,noun,c2
+1613,hectic,hectic,adjective,c1
+1614,hire_1,hire,verb,b1
+1615,hold_1,hold,verb,b1
+1616,hot-desk_1,hot desk,noun,c2
+1617,industry,industry,noun,a2
+1618,innovative,innovative,adjective,b2
+1619,intellectual_1,intellectual,adjective,b2
+1620,intensive,intensive,adjective,c1
+1621,intermittent,intermittent,adjective,c2
+1622,intern_2,intern,noun,c1
+1623,internship,internship,noun,c1
+1624,interview_1,interview,noun,a1
+1625,interview_2,interview,verb,a1
+1626,interviewee,interviewee,noun,c1
+1627,interviewer,interviewer,noun,a2
+1628,in-tray,in tray,noun,c2
+1629,job_1,job,noun,a1
+1630,job-description,job description,noun,b2
+1631,job-hunt,job-hunt,verb,c1
+1632,job-security,job security,noun,b1
+1633,labor_1,labor,noun,b2
+1634,labor-union,labor union,noun,b1
+1635,labour_1,labour,noun,b2
+1636,labour-intensive,labour-intensive,adjective,c2
+1637,leave_2,leave,noun,b2
+1638,light_2,light,adjective,b1
+1639,living-wage,living wage,noun,c1
+1640,lock-out,lock out,phrasal verb,c2
+1641,lockout,lockout,noun,c2
+1642,low-paid,low-paid,adjective,b2
+1643,lunch-hour,lunch hour,noun,b1
+1644,manage,manage,verb,a2
+1645,meet_1,meet,verb,a1
+1646,meeting,meeting,noun,a1
+1647,menial_1,menial,adjective,c2
+1648,minimum-wage,minimum wage,noun,c1
+1649,minute1_1,minute,noun,c2
+1650,monotonous,monotonous,adjective,c1
+1651,multi-skilling,multi-skilling,noun,c1
+1652,multitask,multitask,verb,c1
+1653,off_1,off,adverb,a2
+1654,off-duty,off-duty,adjective,b2
+1655,office,office,noun,a1
+1656,one-on-one,one-on-one,adjective,c1
+1657,one-to-one_1,one-to-one,adjective,c1
+1658,duty,on/off duty,idiom,b2
+1659,out-tray,out tray,noun,c2
+1660,overtime,overtime,noun,c1
+1661,painstaking,painstaking,adjective,c2
+1662,pay_2,pay,noun,a2
+1663,pay-as-you-earn,pay as you earn,noun,c2
+1664,paye,PAYE,abbreviation,c2
+1665,pay-gap,pay gap,noun,c1
+1666,pencil-in,pencil in,phrasal verb,c2
+1667,pension1_1,pension,noun,b2
+1668,pension-off,pension off,phrasal verb,c2
+1669,photocopier,photocopier,noun,b2
+1670,physical_1,physical,adjective,a2
+1671,picket_1,picket,noun,c2
+1672,picket_2,picket,verb,c2
+1673,placement,placement,noun,b2
+1674,position_1,position,noun,b2
+1675,post_2,post,noun,b2
+1676,postpone,postpone,verb,c1
+1677,postponement,postponement,noun,c1
+1678,professional_1,professional,adjective,b1
+1679,qualification,qualification,noun,b1
+1680,qualified,qualified,adjective,b1
+1681,question_2,question,verb,a2
+1682,quorum,quorum,noun,c2
+1683,reception,reception,noun,a2
+1684,recruit_1,recruit,verb,b2
+1685,redundancy,redundancy,noun,c1
+1686,redundant,redundant,adjective,c1
+1687,referee_1,referee,noun,c1
+1688,reference_1,reference,noun,b2
+1689,resign,resign,verb,b2
+1690,resignation,resignation,noun,c1
+1691,rewarding,rewarding,adjective,b2
+1692,resume_2,résumé,noun,c1
+1693,sabbatical,sabbatical,noun,c2
+1694,sack_1,sack,verb,c1
+1695,sacking,sacking,noun,c1
+1696,salary,salary,noun,a2
+1697,satisfying,satisfying,adjective,b2
+1698,schedule_1,schedule,noun,a2
+1699,schedule_2,schedule,verb,b2
+1700,shoddy,shoddy,adjective,c2
+1701,sick-day,sick day,noun,c1
+1702,sick-leave,sick leave,noun,c1
+1703,skive,skive,verb,c2
+1704,solitary_1,solitary,adjective,c1
+1705,stimulating,stimulating,adjective,c1
+1706,stressful,stressful,adjective,b1
+1707,strike_1,strike,verb,b2
+1708,strike_2,strike,noun,b2
+1709,supervisor,supervisor,noun,c1
+1710,supervisory,supervisory,adjective,c2
+1711,sweatshop,sweatshop,noun,c2
+1712,table_2,table,verb,c2
+1713,target_1,target,noun,a2
+1714,task_1,task,noun,a2
+1715,taxing,taxing,adjective,c2
+1716,tedious,tedious,adjective,c1
+1717,tiring,tiring,adjective,b2
+1718,trade-union,trade union,noun,b1
+1719,underemployed,underemployed,adjective,c1
+1720,unfinished,unfinished,adjective,b2
+1721,union,union,noun,b1
+1722,vacancy,vacancy,noun,c1
+1723,wage-gap,wage gap,noun,c1
+1724,wage-slave,wage slave,noun,c1
+1725,water-cooler,water cooler,noun,c2
+1726,wfh,WFH,abbreviation,c2
+1727,work_1,work,verb,a1
+1728,work_2,work,noun,a1
+1729,workday,workday,noun,b1
+1730,worker,worker,noun,a1
+1731,work-experience,work experience,noun,b1
+1732,workforce,workforce,noun,b2
+1733,home_1,work from home,idiom,b1
+1734,workload,workload,noun,c1
+1735,workplace,workplace,noun,b2
+1736,zero-hours,zero-hours,adjective,c2

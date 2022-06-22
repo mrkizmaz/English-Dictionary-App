@@ -1,0 +1,870 @@
+subLink,word,type,level
+0,abbreviation,abbreviation,noun,b1
+1,ablative_1,ablative,adjective,c2
+2,ablative_2,ablative,noun,c2
+3,abstract-noun,abstract noun,noun,b2
+4,accent_1,accent,noun,b2
+5,accusative_1,accusative,adjective,c2
+6,accusative_2,accusative,noun,c2
+7,active_1,active,adjective,b1
+8,active_2,active,noun,b1
+9,acute-accent,acute accent,noun,c2
+10,adjectival,adjectival,adjective,c2
+11,adjective,adjective,noun,a1
+12,advanced,advanced,adjective,b1
+13,adverb,adverb,noun,a1
+14,adverbial_1,adverbial,adjective,b1
+15,affirmative_1,affirmative,adjective,c1
+16,affix_2,affix,noun,c1
+17,afrikaans,Afrikaans,noun,c2
+18,agree,agree,verb,b2
+19,agreement,agreement,noun,b2
+20,alliteration,alliteration,noun,c2
+21,allophone_2,allophone,noun,c2
+22,allusion,allusion,noun,c2
+23,alphabet,alphabet,noun,a1
+24,ampersand,ampersand,noun,c2
+25,analogy,analogy,noun,c1
+26,anaphor,anaphor,noun,c2
+27,anaphora,anaphora,noun,c2
+28,anglicism,Anglicism,noun,c2
+29,anglo-saxon_1,Anglo-Saxon,noun,c1
+30,anthropomorphic,anthropomorphic,adjective,c2
+31,anthropomorphism,anthropomorphism,noun,c2
+32,antithesis,antithesis,noun,c2
+33,apostrophe,apostrophe,noun,b1
+34,apposition,apposition,noun,c2
+35,appositional_1,appositional,adjective,c2
+36,appositional_2,appositional,noun,c2
+37,arabic_1,Arabic,noun,a2
+38,aramaic,Aramaic,noun,c2
+39,archaism,archaism,noun,c2
+40,argument,argument,noun,b1
+41,article,article,noun,b1
+42,articulate_1,articulate,verb,c1
+43,articulate_2,articulate,adjective,c1
+44,aspirate_1,aspirate,noun,c2
+45,aspirate_2,aspirate,verb,c2
+46,assonance,assonance,noun,c2
+47,asterisk_2,asterisk,noun,c2
+48,attributive,attributive,adjective,c2
+49,aural,aural,adjective,c2
+50,auxiliary_2,auxiliary,noun,b1
+51,backslash,backslash,noun,c2
+52,bahasa-indonesia,Bahasa Indonesia,noun,c2
+53,bahasa-malaysia,Bahasa Malaysia,noun,c2
+54,bangla,Bangla,noun,c2
+55,basque_2,Basque,noun,c2
+56,beginner,beginner,noun,b1
+57,bengali_1,Bengali,noun,c1
+58,bilabial_2,bilabial,noun,c2
+59,binomial_2,binomial,noun,c2
+60,brace_1,brace,noun,c2
+61,bracket_1,bracket,noun,c1
+62,breton_1,Breton,noun,c2
+63,broad_1,broad,adjective,c2
+64,brush-up,brush up,phrasal verb,c2
+65,brush-up-on,brush up on,phrasal verb,c2
+66,bullet-point,bullet point,noun,b2
+67,cacophony,cacophony,noun,c2
+68,calque,calque,noun,c2
+69,cantonese_1,Cantonese,noun,c2
+70,cardinal_1,cardinal,noun,c2
+71,carib,Carib,noun,c2
+72,catalan_1,Catalan,noun,c2
+73,cataphor,cataphor,noun,c2
+74,cataphora,cataphora,noun,c2
+75,cedilla,cedilla,noun,c2
+76,character,character,noun,c1
+77,chiasmus,chiasmus,noun,c2
+78,chinese_2,Chinese,noun,a2
+79,circumflex,circumflex,noun,c2
+80,circumlocution,circumlocution,noun,c2
+81,clause,clause,noun,b1
+82,closed-syllable,closed syllable,noun,c2
+83,cluster_1,cluster,noun,c1
+84,code-word,code word,noun,c1
+85,coherent,coherent,adjective,c1
+86,coinage,coinage,noun,c2
+87,collocation,collocation,noun,a2
+88,colloquialism,colloquialism,noun,c2
+89,colon,colon,noun,c1
+90,comma,comma,noun,a2
+91,common-noun,common noun,noun,b2
+92,communication,communication,noun,b1
+93,comparative_1,comparative,adjective,a2
+94,comparative_2,comparative,noun,a2
+95,complement_2,complement,noun,b2
+96,compound_1,compound,noun,b2
+97,compound_2,compound,adjective,b2
+98,conditional_1,conditional,adjective,a2
+99,conditional_2,conditional,noun,a2
+100,conjugate,conjugate,verb,c2
+101,conjunction,conjunction,noun,b1
+102,consonant_1,consonant,noun,a2
+103,continuant_1,continuant,adjective,c2
+104,continuant_2,continuant,noun,c2
+105,continuous,continuous,adjective,b1
+106,contraction,contraction,noun,b1
+107,cornish_1,Cornish,noun,c2
+108,countable,countable,adjective,a1
+109,count-noun,count noun,noun,a1
+110,creole,Creole,noun,c2
+111,danish_2,Danish,noun,b2
+112,dash_1,dash,noun,b2
+113,dative_1,dative,noun,c2
+114,dative_2,dative,adjective,c2
+115,declension,declension,noun,c2
+116,decline_1,decline,verb,c2
+117,defining,defining,adjective,b1
+118,definite-article,definite article,noun,b1
+119,deontic,deontic,adjective,c2
+120,dependent-clause,dependent clause,noun,b2
+121,derivative_1,derivative,noun,c2
+122,descriptor,descriptor,noun,c2
+123,determiner,determiner,noun,b1
+124,dharuk,Dharuk,noun,c2
+125,diaeresis,diaeresis,noun,c2
+126,dialect,dialect,noun,c1
+127,diphthong,diphthong,noun,c1
+128,direct-object,direct object,noun,b1
+129,direct-speech,direct speech,noun,b1
+130,ditto_1,ditto,noun,c2
+131,dot_1,dot,noun,b2
+132,double-negative,double negative,noun,b2
+133,drill_1,drill,noun,c2
+134,drill_2,drill,verb,c2
+135,elide,elide,verb,c2
+136,elision,elision,noun,c2
+137,ellipsis,ellipsis,noun,c1
+138,elliptical,elliptical,adjective,c2
+139,encode,encode,verb,c2
+140,ending,ending,noun,a2
+141,english_1,English,noun,a1
+142,enjambement,enjambement,noun,c2
+143,epithet,epithet,noun,c2
+144,erse,Erse,noun,c2
+145,etruscan_2,Etruscan,noun,c2
+146,etymological,etymological,adjective,c2
+147,etymology,etymology,noun,c2
+148,euphemism,euphemism,noun,c1
+149,exclamation,exclamation,noun,b1
+150,exclamation-mark,exclamation mark,noun,b1
+151,expression,expression,noun,a2
+152,fable,fable,noun,c1
+153,faultless,faultless,adjective,c2
+154,feminine_1,feminine,adjective,c1
+155,feminine_2,feminine,noun,c1
+156,filipino_1,Filipino,noun,c2
+157,flemish_1,Flemish,noun,c2
+158,fluency,fluency,noun,b2
+159,fluent,fluent,adjective,b1
+160,form_1,form,noun,a1
+161,form_2,form,verb,a1
+162,free-form_1,free form,noun,c2
+163,french_2,French,noun,a1
+164,fricative_1,fricative,noun,c2
+165,future_1,future,noun,a1
+166,gabble_1,gabble,verb,c2
+167,gaelic_2,Gaelic,noun,c2
+168,gaulish,Gaulish,noun,c2
+169,gender,gender,noun,c1
+170,gender-neutral,gender-neutral,adjective,c1
+171,generative-grammar,generative grammar,noun,c2
+172,genitive_1,genitive,noun,c2
+173,genitive_2,genitive,adjective,c2
+174,german_2,German,noun,a1
+175,gerund,gerund,noun,b1
+176,glide_2,glide,noun,c2
+177,glottal_2,glottal,noun,c2
+178,glottal-stop,glottal stop,noun,c2
+179,grammar,grammar,noun,a1
+180,grammatical,grammatical,adjective,b1
+181,grave2,grave,noun,c2
+182,greek_1,Greek,noun,a2
+183,gujarati_1,Gujarati,noun,c2
+184,gullah,Gullah,noun,c2
+185,hard_1,hard,adjective,c1
+186,hausa,Hausa,noun,c2
+187,hebrew_1,Hebrew,noun,c2
+188,heritage-language,heritage language,noun,c2
+189,holophrasis,holophrasis,noun,c2
+190,homograph,homograph,noun,c1
+191,homonym,homonym,noun,c1
+192,homophone,homophone,noun,c1
+193,homophonous,homophonous,adjective,c2
+194,hyperbole,hyperbole,noun,c2
+195,hyphen,hyphen,noun,b2
+196,hyphenate,hyphenate,verb,c1
+197,ibo,Ibo,noun,c2
+198,idiolect,idiolect,noun,c2
+199,idiom,idiom,noun,c1
+200,idiomatic,idiomatic,adjective,b2
+201,igbo,Igbo,noun,c2
+202,imperative_1,imperative,adjective,b1
+203,imperative_2,imperative,noun,b1
+204,imperfect_2,imperfect,noun,c2
+205,inarticulate,inarticulate,adjective,c2
+206,incomprehensibility,incomprehensibility,noun,c2
+207,incomprehensible,incomprehensible,adjective,c1
+208,indefinite-article,indefinite article,noun,b1
+209,independent-clause,independent clause,noun,c2
+210,indicative_1,indicative,adjective,c2
+211,indicative_2,indicative,noun,c2
+212,indirect-object,indirect object,noun,b1
+213,indirect-speech,indirect speech,noun,b1
+214,infinitive,infinitive,noun,a1
+215,inflection,inflection,noun,c2
+216,innuendo,innuendo,noun,c2
+217,interjection,interjection,noun,c1
+218,intermediate_1,intermediate,adjective,c1
+219,intermediate_2,intermediate,noun,b2
+220,internal-rhyme,internal rhyme,noun,c2
+221,interrogative_1,interrogative,adjective,b1
+222,interrogative_2,interrogative,noun,c1
+223,intonation,intonation,noun,b1
+224,intransitive,intransitive,adjective,b2
+225,inversion,inversion,noun,c1
+226,inverted-commas,inverted commas,noun,c2
+227,irish_1,Irish,noun,b1
+228,ironic,ironic,adjective,c1
+229,irony,irony,noun,c1
+230,irregular_1,irregular,adjective,a2
+231,isixhosa,isiXhosa,noun,c2
+232,isizulu,isiZulu,noun,c2
+233,italian_2,Italian,noun,a1
+234,jargon,jargon,noun,c1
+235,javanese,Javanese,noun,c2
+236,kannada,Kannada,noun,c2
+237,khmer,Khmer,noun,c2
+238,kiswahili,Kiswahili,noun,c1
+239,labial_1,labial,noun,c2
+240,labiodental_1,labiodental,noun,c2
+241,labiovelar_1,labiovelar,noun,c2
+242,lahnda,Lahnda,noun,c2
+243,language,language,noun,a1
+244,language-transfer,language transfer,noun,c2
+245,latin_1,Latin,noun,a2
+246,lexeme,lexeme,noun,c2
+247,lexical-unit,lexical unit,noun,c2
+248,lexis,lexis,noun,c2
+249,linguistic,linguistic,adjective,b2
+250,linguistics,linguistics,noun,c2
+251,litotes,litotes,noun,c2
+252,loan-translation,loan translation,noun,c2
+253,locative_1,locative,adjective,c2
+254,main-clause,main clause,noun,b1
+255,malapropism,malapropism,noun,c2
+256,malay,Malay,noun,c2
+257,malayalam,Malayalam,noun,c2
+258,maltese_2,Maltese,noun,c2
+259,maori_2,Maori,noun,c1
+260,marathi,Marathi,noun,c2
+261,masculine_1,masculine,adjective,c1
+262,masculine_2,masculine,noun,c1
+263,master_2,master,verb,b2
+264,metaphor,metaphor,noun,b2
+265,metonymy,metonymy,noun,c2
+266,middle-english,Middle English,noun,c2
+267,modal_2,modal,noun,a2
+268,mood,mood,noun,c2
+269,morpheme,morpheme,noun,c2
+270,nahuatl,Nahuatl,noun,c2
+271,nasal,nasal,adjective,c2
+272,native-speaker,native speaker,noun,b1
+273,negative_1,negative,adjective,a1
+274,neologism,neologism,noun,c2
+275,neuter_1,neuter,adjective,c1
+276,nominative_1,nominative,noun,c2
+277,nominative_2,nominative,adjective,c2
+278,non-count,non-count,adjective,c2
+279,non-defining,non-defining,adjective,c1
+280,non-sequitur,non sequitur,noun,c2
+281,norse,Norse,noun,c2
+282,noun,noun,noun,a1
+283,number_1,number,noun,b2
+284,object_1,object,noun,b1
+285,occitan,Occitan,noun,c2
+286,old-english,Old English,noun,c1
+287,old-norse,Old Norse,noun,c2
+288,onomatopoeia,onomatopoeia,noun,c2
+289,oral_1,oral,adjective,c1
+290,oral_2,oral,noun,c1
+291,ordinal_1,ordinal,noun,c1
+292,oriya,Oriya,noun,c2
+293,oxymoron,oxymoron,noun,c2
+294,palatal_1,palatal,noun,c2
+295,palindrome,palindrome,noun,c2
+296,paradox,paradox,noun,c1
+297,paragraph,paragraph,noun,a1
+298,parenthesis,parenthesis,noun,c1
+299,parse,parse,verb,c2
+300,participle,participle,noun,a2
+301,particle,particle,noun,b2
+302,part-of-speech,part of speech,noun,b1
+303,pashto,Pashto,noun,c2
+304,passive_1,passive,adjective,b1
+305,passive_2,passive,noun,b1
+306,past_1,past,adjective,a1
+307,past_2,past,noun,a1
+308,past-participle,past participle,noun,a2
+309,pathetic-fallacy,pathetic fallacy,noun,c2
+310,perfect_1,perfect,adjective,a2
+311,perfect_2,perfect,verb,c1
+312,perfect_3,perfect,noun,a2
+313,period_1,period,noun,b1
+314,persian_1,Persian,noun,c2
+315,person,person,noun,b2
+316,personal-pronoun,personal pronoun,noun,b2
+317,phoenician,Phoenician,noun,c2
+318,phoneme,phoneme,noun,c2
+319,phonetics,phonetics,noun,c1
+320,phrasal-verb,phrasal verb,noun,a1
+321,phrase_1,phrase,noun,a1
+322,pictish_1,Pictish,noun,c2
+323,pidgin,pidgin,noun,c2
+324,pitch_1,pitch,noun,c1
+325,pleonasm,pleonasm,noun,c2
+326,plosive_2,plosive,noun,c2
+327,pluperfect,pluperfect,noun,c2
+328,plural_1,plural,noun,a1
+329,plural_2,plural,adjective,a1
+330,point_1,point,noun,b1
+331,polish_1,polish,noun,c2
+332,polish_4,Polish,noun,a2
+333,portmanteau-word,portmanteau word,noun,c2
+334,portuguese_2,Portuguese,noun,a2
+335,positive_1,positive,adjective,a1
+336,possessive_1,possessive,adjective,a2
+337,possessive_2,possessive,noun,a2
+338,pound-sign,pound sign,noun,c2
+339,practise,practise,verb,a1
+340,pragmatics,pragmatics,noun,c2
+341,predeterminer,predeterminer,noun,c2
+342,predicative,predicative,adjective,c2
+343,prefix_1,prefix,noun,b1
+344,preposition,preposition,noun,a1
+345,prepositional,prepositional,adjective,b1
+346,present_2,present,noun,a1
+347,present-participle,present participle,noun,a2
+348,primary-stress,primary stress,noun,c1
+349,principal-parts,principal parts,noun,c2
+350,progressive_1,progressive,adjective,b1
+351,pronoun,pronoun,noun,a1
+352,pronunciation,pronunciation,noun,a1
+353,proper-noun,proper noun,noun,b1
+354,prosody,prosody,noun,c2
+355,proto-indo-european,Proto-Indo-European,noun,c2
+356,proverb,proverb,noun,b2
+357,pun_1,pun,noun,c2
+358,punctuate,punctuate,verb,c1
+359,punctuation,punctuation,noun,a2
+360,punctuation-mark,punctuation mark,noun,a2
+361,punjabi_2,Punjabi,noun,c2
+362,quechua,Quechua,noun,c2
+363,question-mark,question mark,noun,a2
+364,question-tag,question tag,noun,a2
+365,quotation-marks,quotation marks,noun,b1
+366,quote_1,quote,verb,b1
+367,quote_2,quote,noun,b2
+368,reflexive,reflexive,adjective,b1
+369,register_2,register,noun,c2
+370,regular_1,regular,adjective,a2
+371,relative_1,relative,adjective,b1
+372,reported-speech,reported speech,noun,b1
+373,rhetorical,rhetorical,adjective,c1
+374,rhotic,rhotic,adjective,c2
+375,roll_1,roll,verb,c2
+376,romani_2,Romani,noun,c2
+377,round-bracket,round bracket,noun,c1
+378,rounded,rounded,adjective,c2
+379,russian_2,Russian,noun,a2
+380,rusty,rusty,adjective,c2
+381,sanskrit,Sanskrit,noun,c2
+382,sarcasm,sarcasm,noun,c2
+383,satire,satire,noun,c2
+384,saying,saying,noun,b1
+385,schwa,schwa,noun,b2
+386,secondary-stress,secondary stress,noun,c1
+387,semantics,semantics,noun,c2
+388,semicolon,semicolon,noun,c1
+389,sentence_1,sentence,noun,a1
+390,shona,Shona,noun,c2
+391,shwa,shwa,noun,b2
+392,sibilant_2,sibilant,noun,c2
+393,simile,simile,noun,b2
+394,sindhi,Sindhi,noun,c2
+395,singular_1,singular,noun,a1
+396,singular_2,singular,adjective,a1
+397,sinhalese_2,Sinhalese,noun,c2
+398,slang,slang,noun,b2
+399,slash_2,slash,noun,c1
+400,soft,soft,adjective,c1
+401,spanish_2,Spanish,noun,a1
+402,spell_1,spell,verb,a1
+403,spelling,spelling,noun,a1
+404,spirant_1,spirant,noun,c2
+405,spoken-word,spoken word,noun,b2
+406,spoonerism,spoonerism,noun,c2
+407,stammer_1,stammer,verb,c2
+408,the-first-person,the first person,noun,b2
+409,the-past-perfect,the past perfect,noun,b1
+410,the-present-perfect,the present perfect,noun,a2
+411,the-present-tense,the present tense,noun,a1
+412,stress_1,stress,noun,a2
+413,stress_2,stress,verb,a2
+414,stressed,stressed,adjective,a2
+415,stress-mark,stress mark,noun,c1
+416,stress-timed,stress-timed,adjective,c2
+417,stumble_2,stumble,verb,c2
+418,subject_1,subject,noun,a1
+419,subjunctive_1,subjunctive,adjective,c1
+420,subjunctive_2,subjunctive,noun,c1
+421,subordinate-clause,subordinate clause,noun,b2
+422,suffix,suffix,noun,b1
+423,superlative_1,superlative,adjective,a2
+424,superlative_2,superlative,noun,a2
+425,swahili,Swahili,noun,c1
+426,syllabic,syllabic,adjective,c2
+427,syllable,syllable,noun,a2
+428,syllable-timed,syllable-timed,adjective,c2
+429,syncope,syncope,noun,c2
+430,syntax,syntax,noun,c2
+431,tagalog,Tagalog,noun,c2
+432,tag-question,tag question,noun,b1
+433,taino,Taino,noun,c2
+434,tamil_2,Tamil,noun,c1
+435,tap_2,tap,noun,c2
+436,tautology,tautology,noun,c2
+437,telugu,Telugu,noun,c2
+438,tense_2,tense,noun,a1
+439,thorn,thorn,noun,c2
+440,tilde,tilde,noun,c2
+441,timbre,timbre,noun,c2
+442,tok-pisin,Tok Pisin,noun,c2
+443,tone_1,tone,noun,c1
+444,transitive,transitive,adjective,b1
+445,trill_1,trill,noun,c2
+446,truism,truism,noun,c2
+447,turkish_2,Turkish,noun,b2
+448,umlaut,umlaut,noun,c2
+449,uncountable,uncountable,adjective,a1
+450,uncount-noun,uncount noun,noun,a1
+451,ungrammatical,ungrammatical,adjective,b2
+452,unrounded,unrounded,adjective,c2
+453,unvoiced,unvoiced,adjective,c1
+454,upspeak,upspeak,noun,c2
+455,uptalk,uptalk,noun,c2
+456,urdu,Urdu,noun,c1
+457,uvular,uvular,adjective,c2
+458,vedic_2,Vedic,noun,c2
+459,velar_1,velar,noun,c2
+460,verb,verb,noun,a1
+461,verbal,verbal,adjective,c1
+462,vocabulary,vocabulary,noun,a1
+463,vocative_1,vocative,adjective,c2
+464,vocative_2,vocative,noun,c2
+465,voice_1,voice,noun,b2
+466,voice_2,voice,verb,c1
+467,voiced,voiced,adjective,c1
+468,voiceless,voiceless,adjective,c1
+469,vowel,vowel,noun,a2
+470,welsh_2,Welsh,noun,b1
+471,wiradhuri,Wiradhuri,noun,c2
+472,word_1,word,noun,a1
+473,xhosa,Xhosa,noun,c2
+474,yiddish_2,Yiddish,noun,c2
+475,yoruba,Yoruba,noun,c2
+476,yue,Yue,noun,c2
+477,zeugma,zeugma,noun,c2
+478,zulu_2,Zulu,noun,c2
+479,access-provider,access provider,noun,c2
+480,account_1,account,noun,b2
+481,ad-blocker,ad blocker,noun,c2
+482,address_1,address,noun,a1
+483,address-bar,address bar,noun,c2
+484,address-book,address book,noun,b2
+485,adsl,ADSL,abbreviation,c2
+486,afaic,AFAIC,abbreviation,c2
+487,afaik,AFAIK,abbreviation,c2
+488,alarm-call,alarm call,noun,b2
+489,anonymize,anonymize,verb,c2
+490,answering-machine,answering machine,noun,b1
+491,answerphone,answerphone,noun,b1
+492,area-code,area code,noun,c2
+493,at,at,preposition,a1
+494,attach,attach,verb,b1
+495,attachment,attachment,noun,b2
+496,bandwidth,bandwidth,noun,c2
+497,banner-ad,banner ad,noun,c2
+498,battery,battery,noun,b2
+499,beep_2,beep,verb,c2
+500,beeper,beeper,noun,c2
+501,phone_1,be on the phone,idiom,a2
+502,telephone_1,be on the telephone,idiom,a2
+503,bf,BF,abbreviation,c2
+504,bff,BFF,abbreviation,c2
+505,bleep_2,bleep,verb,c2
+506,bleeper,bleeper,noun,c2
+507,blog_1,blog,noun,a1
+508,blog_2,blog,verb,b1
+509,blogger,blogger,noun,b1
+510,blogging,blogging,noun,b1
+511,blogosphere,blogosphere,noun,c2
+512,blog-post,blog post,noun,b1
+513,blogroll,blogroll,noun,c2
+514,blue-pages,blue pages,noun,c2
+515,bookmark_1,bookmark,noun,c1
+516,bookmark_2,bookmark,verb,c1
+517,bounce_1,bounce,verb,c2
+518,brb,BRB,abbreviation,c2
+519,broadband,broadband,noun,c1
+520,browse_2,browse,verb,c1
+521,browser,browser,noun,c1
+522,bulletin-board,bulletin board,noun,c2
+523,call_1,call,verb,a1
+524,call_2,call,noun,a1
+525,call-back,call back,phrasal verb,b1
+526,callback,callback,noun,c2
+527,call-box,call box,noun,b2
+528,caller,caller,noun,a2
+529,caller-id,caller ID,noun,c2
+530,call-in_2,call-in,noun,c1
+531,call-in_1,call in,phrasal verb,c1
+532,call-up_1,call up,phrasal verb,b1
+533,call-waiting,call waiting,noun,c2
+534,cardphone,cardphone,noun,c2
+535,careline,careline,noun,c2
+536,carpet-bomb,carpet-bomb,verb,c2
+537,car-phone,car phone,noun,a1
+538,carrier,carrier,noun,c2
+539,cc_1,cc,abbreviation,c2
+540,cc_2,cc,verb,c2
+541,cell-phone,cell phone,noun,a1
+542,cellular,cellular,adjective,c1
+543,chat_1,chat,verb,a2
+544,chat_2,chat,noun,a2
+545,chatline,chatline,noun,c2
+546,chat-room,chat room,noun,b2
+547,citizen-journalism,citizen journalism,noun,c1
+548,clickjacking,clickjacking,noun,c2
+549,clickstream,clickstream,noun,c2
+550,cmc,CMC,abbreviation,c2
+551,cold-calling,cold-calling,noun,c2
+552,communication,communication,noun,b1
+553,conference-call,conference call,noun,c1
+554,connect,connect,verb,a2
+555,connection,connection,noun,b1
+556,contact_2,contact,verb,b1
+557,cookie,cookie,noun,c1
+558,copy-in,copy in,phrasal verb,c2
+559,courtesy-call,courtesy call,noun,c2
+560,cradle_1,cradle,noun,c2
+561,cut-off_2,cut off,phrasal verb,b2
+562,cyber,cyber-,combining form,b2
+563,cybercafe,cybercafe,noun,b2
+564,cybernaut,cybernaut,noun,c2
+565,cybersex,cybersex,noun,c2
+566,dd,DD,abbreviation,c2
+567,deepfake,deepfake,noun,c2
+568,delete_1,delete,verb,b2
+569,dial_2,dial,verb,c1
+570,dial-in,dial in,phrasal verb,c2
+571,dial-into,dial into,phrasal verb,c2
+572,dialling-code,dialling code,noun,c2
+573,dial-up_2,dial-up,adjective,c2
+574,dial-up_1,dial up,phrasal verb,c2
+575,direct-dialling,direct dialling,noun,c2
+576,direct-marketing,direct marketing,noun,c2
+577,directory,directory,noun,c1
+578,directory-enquiries,directory enquiries,noun,c2
+579,disconnect_1,disconnect,verb,c1
+580,discussion-forum,discussion forum,noun,c1
+581,distance-learning,distance learning,noun,c1
+582,dm_1,DM,noun,c2
+583,dm_2,DM,verb,c2
+584,doi,DOI,abbreviation,c2
+585,domain,domain,noun,c1
+586,domain-name,domain name,noun,c2
+587,dot-com,dot-com,noun,c2
+588,draft_1,draft,noun,b2
+589,draft_2,draft,verb,b2
+590,dw,DW,abbreviation,c2
+591,earpiece,earpiece,noun,c2
+592,ebay,eBay,verb,c2
+593,ebaytm,eBay™,noun,b2
+594,ego-surfing,ego-surfing,noun,c2
+595,email_1,email,noun,a1
+596,emoji,emoji,noun,c1
+597,emoticon,emoticon,noun,c1
+598,ems,EMS,noun,c2
+599,engaged,engaged,adjective,b2
+600,ex-directory,ex-directory,adjective,c2
+601,extension,extension,noun,c1
+602,e-zine,e-zine,noun,c2
+603,facebooktm,Facebook™,noun,a2
+604,favourite_3,favourite,noun,a1
+605,fax_1,fax,noun,c1
+606,fax_2,fax,verb,c1
+607,feed_2,feed,noun,c2
+608,feed-reader,feed reader,noun,c2
+609,filter_1,filter,noun,c2
+610,fixed-line,fixed-line,adjective,c2
+611,flame_1,flame,noun,c2
+612,flame_2,flame,verb,c2
+613,flash-mob,flash mob,noun,c2
+614,flash-mobbing,flash mobbing,noun,c2
+615,follow,follow,verb,b2
+616,followee,followee,noun,c2
+617,follower,follower,noun,b2
+618,forward_3,forward,verb,c1
+619,freephone,Freephone,noun,c2
+620,friend_1,friend,noun,a2
+621,friend_2,friend,verb,b2
+622,friend-request,friend request,noun,b1
+623,hold_2,get hold of somebody,idiom,c2
+624,get-through,get through,phrasal verb,c1
+625,gf,GF,abbreviation,c2
+626,bell,give somebody a bell,idiom,c2
+627,buzz_2,give somebody a buzz,idiom,c2
+628,ring2_2,give somebody a ring,idiom,b2
+629,google,google,verb,b1
+630,googletm,Google™,,a2
+631,groom_1,groom,verb,c2
+632,handle_2,handle,noun,c2
+633,handset,handset,noun,c2
+634,hashtag,hashtag,noun,c2
+635,hate-mail,hate mail,noun,b2
+636,hat-tip,hat tip,noun,c2
+637,helpline,helpline,noun,b2
+638,history,history,noun,b2
+639,hold_1,hold,verb,b2
+640,home-page,home page,noun,b2
+641,hook-up_1,hook up,phrasal verb,c2
+642,hotline,hotline,noun,c2
+643,hotlink,hotlink,noun,a2
+644,hotspot,hotspot,noun,c2
+645,html,HTML,abbreviation,c1
+646,http,HTTP,abbreviation,b2
+647,hyperlink,hyperlink,noun,a2
+648,hypertext,hypertext,noun,c2
+649,idk,IDK,abbreviation,c2
+650,inbox,inbox,noun,b2
+651,influencer,influencer,noun,c1
+652,instagramtm,Instagram™,noun,b1
+653,instant-message_1,instant message,noun,b2
+654,instant-message_2,instant-message,verb,b2
+655,instant-messaging,instant messaging,noun,b2
+656,intercom,intercom,noun,c1
+657,internet,internet,noun,a1
+658,internet-of-things,internet of things,noun,c1
+659,iot,IoT,noun,c2
+660,ip-address,IP address,noun,c2
+661,isp,ISP,abbreviation,c2
+662,keypad,keypad,noun,c1
+663,kiosk,kiosk,noun,c2
+664,landing-page,landing page,noun,c2
+665,landline,landline,noun,b2
+666,like_3,like,verb,b1
+667,like_4,like,noun,b1
+668,line_1,line,noun,a2
+669,link_1,link,noun,a2
+670,live2_1,live,adjective,c1
+671,live-blog_2,live-blog,verb,c1
+672,live-blog_1,live blog,noun,c1
+673,live-tweet,live-tweet,verb,b2
+674,local-call,local call,noun,b1
+675,lol,LOL,exclamation,c1
+676,lolz_1,lolz,noun,c2
+677,lolz_2,lolz,exclamation,c2
+678,lulz_1,lulz,exclamation,c2
+679,lulz_2,lulz,noun,c2
+680,lurk_1,lurk,verb,c2
+681,mail_1,mail,noun,a2
+682,mail_2,mail,verb,a2
+683,mailing-list,mailing list,noun,c2
+684,message_1,message,noun,a1
+685,message_2,message,verb,b1
+686,message-board,message board,noun,b2
+687,microblog_1,microblog,verb,c2
+688,microblog_2,microblog,noun,c2
+689,microblogging,microblogging,noun,c2
+690,mirror-site,mirror site,noun,c2
+691,misdial,misdial,verb,c2
+692,mms,MMS,noun,c2
+693,mobile_1,mobile,adjective,a2
+694,mobile_2,mobile,noun,a2
+695,mobile-phone,mobile phone,noun,a1
+696,mouthpiece,mouthpiece,noun,c2
+697,mute_2,mute,noun,c2
+698,mute_3,mute,verb,c2
+699,mute-button,mute button,noun,c2
+700,myob,MYOB,abbreviation,c2
+701,myspacetm,Myspace™,noun,c2
+702,navigate,navigate,verb,c1
+703,netiquette,netiquette,noun,c2
+704,netizen,netizen,noun,c2
+705,net-surfer,net surfer,noun,b2
+706,newsgroup,newsgroup,noun,c2
+707,newswire,newswire,noun,c2
+708,number_1,number,noun,a1
+709,obv,obv,adverb,c2
+710,obvs,obvs,adverb,c2
+711,offline_1,offline,adjective,b2
+712,offline_2,offline,adverb,b2
+713,hook_1,off the hook,idiom,c2
+714,omg,OMG,abbreviation,c2
+715,hold_2,on hold,idiom,c1
+716,online_1,online,adjective,a1
+717,operator,operator,noun,b2
+718,outbox,outbox,noun,c1
+719,page_1,page,noun,a1
+720,page_2,page,verb,c2
+721,pager,pager,noun,c2
+722,payphone,payphone,noun,c1
+723,person-to-person,person-to-person,adjective,c2
+724,phone_1,phone,noun,a1
+725,phone_2,phone,verb,a1
+726,phone-booth,phone booth,noun,c2
+727,phone-box,phone box,noun,b1
+728,phone-call,phone call,noun,a1
+729,phone-number,phone number,noun,a1
+730,picture-messaging,picture messaging,noun,b2
+731,ping_2,ping,verb,c2
+732,pm_1,PM,noun,c2
+733,pm_2,PM,verb,c2
+734,podcast,podcast,noun,b1
+735,podcaster,podcaster,noun,b2
+736,podcasting,podcasting,noun,b2
+737,portal,portal,noun,c2
+738,predictive,predictive,adjective,c2
+739,profile_1,profile,noun,a2
+740,publish,publish,verb,a2
+741,push-alert,push alert,noun,c2
+742,push-technology,push technology,noun,c2
+743,put-through,put through,phrasal verb,c1
+744,raise_1,raise,verb,c2
+745,re2,re,preposition,c2
+746,reach_1,reach,verb,c1
+747,receiver,receiver,noun,b2
+748,redial_1,redial,verb,c2
+749,redial_2,redial,noun,c2
+750,remote-learning,remote learning,noun,b2
+751,retweet_1,retweet,verb,c2
+752,retweet_2,retweet,noun,c2
+753,reverse_1,reverse,verb,c2
+754,reverse-charge_1,reverse-charge,adjective,c2
+755,reverse-charge_2,reverse-charge,adverb,c2
+756,ring2_1,ring,verb,a2
+757,ring-around,ring around,phrasal verb,c2
+758,ring-back,ring back,phrasal verb,b2
+759,ringback,ringback,noun,c2
+760,ring-in,ring in,phrasal verb,b2
+761,ring-off,ring off,phrasal verb,c2
+762,ring-round,ring round,phrasal verb,c2
+763,ring-through,ring through,phrasal verb,c2
+764,scrambler,scrambler,noun,c2
+765,search-engine,search engine,noun,b1
+766,second-lifetm,Second Life™,noun,c2
+767,send,send,verb,a1
+768,service-provider,service provider,noun,b2
+769,share_3,share,noun,b2
+770,silver-surfer,silver surfer,noun,c2
+771,site_1,site,noun,a2
+772,skin_1,skin,noun,c2
+773,skypetm_1,Skype™,noun,b2
+774,skypetm_2,Skype™,verb,b2
+775,smartphone,smartphone,noun,a2
+776,smiley_2,smiley,noun,c2
+777,sms_1,SMS,noun,c2
+778,sms_2,SMS,verb,c2
+779,snapchattm,Snapchat™,noun,b2
+780,social_2,social,noun,c1
+781,social-bookmarking,social bookmarking,noun,c2
+782,social-media,social media,noun,a2
+783,social-networking,social networking,noun,a2
+784,sock-puppet,sock puppet,noun,c2
+785,sock-puppetry,sock puppetry,noun,c2
+786,spam_1,spam,noun,c1
+787,spam_2,spam,verb,b2
+788,spammer,spammer,noun,c1
+789,spamming,spamming,noun,c2
+790,spammy,spammy,adjective,c1
+791,speakerphone,speakerphone,noun,c2
+792,speed-dial_1,speed dial,noun,c2
+793,spoof_2,spoof,verb,c2
+794,spoofing,spoofing,noun,c2
+795,the-white-pages,the white pages,noun,c2
+796,storefront,storefront,noun,c2
+797,subject-line,subject line,noun,b2
+798,surf_2,surf,verb,b1
+799,surfer,surfer,noun,b2
+800,surfing,surfing,noun,b2
+801,switchboard,switchboard,noun,c2
+802,system-operator,system operator,noun,b2
+803,telebanking,telebanking,noun,c2
+804,teleconference_1,teleconference,verb,c1
+805,teleconference_2,teleconference,noun,c1
+806,teleconferencing,teleconferencing,noun,c1
+807,telegraph_1,telegraph,noun,c1
+808,telegraph_2,telegraph,verb,c1
+809,telegraph-pole,telegraph pole,noun,c2
+810,telephone_1,telephone,noun,a1
+811,telephone_2,telephone,verb,a1
+812,telephone-banking,telephone banking,noun,b1
+813,telephone-booth,telephone booth,noun,c2
+814,telephone-box,telephone box,noun,b1
+815,telephone-call,telephone call,noun,a1
+816,telephone-kiosk,telephone kiosk,noun,c1
+817,telephone-number,telephone number,noun,a1
+818,telephonist,telephonist,noun,c2
+819,teleprinter,teleprinter,noun,c2
+820,telesales,telesales,noun,c2
+821,teleshopping,teleshopping,noun,c2
+822,teletypewriter,teletypewriter,noun,c2
+823,telex_1,telex,noun,c2
+824,telex_2,telex,verb,c2
+825,text_1,text,noun,a1
+826,text_2,text,verb,a2
+827,text-message_1,text message,noun,a1
+828,text-message_2,text-message,verb,b1
+829,text-messaging,text-messaging,noun,b1
+830,thread_1,thread,noun,c1
+831,timeline,timeline,noun,b2
+832,tl-dr,TL;DR,abbreviation,c2
+833,toll_1,toll,noun,c2
+834,trace_1,trace,verb,b2
+835,troll_1,troll,noun,c2
+836,troll_2,troll,verb,c2
+837,tweet_1,tweet,noun,b1
+838,tweet_2,tweet,verb,b1
+839,twitter_1,twitter,verb,b2
+840,twittertm,Twitter™,noun,b1
+841,unblock,unblock,verb,c1
+842,unboxing,unboxing,noun,c2
+843,unlisted,unlisted,adjective,c2
+844,unlock,unlock,verb,c2
+845,unmute,unmute,verb,c2
+846,unsubscribe,unsubscribe,verb,c2
+847,usenet,Usenet,noun,c2
+848,user-group,user group,noun,b1
+849,videophone,videophone,noun,c2
+850,videotelephony,videotelephony,noun,c2
+851,viral-marketing,viral marketing,noun,c2
+852,visit_1,visit,verb,a1
+853,visit_2,visit,noun,a1
+854,vle,VLE,noun,c2
+855,vlog_1,vlog,verb,c1
+856,vlog_2,vlog,noun,c1
+857,vlogger,vlogger,noun,c1
+858,vlogging,vlogging,noun,c1
+859,voicemail,voicemail,noun,b1
+860,voice-message,voice message,noun,b1
+861,webcast,webcast,noun,c2
+862,web-chat,web chat,noun,b2
+863,weblog,weblog,noun,c1
+864,website,website,noun,a1
+865,wrap_2,wrap,noun,c2
+866,yellow-pagestm,Yellow Pages™,noun,c2
+867,youtuber,YouTuber,noun,b2
+868,youtubetm,YouTube™,noun,b1

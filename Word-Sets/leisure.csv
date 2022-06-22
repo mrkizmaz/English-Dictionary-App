@@ -1,0 +1,682 @@
+subLink,word,type,level
+0,ace_1,ace,noun,c2
+1,achievement,achievement,noun,c2
+2,adventure-game,adventure game,noun,b2
+3,arcade,arcade,noun,c1
+4,avatar,avatar,noun,b2
+5,baccarat,baccarat,noun,c2
+6,backgammon,backgammon,noun,c2
+7,bagatelle,bagatelle,noun,c2
+8,ball_1,ball,noun,a1
+9,ball-game,ball game,noun,a2
+10,balloon_1,balloon,noun,b2
+11,billiards,billiards,noun,c2
+12,bingo_1,bingo,noun,c1
+13,bishop,bishop,noun,c2
+14,blackjack,blackjack,noun,c2
+15,blind-man-s-buff,blind man’s buff,noun,c2
+16,board_1,board,noun,a2
+17,board-game,board game,noun,a2
+18,boule,boule,noun,c2
+19,bowl_1,bowl,noun,c2
+20,bowling,bowling,noun,b2
+21,bowling-green,bowling green,noun,c2
+22,bridge_1,bridge,noun,c2
+23,building-block,building block,noun,c1
+24,camp_2,camp,verb,c2
+25,canasta,canasta,noun,c2
+26,card_1,card,noun,a2
+27,card-game,card game,noun,a2
+28,casino,casino,noun,c1
+29,castle,castle,noun,c2
+30,cat-s-cradle,cat’s cradle,noun,c2
+31,charade,charade,noun,c2
+32,cheat_1,cheat,verb,b1
+33,cheat_2,cheat,noun,b1
+34,check_2,check,noun,c2
+35,checkers_1,checkers,noun,c2
+36,chess,chess,noun,b1
+37,chessman,chessman,noun,c2
+38,chinese-chequers,Chinese chequers,noun,c2
+39,chutes-and-ladderstm,Chutes and Ladders™,noun,c2
+40,climbing-frame,climbing frame,noun,c1
+41,club_1,club,noun,c2
+42,computer-game,computer game,noun,a1
+43,conker,conker,noun,c2
+44,console2,console,noun,b2
+45,counter_1,counter,noun,c2
+46,cribbage,cribbage,noun,c2
+47,croquet,croquet,noun,c2
+48,cross-play,cross-play,noun,c2
+49,crossword,crossword,noun,b1
+50,cutscene,cutscene,noun,c2
+51,dart_1,dart,noun,c1
+52,dartboard,dartboard,noun,c2
+53,deal_1,deal,verb,a2
+54,dealer,dealer,noun,c1
+55,diamond,diamond,noun,c2
+56,dice_1,dice,noun,c1
+57,dodgeball,dodgeball,noun,c2
+58,doll_1,doll,noun,b1
+59,doll-s-house,doll’s house,noun,b1
+60,domino,domino,noun,c2
+61,draught_1,draught,noun,c2
+62,easter-egg,Easter egg,noun,c2
+63,experience-points,experience points,noun,c2
+64,fidget-spinner,fidget spinner,noun,c2
+65,first-person-shooter,first-person shooter,noun,c2
+66,follow-the-leader,follow-the-leader,noun,c2
+67,foosball,foosball,noun,c2
+68,fps_2,FPS,abbreviation,c2
+69,frag,frag,verb,c2
+70,frisbeetm,Frisbee™,noun,c2
+71,fun_1,fun,noun,a1
+72,game_1,game,noun,a1
+73,game-controller,game controller,noun,c1
+74,gamepad,gamepad,noun,c2
+75,gameplay,gameplay,noun,c1
+76,games-console,games console,noun,b2
+77,gin-rummy,gin rummy,noun,c2
+78,glove-puppet,glove puppet,noun,c2
+79,go_2,go,noun,b1
+80,gold-farming,gold farming,noun,c2
+81,grand-slam,grand slam,noun,c2
+82,guessing-game,guessing game,noun,b2
+83,hand_1,hand,noun,c2
+84,handball,handball,noun,b2
+85,hand-puppet,hand puppet,noun,c2
+86,hangman,hangman,noun,c2
+87,heart_1,heart,noun,c2
+88,hide-and-seek,hide-and-seek,noun,c2
+89,hoop,hoop,noun,c2
+90,hopscotch,hopscotch,noun,c2
+91,hula-hoop,hula hoop,noun,c2
+92,i-spy,I-spy,noun,c2
+93,jack_1,jack,noun,c2
+94,jigsaw,jigsaw,noun,c1
+95,joker,joker,noun,c2
+96,joypad,joypad,noun,c2
+97,jump-rope_2,jump rope,noun,c2
+98,jungle-gym,jungle gym,noun,c2
+99,king,king,noun,c2
+100,kite_1,kite,noun,b2
+101,knight_1,knight,noun,c2
+102,lawn-bowling,lawn bowling,noun,c2
+103,leapfrog_1,leapfrog,noun,c2
+104,legotm,Lego™,noun,c1
+105,leisure-centre,leisure centre,noun,b2
+106,level_1,level,noun,b1
+107,level-up,level up,phrasal verb,c2
+108,lose,lose,verb,a1
+109,loser,loser,noun,b1
+110,lotto,lotto,noun,c2
+111,lucky-dip,lucky dip,noun,c2
+112,ludo,ludo,noun,c2
+113,mahjong,mahjong,noun,c2
+114,marble,marble,noun,c2
+115,merry-go-round,merry-go-round,noun,c2
+116,monkey-in-the-middle,monkey in the middle,noun,c2
+117,monopoly,monopoly,noun,c1
+118,move_2,move,noun,b1
+119,mud_2,MUD,noun,c2
+120,musical-bumps,musical bumps,noun,c2
+121,musical-chairs,musical chairs,noun,c2
+122,non-player-character,non-player character,noun,c2
+123,noughts-and-crosses,noughts and crosses,noun,c2
+124,npc,NPC,noun,c2
+125,opponent,opponent,noun,b2
+126,out_1,out,adverb,c2
+127,pack_2,pack,noun,c2
+128,paintball,paintball,noun,c2
+129,paperchase,paperchase,noun,c2
+130,parlour-game,parlour game,noun,c2
+131,pawn_1,pawn,noun,c2
+132,peekaboo,peekaboo,noun,c2
+133,peep-bo,peep-bo,noun,c2
+134,pelmanism,Pelmanism,noun,c2
+135,pelota,pelota,noun,c2
+136,piece_1,piece,noun,b2
+137,piggy-in-the-middle,piggy in the middle,noun,c2
+138,pinball,pinball,noun,c2
+139,ping-pong,ping-pong,noun,b2
+140,pinata,piñata,noun,c2
+141,platform-game,platform game,noun,c2
+142,play_1,play,verb,a1
+143,play_2,play,noun,b1
+144,chicken_1,play chicken,idiom,c2
+145,player,player,noun,a1
+146,playground,playground,noun,b1
+147,playing-card,playing card,noun,b2
+148,playtime,playtime,noun,b2
+149,plush-toy,plush toy,noun,c2
+150,poker,poker,noun,c2
+151,pool_1,pool,noun,c1
+152,postman-s-knock,postman’s knock,noun,c2
+153,puppet,puppet,noun,c1
+154,puzzle_1,puzzle,noun,b2
+155,pwn,pwn,verb,c2
+156,pwnage,pwnage,noun,c2
+157,petanque,pétanque,noun,c2
+158,queen_1,queen,noun,c2
+159,quiz_1,quiz,noun,a1
+160,racquetball,racquetball,noun,c2
+161,rag-doll,rag doll,noun,c2
+162,rattle_2,rattle,noun,c2
+163,replayability,replayability,noun,c1
+164,replayable,replayable,adjective,c1
+165,replay-value,replay value,noun,c1
+166,respawn,respawn,verb,c2
+167,riddle_1,riddle,noun,c1
+168,ring-a-ring-o-roses,ring-a-ring o’ roses,noun,c2
+169,rocking-horse,rocking horse,noun,c2
+170,role-playing-game,role-playing game,noun,c1
+171,roulette,roulette,noun,c2
+172,roundabout_1,roundabout,noun,c1
+173,rpg,RPG,noun,c2
+174,rule_1,rule,noun,a1
+175,rummy,rummy,noun,c2
+176,sandbox,sandbox,noun,c2
+177,sandpit,sandpit,noun,c2
+178,score_1,score,verb,a2
+179,score_2,score,noun,a2
+180,scoreboard,scoreboard,noun,b2
+181,scrabbletm,Scrabble™,noun,c2
+182,see-saw_2,see-saw,noun,c2
+183,shoot-em-up,shoot-’em-up,adjective,c2
+184,shuffle_2,shuffle,noun,c2
+185,sim,sim,noun,c2
+186,simon-says,Simon says,noun,c2
+187,skateboard_2,skateboard,noun,b1
+188,skipping-rope,skipping rope,noun,c2
+189,skittle,skittle,noun,c2
+190,slide_2,slide,noun,c1
+191,snakes-and-ladders,snakes and ladders,noun,c2
+192,snap_2,snap,noun,c2
+193,snooker_1,snooker,noun,c2
+194,soft-play,soft play,noun,c2
+195,soft-toy,soft toy,noun,c2
+196,solitaire,solitaire,noun,c2
+197,square_1,square,adjective,c2
+198,stalemate,stalemate,noun,c2
+199,stuffed-animal,stuffed animal,noun,c2
+200,suit_1,suit,noun,c2
+201,swing_2,swing,noun,c1
+202,table-football,table football,noun,c2
+203,table-tennis,table tennis,noun,a2
+204,tag_1,tag,noun,c2
+205,team_1,team,noun,a1
+206,team-handball,team handball,noun,c2
+207,teddy-bear,teddy bear,noun,c1
+208,teeter-totter,teeter-totter,noun,c2
+209,tenpin-bowling,tenpin bowling,noun,c2
+210,three-card-trick,three-card trick,noun,c2
+211,tic-tac-toe,tic-tac-toe,noun,c2
+212,tiddlywinks,tiddlywinks,noun,c2
+213,tie_1,tie,verb,c2
+214,tie_2,tie,noun,c2
+215,tig,tig,noun,c2
+216,toboggan_1,toboggan,noun,c2
+217,tombola,tombola,noun,c2
+218,toy_1,toy,noun,a2
+219,trampoline_1,trampoline,noun,c2
+220,treasure-hunt,treasure hunt,noun,c1
+221,trump_1,trump,noun,c2
+222,turn_2,turn,noun,a1
+223,video-game,video game,noun,a1
+224,war-game,war game,noun,c1
+225,whist,whist,noun,c2
+226,win_1,win,verb,a1
+227,winner,winner,noun,a2
+228,winning,winning,adjective,b1
+229,world,world,noun,b2
+230,yo-yo_3,yo-yo,noun,c2
+231,activity,activity,noun,a1
+232,amateur-dramatics,amateur dramatics,noun,c2
+233,angler,angler,noun,c2
+234,angling,angling,noun,c2
+235,art_1,art,noun,a1
+236,astrology,astrology,noun,c2
+237,ballroom-dancing,ballroom dancing,noun,c1
+238,basketry,basketry,noun,c2
+239,basketwork,basketwork,noun,c2
+240,birder,birder,noun,c2
+241,birding,birding,noun,c2
+242,birdwatcher,birdwatcher,noun,c1
+243,birdwatching,birdwatching,noun,c1
+244,bonsai,bonsai,noun,c2
+245,brass-rubbing,brass rubbing,noun,c2
+246,bricolage,bricolage,noun,c2
+247,bullfight,bullfight,noun,c1
+248,calligraphy,calligraphy,noun,c2
+249,cartography,cartography,noun,c2
+250,ceramic_1,ceramic,noun,c2
+251,climb_1,climb,verb,a2
+252,climbing,climbing,noun,a2
+253,clubbing,clubbing,noun,b2
+254,collage,collage,noun,c2
+255,collector,collector,noun,b2
+256,community-theater,community theater,noun,c2
+257,compass,compass,noun,b2
+258,cookery,cookery,noun,b1
+259,cooking_1,cooking,noun,a1
+260,cosplay_1,cosplay,noun,c2
+261,cosplay_2,cosplay,verb,c2
+262,cosplayer,cosplayer,noun,c2
+263,craft_1,craft,noun,b2
+264,craft_2,craft,verb,c1
+265,crochet_1,crochet,noun,c2
+266,cryptography,cryptography,noun,c2
+267,dance_1,dance,noun,a1
+268,dance_2,dance,verb,a1
+269,dancer,dancer,noun,a1
+270,dancing,dancing,noun,a1
+271,dive_1,dive,verb,b2
+272,drama,drama,noun,a2
+273,drawing,drawing,noun,a2
+274,embroider,embroider,verb,c2
+275,embroidery,embroidery,noun,c2
+276,engraving,engraving,noun,c2
+277,explore,explore,verb,b1
+278,fieldcraft,fieldcraft,noun,c2
+279,fish_2,fish,verb,a2
+280,fisherman,fisherman,noun,b2
+281,fishing,fishing,noun,a2
+282,fishing-rod,fishing rod,noun,c1
+283,flower-arranging,flower arranging,noun,c1
+284,footpath,footpath,noun,c1
+285,gardening,gardening,noun,b1
+286,gastronomy,gastronomy,noun,c2
+287,glass-blowing,glass-blowing,noun,c2
+288,hack_1,hack,verb,c2
+289,handcraft,handcraft,noun,c2
+290,handicraft,handicraft,noun,c2
+291,hide_2,hide,noun,c2
+292,hike_1,hike,noun,a2
+293,hike_2,hike,verb,a2
+294,hiking,hiking,noun,a2
+295,hillwalking,hillwalking,noun,b2
+296,hobby,hobby,noun,a1
+297,horology,horology,noun,c2
+298,horseback-riding,horseback riding,noun,b1
+299,horse-riding,horse riding,noun,b1
+300,interest_1,interest,noun,a1
+301,jog_1,jog,verb,a2
+302,jogger,jogger,noun,b1
+303,jogging,jogging,noun,a2
+304,knit_1,knit,verb,c1
+305,knitting,knitting,noun,c1
+306,leisure,leisure,noun,b1
+307,magnetic-compass,magnetic compass,noun,c1
+308,modelling,modelling,noun,c2
+309,mountain-bike,mountain bike,noun,b2
+310,mountain-biking,mountain biking,noun,b2
+311,music,music,noun,a1
+312,national-park,national park,noun,b1
+313,nature-reserve,nature reserve,noun,c1
+314,needlecraft,needlecraft,noun,c2
+315,oil-painting,oil painting,noun,c1
+316,orienteering,orienteering,noun,c2
+317,origami,origami,noun,c2
+318,paddle_2,paddle,verb,b2
+319,painting,painting,noun,a1
+320,palmistry,palmistry,noun,c2
+321,pastiche,pastiche,noun,c2
+322,pastime,pastime,noun,c1
+323,photography,photography,noun,b1
+324,poetics,poetics,noun,c2
+325,poetry,poetry,noun,b1
+326,pony-trekking,pony-trekking,noun,c2
+327,portraiture,portraiture,noun,c2
+328,pottery,pottery,noun,c1
+329,ramble_1,ramble,verb,c2
+330,ramble_2,ramble,noun,c2
+331,rambling_2,rambling,noun,c2
+332,reading_1,reading,noun,a1
+333,relax,relax,verb,a1
+334,reserve_1,reserve,noun,b2
+335,riding,riding,noun,b1
+336,right-of-way,right of way,noun,c2
+337,roam,roam,verb,c2
+338,rollerbladetm,Rollerblade™,noun,c2
+339,roller-skate_2,roller skate,noun,c2
+340,safari-park,safari park,noun,c1
+341,sculpture,sculpture,noun,b1
+342,sew,sew,verb,c1
+343,sewing,sewing,noun,c1
+344,shopping,shopping,noun,a1
+345,skateboarding,skateboarding,noun,b1
+346,snorkel_1,snorkel,noun,c1
+347,snorkel_2,snorkel,verb,c1
+348,spare_1,spare,adjective,b2
+349,stamp-collecting,stamp collecting,noun,b1
+350,sudoku,sudoku,noun,c1
+351,tapestry,tapestry,noun,c2
+352,taxidermy,taxidermy,noun,c2
+353,topiary,topiary,noun,c2
+354,track_1,track,noun,b1
+355,trail_1,trail,noun,c1
+356,wade,wade,verb,c1
+357,walking_1,walking,noun,a2
+358,wander_1,wander,verb,b2
+359,woodwork,woodwork,noun,c2
+360,word-search,word search,noun,c1
+361,writing,writing,noun,a1
+362,yoga,yoga,noun,a2
+363,zoo,zoo,noun,a2
+364,zumbatm,Zumba™,noun,c2
+365,accessory_1,accessory,noun,c1
+366,account_1,account,noun,b2
+367,afford,afford,verb,b1
+368,aisle,aisle,noun,b2
+369,antique_2,antique,noun,b2
+370,appliance,appliance,noun,b2
+371,article,article,noun,b2
+372,assistant_1,assistant,noun,a2
+373,back-order_1,back order,noun,c2
+374,back-order_2,back-order,verb,c2
+375,bag_1,bag,noun,a1
+376,baker,baker,noun,b1
+377,bakery,bakery,noun,b2
+378,bakeshop,bakeshop,noun,b2
+379,banknote,banknote,noun,a1
+380,barber,barber,noun,b2
+381,barcode,barcode,noun,c1
+382,bargain_1,bargain,noun,b2
+383,bargain_2,bargain,verb,c1
+384,bargain-basement,bargain basement,noun,c2
+385,barter_1,barter,noun,c1
+386,barter_2,barter,verb,c1
+387,basket,basket,noun,b2
+388,steal_2,be a steal,idiom,c2
+389,bedding,bedding,noun,c2
+390,be-sold-out,be sold out,phrasal verb,b2
+391,betting-shop,betting shop,noun,c2
+392,bid1_1,bid,noun,b2
+393,bid1_2,bid,verb,b2
+394,bill_1,bill,noun,a1
+395,billing,billing,noun,c2
+396,bogof,BOGOF,abbreviation,c2
+397,book_1,book,noun,a1
+398,bookie,bookie,noun,c2
+399,bookmaking,bookmaking,noun,c2
+400,bookshop,bookshop,noun,a2
+401,bookstall,bookstall,noun,c1
+402,boutique_1,boutique,noun,c1
+403,browse_2,browse,verb,c1
+404,business,business,noun,c1
+405,butcher_1,butcher,noun,b2
+406,buy_1,buy,verb,a1
+407,buyer,buyer,noun,b1
+408,carrier-bag,carrier bag,noun,c2
+409,cash_1,cash,noun,a2
+410,cash-and-carry,cash and carry,noun,c2
+411,cashback,cashback,noun,c1
+412,cash-desk,cash desk,noun,c2
+413,cashier_1,cashier,noun,b2
+414,cash-register,cash register,noun,c1
+415,cctv,CCTV,abbreviation,c1
+416,center_1,center,noun,a1
+417,centre_1,centre,noun,a1
+418,chain_1,chain,noun,b1
+419,chain-store,chain store,noun,c1
+420,change_2,change,noun,b1
+421,charge_2,charge,verb,b1
+422,cheap_1,cheap,adjective,a1
+423,check-card,check card,noun,c2
+424,checkout,checkout,noun,b2
+425,chemist,chemist,noun,a2
+426,cheque,cheque,noun,b1
+427,cleaner,cleaner,noun,b2
+428,clerk_1,clerk,noun,b2
+429,click-and-collect,click and collect,noun,c1
+430,close1_1,close,verb,a1
+431,clothing,clothing,noun,a2
+432,coin_1,coin,noun,b1
+433,comparison-shop,comparison-shop,verb,c1
+434,comparison-shopping,comparison shopping,noun,c1
+435,comparison-site,comparison site,noun,c1
+436,condition_1,condition,noun,a2
+437,confectioner,confectioner,noun,c2
+438,convenience-store,convenience store,noun,b2
+439,cookware,cookware,noun,c2
+440,corner-shop,corner shop,noun,b2
+441,cosmetic_1,cosmetic,noun,b2
+442,cost_2,cost,verb,a1
+443,counter_1,counter,noun,b2
+444,couponing,couponing,noun,c2
+445,craft_1,craft,noun,b2
+446,credit_1,credit,noun,a2
+447,credit-card,credit card,noun,a2
+448,credit-note,credit note,noun,c2
+449,crockery,crockery,noun,c2
+450,currency,currency,noun,b1
+451,customer,customer,noun,a1
+452,cutlery,cutlery,noun,c1
+453,debit-card,debit card,noun,c1
+454,debt,debt,noun,b2
+455,deli,deli,noun,c1
+456,delicatessen,delicatessen,noun,c1
+457,deliver,deliver,verb,b1
+458,delivery,delivery,noun,b2
+459,denomination,denomination,noun,c2
+460,department,department,noun,a2
+461,department-store,department store,noun,b1
+462,discount_1,discount,noun,b1
+463,discount_2,discount,verb,b2
+464,display_2,display,noun,b2
+465,display-bin,display bin,noun,c2
+466,dot-com,dot-com,noun,c2
+467,download_1,download,verb,a2
+468,downtown_1,downtown,adverb,b2
+469,downtown_2,downtown,adjective,b2
+470,downtown_3,downtown,noun,b2
+471,draper,draper,noun,c2
+472,dressing-room,dressing room,noun,c2
+473,drugstore,drugstore,noun,b2
+474,dry-cleaner-s,dry-cleaner’s,noun,c2
+475,dummy_1,dummy,noun,c2
+476,dump-bin,dump bin,noun,c2
+477,duty-free_1,duty-free,adjective,c1
+478,duty-free_2,duty-free,noun,c1
+479,duty-free_3,duty-free,adverb,c1
+480,e-cash,e-cash,noun,c2
+481,electrical,electrical,adjective,a2
+482,escalator,escalator,noun,c1
+483,estate-agent,estate agent,noun,b2
+484,e-tailing,e-tailing,noun,c2
+485,expensive,expensive,adjective,a1
+486,fabric,fabric,noun,b2
+487,factory-shop,factory shop,noun,c1
+488,farmers-market,farmers’ market,noun,b2
+489,farm-shop,farm shop,noun,b2
+490,fishmonger,fishmonger,noun,c2
+491,fitting-room,fitting room,noun,c2
+492,florist,florist,noun,c1
+493,food-hall,food hall,noun,c1
+494,fragrance,fragrance,noun,c1
+495,free_1,free,adjective,a2
+496,furnishings,furnishings,noun,c2
+497,furniture,furniture,noun,a2
+498,gadget,gadget,noun,b1
+499,game_1,game,noun,a1
+500,garden-centre,garden centre,noun,c1
+501,gift_1,gift,noun,a2
+502,gift-card,gift card,noun,c1
+503,gift-certificate,gift certificate,noun,c2
+504,glassware,glassware,noun,c2
+505,goods,goods,noun,b1
+506,greengrocer,greengrocer,noun,b2
+507,grocer,grocer,noun,c1
+508,grocery_1,grocery,noun,b2
+509,haberdashery,haberdashery,noun,c2
+510,haggle,haggle,verb,c2
+511,hairdresser,hairdresser,noun,a2
+512,hardware,hardware,noun,c1
+513,health-food,health food,noun,b2
+514,helpful,helpful,adjective,a2
+515,high-street,high street,noun,b1
+516,hypermarket,hypermarket,noun,c2
+517,impulse-buy,impulse buy,noun,c2
+518,impulse-buying,impulse buying,noun,c2
+519,internet,internet,noun,a1
+520,ironmonger,ironmonger,noun,c2
+521,item,item,noun,a2
+522,jeweller,jeweller,noun,b2
+523,jewellery,jewellery,noun,a2
+524,kiosk,kiosk,noun,c1
+525,knock-off_2,knock-off,noun,c2
+526,launderette,launderette,noun,c2
+527,linen,linen,noun,c1
+528,liquor-store,liquor store,noun,c2
+529,list_1,list,noun,a1
+530,loyalty-card,loyalty card,noun,c1
+531,luggage,luggage,noun,a2
+532,main-street,main street,noun,b1
+533,mall_1,mall,noun,b1
+534,mall-rat,mall rat,noun,c2
+535,manager,manager,noun,a2
+536,mannequin,mannequin,noun,c2
+537,market_1,market,noun,a1
+538,markup,markup,noun,c2
+539,megastore,megastore,noun,c2
+540,music,music,noun,a1
+541,mystery-shopper,mystery shopper,noun,c2
+542,mystery-shopping,mystery shopping,noun,c2
+543,newsagent,newsagent,noun,b2
+544,note_1,note,noun,b1
+545,offer_2,offer,noun,a2
+546,off-licence,off-licence,noun,c2
+547,peg_1,off the peg,idiom,c2
+548,online_1,online,adjective,a1
+549,sale,on sale,idiom,c1
+550,optician,optician,noun,c1
+551,order_1,order,noun,b1
+552,order_2,order,verb,a2
+553,outlet,outlet,noun,c1
+554,counter_1,over the counter,idiom,c2
+555,package-store,package store,noun,c2
+556,packaging,packaging,noun,b1
+557,p-and-h,p. and h.,abbreviation,c2
+558,p-and-p,p. and p.,abbreviation,c2
+559,panic-buying,panic buying,noun,c1
+560,paper-shop,paper shop,noun,c2
+561,password,password,noun,b2
+562,pay_1,pay,verb,a1
+563,payment,payment,noun,b1
+564,pedestrian-precinct,pedestrian precinct,noun,c2
+565,perfume_1,perfume,noun,b2
+566,pharmacist,pharmacist,noun,c1
+567,pharmacy,pharmacy,noun,b2
+568,plaza,plaza,noun,c2
+569,portal,portal,noun,c2
+570,postage,postage,noun,c1
+571,precinct,precinct,noun,c2
+572,pre-order_1,pre-order,noun,c1
+573,pre-order_2,pre-order,verb,c1
+574,price_1,price,noun,a1
+575,price-tag,price tag,noun,c1
+576,product,product,noun,a1
+577,profit-margin,profit margin,noun,b2
+578,promotion,promotion,noun,c1
+579,purchase_1,purchase,verb,b2
+580,purchase_2,purchase,noun,b2
+581,queue_1,queue,noun,b1
+582,queue_2,queue,verb,b1
+583,rack_1,rack,noun,c1
+584,range_1,range,noun,b2
+585,rate_1,rate,noun,b1
+586,receipt,receipt,noun,b1
+587,reduce,reduce,verb,a2
+588,reduction,reduction,noun,b2
+589,refund_1,refund,noun,b2
+590,register_2,register,noun,c1
+591,retail1_1,retail,noun,b2
+592,retail1_2,retail,adverb,c1
+593,retail1_3,retail,verb,c1
+594,retail-therapy,retail therapy,noun,c2
+595,return_1,return,verb,b1
+596,safe_2,safe,noun,c1
+597,sale,sale,noun,a2
+598,sales-clerk,sales clerk,noun,c1
+599,salesman,salesman,noun,b2
+600,sales-slip,sales slip,noun,b1
+601,saleswoman,saleswoman,noun,b2
+602,salon,salon,noun,b2
+603,sample_1,sample,noun,b2
+604,sari-sari-store,sari-sari store,noun,c2
+605,saving,saving,noun,b2
+606,self-checkout,self-checkout,noun,c1
+607,self-service_1,self-service,adjective,b2
+608,sell_1,sell,verb,a1
+609,seller,seller,noun,b1
+610,sell-out_1,sell out,phrasal verb,b2
+611,serve_1,serve,verb,a2
+612,service_1,service,noun,b1
+613,shelf,shelf,noun,b1
+614,shipping,shipping,noun,c1
+615,shoe_1,shoe,noun,a1
+616,shop_1,shop,noun,a1
+617,shop_2,shop,verb,a1
+618,shopaholic_1,shopaholic,noun,c1
+619,shop-assistant,shop assistant,noun,a2
+620,shoplift,shoplift,verb,b2
+621,shoplifter,shoplifter,noun,b2
+622,shoplifting,shoplifting,noun,b2
+623,shopper,shopper,noun,b1
+624,shopping,shopping,noun,a1
+625,shopping-bag,shopping bag,noun,a2
+626,shopping-centre,shopping centre,noun,a2
+627,shopping-mall,shopping mall,noun,b1
+628,shop-window,shop window,noun,a1
+629,short-change,short-change,verb,c2
+630,showroom,showroom,noun,c2
+631,showrooming,showrooming,noun,c2
+632,skincare,skincare,noun,c2
+633,special_2,special,noun,c2
+634,special-offer,special offer,noun,b2
+635,spend_1,spend,verb,a1
+636,spendthrift_1,spendthrift,noun,c2
+637,spendthrift_2,spendthrift,adjective,c2
+638,splurge_1,splurge,noun,c2
+639,splurge_2,splurge,verb,c2
+640,spree,spree,noun,c2
+641,stall_1,stall,noun,b2
+642,stand_2,stand,noun,b2
+643,stationer,stationer,noun,c1
+644,stationery,stationery,noun,c1
+645,stock_1,stock,noun,b2
+646,stock_2,stock,verb,b2
+647,stockist,stockist,noun,c2
+648,stocktaking,stocktaking,noun,c2
+649,stock-up,stock up,phrasal verb,c2
+650,store_1,store,noun,a2
+651,store-card,store card,noun,c1
+652,store-window,store window,noun,a2
+653,supermarket,supermarket,noun,a1
+654,superstore,superstore,noun,c1
+655,takings,takings,noun,c2
+656,tax_1,tax,noun,b1
+657,technology,technology,noun,a2
+658,tester,tester,noun,c2
+659,thrift-shop,thrift shop,noun,c2
+660,till_2,till,noun,c1
+661,tobacconist,tobacconist,noun,c2
+662,toiletries,toiletries,noun,c2
+663,token_1,token,noun,c2
+664,total_2,total,noun,b1
+665,town-centre,town centre,noun,a1
+666,toy_1,toy,noun,a2
+667,trade_1,trade,noun,b1
+668,transaction,transaction,noun,c1
+669,travel-agency,travel agency,noun,b2
+670,traveller-s-cheque,traveller’s cheque,noun,c1
+671,trolley,trolley,noun,b2
+672,try-on,try on,phrasal verb,b2
+673,unhelpful,unhelpful,adjective,b1
+674,value_1,value,noun,b1
+675,voucher,voucher,noun,c1
+676,wet-market,wet market,noun,c2
+677,white-goods,white goods,noun,c2
+678,wholesale_2,wholesale,adjective,c2
+679,window,window,noun,a1
+680,window-shopping,window shopping,noun,c1

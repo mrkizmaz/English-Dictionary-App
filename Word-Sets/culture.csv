@@ -1,0 +1,2086 @@
+subLink,word,type,level
+0,abstract_1,abstract,adjective,b2
+1,abstract_2,abstract,noun,c2
+2,academicism,academicism,noun,c2
+3,afrofuturism,Afrofuturism,noun,c2
+4,afrofuturist_1,Afrofuturist,noun,c2
+5,afrofuturist_2,Afrofuturist,adjective,c2
+6,altarpiece,altarpiece,noun,c2
+7,art_1,art,noun,a1
+8,art-gallery,art gallery,noun,a2
+9,artist,artist,noun,a1
+10,artistic,artistic,adjective,b2
+11,artwork,artwork,noun,b2
+12,atelier,atelier,noun,c2
+13,auction_1,auction,noun,b2
+14,auctioneer,auctioneer,noun,c2
+15,auction-house,auction house,noun,c1
+16,auction-room,auction room,noun,c1
+17,background,background,noun,a2
+18,baroque_2,baroque,adjective,c2
+19,bas-relief,bas-relief,noun,c2
+20,batik,batik,noun,c2
+21,bid1_1,bid,noun,b2
+22,bid1_2,bid,verb,b2
+23,brass-rubbing,brass rubbing,noun,c2
+24,bricolage,bricolage,noun,c2
+25,bronze_1,bronze,noun,c1
+26,brush_2,brush,noun,a2
+27,brushwork,brushwork,noun,c2
+28,burnt-ochre,burnt ochre,noun,c2
+29,burnt-sienna,burnt sienna,noun,c2
+30,burnt-umber,burnt umber,noun,c2
+31,bust_2,bust,noun,c2
+32,calligraphy,calligraphy,noun,c2
+33,canvas,canvas,noun,c1
+34,capture_1,capture,verb,b2
+35,cartoon,cartoon,noun,c2
+36,carve,carve,verb,c1
+37,carving,carving,noun,c1
+38,cave-painting,cave painting,noun,b1
+39,ceramic_1,ceramic,noun,c1
+40,charcoal,charcoal,noun,c2
+41,cityscape,cityscape,noun,c2
+42,classical,classical,adjective,c1
+43,classicism,classicism,noun,c2
+44,clay,clay,noun,b2
+45,collage,collage,noun,c2
+46,collect_2,collect,verb,a2
+47,collection,collection,noun,b1
+48,collector,collector,noun,b2
+49,composition,composition,noun,c2
+50,connoisseur,connoisseur,noun,c2
+51,conservator,conservator,noun,c2
+52,contrast_1,contrast,noun,c1
+53,crayon_1,crayon,verb,c2
+54,crayon_2,crayon,noun,c2
+55,curator,curator,noun,c1
+56,dada_2,Dada,noun,c2
+57,dadaism,Dadaism,noun,c2
+58,daub_1,daub,verb,c2
+59,decorate,decorate,verb,b1
+60,decorative,decorative,adjective,c1
+61,depict,depict,verb,c1
+62,depth,depth,noun,c1
+63,design_1,design,noun,a1
+64,detail_1,detail,noun,a2
+65,diptych,diptych,noun,c2
+66,draw_1,draw,verb,a1
+67,drawing,drawing,noun,a2
+68,easel,easel,noun,c2
+69,embroidery,embroidery,noun,c2
+70,engraver,engraver,noun,c2
+71,engraving,engraving,noun,c2
+72,environmental-art,environmental art,noun,c2
+73,eroticism,eroticism,noun,c2
+74,etch,etch,verb,c2
+75,etching,etching,noun,c2
+76,execute,execute,verb,c2
+77,exhibit_1,exhibit,verb,b2
+78,exhibit_2,exhibit,noun,b2
+79,exhibition,exhibition,noun,b1
+80,expressionism,expressionism,noun,c2
+81,expressionist_2,expressionist,noun,c2
+82,fake_2,fake,noun,b1
+83,fauvism,Fauvism,noun,c2
+84,figurative,figurative,adjective,c2
+85,figure_1,figure,noun,b2
+86,finger-painting,finger-painting,noun,b2
+87,finish_2,finish,noun,c1
+88,fire_2,fire,verb,c2
+89,foreground_1,foreground,noun,b2
+90,formalism,formalism,noun,c2
+91,formalist_1,formalist,adjective,c2
+92,frame_1,frame,noun,b1
+93,frame_2,frame,verb,b1
+94,fresco,fresco,noun,c2
+95,frieze,frieze,noun,c2
+96,futurism,Futurism,noun,c2
+97,futurist_2,Futurist,adjective,c2
+98,gallery,gallery,noun,a2
+99,genre-painting,genre painting,noun,c2
+100,gild,gild,verb,c2
+101,glass-blowing,glass-blowing,noun,c2
+102,gothic_1,Gothic,adjective,c2
+103,gouache,gouache,noun,c2
+104,graffiti,graffiti,noun,b1
+105,graphic-artist,graphic artist,noun,b2
+106,graphics,graphics,noun,b2
+107,harmony,harmony,noun,c1
+108,haut-relief,haut-relief,noun,c2
+109,highbrow,highbrow,adjective,c2
+110,hologram,hologram,noun,c2
+111,icon,icon,noun,c2
+112,ikon,ikon,noun,c2
+113,illustration,illustration,noun,b2
+114,impasto,impasto,noun,c2
+115,impressionism,Impressionism,noun,c1
+116,impressionist_2,Impressionist,adjective,c1
+117,ink_1,ink,noun,b2
+118,ink_2,ink,verb,c2
+119,inspiration,inspiration,noun,c1
+120,inspire,inspire,verb,b2
+121,installation,installation,noun,c2
+122,intaglio,intaglio,noun,c2
+123,kiln,kiln,noun,c2
+124,kinetic-art,kinetic art,noun,c2
+125,kitsch_1,kitsch,noun,c2
+126,landscape_1,landscape,noun,c1
+127,life-drawing,life drawing,noun,c2
+128,likeness,likeness,noun,c2
+129,line-drawing,line drawing,noun,c1
+130,lowbrow,lowbrow,adjective,c2
+131,magnum-opus,magnum opus,noun,c2
+132,mannerism,mannerism,noun,c2
+133,master_1,master,noun,c1
+134,masterpiece_1,masterpiece,noun,b2
+135,masterwork,masterwork,noun,c2
+136,medium_2,medium,noun,c2
+137,minimalism,minimalism,noun,c2
+138,minimalist_1,minimalist,adjective,c2
+139,minimalist_2,minimalist,noun,c2
+140,mixed-media,mixed media,noun,c2
+141,model_2,model,verb,c1
+142,modernism,modernism,noun,c1
+143,monochrome_1,monochrome,adjective,c2
+144,mould_2,mould,verb,c1
+145,mural_1,mural,adjective,c2
+146,mural_2,mural,noun,c1
+147,muse_1,muse,noun,c2
+148,naturalism,naturalism,noun,c2
+149,needlecraft,needlecraft,noun,c2
+150,neoclassical,neoclassical,adjective,c2
+151,neoclassicism,neoclassicism,noun,c2
+152,nude_2,nude,noun,c2
+153,oil_1,oil,noun,c1
+154,oil-colour,oil colour,noun,c2
+155,oil-paint,oil paint,noun,b2
+156,oil-painting,oil painting,noun,c1
+157,old-master,old master,noun,c2
+158,origami,origami,noun,c2
+159,paint_1,paint,noun,a2
+160,paint_2,paint,verb,a1
+161,paintbrush,paintbrush,noun,a2
+162,painter,painter,noun,a2
+163,painting,painting,noun,a1
+164,palette,palette,noun,c1
+165,pastel,pastel,noun,c2
+166,patron,patron,noun,c1
+167,pavement-artist,pavement artist,noun,b2
+168,performance-art,performance art,noun,c1
+169,perspective,perspective,noun,c2
+170,photomontage,photomontage,noun,c2
+171,photorealism,photorealism,noun,c2
+172,pigment,pigment,noun,c2
+173,pointillism,pointillism,noun,c2
+174,pointillist_1,pointillist,noun,c2
+175,pop-art,pop art,noun,c2
+176,portrait,portrait,noun,b1
+177,portraiture,portraiture,noun,c2
+178,pose_1,pose,verb,c1
+179,pose_2,pose,noun,c1
+180,post-impressionism,post-Impressionism,noun,c2
+181,post-impressionist_1,post-Impressionist,adjective,c2
+182,post-impressionist_2,post-Impressionist,noun,c2
+183,postmodernism,postmodernism,noun,c2
+184,postmodernist_2,postmodernist,noun,c2
+185,pottery,pottery,noun,c1
+186,primitivism,primitivism,noun,c2
+187,print_2,print,noun,c1
+188,printing,printing,noun,b1
+189,printmaker,printmaker,noun,c2
+190,printmaking,printmaking,noun,c2
+191,private-view,private view,noun,c2
+192,realism,realism,noun,c1
+193,realistic,realistic,adjective,b2
+194,renaissance,renaissance,noun,c1
+195,represent,represent,verb,b1
+196,representational,representational,adjective,c2
+197,reproduction,reproduction,noun,c1
+198,residency,residency,noun,c2
+199,restoration,restoration,noun,c1
+200,restore,restore,verb,b2
+201,retrospective_2,retrospective,noun,c2
+202,rococo,rococo,adjective,c2
+203,romanticism,romanticism,noun,c1
+204,scene,scene,noun,a2
+205,school_1,school,noun,c2
+206,screen-print_2,screen-print,verb,c2
+207,sculpt,sculpt,verb,c1
+208,sculptor,sculptor,noun,c1
+209,sculpture,sculpture,noun,b1
+210,seascape,seascape,noun,c2
+211,self-portrait,self-portrait,noun,b2
+212,sepia_2,sepia,noun,c2
+213,shade_2,shade,verb,c1
+214,shading,shading,noun,c1
+215,silhouette_1,silhouette,noun,c1
+216,sitter,sitter,noun,c1
+217,sketch_1,sketch,noun,c1
+218,sketch_2,sketch,verb,c1
+219,smudge_2,smudge,verb,c2
+220,socialist-realism,socialist realism,noun,c2
+221,sombre,sombre,adjective,c2
+222,splatter,splatter,verb,c2
+223,spray-paint_1,spray paint,noun,c1
+224,spray-paint_2,spray-paint,verb,c2
+225,statue,statue,noun,b1
+226,the-avant-garde,the avant-garde,noun,c2
+227,stencil_1,stencil,noun,c2
+228,stencil_2,stencil,verb,c2
+229,still-life,still life,noun,c1
+230,stretcher_1,stretcher,noun,c2
+231,studio,studio,noun,b1
+232,study_1,study,noun,c2
+233,style_1,style,noun,a2
+234,stylistic,stylistic,adjective,c1
+235,subject-matter,subject matter,noun,b2
+236,surreal,surreal,adjective,c1
+237,surrealism,surrealism,noun,c1
+238,surrealist_1,surrealist,noun,c1
+239,surrealist_2,surrealist,adjective,c1
+240,symbolic,symbolic,adjective,c1
+241,symbolism,symbolism,noun,c1
+242,symbolist_2,symbolist,adjective,c2
+243,tableau,tableau,noun,c2
+244,tapestried,tapestried,adjective,c2
+245,tapestry,tapestry,noun,c2
+246,tempera,tempera,noun,c2
+247,townscape,townscape,noun,c2
+248,triptych,triptych,noun,c2
+249,view_1,view,noun,c2
+250,viewpoint,viewpoint,noun,c1
+251,vivid,vivid,adjective,b2
+252,watercolour,watercolour,noun,c1
+253,work_1,work,verb,a2
+254,work_2,work,noun,a2
+255,18,18,noun,c2
+256,act_1,act,verb,a2
+257,act_2,act,noun,c1
+258,acting_1,acting,noun,a2
+259,action_1,action,noun,b2
+260,actioner,actioner,noun,c2
+261,action-film,action film,noun,b1
+262,action-movie,action movie,noun,b1
+263,actor,actor,noun,a1
+264,actor-manager,actor-manager,noun,c1
+265,actress,actress,noun,a1
+266,adapt,adapt,verb,b2
+267,adaptation,adaptation,noun,c1
+268,ad-lib_1,ad lib,adverb,c2
+269,ad-lib_2,ad lib,noun,c2
+270,ad-lib_3,ad-lib,verb,c2
+271,ad-lib_4,ad-lib,adjective,c2
+272,agent,agent,noun,b1
+273,aisle,aisle,noun,b2
+274,allegory,allegory,noun,c2
+275,amateur-dramatics,amateur dramatics,noun,c2
+276,animate_1,animate,verb,c1
+277,animated,animated,adjective,b2
+278,animation,animation,noun,b2
+279,anime,anime,noun,c2
+280,appear,appear,verb,b2
+281,art-director,art director,noun,c1
+282,artistic-director,artistic director,noun,c1
+283,aside_2,aside,noun,c2
+284,audience,audience,noun,a2
+285,audition_2,audition,verb,c2
+286,auditorium,auditorium,noun,c2
+287,backcloth,backcloth,noun,c1
+288,backdrop,backdrop,noun,c1
+289,backlot,backlot,noun,c2
+290,backstage_1,backstage,adverb,c2
+291,backstory,backstory,noun,c1
+292,baddy,baddy,noun,c2
+293,balcony,balcony,noun,c2
+294,ballet,ballet,noun,b2
+295,can2_1,be in the can,idiom,c2
+296,benefit_1,benefit,noun,c2
+297,bill_1,bill,noun,c2
+298,biopic,biopic,noun,c2
+299,bit-part,bit part,noun,c2
+300,bit-player,bit player,noun,c2
+301,black_2,black and white,idiom,a1
+302,blockbuster,blockbuster,noun,c1
+303,blockbusting,blockbusting,adjective,c2
+304,blu-ray,Blu-ray,noun,c1
+305,blu-ray-disctm,Blu-ray Disc™,noun,c1
+306,b-movie,B-movie,noun,c2
+307,bodice-ripper,bodice-ripper,noun,c2
+308,body-double,body double,noun,c2
+309,bollywood,Bollywood,noun,c1
+310,booking,booking,noun,b2
+311,booking-office,booking office,noun,b2
+312,box-office,box office,noun,b2
+313,b-picture,B-picture,noun,c2
+314,broadway,Broadway,noun,c1
+315,buddy-movie,buddy movie,noun,c2
+316,buff_1,buff,noun,c2
+317,cameo,cameo,noun,c2
+318,camera,camera,noun,a1
+319,cameraman,cameraman,noun,b1
+320,camerawoman,camerawoman,noun,b1
+321,camerawork,camerawork,noun,c1
+322,canister,canister,noun,c2
+323,cartoon,cartoon,noun,a2
+324,cast_1,cast,verb,c1
+325,cast_2,cast,noun,b2
+326,casting,casting,noun,c1
+327,castmate,castmate,noun,c2
+328,celluloid,celluloid,noun,c2
+329,cgi,CGI,abbreviation,c2
+330,character,character,noun,a2
+331,character-actor,character actor,noun,c1
+332,chick-flick,chick flick,noun,c2
+333,chorus_1,chorus,noun,c2
+334,chorus-line,chorus line,noun,c2
+335,cinema,cinema,noun,a1
+336,cinemagoer,cinemagoer,noun,c1
+337,cinematography,cinematography,noun,c2
+338,circle_1,circle,noun,c2
+339,clapperboard,clapperboard,noun,c2
+340,classic_2,classic,noun,b2
+341,cliffhanger,cliffhanger,noun,c2
+342,climax_1,climax,noun,c1
+343,clip_1,clip,noun,b2
+344,close-up_2,close-up,noun,c1
+345,colorize,colorize,verb,c2
+346,colourize,colourize,verb,c2
+347,comedy,comedy,noun,a2
+348,comedy-of-manners,comedy of manners,noun,c2
+349,community-theater,community theater,noun,c2
+350,continuity,continuity,noun,c2
+351,co-star_2,co-star,noun,c1
+352,costume,costume,noun,b1
+353,costume-drama,costume drama,noun,c1
+354,costumier,costumier,noun,c2
+355,coup-de-theatre,coup de théâtre,noun,c2
+356,credit_1,credit,noun,c2
+357,critic,critic,noun,b2
+358,cue_1,cue,noun,b2
+359,curtain_1,curtain,noun,b1
+360,curtain-call,curtain call,noun,c2
+361,curtain-up,curtain-up,noun,c2
+362,cut_1,cut,verb,c1
+363,cut_2,cut,noun,c1
+364,debutant,debutant,noun,c2
+365,debutante,debutante,noun,c2
+366,denouement,denouement,noun,c2
+367,detective-story,detective story,noun,a2
+368,dialogue,dialogue,noun,a1
+369,direct_2,direct,verb,b1
+370,direction,direction,noun,c1
+371,director,director,noun,a2
+372,director-s-chair,director’s chair,noun,b2
+373,director-s-cut,director’s cut,noun,c2
+374,dolly_1,dolly,noun,c2
+375,doorman,doorman,noun,c1
+376,doorwoman,doorwoman,noun,c1
+377,double_6,double,noun,b2
+378,downstage_2,downstage,adverb,c2
+379,drama,drama,noun,a2
+380,dramatic,dramatic,adjective,b2
+381,dramatic-irony,dramatic irony,noun,c2
+382,dramatis-personae,dramatis personae,noun,c2
+383,dramatist,dramatist,noun,c1
+384,dramatize,dramatize,verb,c1
+385,dresser,dresser,noun,c1
+386,dressing-room,dressing room,noun,c2
+387,dress-rehearsal,dress rehearsal,noun,c1
+388,drive-in_2,drive-in,noun,c2
+389,drop-curtain,drop curtain,noun,c2
+390,dub_1,dub,verb,c1
+391,dvd,DVD,noun,a1
+392,edit_2,edit,verb,b2
+393,editor,editor,noun,b2
+394,enact,enact,verb,c2
+395,ending,ending,noun,a2
+396,entr-acte,entr’acte,noun,c2
+397,epic_1,epic,noun,c1
+398,epilogue,epilogue,noun,c2
+399,exit_1,exit,noun,c1
+400,extra_2,extra,noun,c1
+401,fade-in_2,fade-in,noun,c2
+402,fade-out_2,fade-out,noun,c2
+403,farce,farce,noun,c2
+404,feature_1,feature,noun,c1
+405,feature-film,feature film,noun,c1
+406,feature-length,feature-length,adjective,c2
+407,fictionalize,fictionalize,verb,c2
+408,film_1,film,noun,a1
+409,film_2,film,verb,a2
+410,filmgoer,filmgoer,noun,c1
+411,film-maker,film-maker,noun,c1
+412,film-noir,film noir,noun,c2
+413,film-star,film star,noun,a1
+414,filmstrip,filmstrip,noun,c2
+415,first-night,first night,noun,c2
+416,flashback,flashback,noun,c2
+417,flash-forward,flash-forward,noun,c2
+418,fleapit,fleapit,noun,c2
+419,floodlight_1,floodlight,noun,c1
+420,flop_1,flop,verb,c2
+421,flop_2,flop,noun,c2
+422,footage,footage,noun,c1
+423,footlights,footlights,noun,c2
+424,fourth-wall,fourth wall,noun,c2
+425,foyer,foyer,noun,c2
+426,fps_1,fps,abbreviation,c2
+427,frame_1,frame,noun,c1
+428,franchise_1,franchise,noun,c2
+429,freeze_1,freeze,verb,c2
+430,freeze-frame,freeze-frame,noun,c2
+431,fringe-theatre,fringe theatre,noun,c2
+432,front-of-house_2,front of house,noun,c2
+433,gaffer,gaffer,noun,c2
+434,gallery,gallery,noun,c2
+435,gangway,gangway,noun,c2
+436,genre,genre,noun,b2
+437,god,god,noun,c2
+438,goodie,goodie,noun,c2
+439,goody_1,goody,noun,c2
+440,green-room,green room,noun,c2
+441,grip_1,grip,noun,c2
+442,ham_1,ham,noun,c2
+443,hd,HD,noun,c1
+444,heart-throb,heart-throb,noun,c2
+445,hero,hero,noun,a2
+446,heroine,heroine,noun,a2
+447,hollywood,Hollywood,noun,a2
+448,hollywood-ending,Hollywood ending,noun,c2
+449,home-cinema,home cinema,noun,b1
+450,home-theater,home theater,noun,b1
+451,horror,horror,noun,b1
+452,house_1,house,noun,c2
+453,intercut,intercut,verb,c2
+454,interlude,interlude,noun,c2
+455,intermission,intermission,noun,c2
+456,interpretation,interpretation,noun,c1
+457,interval,interval,noun,b2
+458,kabuki,kabuki,noun,c2
+459,key-grip,key grip,noun,c2
+460,kollywood,Kollywood,noun,c2
+461,lead1_2,lead,noun,c1
+462,leading-lady,leading lady,noun,c1
+463,lighting-engineer,lighting engineer,noun,b2
+464,line_1,line,noun,b1
+465,location,location,noun,b1
+466,love-interest,love interest,noun,c1
+467,m_2,M,noun,c1
+468,make-up_2,make-up,noun,b2
+469,manager,manager,noun,b2
+470,masque,masque,noun,c2
+471,master_1,master,noun,c2
+472,masterpiece_1,masterpiece,noun,b2
+473,masterwork,masterwork,noun,c2
+474,matinee,matinee,noun,c2
+475,matinee-idol,matinee idol,noun,c2
+476,megastar,megastar,noun,c2
+477,melodrama,melodrama,noun,c2
+478,merchandising,merchandising,noun,c2
+479,meta_1,meta,adjective,c2
+480,method-acting,method acting,noun,c2
+481,mezzanine,mezzanine,noun,c2
+482,mime_1,mime,noun,c2
+483,miscast,miscast,verb,c2
+484,mixer,mixer,noun,c2
+485,monologue,monologue,noun,c2
+486,montage,montage,noun,c2
+487,morality-play,morality play,noun,c2
+488,motion-picture,motion picture,noun,c2
+489,movie,movie,noun,a1
+490,moviegoer,moviegoer,noun,c1
+491,movie-star,movie star,noun,a1
+492,movie-theater,movie theater,noun,a1
+493,multiplex,multiplex,noun,c1
+494,musical_2,musical,noun,b1
+495,music-hall,music hall,noun,c2
+496,mystery-play,mystery play,noun,c2
+497,narrate,narrate,verb,c1
+498,nativity-play,nativity play,noun,c2
+499,new-wave,new wave,noun,c2
+500,off-broadway,off-Broadway,adjective,c2
+501,offstage_1,offstage,adjective,c2
+502,offstage_2,offstage,adverb,c2
+503,onstage_1,onstage,adjective,c2
+504,onstage_2,onstage,adverb,c2
+505,opening_1,opening,noun,b2
+506,opening-night,opening night,noun,b2
+507,orchestra,orchestra,noun,c2
+508,orchestra-pit,orchestra pit,noun,c2
+509,out-take,out-take,noun,c2
+510,ovation,ovation,noun,c2
+511,overact,overact,verb,c2
+512,pantomime,pantomime,noun,c2
+513,part_1,part,noun,b1
+514,perform,perform,verb,a2
+515,performance,performance,noun,b1
+516,performer,performer,noun,b1
+517,period-piece,period piece,noun,c2
+518,pg,PG,abbreviation,c2
+519,play_2,play,noun,a1
+520,playbill,playbill,noun,c2
+521,player,player,noun,c2
+522,playgoer,playgoer,noun,c1
+523,playwright,playwright,noun,c1
+524,plot_1,plot,noun,b1
+525,plug_1,plug,verb,c2
+526,portray,portray,verb,c1
+527,potboiler,potboiler,noun,c2
+528,premiere_1,premiere,noun,c1
+529,pre-production_1,pre-production,noun,c2
+530,pre-production_2,pre-production,adjective,c2
+531,prequel,prequel,noun,c2
+532,press-agent,press agent,noun,c2
+533,preview_1,preview,noun,b2
+534,preview_2,preview,verb,b1
+535,prima-donna,prima donna,noun,c2
+536,produce_1,produce,verb,b2
+537,producer,producer,noun,b1
+538,production,production,noun,b2
+539,production-number,production number,noun,c2
+540,production-values,production values,noun,c2
+541,projector,projector,noun,c1
+542,prologue,prologue,noun,c2
+543,promoter,promoter,noun,c1
+544,prompt_1,prompt,verb,c2
+545,prompt_3,prompt,noun,c2
+546,prompter,prompter,noun,c2
+547,prop_1,prop,noun,c2
+548,proscenium,proscenium,noun,c2
+549,protagonist,protagonist,noun,c2
+550,psychodrama,psychodrama,noun,c2
+551,publicist,publicist,noun,c2
+552,put-on_1,put on,phrasal verb,c1
+553,r_3,R,abbreviation,c2
+554,rating,rating,noun,c2
+555,rave-review,rave review,noun,c2
+556,read-through_2,read-through,noun,c2
+557,reel_1,reel,noun,c1
+558,rehearsal,rehearsal,noun,b2
+559,rehearse,rehearse,verb,b2
+560,release_1,release,verb,b2
+561,release_2,release,noun,b2
+562,remake_1,remake,noun,c1
+563,review_1,review,noun,a2
+564,review_2,review,verb,a2
+565,revival,revival,noun,c2
+566,revue,revue,noun,c2
+567,road-movie,road movie,noun,c1
+568,role,role,noun,a2
+569,romcom,romcom,noun,c2
+570,rough-cut_1,rough cut,noun,c2
+571,routine_1,routine,noun,b2
+572,running-time,running time,noun,c2
+573,run-through_2,run-through,noun,c2
+574,safety-curtain,safety curtain,noun,c2
+575,scenario,scenario,noun,b2
+576,scene,scene,noun,a2
+577,scenery,scenery,noun,b1
+578,scene-shifter,scene-shifter,noun,c2
+579,scene-shifting,scene-shifting,noun,c2
+580,science-fiction,science fiction,noun,a2
+581,sci-fi,sci-fi,noun,b2
+582,score_2,score,noun,c1
+583,screen_1,screen,noun,a2
+584,screen_2,screen,verb,b2
+585,screening,screening,noun,b2
+586,screenplay,screenplay,noun,c1
+587,screen-test,screen test,noun,c2
+588,screenwriter,screenwriter,noun,b2
+589,script_1,script,noun,b1
+590,season_1,season,noun,b2
+591,sell-out_2,sell-out,noun,c2
+592,sequel,sequel,noun,c1
+593,sequence_1,sequence,noun,c2
+594,set_1,set,verb,b1
+595,set_2,set,noun,b2
+596,set-piece,set piece,noun,c2
+597,setting,setting,noun,b1
+598,sfx,SFX,abbreviation,c2
+599,shoot_1,shoot,verb,b2
+600,shooting,shooting,noun,b2
+601,short_3,short,noun,c2
+602,shot_1,shot,noun,b2
+603,show-business,show business,noun,b2
+604,showing,showing,noun,c1
+605,silent,silent,adjective,b2
+606,sketch_1,sketch,noun,c1
+607,slasher,slasher,noun,c2
+608,sleeper,sleeper,noun,c2
+609,smash_2,smash,noun,c2
+610,soliloquy,soliloquy,noun,c2
+611,sound_1,sound,noun,a1
+612,sound-effect,sound effect,noun,b2
+613,sound-stage,sound stage,noun,c2
+614,soundtrack,soundtrack,noun,c1
+615,spaghetti-western,spaghetti western,noun,c2
+616,special-effects,special effects,noun,b1
+617,speech,speech,noun,b1
+618,spin-off_2,spin-off,noun,c2
+619,spoiler,spoiler,noun,c2
+620,spoiler-alert,spoiler alert,noun,c2
+621,spoof_1,spoof,noun,c2
+622,spotlight_1,spotlight,noun,c1
+623,stage_1,stage,noun,b1
+624,stage_2,stage,verb,b2
+625,stagecraft,stagecraft,noun,c2
+626,stage-direction,stage direction,noun,c2
+627,stage-door,stage door,noun,c2
+628,stagehand,stagehand,noun,c2
+629,stage-left,stage left,adverb,c2
+630,stage-manager,stage manager,noun,c2
+631,stage-right,stage right,adverb,c2
+632,stage-struck,stage-struck,adjective,c2
+633,stage-whisper,stage whisper,noun,c2
+634,stall_1,stall,noun,c2
+635,stand-in_2,stand-in,noun,c2
+636,star_1,star,noun,a1
+637,starlet,starlet,noun,c2
+638,the-big-screen,the big screen,noun,c2
+639,the-performing-arts,the performing arts,noun,b2
+640,the-silver-screen,the silver screen,noun,c2
+641,still_3,still,noun,c2
+642,storyboard_1,storyboard,noun,c2
+643,storyboard_2,storyboard,verb,c2
+644,storyboarding,storyboarding,noun,c2
+645,story-editor,story editor,noun,c2
+646,storyline,storyline,noun,b2
+647,studio,studio,noun,b1
+648,stunt_1,stunt,noun,b2
+649,stuntman,stuntman,noun,c1
+650,stuntwoman,stuntwoman,noun,c1
+651,subplot,subplot,noun,c2
+652,subtitle_1,subtitle,noun,b2
+653,superhero,superhero,noun,b1
+654,superstar,superstar,noun,b1
+655,supporting,supporting,adjective,c2
+656,surtitles,surtitles,noun,c2
+657,suspenseful,suspenseful,adjective,c2
+658,take_2,take,noun,c1
+659,takings,takings,noun,c2
+660,talkie,talkie,noun,c2
+661,tear-jerker,tear-jerker,noun,c2
+662,telefilm,telefilm,noun,c2
+663,tension_1,tension,noun,b2
+664,theatre,theatre,noun,a1
+665,theatregoer,theatregoer,noun,c1
+666,theatre-going,theatre-going,adjective,c1
+667,theatrical,theatrical,adjective,c1
+668,theme-music,theme music,noun,c1
+669,thriller,thriller,noun,b1
+670,tout_2,tout,noun,c2
+671,tragedian,tragedian,noun,c2
+672,tragedy,tragedy,noun,b2
+673,tragicomedy,tragicomedy,noun,c2
+674,trailer,trailer,noun,c1
+675,trouper,trouper,noun,c2
+676,twist_2,twist,noun,c1
+677,two-hander,two-hander,noun,c2
+678,typecast,typecast,verb,c2
+679,u_2,U,abbreviation,c2
+680,understudy_1,understudy,noun,c2
+681,upper-circle,upper circle,noun,c2
+682,upstage_1,upstage,adverb,c2
+683,usher_1,usher,noun,c2
+684,usherette,usherette,noun,c2
+685,variety_1,variety,noun,c2
+686,vaudeville,vaudeville,noun,c2
+687,villain,villain,noun,b2
+688,voice-over,voice-over,noun,c1
+689,wardrobe,wardrobe,noun,c2
+690,wardrobe-master,wardrobe master,noun,c2
+691,wardrobe-mistress,wardrobe mistress,noun,c2
+692,weepy_2,weepy,noun,c2
+693,western_2,western,noun,b1
+694,whodunnit,whodunnit,noun,c2
+695,wind-machine,wind machine,noun,b2
+696,wing_1,wing,noun,c2
+697,young-adult_2,young adult,adjective,b1
+698,zoom-in,zoom in,phrasal verb,c2
+699,zoom-out,zoom out,phrasal verb,c2
+700,abridge,abridge,verb,c2
+701,abridged,abridged,adjective,c2
+702,abridgement,abridgement,noun,c2
+703,acrostic,acrostic,noun,c2
+704,adapt,adapt,verb,b2
+705,addendum,addendum,noun,c2
+706,advice-columnist,advice columnist,noun,c1
+707,afrofuturism,Afrofuturism,noun,c2
+708,afrofuturist_1,Afrofuturist,noun,c2
+709,afrofuturist_2,Afrofuturist,adjective,c2
+710,afterword,afterword,noun,c2
+711,agony-aunt,agony aunt,noun,c2
+712,allegorical,allegorical,adjective,c2
+713,allegory,allegory,noun,c2
+714,alliteration,alliteration,noun,c2
+715,anapaest,anapaest,noun,c2
+716,anecdote,anecdote,noun,b2
+717,antagonist,antagonist,noun,c2
+718,anti-hero,anti-hero,noun,c2
+719,appendix,appendix,noun,c1
+720,arc_1,arc,noun,c2
+721,licence,artistic/poetic licence,idiom,c2
+722,author_1,author,noun,a2
+723,author_2,author,verb,b2
+724,autobiographical,autobiographical,adjective,c1
+725,autobiography,autobiography,noun,b2
+726,backstory,backstory,noun,c1
+727,baddy,baddy,noun,c2
+728,bard,bard,noun,c2
+729,beginning,beginning,noun,a1
+730,believable,believable,adjective,b2
+731,bestseller,bestseller,noun,b2
+732,binding_2,binding,noun,c2
+733,biographer,biographer,noun,c1
+734,biography,biography,noun,c1
+735,blank-verse,blank verse,noun,c2
+736,blogger,blogger,noun,b1
+737,blurb,blurb,noun,c2
+738,book_1,book,noun,a1
+739,caesura,caesura,noun,c2
+740,canonical,canonical,adjective,c2
+741,canto,canto,noun,c2
+742,caption_1,caption,noun,b2
+743,chapter,chapter,noun,b1
+744,character,character,noun,a2
+745,characterization,characterization,noun,c1
+746,chick-lit,chick lit,noun,c2
+747,chronicle_2,chronicle,verb,c2
+748,classic_2,classic,noun,b2
+749,co-author_1,co-author,verb,c1
+750,co-author_2,co-author,noun,c1
+751,co-authorship,co-authorship,noun,c2
+752,codex,codex,noun,c2
+753,collaborator,collaborator,noun,c2
+754,column,column,noun,a2
+755,columnist,columnist,noun,c1
+756,comic_1,comic,adjective,b2
+757,comic-strip,comic strip,noun,c1
+758,commentator,commentator,noun,c1
+759,commission_2,commission,verb,b2
+760,compose,compose,verb,c1
+761,conceit,conceit,noun,c2
+762,concise,concise,adjective,c1
+763,conclusion,conclusion,noun,b1
+764,corny,corny,adjective,c2
+765,correspondent,correspondent,noun,c1
+766,couplet,couplet,noun,c2
+767,cover_2,cover,noun,b1
+768,critic,critic,noun,b2
+769,cyberpunk,cyberpunk,noun,c2
+770,dactyl,dactyl,noun,c2
+771,depict,depict,verb,c1
+772,description,description,noun,a1
+773,dialogue,dialogue,noun,a1
+774,diarist,diarist,noun,c2
+775,dictate_1,dictate,verb,c1
+776,dime-novel,dime novel,noun,c2
+777,direct-speech,direct speech,noun,b1
+778,doggerel,doggerel,noun,c2
+779,draft_2,draft,verb,b2
+780,dramatic-monologue,dramatic monologue,noun,c2
+781,dramatist,dramatist,noun,c1
+782,e-book,e-book,noun,b2
+783,edgy,edgy,adjective,c2
+784,edit_2,edit,verb,b2
+785,edition,edition,noun,b2
+786,editor,editor,noun,b1
+787,elegiac-couplet,elegiac couplet,noun,c2
+788,elegy,elegy,noun,c2
+789,end_1,end,noun,a1
+790,ending,ending,noun,a2
+791,enjambement,enjambement,noun,c2
+792,entry,entry,noun,b1
+793,epic_1,epic,noun,c2
+794,epigram,epigram,noun,c2
+795,epigraph,epigraph,noun,c2
+796,epilogue,epilogue,noun,c2
+797,episode,episode,noun,b1
+798,e-reader,e-reader,noun,b2
+799,erratum,erratum,noun,c2
+800,essayist,essayist,noun,c2
+801,excerpt_2,excerpt,noun,b1
+802,fable,fable,noun,c1
+803,fairy-tale_1,fairy tale,noun,b1
+804,fantasy,fantasy,noun,b2
+805,fanzine,fanzine,noun,c2
+806,far-fetched,far-fetched,adjective,c2
+807,fiction,fiction,noun,a2
+808,flowery,flowery,adjective,c2
+809,folio,folio,noun,c2
+810,folk-tale,folk tale,noun,c1
+811,foot_1,foot,noun,c2
+812,footnote,footnote,noun,c1
+813,foreword,foreword,noun,c2
+814,free-verse,free verse,noun,c2
+815,frontispiece,frontispiece,noun,c2
+816,gatefold,gatefold,noun,c2
+817,print_2,get into print,idiom,c1
+818,ghost-story,ghost story,noun,b1
+819,ghostwrite,ghostwrite,verb,c2
+820,ghostwriter,ghostwriter,noun,c2
+821,gloss_2,gloss,verb,c2
+822,glossary,glossary,noun,b1
+823,gnome,gnome,noun,c2
+824,goodie,goodie,noun,c2
+825,goody_1,goody,noun,c2
+826,graphic-novel,graphic novel,noun,c1
+827,gripping,gripping,adjective,c1
+828,hack_2,hack,noun,c2
+829,hagiographer,hagiographer,noun,c2
+830,hagiography,hagiography,noun,c2
+831,haiku,haiku,noun,c2
+832,hardback,hardback,noun,c1
+833,hardcover,hardcover,noun,c1
+834,heart-rending,heart-rending,adjective,c2
+835,heavy_1,heavy,adjective,c1
+836,hero,hero,noun,a2
+837,heroic-couplet,heroic couplet,noun,c2
+838,heroine,heroine,noun,a2
+839,hexameter,hexameter,noun,c2
+840,highbrow,highbrow,adjective,c2
+841,historian,historian,noun,b2
+842,historical,historical,adjective,b1
+843,horror-story,horror story,noun,b1
+844,humorist,humorist,noun,c2
+845,hyperbole,hyperbole,noun,c2
+846,iamb,iamb,noun,c2
+847,iambus,iambus,noun,c2
+848,illustrate,illustrate,verb,b2
+849,illustrator,illustrator,noun,b2
+850,image,image,noun,b2
+851,imagery,imagery,noun,c1
+852,index_1,index,noun,b2
+853,indirect-speech,indirect speech,noun,b1
+854,inscription,inscription,noun,c2
+855,inspiration,inspiration,noun,c1
+856,inspire,inspire,verb,b2
+857,internal-rhyme,internal rhyme,noun,c2
+858,introduction,introduction,noun,a2
+859,jacket,jacket,noun,c1
+860,jot-down,jot down,phrasal verb,c1
+861,journal,journal,noun,b1
+862,journalist,journalist,noun,a2
+863,labored,labored,adjective,c2
+864,laboured,laboured,adjective,c2
+865,lament_2,lament,noun,c2
+866,lampoon_1,lampoon,verb,c2
+867,lampoon_2,lampoon,noun,c2
+868,leaf_1,leaf,noun,c1
+869,leaflet_1,leaflet,noun,b2
+870,legend,legend,noun,b2
+871,leitmotif,leitmotif,noun,c2
+872,letter_1,letter,noun,a1
+873,lexicographer,lexicographer,noun,c2
+874,librettist,librettist,noun,c2
+875,light_2,light,adjective,b2
+876,limerick_1,limerick,noun,c2
+877,limited-edition,limited edition,noun,c2
+878,line_1,line,noun,a1
+879,literary,literary,adjective,b2
+880,literature,literature,noun,b1
+881,love-interest,love interest,noun,c2
+882,lowbrow,lowbrow,adjective,c2
+883,lurid,lurid,adjective,c2
+884,lyricism,lyricism,noun,c2
+885,lyricist,lyricist,noun,c2
+886,magazine,magazine,noun,a1
+887,magnum-opus,magnum opus,noun,c2
+888,mannered,mannered,adjective,c2
+889,man-of-letters,man of letters,noun,c2
+890,margin,margin,noun,b2
+891,marginalia,marginalia,noun,c2
+892,masterpiece_1,masterpiece,noun,b2
+893,masterwork,masterwork,noun,c2
+894,melodrama,melodrama,noun,c2
+895,message_1,message,noun,b1
+896,meta_1,meta,adjective,c2
+897,metaphor,metaphor,noun,b2
+898,metre,metre,noun,c2
+899,miscellanea,miscellanea,noun,c2
+900,monograph,monograph,noun,c2
+901,monologue,monologue,noun,c2
+902,motif,motif,noun,c2
+903,moving,moving,adjective,b2
+904,muse_1,muse,noun,c2
+905,mystery,mystery,noun,b1
+906,myth,myth,noun,b2
+907,narration,narration,noun,c1
+908,narrative_1,narrative,noun,b1
+909,narrator,narrator,noun,b2
+910,naturalistic,naturalistic,adjective,c2
+911,novel_1,novel,noun,a2
+912,novelist,novelist,noun,b2
+913,novella,novella,noun,c2
+914,ode,ode,noun,c2
+915,oeuvre,oeuvre,noun,c2
+916,original_1,original,adjective,b1
+917,pacey,pacey,adjective,c2
+918,pacy,pacy,adjective,c2
+919,page_1,page,noun,a1
+920,page-turner,page-turner,noun,c2
+921,pamphlet,pamphlet,noun,c1
+922,pamphleteer,pamphleteer,noun,c2
+923,paper_1,paper,noun,a2
+924,paperback,paperback,noun,c1
+925,parable,parable,noun,c2
+926,parody_1,parody,noun,c2
+927,parody_2,parody,verb,c2
+928,passage,passage,noun,b2
+929,pen_2,pen,verb,c2
+930,pen-name,pen name,noun,c2
+931,pentameter,pentameter,noun,c2
+932,photonovel,photonovel,noun,c2
+933,picaresque,picaresque,adjective,c2
+934,pictorial,pictorial,adjective,c2
+935,playwright,playwright,noun,c1
+936,plot_1,plot,noun,b1
+937,plot_2,plot,verb,b2
+938,plot-hole,plot hole,noun,c2
+939,poem,poem,noun,b1
+940,poet,poet,noun,b1
+941,poetic,poetic,adjective,c1
+942,poetics,poetics,noun,c2
+943,poetry,poetry,noun,b1
+944,potboiler,potboiler,noun,c2
+945,potted,potted,adjective,c2
+946,preamble,preamble,noun,c2
+947,preface_1,preface,noun,c2
+948,print_1,print,verb,a2
+949,prolix,prolix,adjective,c2
+950,prolixity,prolixity,noun,c2
+951,proofread,proofread,verb,c1
+952,proofreader,proofreader,noun,c1
+953,prose,prose,noun,c1
+954,prose-poem,prose poem,noun,c2
+955,prosody,prosody,noun,c2
+956,protagonist,protagonist,noun,c2
+957,psalm,psalm,noun,c2
+958,publication,publication,noun,b2
+959,publish,publish,verb,a2
+960,publisher,publisher,noun,b1
+961,publishing,publishing,noun,b2
+962,quatrain,quatrain,noun,c2
+963,quotation,quotation,noun,b1
+964,quote_1,quote,verb,b1
+965,racy,racy,adjective,c2
+966,rambling_1,rambling,adjective,c2
+967,raunchy,raunchy,adjective,c2
+968,readable,readable,adjective,c1
+969,realistic,realistic,adjective,b2
+970,report_1,report,noun,a1
+971,reporter,reporter,noun,a2
+972,review_1,review,noun,a2
+973,review_2,review,verb,a2
+974,reviewer,reviewer,noun,b1
+975,rhyme_1,rhyme,noun,b2
+976,rhyme_2,rhyme,verb,b2
+977,romance_1,romance,noun,c1
+978,saga_1,saga,noun,c2
+979,satire,satire,noun,c2
+980,satirist,satirist,noun,c2
+981,satirize,satirize,verb,c2
+982,scansion,scansion,noun,c2
+983,science-fiction,science fiction,noun,a2
+984,sci-fi,sci-fi,noun,b2
+985,screenwriter,screenwriter,noun,b2
+986,scribble_1,scribble,verb,c2
+987,script_2,script,verb,c1
+988,scriptwriter,scriptwriter,noun,b2
+989,self-referential,self-referential,adjective,c2
+990,sequel,sequel,noun,c1
+991,set-book,set book,noun,b2
+992,set-text,set text,noun,b2
+993,setting,setting,noun,b1
+994,short-story,short story,noun,a2
+995,sketch_1,sketch,noun,b2
+996,slam_2,slam,noun,c2
+997,songwriter,songwriter,noun,b1
+998,sonnet,sonnet,noun,c2
+999,spine,spine,noun,c2
+1000,spine-chilling,spine-chilling,adjective,c2
+1001,spoken-word,spoken word,noun,c2
+1002,stanza,stanza,noun,c2
+1003,the-first-person,the first person,noun,c1
+1004,the-second-person,the second person,noun,c1
+1005,the-third-person,the third person,noun,c1
+1006,story,story,noun,a1
+1007,storyline,storyline,noun,b2
+1008,storyteller,storyteller,noun,b2
+1009,storytelling,storytelling,noun,b2
+1010,strip-cartoon,strip cartoon,noun,c1
+1011,style_1,style,noun,a2
+1012,stylistic,stylistic,adjective,c1
+1013,subject-matter,subject matter,noun,b2
+1014,subplot,subplot,noun,c2
+1015,subtitle_1,subtitle,noun,b2
+1016,superhero,superhero,noun,b1
+1017,supervillain,supervillain,noun,c1
+1018,suspenseful,suspenseful,adjective,c2
+1019,symbolic,symbolic,adjective,c1
+1020,tale,tale,noun,b2
+1021,taut,taut,adjective,c2
+1022,tension_1,tension,noun,b2
+1023,text_1,text,noun,a1
+1024,theme_1,theme,noun,b1
+1025,thriller,thriller,noun,b1
+1026,title_1,title,noun,a1
+1027,title-page,title page,noun,c1
+1028,tragedian,tragedian,noun,c2
+1029,tragedy,tragedy,noun,b2
+1030,tragic,tragic,adjective,c1
+1031,trilogy,trilogy,noun,c1
+1032,true-crime,true crime,noun,c1
+1033,turgid,turgid,adjective,c2
+1034,twist_2,twist,noun,c1
+1035,typeset,typeset,verb,c2
+1036,typesetter,typesetter,noun,c2
+1037,typesetting,typesetting,noun,c2
+1038,unputdownable,unputdownable,adjective,c2
+1039,unreadable,unreadable,adjective,c2
+1040,verse,verse,noun,c1
+1041,versification,versification,noun,c2
+1042,villain,villain,noun,b2
+1043,vivid,vivid,adjective,b2
+1044,volume,volume,noun,b2
+1045,whodunnit,whodunnit,noun,c2
+1046,wordsmith,wordsmith,noun,c2
+1047,work_2,work,noun,a2
+1048,write,write,verb,a1
+1049,writer,writer,noun,a1
+1050,writing,writing,noun,a1
+1051,yarn,yarn,noun,c2
+1052,young-adult_2,young adult,adjective,b1
+1053,accordion,accordion,noun,c2
+1054,acid-house,acid house,noun,c2
+1055,acoustic,acoustic,adjective,c1
+1056,act_2,act,noun,b2
+1057,adagio_3,adagio,noun,c2
+1058,agogo,agogo,noun,c2
+1059,air_1,air,noun,c2
+1060,airplay,airplay,noun,c2
+1061,album,album,noun,b1
+1062,aleatory,aleatory,adjective,c2
+1063,allegro_3,allegro,noun,c2
+1064,alpenhorn,alpenhorn,noun,c2
+1065,alternative-rock,alternative rock,noun,c2
+1066,alto_1,alto,noun,c2
+1067,alt-rock,alt-rock,noun,c2
+1068,ambient,ambient,adjective,c2
+1069,amplifier,amplifier,noun,c1
+1070,amplify,amplify,verb,c1
+1071,andante_3,andante,noun,c2
+1072,anthem,anthem,noun,c1
+1073,aria_1,aria,noun,c2
+1074,arrangement,arrangement,noun,c2
+1075,artist,artist,noun,b2
+1076,a-side,A-side,noun,c2
+1077,atonal,atonal,adjective,c2
+1078,atonality,atonality,noun,c2
+1079,aubade,aubade,noun,c2
+1080,audience,audience,noun,a2
+1081,audition_1,audition,noun,c2
+1082,audition_2,audition,verb,c2
+1083,auditorium,auditorium,noun,c2
+1084,autoharptm,Autoharp™,noun,c2
+1085,avant-garde,avant-garde,adjective,c2
+1086,b_1,B,noun,b1
+1087,back-catalogue,back catalogue,noun,c2
+1088,backing,backing,noun,c2
+1089,bagpipes,bagpipes,noun,c1
+1090,balafon,balafon,noun,c2
+1091,balalaika,balalaika,noun,c2
+1092,ballad,ballad,noun,c1
+1093,balladeer,balladeer,noun,c2
+1094,band_1,band,noun,a1
+1095,banjo,banjo,noun,c2
+1096,bar_1,bar,noun,c1
+1097,baritone_2,baritone,noun,c2
+1098,bar-line,bar line,noun,c2
+1099,baroque_2,baroque,adjective,c2
+1100,barrel-organ,barrel organ,noun,c2
+1101,bass1_1,bass,noun,c1
+1102,bassist,bassist,noun,c2
+1103,bassline,bassline,noun,c2
+1104,bassoon,bassoon,noun,c2
+1105,bassoonist,bassoonist,noun,c2
+1106,baton,baton,noun,c2
+1107,beat_2,beat,noun,b2
+1108,beatbox_1,beatbox,noun,c2
+1109,tune_1,be in/out of tune,idiom,c1
+1110,bhangra,bhangra,noun,c2
+1111,big-band,big band,noun,c1
+1112,bluegrass,bluegrass,noun,c2
+1113,blues,blues,noun,b2
+1114,bolero,bolero,noun,c2
+1115,boogie_1,boogie,noun,c2
+1116,bossa-nova,bossa nova,noun,c2
+1117,bouzouki,bouzouki,noun,c2
+1118,bow2_1,bow,noun,c1
+1119,brass,brass,noun,c1
+1120,b-side,B-side,noun,c2
+1121,bugle,bugle,noun,c2
+1122,bugler,bugler,noun,c2
+1123,busk,busk,verb,c2
+1124,busker,busker,noun,c2
+1125,busking,busking,noun,c2
+1126,c_2,C,noun,b1
+1127,cadenza,cadenza,noun,c2
+1128,calypso,calypso,noun,c2
+1129,canon,canon,noun,c2
+1130,carol_1,carol,noun,c1
+1131,carol-singing,carol singing,noun,c1
+1132,castanets,castanets,noun,c2
+1133,cd,CD,noun,a1
+1134,cd-burner,CD burner,noun,c2
+1135,cd-writer,CD writer,noun,c2
+1136,celesta,celesta,noun,c2
+1137,cellist,cellist,noun,c2
+1138,cello,cello,noun,c1
+1139,celtic-harp,Celtic harp,noun,c2
+1140,chaconne,chaconne,noun,c2
+1141,chamber-music,chamber music,noun,c2
+1142,chant_1,chant,noun,c2
+1143,chant_2,chant,verb,c2
+1144,chart_1,chart,noun,b2
+1145,chill-out_1,chill-out,noun,c2
+1146,choir,choir,noun,b2
+1147,choral,choral,adjective,c2
+1148,chorale,chorale,noun,c2
+1149,chord,chord,noun,c2
+1150,chorus_1,chorus,noun,b2
+1151,christmas-carol,Christmas carol,noun,c1
+1152,cimbalom,cimbalom,noun,c2
+1153,cittern,cittern,noun,c2
+1154,clarinet,clarinet,noun,c1
+1155,clarinettist,clarinettist,noun,c1
+1156,classical,classical,adjective,a2
+1157,clavichord,clavichord,noun,c2
+1158,clef,clef,noun,c2
+1159,climax_1,climax,noun,c1
+1160,coda,coda,noun,c2
+1161,compilation,compilation,noun,c2
+1162,compose,compose,verb,b2
+1163,composer,composer,noun,b2
+1164,composition,composition,noun,c2
+1165,concept-album,concept album,noun,c2
+1166,concert,concert,noun,a1
+1167,concertina_1,concertina,noun,c2
+1168,concerto,concerto,noun,c1
+1169,conduct_1,conduct,verb,b2
+1170,conductor,conductor,noun,b2
+1171,conga,conga,noun,c2
+1172,contralto,contralto,noun,c2
+1173,cor-anglais,cor anglais,noun,c2
+1174,cornet,cornet,noun,c2
+1175,cornetto,cornetto,noun,c2
+1176,counterpoint_1,counterpoint,noun,c2
+1177,country,country,noun,b2
+1178,country-and-western,country and western,noun,b2
+1179,country-music,country music,noun,b2
+1180,crescendo,crescendo,noun,c2
+1181,crossover,crossover,noun,c2
+1182,crotales,crotales,noun,c2
+1183,crotchet,crotchet,noun,c2
+1184,cut_1,cut,verb,c2
+1185,cymbal,cymbal,noun,c2
+1186,d_2,D,noun,b1
+1187,dance_1,dance,noun,a2
+1188,deck_1,deck,noun,c2
+1189,demo_1,demo,noun,c2
+1190,descant-recorder,descant recorder,noun,c2
+1191,didgeridoo,didgeridoo,noun,c2
+1192,diminuendo,diminuendo,noun,c2
+1193,dirge,dirge,noun,c2
+1194,disc-jockey,disc jockey,noun,b2
+1195,disco,disco,noun,b1
+1196,discography,discography,noun,c2
+1197,discord,discord,noun,c2
+1198,discotheque,discotheque,noun,c2
+1199,disk-jockey,disk jockey,noun,b2
+1200,dissonance,dissonance,noun,c2
+1201,ditty,ditty,noun,c2
+1202,diva,diva,noun,c2
+1203,divertimento,divertimento,noun,c2
+1204,djembe,djembe,noun,c2
+1205,dot_1,dot,noun,c2
+1206,double-bar,double bar,noun,c2
+1207,double-bass,double bass,noun,c2
+1208,drum_1,drum,noun,b1
+1209,drum-and-bass,drum and bass,noun,c2
+1210,drum-machine,drum machine,noun,b2
+1211,drummer,drummer,noun,b1
+1212,drum-pad,drum pad,noun,c2
+1213,drum-roll,drum roll,noun,c2
+1214,drumstick,drumstick,noun,b2
+1215,drum-n-bass,drum ’n’ bass,noun,c2
+1216,dub_2,dub,noun,c2
+1217,duet,duet,noun,c2
+1218,dulcimer,dulcimer,noun,c2
+1219,duo,duo,noun,c1
+1220,dynamic_2,dynamic,noun,c2
+1221,e_1,E,noun,b1
+1222,early-music,early music,noun,c1
+1223,easy-listening,easy listening,noun,c2
+1224,edm,EDM,noun,c2
+1225,encore_1,encore,noun,c2
+1226,english-horn,English horn,noun,c2
+1227,e-ticket,e-ticket,noun,b2
+1228,euphonium,euphonium,noun,c2
+1229,f_2,F,noun,b1
+1230,falsetto,falsetto,noun,c2
+1231,fandango,fandango,noun,c2
+1232,fanfare,fanfare,noun,c2
+1233,fangirl,fangirl,noun,c1
+1234,fantasia_1,fantasia,noun,c2
+1235,festival,festival,noun,a1
+1236,fiddle_2,fiddle,noun,c2
+1237,fiddler,fiddler,noun,c2
+1238,fife_1,fife,noun,c2
+1239,fingerboard,fingerboard,noun,c2
+1240,flamenco,flamenco,noun,c2
+1241,flat_2,flat,adjective,c1
+1242,flautist,flautist,noun,c2
+1243,flip-side,flip side,noun,c2
+1244,flugelhorn,flugelhorn,noun,c2
+1245,flute,flute,noun,c1
+1246,folk_1,folk,noun,b2
+1247,folk-song,folk song,noun,b1
+1248,foxtrot,foxtrot,noun,c2
+1249,french-horn,French horn,noun,c2
+1250,frontman,frontman,noun,c2
+1251,frontwoman,frontwoman,noun,c2
+1252,fugue,fugue,noun,c2
+1253,funk_1,funk,noun,c2
+1254,fusion,fusion,noun,c2
+1255,fuzzbox,fuzzbox,noun,c2
+1256,g_3,G,noun,b1
+1257,galliard,galliard,noun,c2
+1258,gangsta,gangsta,noun,c2
+1259,garage_1,garage,noun,c2
+1260,garage-band,garage band,noun,c2
+1261,gavotte,gavotte,noun,c2
+1262,ghetto-blaster,ghetto blaster,noun,c2
+1263,gig_1,gig,noun,b2
+1264,gig_2,gig,verb,c2
+1265,gigue,gigue,noun,c2
+1266,glam_1,glam,adjective,c2
+1267,glam_2,glam,noun,c2
+1268,glam-rock,glam rock,noun,c2
+1269,glitch_1,glitch,noun,c2
+1270,glitchy,glitchy,adjective,c2
+1271,glockenspiel,glockenspiel,noun,c2
+1272,golden-oldie,golden oldie,noun,c2
+1273,gospel,gospel,noun,c1
+1274,grime,grime,noun,c2
+1275,groove,groove,noun,c2
+1276,group_1,group,noun,a1
+1277,grunge,grunge,noun,c2
+1278,grungy,grungy,adjective,c2
+1279,guiro,guiro,noun,c2
+1280,guitar,guitar,noun,a1
+1281,guitarist,guitarist,noun,a2
+1282,hard-rock,hard rock,noun,b2
+1283,harmonic_1,harmonic,adjective,c2
+1284,harmonica,harmonica,noun,c2
+1285,harmonium,harmonium,noun,c2
+1286,harmony,harmony,noun,c1
+1287,harp_1,harp,noun,c1
+1288,harpist,harpist,noun,c2
+1289,harpsichord,harpsichord,noun,c2
+1290,harpsichordist,harpsichordist,noun,c2
+1291,headline_2,headline,verb,c2
+1292,headliner,headliner,noun,c2
+1293,headphones,headphones,noun,b2
+1294,heavy-metal,heavy metal,noun,b2
+1295,hi-fi_2,hi-fi,noun,c1
+1296,hillbilly,hillbilly,noun,c2
+1297,hip-hop,hip-hop,noun,b2
+1298,hit_2,hit,noun,a2
+1299,horn_1,horn,noun,c2
+1300,house-music,house music,noun,c2
+1301,hum_1,hum,verb,c1
+1302,hurdy-gurdy,hurdy-gurdy,noun,c2
+1303,hymn,hymn,noun,c2
+1304,improvise,improvise,verb,c1
+1305,indie_1,indie,adjective,c2
+1306,indie_2,indie,noun,c2
+1307,instrument,instrument,noun,a2
+1308,instrumental_1,instrumental,adjective,c1
+1309,instrumental_2,instrumental,noun,c2
+1310,instrumentation,instrumentation,noun,c2
+1311,interlude,interlude,noun,c2
+1312,intermezzo,intermezzo,noun,c2
+1313,interpretation,interpretation,noun,c1
+1314,interval,interval,noun,c2
+1315,intro,intro,noun,b2
+1316,ipodtm,iPod™,noun,b1
+1317,jam_2,jam,verb,c2
+1318,jazz_1,jazz,noun,a2
+1319,jig_1,jig,noun,c2
+1320,jukebox,jukebox,noun,c1
+1321,jungle,jungle,noun,c2
+1322,karaoke,karaoke,noun,b2
+1323,kazoo,kazoo,noun,c2
+1324,kettledrum,kettledrum,noun,c2
+1325,key_1,key,noun,c1
+1326,keyboard_1,keyboard,noun,b1
+1327,keyboardist,keyboardist,noun,c1
+1328,key-signature,key signature,noun,c2
+1329,klezmer,klezmer,noun,c2
+1330,kora,kora,noun,c2
+1331,k-pop,K-pop,noun,c2
+1332,krummhorn,krummhorn,noun,c2
+1333,largo_2,largo,noun,c2
+1334,laserdisc,laserdisc,noun,c2
+1335,libretto,libretto,noun,c2
+1336,liner-note,liner note,noun,c2
+1337,line-up_2,line-up,noun,c1
+1338,listen_1,listen,verb,a1
+1339,live2_1,live,adjective,b1
+1340,loudspeaker,loudspeaker,noun,c1
+1341,lullaby,lullaby,noun,c2
+1342,lute,lute,noun,c2
+1343,lyre,lyre,noun,c2
+1344,lyric_1,lyric,noun,b2
+1345,lyric_2,lyric,adjective,c2
+1346,madrigal,madrigal,noun,c2
+1347,major_1,major,adjective,c1
+1348,mandolin,mandolin,noun,c2
+1349,march_2,march,noun,c2
+1350,mariachi,mariachi,noun,c2
+1351,marimba,marimba,noun,c2
+1352,math-rock,math rock,noun,c2
+1353,mazurka,mazurka,noun,c2
+1354,measure_2,measure,noun,c2
+1355,medley,medley,noun,c2
+1356,melodic,melodic,adjective,c2
+1357,melodica,melodica,noun,c2
+1358,melodious,melodious,adjective,c2
+1359,melody,melody,noun,c1
+1360,merengue,merengue,noun,c2
+1361,mezzo-soprano,mezzo-soprano,noun,c2
+1362,mic,mic,noun,c1
+1363,microphone,microphone,noun,b2
+1364,mike_1,mike,noun,c1
+1365,minim,minim,noun,c2
+1366,minor_1,minor,adjective,c1
+1367,minuet,minuet,noun,c2
+1368,mix_1,mix,verb,b2
+1369,mono_1,mono,adjective,c2
+1370,monophonic,monophonic,adjective,c2
+1371,mood-music,mood music,noun,c2
+1372,mor,MOR,noun,c2
+1373,motif,motif,noun,c2
+1374,mouth-organ,mouth organ,noun,c2
+1375,mouthpiece,mouthpiece,noun,c2
+1376,movement,movement,noun,c1
+1377,mp3,MP3,noun,a2
+1378,mp3-player,MP3 player,noun,a2
+1379,music,music,noun,a1
+1380,musical_1,musical,adjective,a2
+1381,musical_2,musical,noun,b1
+1382,musical-director,musical director,noun,c1
+1383,musical-instrument,musical instrument,noun,a2
+1384,musical-saw,musical saw,noun,c2
+1385,musician,musician,noun,a2
+1386,muzaktm,Muzak™,noun,c2
+1387,natural_1,natural,adjective,c2
+1388,negro-spiritual,Negro spiritual,noun,c2
+1389,nocturne,nocturne,noun,c2
+1390,nonet,nonet,noun,c2
+1391,notation,notation,noun,c2
+1392,note_1,note,noun,b2
+1393,oboe,oboe,noun,c2
+1394,oboist,oboist,noun,c2
+1395,ocarina,ocarina,noun,c2
+1396,octave,octave,noun,c2
+1397,octet,octet,noun,c2
+1398,one-man-band,one-man band,noun,c1
+1399,shuffle_2,on shuffle,idiom,c2
+1400,opera,opera,noun,b2
+1401,opera-house,opera house,noun,b2
+1402,operatic,operatic,adjective,c2
+1403,opus,opus,noun,c2
+1404,oratorio,oratorio,noun,c2
+1405,orchestra,orchestra,noun,b2
+1406,organ,organ,noun,b2
+1407,organist,organist,noun,c2
+1408,oud,oud,noun,c2
+1409,overture,overture,noun,c2
+1410,pan-pipes,pan pipes,noun,c2
+1411,passage,passage,noun,b2
+1412,pavane,pavane,noun,c2
+1413,pedal_1,pedal,noun,c1
+1414,penny-whistle,penny whistle,noun,c2
+1415,percussion,percussion,noun,c1
+1416,percussionist,percussionist,noun,c1
+1417,perform,perform,verb,a2
+1418,performance,performance,noun,b1
+1419,performer,performer,noun,b1
+1420,pianist,pianist,noun,b2
+1421,piano_1,piano,noun,a1
+1422,pibroch,pibroch,noun,c2
+1423,piccolo,piccolo,noun,c2
+1424,pick_2,pick,noun,c2
+1425,piece_1,piece,noun,a1
+1426,pipe_1,pipe,noun,b2
+1427,pipe-organ,pipe organ,noun,b2
+1428,piper,piper,noun,c2
+1429,pitch_1,pitch,noun,c1
+1430,play_1,play,verb,a1
+1431,player,player,noun,a1
+1432,playlist,playlist,noun,c1
+1433,plectrum,plectrum,noun,c2
+1434,pluck_1,pluck,verb,c1
+1435,polka,polka,noun,c2
+1436,polonaise,polonaise,noun,c2
+1437,pop_1,pop,noun,a2
+1438,pop-music,pop music,noun,a2
+1439,post-production_1,post-production,adjective,c2
+1440,practice_1,practice,noun,a1
+1441,practise,practise,verb,a1
+1442,prelude,prelude,noun,c2
+1443,presto_3,presto,noun,c2
+1444,produce_1,produce,verb,b2
+1445,prog-rock,prog rock,noun,c2
+1446,psalm,psalm,noun,c2
+1447,psychedelia,psychedelia,noun,c2
+1448,punk,punk,noun,b2
+1449,punky,punky,adjective,c2
+1450,quartet,quartet,noun,c2
+1451,quaver_2,quaver,noun,c2
+1452,quickstep,quickstep,noun,c2
+1453,quintet,quintet,noun,c2
+1454,radio_1,radio,noun,a1
+1455,raga,raga,noun,c2
+1456,ragga,ragga,noun,c2
+1457,rap_1,rap,noun,b2
+1458,rap_2,rap,verb,b2
+1459,recital,recital,noun,c1
+1460,record_1,record,noun,b1
+1461,record_2,record,verb,a2
+1462,recorder,recorder,noun,c1
+1463,record-player,record player,noun,b2
+1464,reed,reed,noun,c2
+1465,reel_1,reel,noun,c2
+1466,refrain_2,refrain,noun,c2
+1467,reggae,reggae,noun,b2
+1468,register_2,register,noun,c2
+1469,rehearsal,rehearsal,noun,b2
+1470,release_1,release,verb,b2
+1471,release_2,release,noun,b2
+1472,remix_1,remix,noun,c2
+1473,remix_2,remix,verb,c2
+1474,remixer,remixer,noun,c2
+1475,rendition,rendition,noun,c2
+1476,repertoire,repertoire,noun,c2
+1477,rest_1,rest,noun,c2
+1478,rhapsody,rhapsody,noun,c2
+1479,rhumba,rhumba,noun,c2
+1480,rhythm,rhythm,noun,b2
+1481,rhythm-and-blues,rhythm and blues,noun,c1
+1482,rock_1,rock,noun,a2
+1483,rockabilly,rockabilly,noun,c2
+1484,rock-and-roll,rock and roll,noun,b2
+1485,rock-music,rock music,noun,a2
+1486,rock-n-roll,rock ’n’ roll,noun,b2
+1487,rondo,rondo,noun,c2
+1488,rumba,rumba,noun,c2
+1489,r-b,R &amp; B,abbreviation,c1
+1490,salsa,salsa,noun,b2
+1491,samba,samba,noun,c1
+1492,sample_1,sample,noun,c2
+1493,sample_2,sample,verb,c2
+1494,sampling,sampling,noun,c2
+1495,saraband,saraband,noun,c2
+1496,sax,sax,noun,c1
+1497,saxhorn,saxhorn,noun,c2
+1498,saxophone,saxophone,noun,b2
+1499,saxophonist,saxophonist,noun,c1
+1500,scale_1,scale,noun,c1
+1501,scherzo,scherzo,noun,c2
+1502,score_2,score,noun,c2
+1503,sea-shanty,sea shanty,noun,c2
+1504,sell-out_2,sell-out,noun,c2
+1505,semibreve,semibreve,noun,c2
+1506,semiquaver,semiquaver,noun,c2
+1507,septet,septet,noun,c2
+1508,sequencer,sequencer,noun,c2
+1509,serenade_1,serenade,noun,c2
+1510,set_2,set,noun,c1
+1511,sextet,sextet,noun,c2
+1512,shanty,shanty,noun,c2
+1513,sharp_1,sharp,adjective,c1
+1514,sing_2,sing,verb,a1
+1515,singer,singer,noun,a1
+1516,single_2,single,noun,b2
+1517,sitar,sitar,noun,c2
+1518,ska,ska,noun,c2
+1519,sleeve-note,sleeve note,noun,c2
+1520,slide_2,slide,noun,c2
+1521,soca_1,soca,noun,c2
+1522,solo_3,solo,noun,c1
+1523,soloist,soloist,noun,c1
+1524,sonata,sonata,noun,c2
+1525,song,song,noun,a1
+1526,songwriter,songwriter,noun,b1
+1527,soprano_1,soprano,noun,c2
+1528,soprano-recorder,soprano recorder,noun,c2
+1529,soul,soul,noun,b2
+1530,soul-music,soul music,noun,b2
+1531,soundbox,soundbox,noun,c2
+1532,soundcheck,soundcheck,noun,c2
+1533,sound-system,sound system,noun,b2
+1534,soundtrack,soundtrack,noun,c1
+1535,sousaphone,sousaphone,noun,c2
+1536,speaker,speaker,noun,b2
+1537,spinet,spinet,noun,c2
+1538,spiritual_2,spiritual,noun,c2
+1539,staff_1,staff,noun,c2
+1540,standard_1,standard,noun,c2
+1541,the-performing-arts,the performing arts,noun,b2
+1542,steel-drum,steel drum,noun,b2
+1543,stereo_2,stereo,noun,b2
+1544,strain_1,strain,noun,c2
+1545,strathspey,strathspey,noun,c2
+1546,stream_2,stream,verb,c1
+1547,string_1,string,noun,c1
+1548,string_3,string,adjective,c1
+1549,stringed-instrument,stringed instrument,noun,c1
+1550,study_1,study,noun,c2
+1551,stylophonetm,Stylophone™,noun,c2
+1552,suite,suite,noun,c2
+1553,supergroup,supergroup,noun,c2
+1554,support_1,support,verb,c1
+1555,support_2,support,noun,c1
+1556,symphonic,symphonic,adjective,c2
+1557,symphony,symphony,noun,b2
+1558,synth,synth,noun,c2
+1559,synthesizer,synthesizer,noun,c2
+1560,synth-pop,synth-pop,noun,c2
+1561,tabor,tabor,noun,c2
+1562,tambourine,tambourine,noun,c2
+1563,tango_1,tango,noun,c1
+1564,tape_1,tape,noun,b1
+1565,techno_1,techno,noun,c2
+1566,tempo,tempo,noun,c2
+1567,tenor_1,tenor,noun,c2
+1568,ternary-form,ternary form,noun,c2
+1569,tex-mex,Tex-Mex,adjective,c2
+1570,theme-music,theme music,noun,c1
+1571,thrash_2,thrash,noun,c2
+1572,thumb-piano,thumb piano,noun,c2
+1573,tie_2,tie,noun,c2
+1574,timbre,timbre,noun,c2
+1575,time-signature,time signature,noun,c2
+1576,timpani,timpani,noun,c2
+1577,tinny_1,tinny,adjective,c2
+1578,tin-whistle,tin whistle,noun,c2
+1579,toccata,toccata,noun,c2
+1580,tone_1,tone,noun,b2
+1581,tone-poem,tone poem,noun,c2
+1582,torch-song,torch song,noun,c2
+1583,tour_1,tour,noun,a2
+1584,tour_2,tour,verb,b1
+1585,track_1,track,noun,b2
+1586,tracklist,tracklist,noun,c2
+1587,trance,trance,noun,c2
+1588,treble_1,treble,noun,c2
+1589,triangle,triangle,noun,c2
+1590,tribute-band,tribute band,noun,c2
+1591,trio,trio,noun,c2
+1592,trombone,trombone,noun,b2
+1593,trombonist,trombonist,noun,b2
+1594,trumpet_1,trumpet,noun,b1
+1595,trumpeter,trumpeter,noun,b2
+1596,tuba,tuba,noun,c2
+1597,tubular-bells,tubular bells,noun,c2
+1598,tune_1,tune,noun,b2
+1599,tuneful,tuneful,adjective,c2
+1600,tunefulness,tunefulness,noun,c2
+1601,tuneless,tuneless,adjective,c1
+1602,tunelessly,tunelessly,adverb,c1
+1603,tune-up,tune up,phrasal verb,c2
+1604,turntable,turntable,noun,c2
+1605,valve,valve,noun,c2
+1606,variation,variation,noun,c2
+1607,veejay,veejay,noun,c2
+1608,verse,verse,noun,c1
+1609,vibraphone,vibraphone,noun,c2
+1610,video-jockey,video jockey,noun,c2
+1611,vinyl,vinyl,noun,c1
+1612,viol,viol,noun,c2
+1613,viola,viola,noun,c2
+1614,violin,violin,noun,a2
+1615,violinist,violinist,noun,b2
+1616,violist,violist,noun,c2
+1617,violoncello,violoncello,noun,c2
+1618,virtuoso_1,virtuoso,noun,c2
+1619,virtuoso_2,virtuoso,adjective,c2
+1620,vivace_3,vivace,noun,c2
+1621,vj,VJ,noun,c2
+1622,vocal_2,vocal,noun,c2
+1623,vocalise,vocalise,noun,c2
+1624,vocalist,vocalist,noun,c2
+1625,voice_1,voice,noun,a2
+1626,volume,volume,noun,b2
+1627,voluntary_2,voluntary,noun,c2
+1628,waltz_1,waltz,noun,c2
+1629,whistle_2,whistle,verb,c1
+1630,wind1_1,wind,noun,c1
+1631,wind-instrument,wind instrument,noun,c1
+1632,wobbleboard,wobbleboard,noun,c2
+1633,woodwind,woodwind,noun,c1
+1634,work_2,work,noun,a2
+1635,world-music,world music,noun,b2
+1636,write,write,verb,a1
+1637,etude,étude,noun,c2
+1638,xylophone,xylophone,noun,c2
+1639,zither,zither,noun,c2
+1640,above-the-fold,above-the-fold,adjective,c2
+1641,action-replay,action replay,noun,c2
+1642,ad_1,ad,noun,b1
+1643,adapt,adapt,verb,b2
+1644,advert,advert,noun,a2
+1645,advertise,advertise,verb,a2
+1646,advertisement,advertisement,noun,a2
+1647,advertising,advertising,noun,a2
+1648,advertorial,advertorial,noun,c2
+1649,advice-column,advice column,noun,b1
+1650,advice-columnist,advice columnist,noun,c1
+1651,agony-column,agony column,noun,c2
+1652,air_2,air,verb,c1
+1653,airplay,airplay,noun,c2
+1654,airtime,airtime,noun,c2
+1655,airwaves,airwaves,noun,c2
+1656,a-list,A-list,adjective,c2
+1657,am_3,AM,abbreviation,c2
+1658,anchor_1,anchor,noun,c1
+1659,anchor_2,anchor,verb,c2
+1660,anchorman,anchorman,noun,c2
+1661,anchorwoman,anchorwoman,noun,c2
+1662,anime,anime,noun,c2
+1663,announce,announce,verb,b2
+1664,announcer,announcer,noun,b2
+1665,antenna,antenna,noun,c1
+1666,appear,appear,verb,b2
+1667,article,article,noun,a1
+1668,atmospherics,atmospherics,noun,c2
+1669,attenuator,attenuator,noun,c2
+1670,autocuetm,Autocue™,noun,c2
+1671,back-copy,back copy,noun,c2
+1672,back-issue,back issue,noun,c2
+1673,back-number,back number,noun,c2
+1674,backstory,backstory,noun,c2
+1675,band_1,band,noun,c2
+1676,banner-headline,banner headline,noun,c2
+1677,beacon,beacon,noun,c2
+1678,beam_2,beam,verb,c2
+1679,below-the-fold,below-the-fold,adjective,c2
+1680,berliner,Berliner,adjective,c2
+1681,blaze_1,blaze,verb,c2
+1682,blazon,blazon,verb,c2
+1683,bleep_2,bleep,verb,c2
+1684,blind-spot,blind spot,noun,c2
+1685,b-list,B-list,adjective,c2
+1686,box_1,box,noun,c2
+1687,break_2,break,noun,b1
+1688,broadcast_1,broadcast,verb,b2
+1689,broadcast_2,broadcast,noun,b2
+1690,broadcaster,broadcaster,noun,b2
+1691,broadcasting,broadcasting,noun,b2
+1692,broadsheet,broadsheet,noun,c2
+1693,bulletin,bulletin,noun,c1
+1694,buzzworthy,buzzworthy,adjective,c2
+1695,byline,byline,noun,c2
+1696,cable-television,cable television,noun,b2
+1697,call-in_2,call-in,noun,c1
+1698,call-letters,call letters,noun,c2
+1699,camera,camera,noun,a1
+1700,camera-operator,camera operator,noun,b2
+1701,camerawoman,camerawoman,noun,b1
+1702,canard,canard,noun,c2
+1703,canned,canned,adjective,c2
+1704,carry_1,carry,verb,c2
+1705,cartoon,cartoon,noun,a2
+1706,cathode-ray-tube,cathode ray tube,noun,c2
+1707,celeb,celeb,noun,a2
+1708,celebrity,celebrity,noun,a2
+1709,censor_1,censor,noun,c1
+1710,censorship,censorship,noun,c1
+1711,centre-spread,centre spread,noun,c2
+1712,channel_1,channel,noun,b1
+1713,channel-hop,channel-hop,verb,c2
+1714,chequebook-journalism,chequebook journalism,noun,c2
+1715,circulation,circulation,noun,c1
+1716,city-desk,city desk,noun,c2
+1717,city-editor,city editor,noun,c2
+1718,classified-advertisement,classified advertisement,noun,c2
+1719,clipping,clipping,noun,c2
+1720,close-down_1,close down,phrasal verb,c1
+1721,colour-supplement,colour supplement,noun,c2
+1722,column-inch,column inch,noun,c2
+1723,columnist,columnist,noun,c1
+1724,comedy,comedy,noun,a2
+1725,commentary,commentary,noun,c1
+1726,commentate,commentate,verb,c2
+1727,commentator,commentator,noun,c1
+1728,commercial_2,commercial,noun,b1
+1729,compere_1,compère,noun,c2
+1730,contrast_1,contrast,noun,c2
+1731,contribute,contribute,verb,b2
+1732,contributor,contributor,noun,c1
+1733,converter,converter,noun,c2
+1734,correspondent,correspondent,noun,c1
+1735,couch-potato,couch potato,noun,c1
+1736,cover_1,cover,verb,b2
+1737,coverage,coverage,noun,b2
+1738,credit_1,credit,noun,c2
+1739,crystal-set,crystal set,noun,c2
+1740,cub-reporter,cub reporter,noun,c2
+1741,cue-card,cue card,noun,c2
+1742,current-affairs,current affairs,noun,c1
+1743,current-events,current events,noun,b2
+1744,cutting_1,cutting,noun,c1
+1745,daily_3,daily,noun,c1
+1746,despatch_2,despatch,noun,c2
+1747,digital_1,digital,adjective,a2
+1748,digital-television,digital television,noun,b1
+1749,disc-jockey,disc jockey,noun,b2
+1750,disk-jockey,disk jockey,noun,b2
+1751,dispatch_2,dispatch,noun,c2
+1752,docudrama,docudrama,noun,c2
+1753,documentary_1,documentary,noun,b1
+1754,docusoap,docusoap,noun,c2
+1755,double-bill,double bill,noun,c2
+1756,double-feature,double feature,noun,c2
+1757,drama,drama,noun,a2
+1758,dub_1,dub,verb,c1
+1759,edit_2,edit,verb,b2
+1760,edition,edition,noun,b2
+1761,editor,editor,noun,b1
+1762,editorial_1,editorial,adjective,b2
+1763,editorial_2,editorial,noun,b2
+1764,editorialist,editorialist,noun,c2
+1765,editorialize,editorialize,verb,c2
+1766,edutainment,edutainment,noun,c2
+1767,embed,embed,verb,c2
+1768,endorsement,endorsement,noun,c1
+1769,episode,episode,noun,b1
+1770,evening-paper,evening paper,noun,b1
+1771,exclusive_2,exclusive,noun,c2
+1772,fact-check,fact-check,noun,c1
+1773,fake-news,fake news,noun,b2
+1774,feature_1,feature,noun,c1
+1775,feed_2,feed,noun,c2
+1776,film_1,film,noun,a1
+1777,film_2,film,verb,a2
+1778,flat-panel,flat-panel,adjective,c2
+1779,flat-screen,flat-screen,adjective,b1
+1780,floor-manager,floor manager,noun,c2
+1781,fm,FM,abbreviation,c1
+1782,freesheet,freesheet,noun,c2
+1783,frequency,frequency,noun,c1
+1784,frontman,frontman,noun,c2
+1785,front-page_1,front page,noun,a2
+1786,front-page_2,front-page,adjective,a2
+1787,game-show,game show,noun,b1
+1788,gazette,gazette,noun,c2
+1789,gigahertz,gigahertz,noun,c2
+1790,goggle-box,goggle-box,noun,c2
+1791,go-out,go out,phrasal verb,b2
+1792,gossip-column,gossip column,noun,c1
+1793,green-room,green room,noun,c2
+1794,guest_1,guest,noun,b1
+1795,hack_2,hack,noun,c2
+1796,has-been,has-been,noun,c2
+1797,hd,HD,noun,c1
+1798,hdtv,HDTV,noun,c2
+1799,headline_1,headline,noun,b1
+1800,heart-throb,heart-throb,noun,c2
+1801,hi-def,hi-def,adjective,c2
+1802,high-definition,high-definition,adjective,c2
+1803,hit-piece,hit piece,noun,c2
+1804,home-cinema,home cinema,noun,b1
+1805,home-entertainment,home entertainment,noun,b2
+1806,home-theater,home theater,noun,b1
+1807,horoscope,horoscope,noun,b2
+1808,host_1,host,noun,b1
+1809,household-name,household name,noun,c2
+1810,human-interest,human interest,noun,c1
+1811,ident,ident,noun,c2
+1812,infomercial,infomercial,noun,c2
+1813,informant,informant,noun,c2
+1814,instalment,instalment,noun,c2
+1815,instant-replay,instant replay,noun,c2
+1816,interference,interference,noun,c2
+1817,interview_1,interview,noun,a1
+1818,interview_2,interview,verb,a1
+1819,introduce,introduce,verb,a2
+1820,item,item,noun,b1
+1821,jam_2,jam,verb,c2
+1822,jingle_1,jingle,noun,c1
+1823,journal,journal,noun,b1
+1824,journalism,journalism,noun,b2
+1825,journalist,journalist,noun,a2
+1826,laugh-track,laugh track,noun,c2
+1827,leading-article,leading article,noun,c2
+1828,lead-story,lead story,noun,c1
+1829,lighting-engineer,lighting engineer,noun,b2
+1830,linkman,linkman,noun,c2
+1831,listen_1,listen,verb,a1
+1832,listener,listener,noun,a2
+1833,listen-in,listen in,phrasal verb,b1
+1834,listing,listing,noun,c1
+1835,live2_1,live,adjective,b1
+1836,lonely-heart,lonely heart,noun,c2
+1837,long-wave,long wave,noun,c2
+1838,magazine,magazine,noun,a1
+1839,mailbag,mailbag,noun,c2
+1840,mast,mast,noun,c2
+1841,masthead,masthead,noun,c2
+1842,matinee-idol,matinee idol,noun,c2
+1843,medium-wave,medium wave,noun,c2
+1844,megahertz,megahertz,noun,c2
+1845,megastar,megastar,noun,c2
+1846,miniseries,miniseries,noun,c2
+1847,mockumentary,mockumentary,noun,c2
+1848,modulate,modulate,verb,c2
+1849,monitor_1,monitor,noun,b2
+1850,mouthpiece,mouthpiece,noun,c2
+1851,multichannel,multichannel,adjective,c2
+1852,narrator,narrator,noun,b2
+1853,narrowcast,narrowcast,verb,c2
+1854,network_1,network,noun,b1
+1855,network_2,network,verb,c1
+1856,news,news,noun,a1
+1857,news-agency,news agency,noun,b2
+1858,newscast,newscast,noun,c2
+1859,newscaster,newscaster,noun,c2
+1860,news-conference,news conference,noun,b2
+1861,news-desk,news desk,noun,b2
+1862,newsflash,newsflash,noun,c2
+1863,newsgathering,newsgathering,noun,c1
+1864,newspaper,newspaper,noun,a1
+1865,newsreader,newsreader,noun,b1
+1866,newsroom,newsroom,noun,c1
+1867,news-sheet,news-sheet,noun,c1
+1868,news-ticker,news ticker,noun,c2
+1869,newswire,newswire,noun,c2
+1870,newswoman,newswoman,noun,c2
+1871,newsworthy,newsworthy,adjective,c2
+1872,notice_2,notice,noun,c2
+1873,obituary,obituary,noun,c2
+1874,off-air_1,off-air,adverb,c2
+1875,off-air_2,off-air,adjective,c2
+1876,offprint,offprint,noun,c2
+1877,omnibus_1,omnibus,noun,c2
+1878,on-air,on-air,adjective,c2
+1879,camera,on camera,idiom,b2
+1880,air_1,on/off (the) air,idiom,c2
+1881,op-ed,op-ed,noun,c2
+1882,open-letter,open letter,noun,c2
+1883,open-line_1,open line,adjective,c2
+1884,organ,organ,noun,c2
+1885,panel_1,panel,noun,b2
+1886,panel-game,panel game,noun,b2
+1887,panellist,panellist,noun,c2
+1888,paparazzo,paparazzo,noun,c1
+1889,parental-controls,parental controls,noun,c1
+1890,pay-per-view,pay-per-view,noun,c2
+1891,pay-tv,pay TV,noun,c2
+1892,peak-time,peak time,noun,c1
+1893,personal-column,personal column,noun,c2
+1894,phone-in_2,phone-in,noun,c2
+1895,photocall,photocall,noun,c2
+1896,photographer,photographer,noun,b1
+1897,photojournalism,photojournalism,noun,c1
+1898,photo-opportunity,photo opportunity,noun,c1
+1899,picture_1,picture,noun,a1
+1900,piece_1,piece,noun,b2
+1901,pilot_1,pilot,noun,c2
+1902,pip_1,pip,noun,c2
+1903,plasma-screen,plasma screen,noun,c2
+1904,plasma-tv,plasma TV,noun,c1
+1905,play_2,play,noun,a1
+1906,playlist,playlist,noun,c1
+1907,podcast,podcast,noun,b1
+1908,police-procedural,police procedural,noun,c2
+1909,postbag,postbag,noun,c2
+1910,pre-record,pre-record,verb,b2
+1911,present_3,present,verb,b2
+1912,presenter,presenter,noun,b1
+1913,press_1,press,noun,b1
+1914,press-agency,press agency,noun,b2
+1915,press-conference,press conference,noun,b2
+1916,press-cutting,press cutting,noun,c1
+1917,preview_1,preview,noun,b1
+1918,preview_2,preview,verb,b1
+1919,prime-time,prime time,noun,c1
+1920,producer,producer,noun,b1
+1921,programme_1,programme,noun,a1
+1922,programming,programming,noun,c1
+1923,public-access,public access,noun,c2
+1924,publicist,publicist,noun,c2
+1925,public-service-broadcasting,public service broadcasting,noun,c2
+1926,publish,publish,verb,a2
+1927,pull-out_3,pull-out,noun,c2
+1928,quality-newspaper,quality newspaper,noun,c1
+1929,question-master,question master,noun,c1
+1930,quiz_1,quiz,noun,a1
+1931,quizmaster,quizmaster,noun,c1
+1932,quiz-show,quiz show,noun,a2
+1933,radio_1,radio,noun,a1
+1934,radio_3,radio-,combining form,a2
+1935,rag_1,rag,noun,c2
+1936,rating,rating,noun,b2
+1937,rat-pack,rat pack,noun,c2
+1938,rave-review,rave review,noun,c2
+1939,reader,reader,noun,a1
+1940,readership,readership,noun,c1
+1941,reality-tv,reality TV,noun,b2
+1942,receive,receive,verb,c1
+1943,receiver,receiver,noun,b2
+1944,reception,reception,noun,c1
+1945,reconstruction,reconstruction,noun,c1
+1946,record_2,record,verb,a2
+1947,recording,recording,noun,a2
+1948,red-top,red-top,noun,c2
+1949,relay1_2,relay,verb,c2
+1950,remote-control,remote control,noun,b2
+1951,repeat_2,repeat,noun,b1
+1952,replay_1,replay,noun,c1
+1953,report_1,report,noun,a1
+1954,report_2,report,verb,a2
+1955,reportage,reportage,noun,c2
+1956,reporter,reporter,noun,a2
+1957,reporting,reporting,noun,b2
+1958,rerun_1,rerun,noun,c2
+1959,review_1,review,noun,a2
+1960,rewatch_1,rewatch,verb,b2
+1961,rewatch_2,rewatch,noun,b2
+1962,ring-in,ring in,phrasal verb,b2
+1963,roadshow,roadshow,noun,c2
+1964,round-up_2,round-up,noun,c2
+1965,running-order,running order,noun,c2
+1966,satellite,satellite,noun,b2
+1967,satellite-dish,satellite dish,noun,c1
+1968,scandal-sheet,scandal sheet,noun,c2
+1969,scart,Scart,noun,c2
+1970,schedule_1,schedule,noun,a2
+1971,scoop_1,scoop,noun,c2
+1972,screen_1,screen,noun,a2
+1973,screen_2,screen,verb,b2
+1974,scriptwriter,scriptwriter,noun,b2
+1975,season_1,season,noun,b2
+1976,serial_2,serial,noun,c1
+1977,series,series,noun,a2
+1978,set_2,set,noun,c2
+1979,set-top-box,set-top box,noun,c2
+1980,shipping-forecast,shipping forecast,noun,c2
+1981,shock-jock,shock jock,noun,c2
+1982,short-wave,short wave,noun,c2
+1983,show_1,show,verb,b1
+1984,show_2,show,noun,a1
+1985,sidebar,sidebar,noun,c2
+1986,signal_1,signal,noun,b2
+1987,signature-tune,signature tune,noun,c2
+1988,silvertail,silvertail,noun,c2
+1989,simulcast_1,simulcast,verb,c2
+1990,sitcom,sitcom,noun,b2
+1991,situation-comedy,situation comedy,noun,c1
+1992,sketch_1,sketch,noun,c1
+1993,slate_2,slate,verb,c2
+1994,sleb,sleb,noun,c2
+1995,slider,slider,noun,c2
+1996,small-ad,small ad,noun,c2
+1997,snapper,snapper,noun,c2
+1998,soap-opera,soap opera,noun,b1
+1999,source_1,source,noun,b1
+2000,speaker,speaker,noun,b2
+2001,spin-off_2,spin-off,noun,c2
+2002,sponsor_2,sponsor,noun,b2
+2003,sportscast,sportscast,noun,c2
+2004,spot_1,spot,noun,b2
+2005,square-eyes,square eyes,noun,c2
+2006,star_1,star,noun,a1
+2007,static_2,static,noun,c2
+2008,station_1,station,noun,a2
+2009,the-gutter-press,the gutter press,noun,c2
+2010,the-silly-season,the silly season,noun,c2
+2011,stop-press,stop press,noun,c2
+2012,story,story,noun,b1
+2013,stringer,stringer,noun,c2
+2014,studio,studio,noun,b1
+2015,subeditor,subeditor,noun,c2
+2016,subscriber,subscriber,noun,c1
+2017,supplement_1,supplement,noun,c2
+2018,surfing,surfing,noun,b2
+2019,tabloid_1,tabloid,adjective,c1
+2020,tabloid_2,tabloid,noun,c1
+2021,talkback,talkback,noun,c2
+2022,talk-radio,talk radio,noun,c2
+2023,talk-show,talk show,noun,b1
+2024,telefilm,telefilm,noun,c2
+2025,teleprompter,teleprompter,noun,c2
+2026,teleshopping,teleshopping,noun,c2
+2027,teletexttm,teletext™,noun,c2
+2028,telethon,telethon,noun,c2
+2029,televangelism,televangelism,noun,c2
+2030,televangelist,televangelist,noun,c2
+2031,televise,televise,verb,c1
+2032,television,television,noun,a1
+2033,tell-all,tell-all,adjective,c2
+2034,telly,telly,noun,b2
+2035,terrestrial,terrestrial,adjective,c2
+2036,theme-music,theme music,noun,c1
+2037,time-signal,time signal,noun,c2
+2038,tower_1,tower,noun,b2
+2039,trailer,trailer,noun,c1
+2040,transistor,transistor,noun,c2
+2041,transmission,transmission,noun,c1
+2042,transmit,transmit,verb,b2
+2043,transmitter,transmitter,noun,c1
+2044,travelogue,travelogue,noun,c2
+2045,true-crime,true crime,noun,c1
+2046,tube,tube,noun,c2
+2047,tune_2,tune,verb,b2
+2048,tune-in,tune in,phrasal verb,c1
+2049,tuner,tuner,noun,c2
+2050,tv,TV,noun,a1
+2051,uhf,UHF,abbreviation,c2
+2052,ultra-high-frequency,ultra-high frequency,noun,c2
+2053,variety_1,variety,noun,c2
+2054,veejay,veejay,noun,c2
+2055,very-high-frequency,very high frequency,noun,c2
+2056,vhf,VHF,abbreviation,c2
+2057,video_1,video,noun,a1
+2058,video-jockey,video jockey,noun,c2
+2059,videotape_1,videotape,noun,b2
+2060,view_2,view,verb,b1
+2061,viewer,viewer,noun,b1
+2062,viewership,viewership,noun,c2
+2063,vip,VIP,noun,c1
+2064,vj,VJ,noun,c2
+2065,voice-over,voice-over,noun,c1
+2066,volume,volume,noun,b2
+2067,wag_3,Wag,noun,c2
+2068,wannabe,wannabe,noun,c2
+2069,want-ad,want ad,noun,c2
+2070,watch_1,watch,verb,a1
+2071,watershed,watershed,noun,c2
+2072,waveband,waveband,noun,c2
+2073,wavelength,wavelength,noun,c1
+2074,weather_1,weather,noun,a1
+2075,weather-forecast,weather forecast,noun,b1
+2076,weathergirl,weathergirl,noun,c1
+2077,weekly_3,weekly,noun,c1
+2078,white-noise,white noise,noun,c2
+2079,widescreen,widescreen,noun,c1
+2080,wireless_1,wireless,noun,b1
+2081,wire-service,wire service,noun,c2
+2082,write-up_2,write-up,noun,c2
+2083,yellow-journalism,yellow journalism,noun,c2
+2084,zap,zap,verb,c2

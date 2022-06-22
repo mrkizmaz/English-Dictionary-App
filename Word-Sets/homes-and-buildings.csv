@@ -1,0 +1,1179 @@
+subLink,word,type,level
+0,abandoned,abandoned,adjective,b2
+1,abattoir,abattoir,noun,c2
+2,abbey,abbey,noun,b2
+3,adjacent,adjacent,adjective,c1
+4,adobe,adobe,noun,c2
+5,aisle,aisle,noun,b2
+6,amphitheatre,amphitheatre,noun,c2
+7,ancient,ancient,adjective,a2
+8,annexe,annexe,noun,c2
+9,apartment-block,apartment block,noun,b1
+10,apse,apse,noun,c2
+11,aquarium,aquarium,noun,c1
+12,arcade,arcade,noun,c2
+13,arch_1,arch,noun,c1
+14,arched,arched,adjective,c1
+15,architectural,architectural,adjective,c1
+16,architecture,architecture,noun,a2
+17,archway,archway,noun,c2
+18,arsenal_1,arsenal,noun,c2
+19,art-deco,art deco,noun,c2
+20,art-gallery,art gallery,noun,a2
+21,art-nouveau,art nouveau,noun,c2
+22,asbestos,asbestos,noun,c2
+23,aspect,aspect,noun,c2
+24,assemble,assemble,verb,c1
+25,assembly-room,assembly room,noun,c2
+26,atrium,atrium,noun,c2
+27,auction-room,auction room,noun,c1
+28,auditorium,auditorium,noun,c2
+29,avenue,avenue,noun,c1
+30,balcony,balcony,noun,b1
+31,balustrade,balustrade,noun,c2
+32,barn,barn,noun,c1
+33,baroque_1,baroque,noun,c2
+34,baroque_2,baroque,adjective,c2
+35,barracks,barracks,noun,c2
+36,basement,basement,noun,b2
+37,bas-relief,bas-relief,noun,c2
+38,batten_1,batten,noun,c2
+39,bauhaus,Bauhaus,noun,c2
+40,beam_1,beam,noun,c1
+41,belvedere,belvedere,noun,c2
+42,bhavan,bhavan,noun,c2
+43,bijou,bijou,adjective,c2
+44,birthplace,birthplace,noun,c1
+45,block_1,block,noun,b1
+46,blueprint,blueprint,noun,c2
+47,board_1,board,noun,a2
+48,booth,booth,noun,c2
+49,borough,borough,noun,c2
+50,bowling-alley,bowling alley,noun,c1
+51,breeze-block,breeze block,noun,c2
+52,brick_1,brick,noun,b2
+53,bricklaying,bricklaying,noun,c2
+54,bridge_1,bridge,noun,a2
+55,brownfield,brownfield,adjective,c2
+56,brutalism,brutalism,noun,c2
+57,build_1,build,verb,a1
+58,building,building,noun,a1
+59,bulldozer,bulldozer,noun,c2
+60,bunker_1,bunker,noun,c2
+61,bunkhouse,bunkhouse,noun,c2
+62,buttress_1,buttress,noun,c2
+63,byzantine,Byzantine,adjective,c2
+64,cabana,cabana,noun,c2
+65,cabin,cabin,noun,c2
+66,campus,campus,noun,b1
+67,cantilever,cantilever,noun,c2
+68,capital_1,capital,noun,c2
+69,carve,carve,verb,c1
+70,casement,casement,noun,c2
+71,castle,castle,noun,a2
+72,cathedral,cathedral,noun,b1
+73,cellar,cellar,noun,b2
+74,cement_1,cement,noun,c1
+75,cenotaph,cenotaph,noun,c2
+76,center_1,center,noun,a1
+77,centre_1,centre,noun,a1
+78,chamber,chamber,noun,c2
+79,chapel,chapel,noun,c2
+80,chapter-house,chapter house,noun,c2
+81,chawl,chawl,noun,c2
+82,chimney,chimney,noun,c1
+83,chimney-pot,chimney pot,noun,c2
+84,choir,choir,noun,c2
+85,church,church,noun,a2
+86,cinema,cinema,noun,a1
+87,civil-engineering,civil engineering,noun,c1
+88,classical,classical,adjective,b2
+89,clinic,clinic,noun,b2
+90,cloister,cloister,noun,c2
+91,close2_3,close,noun,c2
+92,club_1,club,noun,a2
+93,clubhouse,clubhouse,noun,c2
+94,collapse_1,collapse,verb,b2
+95,colonial_1,colonial,adjective,c2
+96,colonnade,colonnade,noun,c2
+97,column,column,noun,b2
+98,complex_2,complex,noun,b2
+99,concrete_1,concrete,adjective,b2
+100,concrete_3,concrete,verb,c1
+101,condo,condo,noun,c2
+102,condominium,condominium,noun,c2
+103,conservation,conservation,noun,c1
+104,construct_1,construct,verb,b2
+105,construction,construction,noun,b2
+106,consulate,consulate,noun,c2
+107,contemporary_1,contemporary,adjective,b2
+108,convent,convent,noun,c2
+109,conversion,conversion,noun,c2
+110,convert_1,convert,verb,b2
+111,cooling-tower,cooling tower,noun,c2
+112,corbel,corbel,noun,c2
+113,corridor,corridor,noun,b2
+114,cosy_1,cosy,adjective,c1
+115,cottage,cottage,noun,b1
+116,court_1,court,noun,b1
+117,courthouse,courthouse,noun,b2
+118,courtyard,courtyard,noun,c1
+119,cramped,cramped,adjective,c2
+120,crane_1,crane,noun,c1
+121,crematorium,crematorium,noun,c2
+122,crumble_1,crumble,verb,c2
+123,crypt,crypt,noun,c2
+124,cul-de-sac,cul-de-sac,noun,c2
+125,dam_1,dam,noun,c1
+126,damp_2,damp,noun,c1
+127,decay_2,decay,verb,c1
+128,demolish,demolish,verb,c1
+129,design_1,design,noun,a1
+130,design_2,design,verb,a1
+131,des-res,des res,noun,c2
+132,development,development,noun,b2
+133,digger,digger,noun,b2
+134,dilapidated,dilapidated,adjective,c2
+135,dilapidation,dilapidation,noun,c2
+136,disrepair,disrepair,noun,c2
+137,district,district,noun,b2
+138,dome,dome,noun,c1
+139,doorstep_1,doorstep,noun,b2
+140,doorway,doorway,noun,b2
+141,doric,Doric,adjective,c2
+142,dormitory,dormitory,noun,c1
+143,do-up,do up,phrasal verb,c2
+144,downspout,downspout,noun,c2
+145,downstairs_1,downstairs,adverb,a1
+146,downstairs_2,downstairs,adjective,a2
+147,downstairs_3,downstairs,noun,a1
+148,downtown_1,downtown,adverb,b2
+149,downtown_2,downtown,adjective,b2
+150,downtown_3,downtown,noun,b2
+151,drain_2,drain,noun,c1
+152,drainpipe,drainpipe,noun,c2
+153,drawbridge,drawbridge,noun,c2
+154,drive_2,drive,noun,b2
+155,driveway,driveway,noun,b2
+156,drywall,drywall,noun,c2
+157,dungeon,dungeon,noun,c1
+158,eaves,eaves,noun,c2
+159,edwardian_2,Edwardian,adjective,c2
+160,elevation,elevation,noun,c2
+161,elevator,elevator,noun,b1
+162,embassy,embassy,noun,c1
+163,entrance1,entrance,noun,b1
+164,erect_1,erect,verb,c1
+165,erection,erection,noun,c2
+166,escalator,escalator,noun,c1
+167,excavate,excavate,verb,c2
+168,exclusive_1,exclusive,adjective,c1
+169,exit_1,exit,noun,b2
+170,extension,extension,noun,c1
+171,exterior_1,exterior,noun,c1
+172,exterior_2,exterior,adjective,c1
+173,external,external,adjective,b2
+174,eyesore,eyesore,noun,c2
+175,fabric,fabric,noun,c2
+176,facade,facade,noun,c2
+177,face_2,face,verb,b1
+178,facia,facia,noun,c2
+179,facing,facing,noun,c2
+180,factory,factory,noun,a2
+181,farm_1,farm,noun,b1
+182,fascia,fascia,noun,c2
+183,fire-escape,fire escape,noun,c1
+184,fireplace,fireplace,noun,c1
+185,fire-station,fire station,noun,b2
+186,fire-trap,fire trap,noun,c2
+187,first-floor_1,first floor,noun,a2
+188,fitted,fitted,adjective,c2
+189,flat_1,flat,noun,a1
+190,floor_1,floor,noun,a1
+191,flooring,flooring,noun,c1
+192,floor-plan,floor plan,noun,c1
+193,flying-buttress,flying buttress,noun,c2
+194,folly,folly,noun,c2
+195,formal,formal,adjective,b2
+196,fort,fort,noun,c1
+197,fortress,fortress,noun,c1
+198,foundation,foundation,noun,c1
+199,frame_1,frame,noun,b1
+200,fretwork,fretwork,noun,c2
+201,friary,friary,noun,c2
+202,front_1,front,noun,c2
+203,gable,gable,noun,c2
+204,gallery,gallery,noun,a2
+205,garage_1,garage,noun,b1
+206,gargoyle,gargoyle,noun,c2
+207,gasometer,gasometer,noun,c2
+208,gated-community,gated community,noun,c2
+209,gazebo,gazebo,noun,c2
+210,georgian,Georgian,adjective,c2
+211,girder,girder,noun,c2
+212,glass_1,glass,noun,a1
+213,glasshouse,glasshouse,noun,c2
+214,glaze_1,glaze,verb,c2
+215,gothic_1,Gothic,adjective,c2
+216,gothic_2,Gothic,noun,c2
+217,grand_1,grand,adjective,b2
+218,grecian,Grecian,adjective,c2
+219,greenfield,greenfield,adjective,c2
+220,greenhouse,greenhouse,noun,b2
+221,green-wall,green wall,noun,c1
+222,ground-floor,ground floor,noun,a2
+223,ground-plan,ground plan,noun,c1
+224,guest-house,guest house,noun,c1
+225,gurdwara,gurdwara,noun,c2
+226,gut_2,gut,verb,c2
+227,gutter_1,gutter,noun,c2
+228,guttering,guttering,noun,c2
+229,half-timbered,half-timbered,adjective,c2
+230,hall,hall,noun,b1
+231,hall-of-residence,hall of residence,noun,b2
+232,handy,handy,adjective,c1
+233,hangar,hangar,noun,c2
+234,hdb,HDB,noun,c2
+235,hermitage,hermitage,noun,c2
+236,high-rise_1,high-rise,noun,c1
+237,high-rise_2,high-rise,adjective,c1
+238,hod,hod,noun,c2
+239,home_1,home,noun,a2
+240,hospice,hospice,noun,c2
+241,hospital,hospital,noun,a1
+242,hostel,hostel,noun,b1
+243,hotel,hotel,noun,a1
+244,hothouse,hothouse,noun,c2
+245,house_1,house,noun,a1
+246,hovel,hovel,noun,c2
+247,hut,hut,noun,b2
+248,igloo,igloo,noun,c1
+249,impressive,impressive,adjective,b1
+250,indoor,indoor,adjective,b1
+251,indoors,indoors,adverb,b1
+252,inlay_1,inlay,verb,c2
+253,inlay_2,inlay,noun,c2
+254,inn,inn,noun,c1
+255,inscription,inscription,noun,c2
+256,insulated,insulated,adjective,c1
+257,insulation,insulation,noun,c2
+258,interior_2,interior,adjective,c1
+259,ionic,ionic,adjective,c2
+260,isolated,isolated,adjective,b2
+261,italianate,Italianate,adjective,c2
+262,joist,joist,noun,c2
+263,kaaba,Kaaba,noun,c2
+264,keystone,keystone,noun,c2
+265,kiosk,kiosk,noun,c1
+266,knock-down_2,knock down,phrasal verb,b2
+267,knock-together,knock together,phrasal verb,c2
+268,lab_1,lab,noun,a2
+269,ladder_1,ladder,noun,b2
+270,landing,landing,noun,c1
+271,landmark,landmark,noun,b2
+272,layout,layout,noun,c1
+273,leaded,leaded,adjective,c2
+274,leafy,leafy,adjective,c2
+275,lean-to_2,lean-to,noun,c2
+276,leisure-centre,leisure centre,noun,b2
+277,level_2,level,adjective,b1
+278,level_3,level,verb,b2
+279,library,library,noun,a1
+280,lift_2,lift,noun,a2
+281,lighthouse,lighthouse,noun,c1
+282,lintel,lintel,noun,c2
+283,listed-building,listed building,noun,c2
+284,lobby_1,lobby,noun,c1
+285,location,location,noun,b1
+286,lock_2,lock,noun,a2
+287,lodge_1,lodge,noun,c2
+288,loft_1,loft,noun,c1
+289,lofty,lofty,adjective,c2
+290,loggia,loggia,noun,c2
+291,luxury_2,luxury,adjective,b1
+292,maintain,maintain,verb,b2
+293,mall_1,mall,noun,b1
+294,manor,manor,noun,c1
+295,mansion,mansion,noun,c1
+296,mantelpiece,mantelpiece,noun,c2
+297,marble,marble,noun,c1
+298,masjid,masjid,noun,c2
+299,masonry,masonry,noun,c2
+300,mediaeval,mediaeval,adjective,b2
+301,medieval,medieval,adjective,c1
+302,meeting-house,meeting house,noun,c2
+303,metropolitan,metropolitan,adjective,c1
+304,mill_1,mill,noun,c1
+305,minaret,minaret,noun,c2
+306,moat,moat,noun,c2
+307,moated,moated,adjective,c2
+308,mock_2,mock,adjective,c2
+309,model-home,model home,noun,c1
+310,modern,modern,adjective,a1
+311,modernism,modernism,noun,c1
+312,monastery,monastery,noun,c1
+313,monument,monument,noun,b2
+314,morgue,morgue,noun,c2
+315,mortar_1,mortar,noun,c2
+316,mortuary,mortuary,noun,c2
+317,mosque,mosque,noun,b2
+318,motel,motel,noun,c1
+319,motor-lodge,motor lodge,noun,c2
+320,motte-and-bailey-castle,motte-and-bailey castle,noun,c2
+321,movie-theater,movie theater,noun,a1
+322,multi-storey-car-park,multi-storey car park,noun,c1
+323,municipal,municipal,adjective,c1
+324,museum,museum,noun,a1
+325,narthex,narthex,noun,c2
+326,nave,nave,noun,c2
+327,neglect_1,neglect,verb,c1
+328,neglect_2,neglect,noun,c1
+329,neoclassical,neoclassical,adjective,c2
+330,neoclassicism,neoclassicism,noun,c2
+331,newel-post,newel post,noun,c2
+332,next-door_2,next door,adverb,b1
+333,niche_1,niche,noun,c2
+334,norman_1,Norman,adjective,c2
+335,nunnery,nunnery,noun,c2
+336,obelisk,obelisk,noun,c2
+337,observatory,observatory,noun,c2
+338,office-block,office block,noun,b1
+339,open-plan,open-plan,adjective,b2
+340,opera-house,opera house,noun,b2
+341,outbuilding,outbuilding,noun,c2
+342,outdoor,outdoor,adjective,b1
+343,outskirts,outskirts,noun,c1
+344,overlook,overlook,verb,c1
+345,pagoda,pagoda,noun,c2
+346,palace,palace,noun,a2
+347,palatial,palatial,adjective,c2
+348,parking-garage,parking garage,noun,c2
+349,parsonage,parsonage,noun,c2
+350,passage,passage,noun,b2
+351,pave,pave,verb,c2
+352,pavilion,pavilion,noun,c2
+353,paving,paving,noun,c2
+354,pebble-dash,pebble-dash,noun,c2
+355,pediment,pediment,noun,c2
+356,penthouse,penthouse,noun,c2
+357,perpendicular_1,perpendicular,adjective,c2
+358,picturesque,picturesque,adjective,c2
+359,pier,pier,noun,c1
+360,pigsty,pigsty,noun,c2
+361,pillar,pillar,noun,c2
+362,pinnacle,pinnacle,noun,c2
+363,pipework,pipework,noun,c2
+364,plan_1,plan,noun,b1
+365,planetarium,planetarium,noun,c2
+366,planning-permission,planning permission,noun,c2
+367,plaque,plaque,noun,c2
+368,plaster_1,plaster,noun,c2
+369,plaster_2,plaster,verb,c2
+370,plasterboard,plasterboard,noun,c2
+371,plasterwork,plasterwork,noun,c2
+372,plate-glass_1,plate glass,noun,c2
+373,plinth,plinth,noun,c2
+374,plot_1,plot,noun,c2
+375,plumbing,plumbing,noun,c1
+376,poky,poky,adjective,c2
+377,police-station,police station,noun,a2
+378,porch,porch,noun,c1
+379,portakabintm,Portakabin™,noun,c2
+380,portico,portico,noun,c2
+381,postmodernism,postmodernism,noun,c2
+382,postmodernist_2,postmodernist,noun,c2
+383,post-office,post office,noun,a1
+384,power-station,power station,noun,b1
+385,prefab,prefab,noun,c2
+386,prefabricated,prefabricated,adjective,c2
+387,premises,premises,noun,c1
+388,preservation-order,preservation order,noun,c2
+389,preserve_1,preserve,verb,b2
+390,priory,priory,noun,c2
+391,prison,prison,noun,a2
+392,pristine,pristine,adjective,c2
+393,private_1,private,adjective,b1
+394,property,property,noun,b2
+395,provincial_1,provincial,adjective,c1
+396,pub,pub,noun,a2
+397,public-convenience,public convenience,noun,c2
+398,public-house,public house,noun,c2
+399,pull-down_1,pull down,phrasal verb,c1
+400,pulpit,pulpit,noun,c2
+401,pyramid,pyramid,noun,b2
+402,rambling_1,rambling,adjective,c2
+403,raze,raze,verb,c2
+404,rebuild,rebuild,verb,b2
+405,reconstruct,reconstruct,verb,c1
+406,reconstruction,reconstruction,noun,c1
+407,rectory,rectory,noun,c2
+408,redevelop,redevelop,verb,c2
+409,redevelopment,redevelopment,noun,c2
+410,refinery,refinery,noun,c2
+411,refurbish,refurbish,verb,c1
+412,refurbishment,refurbishment,noun,c1
+413,regency_2,Regency,adjective,c2
+414,reinforce,reinforce,verb,c1
+415,relief,relief,noun,c2
+416,remains,remains,noun,c1
+417,render,render,verb,c2
+418,renovate,renovate,verb,c1
+419,renovation,renovation,noun,c1
+420,residency,residency,noun,c2
+421,residential,residential,adjective,c1
+422,restore,restore,verb,b2
+423,rewire,rewire,verb,c2
+424,rococo,rococo,adjective,c2
+425,romanesque,Romanesque,adjective,c2
+426,roof_1,roof,noun,a2
+427,roofing,roofing,noun,c2
+428,rot_1,rot,verb,c1
+429,rot_2,rot,noun,c1
+430,rotunda,rotunda,noun,c2
+431,rough_1,rough,adjective,b2
+432,rubble,rubble,noun,c2
+433,ruin_2,ruin,noun,b2
+434,run-down_2,run-down,adjective,c2
+435,rural,rural,adjective,b2
+436,sanctuary,sanctuary,noun,c2
+437,sand_2,sand,verb,c2
+438,scaffolding,scaffolding,noun,c2
+439,school_1,school,noun,a1
+440,schoolhouse,schoolhouse,noun,b2
+441,screen_1,screen,noun,c2
+442,secluded,secluded,adjective,c2
+443,self-build,self-build,noun,c2
+444,semi_1,semi,noun,c2
+445,service-station,service station,noun,c1
+446,sewer,sewer,noun,c1
+447,shack_1,shack,noun,c2
+448,shed_2,shed,noun,c1
+449,shell_1,shell,noun,c2
+450,shelter_1,shelter,noun,b2
+451,shopping-arcade,shopping arcade,noun,c2
+452,shopping-centre,shopping centre,noun,a2
+453,shopping-mall,shopping mall,noun,b1
+454,shore-up,shore up,phrasal verb,c2
+455,shrine,shrine,noun,c1
+456,shutter,shutter,noun,c1
+457,site_1,site,noun,a2
+458,skeleton,skeleton,noun,c2
+459,skyscraper,skyscraper,noun,b1
+460,slab,slab,noun,c2
+461,slate_1,slate,noun,c2
+462,slaughterhouse,slaughterhouse,noun,c2
+463,slum_1,slum,noun,b2
+464,spacious,spacious,adjective,b2
+465,span_1,span,verb,c1
+466,span_2,span,noun,c2
+467,spire,spire,noun,c1
+468,sports-centre,sports centre,noun,a2
+469,square_2,square,noun,a2
+470,stable_2,stable,noun,c1
+471,stadium,stadium,noun,b1
+472,stained-glass,stained glass,noun,c2
+473,stair_2,stair,noun,a2
+474,stately-home,stately home,noun,c2
+475,station_1,station,noun,a1
+476,station-house,station house,noun,c2
+477,steeple,steeple,noun,c2
+478,stone_1,stone,noun,a2
+479,storey,storey,noun,c1
+480,street_1,street,noun,a1
+481,strip_2,strip,verb,c1
+482,structure_1,structure,noun,a2
+483,stucco,stucco,noun,c2
+484,stuccoed,stuccoed,adjective,c2
+485,subsidence,subsidence,noun,c2
+486,substructure,substructure,noun,c2
+487,suburb,suburb,noun,b2
+488,suburban,suburban,adjective,c1
+489,summer-house,summer house,noun,c2
+490,superstructure,superstructure,noun,c2
+491,support_1,support,verb,b2
+492,surround_2,surround,noun,c2
+493,suspension-bridge,suspension bridge,noun,c2
+494,swimming-pool,swimming pool,noun,a1
+495,synagogue,synagogue,noun,c2
+496,temple,temple,noun,b2
+497,tenement,tenement,noun,c2
+498,terminal_1,terminal,noun,b2
+499,terrace,terrace,noun,c2
+500,thatch_1,thatch,noun,c2
+501,thatch_2,thatch,verb,c2
+502,thatched,thatched,adjective,c2
+503,theatre,theatre,noun,a1
+504,threshold,threshold,noun,c1
+505,tile_1,tile,noun,c1
+506,tile_2,tile,verb,c2
+507,timber,timber,noun,c1
+508,tomb,tomb,noun,b2
+509,tower_1,tower,noun,a2
+510,tower-block,tower block,noun,c1
+511,town-hall,town hall,noun,b1
+512,traditional,traditional,adjective,a2
+513,transept,transept,noun,c2
+514,truss_1,truss,noun,c2
+515,tudor,Tudor,adjective,c2
+516,turret,turret,noun,c2
+517,upstairs_1,upstairs,adverb,a1
+518,upstairs_2,upstairs,adjective,a2
+519,upstairs_3,upstairs,noun,a1
+520,uptown_1,uptown,adverb,c2
+521,uptown_2,uptown,adjective,c2
+522,urban,urban,adjective,b2
+523,vacant,vacant,adjective,c1
+524,varnish_2,varnish,verb,c2
+525,vault_1,vault,noun,c2
+526,vaulted,vaulted,adjective,c2
+527,vaulting,vaulting,noun,c2
+528,ventilate,ventilate,verb,c2
+529,veranda,veranda,noun,c2
+530,vernacular_1,vernacular,noun,c2
+531,viaduct,viaduct,noun,c2
+532,vicarage,vicarage,noun,c2
+533,victorian_1,Victorian,adjective,c1
+534,villa,villa,noun,b2
+535,walkway,walkway,noun,c1
+536,wall_1,wall,noun,a1
+537,warehouse,warehouse,noun,c1
+538,weather_2,weather,verb,c2
+539,weathering,weathering,noun,c2
+540,weathervane,weathervane,noun,c2
+541,windmill,windmill,noun,c1
+542,window,window,noun,a1
+543,window-ledge,window ledge,noun,c2
+544,windowsill,windowsill,noun,c1
+545,woodworm,woodworm,noun,c2
+546,wreck_1,wreck,noun,c2
+547,wrecking-ball,wrecking ball,noun,c2
+548,ziggurat,ziggurat,noun,c2
+549,allotment,allotment,noun,c2
+550,arbour,arbour,noun,c2
+551,axe_1,axe,noun,c1
+552,backyard,backyard,noun,b2
+553,barbecue_1,barbecue,noun,b1
+554,barbie,barbie,noun,c2
+555,bench,bench,noun,c1
+556,bird-table,bird table,noun,c2
+557,border_1,border,noun,c1
+558,boundary,boundary,noun,c1
+559,cane_1,cane,noun,c2
+560,climbing-frame,climbing frame,noun,c1
+561,clothes-line,clothes line,noun,c2
+562,compost_1,compost,noun,c1
+563,compost_2,compost,verb,c2
+564,compostable,compostable,adjective,c2
+565,compost-bin,compost bin,noun,c1
+566,compost-heap,compost heap,noun,c2
+567,container,container,noun,c1
+568,courtyard,courtyard,noun,c1
+569,cut-back,cut back,phrasal verb,c2
+570,cut-down_1,cut down,phrasal verb,b2
+571,deck_1,deck,noun,c1
+572,deckchair,deckchair,noun,c2
+573,decking,decking,noun,c2
+574,dig_1,dig,verb,b2
+575,fence_1,fence,noun,b1
+576,fertilizer,fertilizer,noun,c1
+577,flagstone,flagstone,noun,c2
+578,flower-bed,flower bed,noun,c2
+579,flowerpot,flowerpot,noun,b2
+580,fork_1,fork,noun,b2
+581,fountain,fountain,noun,b2
+582,garbage-can,garbage can,noun,b2
+583,garden_1,garden,noun,a1
+584,garden_2,garden,verb,a1
+585,gardener,gardener,noun,b1
+586,gate,gate,noun,a2
+587,gnome,gnome,noun,c2
+588,graft_2,graft,verb,c2
+589,grass_1,grass,noun,a2
+590,gravel,gravel,noun,c2
+591,greenhouse,greenhouse,noun,b2
+592,grow,grow,verb,a1
+593,growbag,growbag,noun,c2
+594,hanging-basket,hanging basket,noun,c2
+595,hedge_1,hedge,noun,b2
+596,hedge-trimmer,hedge trimmer,noun,c2
+597,hoe_1,hoe,noun,c2
+598,hoe_2,hoe,verb,c2
+599,horticulture,horticulture,noun,c2
+600,hose_1,hose,noun,c1
+601,hot-tub,hot tub,noun,c2
+602,lawn,lawn,noun,c1
+603,lawnmower,lawnmower,noun,c1
+604,lounger,lounger,noun,c2
+605,manure_1,manure,noun,c2
+606,manure_2,manure,verb,c2
+607,moat,moat,noun,c2
+608,moated,moated,adjective,c2
+609,mow,mow,verb,c1
+610,mower,mower,noun,c1
+611,mulch_1,mulch,noun,c2
+612,mulch_2,mulch,verb,c2
+613,ornamental,ornamental,adjective,c2
+614,overgrown,overgrown,adjective,c2
+615,patch_1,patch,noun,c1
+616,path,path,noun,b1
+617,patio,patio,noun,c1
+618,paving-stone,paving stone,noun,c2
+619,peat,peat,noun,c2
+620,peaty,peaty,adjective,c2
+621,picket_1,picket,noun,c2
+622,plant_2,plant,verb,a2
+623,planter,planter,noun,c1
+624,plant-pot,plant pot,noun,b2
+625,pond,pond,noun,c1
+626,post_2,post,noun,c1
+627,pot_1,pot,noun,b1
+628,pot_2,pot,verb,c1
+629,potting-shed,potting shed,noun,c2
+630,prune_2,prune,verb,c2
+631,rain-barrel,rain barrel,noun,c1
+632,raised-bed,raised bed,noun,c2
+633,rake_1,rake,noun,c2
+634,rake_2,rake,verb,c2
+635,roof-garden,roof garden,noun,b2
+636,scythe_1,scythe,noun,c2
+637,secateurs,secateurs,noun,c2
+638,seed_1,seed,noun,b1
+639,seedbed,seedbed,noun,c2
+640,shears,shears,noun,c2
+641,shed_2,shed,noun,c1
+642,shovel_1,shovel,noun,c1
+643,shovel_2,shovel,verb,c1
+644,shrub,shrub,noun,c2
+645,shrubbery,shrubbery,noun,c2
+646,slug_1,slug,noun,c2
+647,snail,snail,noun,b2
+648,soil_1,soil,noun,b1
+649,sow1,sow,verb,c2
+650,spade,spade,noun,c1
+651,sprinkler,sprinkler,noun,c2
+652,strimmertm,Strimmer™,noun,c2
+653,summer-house,summer house,noun,c2
+654,sundial,sundial,noun,c2
+655,sunlounger,sunlounger,noun,c2
+656,sunshade,sunshade,noun,c1
+657,swimming-pool,swimming pool,noun,a1
+658,swing_2,swing,noun,c1
+659,terrace,terrace,noun,c1
+660,transplant_1,transplant,verb,c1
+661,tree-house,tree house,noun,b2
+662,trellis,trellis,noun,c2
+663,trim_1,trim,verb,c2
+664,trowel,trowel,noun,c2
+665,tub,tub,noun,c1
+666,washing-line,washing line,noun,c2
+667,water_2,water,verb,b1
+668,water-butt,water butt,noun,c2
+669,water-feature,water feature,noun,c2
+670,watering-can,watering can,noun,c2
+671,weed_1,weed,noun,c1
+672,weed_2,weed,verb,c1
+673,wheelbarrow,wheelbarrow,noun,c2
+674,windbreak,windbreak,noun,c2
+675,window-box,window box,noun,c1
+676,yard,yard,noun,b1
+677,accommodation,accommodation,noun,b1
+678,aerial_1,aerial,noun,c1
+679,affordable-housing,affordable housing,noun,c1
+680,a-frame,A-frame,noun,c2
+681,air-conditioned,air-conditioned,adjective,b2
+682,air-conditioning,air conditioning,noun,b2
+683,alarm_1,alarm,noun,b1
+684,alcove,alcove,noun,c2
+685,almshouse,almshouse,noun,c2
+686,annexe,annexe,noun,c2
+687,antenna,antenna,noun,c1
+688,apartment,apartment,noun,a1
+689,appraiser,appraiser,noun,c2
+690,armchair_1,armchair,noun,b1
+691,arrears,arrears,noun,c2
+692,attic,attic,noun,b2
+693,bachelor-pad,bachelor pad,noun,c2
+694,back-door_1,back door,noun,b1
+695,back-to-back_2,back-to-back,noun,c2
+696,balcony,balcony,noun,b1
+697,ballroom,ballroom,noun,c1
+698,baseboard,baseboard,noun,c2
+699,basement,basement,noun,b2
+700,bath_1,bath,noun,a1
+701,bathroom,bathroom,noun,a1
+702,bay-window,bay window,noun,c2
+703,bed_1,bed,noun,a1
+704,bedroom_1,bedroom,noun,a1
+705,bedsit,bedsit,noun,c2
+706,arrears,be in arrears,idiom,c2
+707,bin_1,bin,noun,a2
+708,birdcage,birdcage,noun,c2
+709,blackout,blackout,noun,c2
+710,blind_3,blind,noun,c1
+711,boarder,boarder,noun,c2
+712,boarding-house,boarding house,noun,c2
+713,boiler,boiler,noun,c1
+714,boiler-room,boiler room,noun,c2
+715,bond_1,bond,noun,c2
+716,bookcase,bookcase,noun,b2
+717,bookshelf,bookshelf,noun,b2
+718,borrow,borrow,verb,a2
+719,box-room,box room,noun,c2
+720,breezeway,breezeway,noun,c2
+721,bridging-loan,bridging loan,noun,c2
+722,broom,broom,noun,c1
+723,broom-closet,broom closet,noun,c1
+724,broom-cupboard,broom cupboard,noun,c1
+725,brownstone,brownstone,noun,c2
+726,brush_2,brush,noun,a2
+727,bucket_1,bucket,noun,c1
+728,building-society,building society,noun,c2
+729,built-in,built-in,adjective,c1
+730,bungalow,bungalow,noun,c1
+731,bunk_1,bunk,noun,c1
+732,bureau,bureau,noun,c2
+733,burglar-alarm,burglar alarm,noun,b1
+734,buy_1,buy,verb,a1
+735,buyer,buyer,noun,b1
+736,buy-to-let,buy-to-let,adjective,c2
+737,cabinet,cabinet,noun,c1
+738,camp-bed,camp bed,noun,c2
+739,canopy,canopy,noun,c2
+740,carpet_1,carpet,noun,a2
+741,cat-flap,cat flap,noun,c2
+742,ceiling,ceiling,noun,b1
+743,cellar,cellar,noun,b2
+744,central-heating,central heating,noun,b2
+745,chain_1,chain,noun,c2
+746,chair_1,chair,noun,a1
+747,chalet,chalet,noun,c1
+748,chest,chest,noun,c1
+749,chest-of-drawers,chest of drawers,noun,b2
+750,chimney,chimney,noun,c1
+751,chimney-stack,chimney stack,noun,c2
+752,chintz,chintz,noun,c2
+753,chore,chore,noun,b1
+754,cistern,cistern,noun,c2
+755,clean_2,clean,verb,a1
+756,cleaning,cleaning,noun,b1
+757,closet_1,closet,noun,b2
+758,clutter_2,clutter,noun,c1
+759,coffee-table,coffee table,noun,c1
+760,comfort-room,comfort room,noun,c2
+761,communal,communal,adjective,b2
+762,condo,condo,noun,c2
+763,condominium,condominium,noun,c2
+764,conservatory,conservatory,noun,c2
+765,contract_1,contract,noun,b2
+766,cooker,cooker,noun,a2
+767,corner_1,corner,noun,a2
+768,cornice,cornice,noun,c2
+769,cottage,cottage,noun,b1
+770,couch_1,couch,noun,b2
+771,council-flat,council flat,noun,c1
+772,country-house,country house,noun,b2
+773,cupboard,cupboard,noun,a2
+774,curtain_1,curtain,noun,b1
+775,cushion_1,cushion,noun,c1
+776,decor,decor,noun,c1
+777,decorate,decorate,verb,b1
+778,decoration,decoration,noun,b2
+779,deed_2,deed,noun,c2
+780,deep-freeze,deep freeze,noun,c1
+781,deposit_1,deposit,noun,b2
+782,deposit_2,deposit,verb,c1
+783,desk,desk,noun,a1
+784,detached,detached,adjective,b2
+785,detailing,detailing,noun,c2
+786,dining-room,dining room,noun,a1
+787,dishwasher,dishwasher,noun,a2
+788,dispossess,dispossess,verb,c2
+789,dispossession,dispossession,noun,c2
+790,diy,DIY,noun,b2
+791,door,door,noun,a1
+792,doorbell,doorbell,noun,b2
+793,doorknob,doorknob,noun,c2
+794,door-knocker,door knocker,noun,c2
+795,doorstep_1,doorstep,noun,b2
+796,doorway,doorway,noun,b2
+797,dormitory,dormitory,noun,c1
+798,downspout,downspout,noun,c2
+799,downstairs_1,downstairs,adverb,a1
+800,downstairs_2,downstairs,adjective,a2
+801,downstairs_3,downstairs,noun,a1
+802,drain_2,drain,noun,c2
+803,drainpipe,drainpipe,noun,c2
+804,drape_2,drape,noun,c2
+805,drawer,drawer,noun,b2
+806,drawing-room,drawing room,noun,c2
+807,dresser,dresser,noun,c2
+808,dressing-room,dressing room,noun,c2
+809,dressing-table,dressing table,noun,c2
+810,dry-up,dry up,phrasal verb,c1
+811,duplex_1,duplex,adjective,c2
+812,duplex_2,duplex,noun,c2
+813,dust_2,dust,verb,c1
+814,dustbin,dustbin,noun,b2
+815,duster,duster,noun,c2
+816,dustpan,dustpan,noun,c2
+817,dwelling,dwelling,noun,c2
+818,easy-chair,easy chair,noun,c2
+819,end-table,end table,noun,c2
+820,en-suite_1,en suite,adjective,c1
+821,entrance1,entrance,noun,b1
+822,entrance-hall,entrance hall,noun,c1
+823,entry,entry,noun,b2
+824,entryphonetm,Entryphone™,noun,c2
+825,equipment,equipment,noun,a2
+826,estate,estate,noun,b2
+827,estate-agent,estate agent,noun,b2
+828,evict,evict,verb,c1
+829,eviction,eviction,noun,c2
+830,exchange_2,exchange,verb,c2
+831,extension,extension,noun,c1
+832,exterior_1,exterior,noun,c1
+833,facade,facade,noun,c2
+834,family-room,family room,noun,b2
+835,fan_1,fan,noun,c1
+836,farm_1,farm,noun,b1
+837,fire-alarm,fire alarm,noun,b1
+838,fire-escape,fire escape,noun,c1
+839,fireplace,fireplace,noun,c1
+840,first-floor_1,first floor,noun,a2
+841,first-floor_2,first-floor,adjective,b1
+842,fitting_2,fitting,noun,c2
+843,fixture,fixture,noun,c1
+844,flat_1,flat,noun,a1
+845,flat-pack,flat-pack,noun,c2
+846,floor_1,floor,noun,a1
+847,foreclose,foreclose,verb,c2
+848,forever-home,forever home,noun,c2
+849,rent_1,for rent,idiom,c1
+850,foyer,foyer,noun,c2
+851,freehold_1,freehold,noun,c2
+852,freehold_2,freehold,adverb,c2
+853,freehold_3,freehold,adjective,c2
+854,free-standing,free-standing,adjective,c2
+855,freezer,freezer,noun,b1
+856,french-door,French door,noun,c2
+857,french-window,French window,noun,c2
+858,fridge,fridge,noun,a2
+859,frieze,frieze,noun,c2
+860,front_1,front,noun,a1
+861,frontage,frontage,noun,c2
+862,front-door,front door,noun,b1
+863,front-room,front room,noun,b2
+864,furnish,furnish,verb,c1
+865,furnished,furnished,adjective,c1
+866,furnishings,furnishings,noun,c2
+867,furniture,furniture,noun,a2
+868,furniture-van,furniture van,noun,b1
+869,fuse-box,fuse box,noun,c2
+870,futon,futon,noun,c2
+871,gable,gable,noun,c2
+872,gadget,gadget,noun,b1
+873,garage_1,garage,noun,b1
+874,gasometer,gasometer,noun,c2
+875,gazump,gazump,verb,c2
+876,gazumping,gazumping,noun,c2
+877,gazunder,gazunder,verb,c2
+878,gazundering,gazundering,noun,c2
+879,granny-flat,granny flat,noun,c2
+880,ground-floor,ground floor,noun,a2
+881,guttering,guttering,noun,c2
+882,hall,hall,noun,a2
+883,hallway,hallway,noun,a2
+884,hammock,hammock,noun,c1
+885,hang_1,hang,verb,c2
+886,hanging,hanging,noun,c2
+887,hatch_2,hatch,noun,c2
+888,hdb,HDB,noun,c2
+889,heater,heater,noun,b1
+890,heating,heating,noun,b1
+891,hi-fi_2,hi-fi,noun,c1
+892,high-chair,high chair,noun,c2
+893,home_1,home,noun,a1
+894,homebuyer,homebuyer,noun,c1
+895,home-improvement,home improvement,noun,c1
+896,home-loan,home loan,noun,b2
+897,home-office,home office,noun,b2
+898,homeowner,homeowner,noun,c1
+899,hoover,hoover,verb,c1
+900,hoovertm,Hoover™,noun,c1
+901,house_1,house,noun,a1
+902,houseboat,houseboat,noun,b2
+903,house-hunting,house-hunting,noun,c1
+904,housemate,housemate,noun,c1
+905,house-sit,house-sit,verb,c2
+906,house-warming,house-warming,noun,c1
+907,housework,housework,noun,a2
+908,housing,housing,noun,b2
+909,housing-benefit,housing benefit,noun,c2
+910,housing-estate,housing estate,noun,b2
+911,housing-scheme,housing scheme,noun,c1
+912,hut,hut,noun,b2
+913,igloo,igloo,noun,c1
+914,immersion-heater,immersion heater,noun,c2
+915,arrears,in arrears,idiom,c2
+916,indoor,indoor,adjective,b1
+917,indoors,indoors,adverb,b1
+918,interior_1,interior,noun,c1
+919,interior_2,interior,adjective,c1
+920,iron_1,iron,noun,b1
+921,iron_2,iron,verb,b1
+922,ironing,ironing,noun,b1
+923,ironing-board,ironing board,noun,b2
+924,jacuzzitm,Jacuzzi™,noun,c2
+925,kitchen,kitchen,noun,a1
+926,knick-knack,knick-knack,noun,c2
+927,knocker,knocker,noun,c2
+928,ladder_1,ladder,noun,b2
+929,lamp_1,lamp,noun,a2
+930,lampshade,lampshade,noun,c2
+931,landing,landing,noun,c1
+932,landlady,landlady,noun,b2
+933,landlord,landlord,noun,c1
+934,larder,larder,noun,c2
+935,lavatory,lavatory,noun,c2
+936,lease_1,lease,noun,c1
+937,lease_2,lease,verb,c1
+938,leasehold_3,leasehold,noun,c2
+939,leaseholder,leaseholder,noun,c2
+940,lend,lend,verb,a2
+941,lessee,lessee,noun,c2
+942,lessor,lessor,noun,c2
+943,let_1,let,verb,c1
+944,let_3,let,noun,c1
+945,letter-box,letter box,noun,c1
+946,letting,letting,noun,c2
+947,level_1,level,noun,a2
+948,library,library,noun,a1
+949,light_1,light,noun,a1
+950,lino,lino,noun,c2
+951,linoleum,linoleum,noun,c2
+952,living-room,living room,noun,a1
+953,loan_1,loan,noun,b2
+954,loan_2,loan,verb,b2
+955,lock_2,lock,noun,a2
+956,lodger,lodger,noun,c2
+957,lodging,lodging,noun,c2
+958,loft_1,loft,noun,c1
+959,log-cabin,log cabin,noun,c2
+960,loo,loo,noun,c1
+961,lounge_1,lounge,noun,b2
+962,lounge-chair,lounge chair,noun,c2
+963,mailbox,mailbox,noun,c1
+964,main_2,main,noun,c2
+965,maisonette,maisonette,noun,c2
+966,man-cave,man cave,noun,c2
+967,manor,manor,noun,c1
+968,manse,manse,noun,c2
+969,mansion,mansion,noun,c1
+970,mantelpiece,mantelpiece,noun,c2
+971,mat_1,mat,noun,c1
+972,mews-house,mews house,noun,c2
+973,mezzanine,mezzanine,noun,c2
+974,mirror_1,mirror,noun,a2
+975,mobile-home,mobile home,noun,c2
+976,mod-con,mod con,noun,c2
+977,mop_1,mop,noun,c1
+978,mop_2,mop,verb,c1
+979,mortgage_1,mortgage,noun,b2
+980,mortgage_2,mortgage,verb,b2
+981,mortgage-bond,mortgage bond,noun,c2
+982,moulding,moulding,noun,c2
+983,move_1,move,verb,a2
+984,move_2,move,noun,b1
+985,mudroom,mudroom,noun,c2
+986,mural_2,mural,noun,c1
+987,negative-equity,negative equity,noun,c2
+988,new-build,new build,noun,c1
+989,notice_2,notice,noun,c2
+990,nursery_1,nursery,noun,c2
+991,occupancy,occupancy,noun,c2
+992,occupation,occupation,noun,c1
+993,occupier,occupier,noun,c2
+994,occupy,occupy,verb,c1
+995,offer_2,offer,noun,a2
+996,office,office,noun,a1
+997,open-plan,open-plan,adjective,b2
+998,ornament_1,ornament,noun,c2
+999,ornament_2,ornament,verb,c2
+1000,outdoor,outdoor,adjective,b1
+1001,outdoors_1,outdoors,adverb,b1
+1002,owner-occupier,owner-occupier,noun,c2
+1003,pail,pail,noun,c2
+1004,paint_1,paint,noun,a1
+1005,paint_2,paint,verb,a1
+1006,palace,palace,noun,a2
+1007,panic-room,panic room,noun,c2
+1008,pantry,pantry,noun,c2
+1009,paperwork,paperwork,noun,b2
+1010,partition_1,partition,noun,c2
+1011,passage,passage,noun,b2
+1012,pattern_1,pattern,noun,b1
+1013,patterned,patterned,adjective,c1
+1014,picture_1,picture,noun,a1
+1015,picture-rail,picture rail,noun,c2
+1016,pile_1,pile,noun,c2
+1017,plain_1,plain,adjective,b2
+1018,playroom,playroom,noun,b2
+1019,plug_2,plug,noun,c1
+1020,plughole,plughole,noun,c2
+1021,plunger,plunger,noun,c2
+1022,poker,poker,noun,c2
+1023,polish_1,polish,noun,c1
+1024,polish_2,polish,verb,c1
+1025,porch,porch,noun,c1
+1026,power-point,power point,noun,c1
+1027,prefab,prefab,noun,c2
+1028,public-housing,public housing,noun,c1
+1029,purchase_2,purchase,noun,b2
+1030,quantity-surveyor,quantity surveyor,noun,c2
+1031,radiator,radiator,noun,c2
+1032,rate_1,rate,noun,c2
+1033,real-estate,real estate,noun,c2
+1034,realtortm,Realtor™,noun,c2
+1035,realty,realty,noun,c2
+1036,reception-room,reception room,noun,c2
+1037,recliner,recliner,noun,c2
+1038,recreation-room,recreation room,noun,c2
+1039,rec-room,rec room,noun,c2
+1040,redecorate,redecorate,verb,c1
+1041,redecoration,redecoration,noun,c2
+1042,refrigerator,refrigerator,noun,b1
+1043,refuge,refuge,noun,c1
+1044,remortgage_2,remortgage,verb,c2
+1045,remote-control,remote control,noun,b2
+1046,removal-van,removal van,noun,c2
+1047,remover,remover,noun,c2
+1048,renew,renew,verb,c1
+1049,rent_1,rent,noun,b1
+1050,rent_2,rent,verb,b1
+1051,rental,rental,noun,c1
+1052,rent-free_1,rent-free,adverb,c1
+1053,rent-free_2,rent-free,adjective,c1
+1054,repayment,repayment,noun,c1
+1055,repossess,repossess,verb,c2
+1056,repossession,repossession,noun,c2
+1057,residential,residential,adjective,c1
+1058,residents-association,residents’ association,noun,c2
+1059,rocking-chair,rocking chair,noun,c2
+1060,roof_1,roof,noun,a2
+1061,rooftop,rooftop,noun,b2
+1062,room_1,room,noun,a1
+1063,roomer,roomer,noun,c2
+1064,roomie,roomie,noun,c2
+1065,rooming-house,rooming house,noun,c2
+1066,room-mate,room-mate,noun,b2
+1067,rota,rota,noun,c2
+1068,rug,rug,noun,b1
+1069,safe-room,safe room,noun,c2
+1070,satellite-dish,satellite dish,noun,c1
+1071,sauna,sauna,noun,c1
+1072,savings-and-loan-association,savings and loan association,noun,c2
+1073,scrubbing-brush,scrubbing brush,noun,c2
+1074,second-home,second home,noun,c1
+1075,security-deposit,security deposit,noun,b2
+1076,sell_1,sell,verb,a1
+1077,semi-detached_1,semi-detached,adjective,b2
+1078,settee,settee,noun,c2
+1079,shabby-chic_1,shabby chic,noun,c2
+1080,shabby-chic_2,shabby chic,adjective,c2
+1081,shelf,shelf,noun,b1
+1082,shelter_1,shelter,noun,b2
+1083,shower_1,shower,noun,a1
+1084,shutter,shutter,noun,c1
+1085,sideboard,sideboard,noun,c2
+1086,sink_2,sink,noun,b1
+1087,sitting-room,sitting room,noun,a2
+1088,skirting-board,skirting board,noun,c2
+1089,skylight,skylight,noun,c2
+1090,smoke-alarm,smoke alarm,noun,b2
+1091,social-housing,social housing,noun,c1
+1092,socket,socket,noun,c1
+1093,sofa,sofa,noun,a1
+1094,soft-furnishings,soft furnishings,noun,c2
+1095,soil-pipe,soil pipe,noun,c2
+1096,solar-panel,solar panel,noun,b1
+1097,split-level,split-level,adjective,c2
+1098,spring-clean_2,spring-clean,verb,c2
+1099,spring-cleaning,spring cleaning,noun,c2
+1100,squat_2,squat,noun,c2
+1101,squatter,squatter,noun,c2
+1102,stair_2,stair,noun,a2
+1103,staircase,staircase,noun,c1
+1104,stairwell,stairwell,noun,c2
+1105,stately-home,stately home,noun,c2
+1106,step_1,step,noun,b2
+1107,stilt,stilt,noun,c2
+1108,stool,stool,noun,c1
+1109,stoop_2,stoop,noun,c2
+1110,storage-heater,storage heater,noun,c2
+1111,storeroom,storeroom,noun,b2
+1112,storey,storey,noun,c1
+1113,stove_1,stove,noun,b2
+1114,strip_2,strip,verb,c1
+1115,studio,studio,noun,b1
+1116,study_1,study,noun,b1
+1117,sublease,sublease,verb,c2
+1118,sublet,sublet,verb,c2
+1119,suite,suite,noun,c1
+1120,summer-house,summer house,noun,c2
+1121,survey_1,survey,noun,c1
+1122,survey_2,survey,verb,c1
+1123,sweep_1,sweep,verb,b2
+1124,table_1,table,noun,a1
+1125,telephone_1,telephone,noun,a1
+1126,television,television,noun,a1
+1127,tenant_1,tenant,noun,c1
+1128,terminate,terminate,verb,c1
+1129,terrace,terrace,noun,c2
+1130,terraced,terraced,adjective,c1
+1131,terraced-house,terraced house,noun,c2
+1132,thatch_1,thatch,noun,c2
+1133,thermostat,thermostat,noun,c2
+1134,threshold,threshold,noun,c1
+1135,tile_1,tile,noun,c1
+1136,title-deed,title deed,noun,c2
+1137,title-holder,title-holder,noun,c2
+1138,toilet,toilet,noun,a1
+1139,town-house,town house,noun,c2
+1140,tumble-dryer,tumble dryer,noun,c2
+1141,two-up-two-down,two-up two-down,noun,c2
+1142,unfurnished,unfurnished,adjective,c1
+1143,unit,unit,noun,b2
+1144,sale,(up) for sale,idiom,b1
+1145,upstairs_1,upstairs,adverb,a1
+1146,upstairs_2,upstairs,adjective,a2
+1147,upstairs_3,upstairs,noun,a1
+1148,utility-room,utility room,noun,c2
+1149,vacant,vacant,adjective,c1
+1150,vacant-possession,vacant possession,noun,c2
+1151,vacuum_2,vacuum,verb,b2
+1152,vacuum-cleaner,vacuum cleaner,noun,b2
+1153,vase,vase,noun,b1
+1154,vendor,vendor,noun,c1
+1155,vent_1,vent,noun,c2
+1156,ventilator,ventilator,noun,c2
+1157,veranda,veranda,noun,c2
+1158,villa,villa,noun,b2
+1159,wall_1,wall,noun,a1
+1160,wallpaper_1,wallpaper,noun,c2
+1161,wallpaper_2,wallpaper,verb,c2
+1162,wardrobe,wardrobe,noun,b1
+1163,wash_1,wash,verb,a1
+1164,washbasin,washbasin,noun,b2
+1165,washing,washing,noun,a2
+1166,washing-machine,washing machine,noun,a2
+1167,washing-up,washing-up,noun,b1
+1168,wash-up,wash up,phrasal verb,b1
+1169,weathervane,weathervane,noun,c2
+1170,welsh-dresser,Welsh dresser,noun,c2
+1171,white-goods,white goods,noun,c2
+1172,window,window,noun,a1
+1173,window-ledge,window ledge,noun,c2
+1174,windowsill,windowsill,noun,c1
+1175,worktop,worktop,noun,c2
+1176,yurt,yurt,noun,c2
+1177,zapper,zapper,noun,c2

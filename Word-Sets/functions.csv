@@ -1,0 +1,2086 @@
+subLink,word,type,level
+0,abide-by,abide by,phrasal verb,c2
+1,abrogate,abrogate,verb,c2
+2,abrogation,abrogation,noun,c2
+3,accede,accede,verb,c2
+4,accept,accept,verb,b1
+5,acceptable,acceptable,adjective,b2
+6,acceptably,acceptably,adverb,b2
+7,acceptance,acceptance,noun,c1
+8,accommodate,accommodate,verb,c1
+9,accommodation,accommodation,noun,c2
+10,accord_1,accord,noun,c2
+11,acquiesce,acquiesce,verb,c2
+12,acquiescence,acquiescence,noun,c2
+13,acquiescent,acquiescent,adjective,c2
+14,done_1,a done deal,idiom,c2
+15,agree,agree,verb,a2
+16,agreed,agreed,adjective,b2
+17,agreement,agreement,noun,b1
+18,agree,agree to differ/disagree,idiom,c2
+19,alliance,alliance,noun,c1
+20,allow,allow,verb,c2
+21,all-right_1,all right,exclamation,a2
+22,ally_3,ally,verb,c2
+23,alright_1,alright,exclamation,a2
+24,appeal_1,appeal,noun,c1
+25,appeal_2,appeal,verb,c1
+26,arbitrate,arbitrate,verb,c2
+27,arbitration,arbitration,noun,c2
+28,arbitrator,arbitrator,noun,c2
+29,argue,argue,verb,b1
+30,argue-into-doing,argue into doing,phrasal verb,c1
+31,argue-out-of-doing,argue out of doing,phrasal verb,c1
+32,arm-twisting,arm-twisting,noun,c2
+33,arrangement,arrangement,noun,b2
+34,one_1,as one,idiom,c2
+35,man_1,as one man,idiom,c2
+36,bargain_1,bargain,noun,b2
+37,bargain_2,bargain,verb,c1
+38,bargaining,bargaining,noun,c1
+39,bargaining-chip,bargaining chip,noun,c2
+40,bargaining-power,bargaining power,noun,c1
+41,party_1,be (a) party to something,idiom,c2
+42,beat-down,beat down,phrasal verb,c2
+43,one_1,(be) at one (with somebody/something),idiom,c2
+44,bend-to,bend to,phrasal verb,c2
+45,with,be with somebody (on something),idiom,c2
+46,blag,blag,verb,c2
+47,blandishments,blandishments,noun,c2
+48,bow-to,bow to,phrasal verb,c2
+49,breach_1,breach,noun,c1
+50,breach_2,breach,verb,c1
+51,bribe_1,bribe,noun,c1
+52,bribe_2,bribe,verb,c1
+53,bring-a-and-b-together,bring A and B together,phrasal verb,c1
+54,bring-round,bring round,phrasal verb,c2
+55,buy-in_2,buy-in,noun,c2
+56,call_1,call it quits,idiom,c2
+57,cancel,cancel,verb,b2
+58,capitulate,capitulate,verb,c2
+59,capitulation,capitulation,noun,c2
+60,carrot,carrot,noun,c2
+61,cement_2,cement,verb,c2
+62,coax_1,coax,verb,c2
+63,coaxing_1,coaxing,adjective,c2
+64,coaxing_2,coaxing,noun,c2
+65,collaborate,collaborate,verb,c1
+66,collaboration,collaboration,noun,c1
+67,collaborative,collaborative,adjective,c1
+68,collective_1,collective,adjective,c1
+69,collude,collude,verb,c2
+70,collusion,collusion,noun,c2
+71,collusive,collusive,adjective,c2
+72,heel_1,come to heel,idiom,c2
+73,terms,come to terms (with somebody),idiom,c2
+74,commit,commit,verb,b1
+75,commitment,commitment,noun,b2
+76,common-ground,common ground,noun,c2
+77,compact_2,compact,noun,c2
+78,complaisance,complaisance,noun,c2
+79,complaisant,complaisant,adjective,c2
+80,compliance,compliance,noun,c1
+81,compliant,compliant,adjective,c2
+82,compromise_1,compromise,noun,c1
+83,compromise_2,compromise,verb,c1
+84,concede,concede,verb,c1
+85,concession,concession,noun,c1
+86,conclude,conclude,verb,c2
+87,concord_1,concord,noun,c2
+88,concordant,concordant,adjective,c2
+89,concordat,concordat,noun,c2
+90,condition_1,condition,noun,b1
+91,confirm,confirm,verb,b2
+92,consensual,consensual,adjective,c2
+93,consensus,consensus,noun,c1
+94,consent_1,consent,noun,c1
+95,consent_2,consent,verb,c1
+96,contract_1,contract,noun,b2
+97,contract_2,contract,verb,c2
+98,contract-in,contract in,phrasal verb,c2
+99,contract-out,contract out,phrasal verb,c2
+100,contractual,contractual,adjective,c2
+101,contractually,contractually,adverb,c2
+102,convention,convention,noun,c1
+103,convince,convince,verb,b1
+104,cooling-off-period,cooling-off period,noun,c2
+105,cooperate,cooperate,verb,c1
+106,cooperation,cooperation,noun,c1
+107,cooperative_1,cooperative,adjective,c1
+108,coordinate_1,coordinate,verb,c1
+109,coordination,coordination,noun,c1
+110,countenance_2,countenance,verb,c2
+111,covenant_1,covenant,noun,c2
+112,covenant_2,covenant,verb,c2
+113,dangle,dangle,verb,c2
+114,deal_2,deal,noun,b1
+115,defer-to,defer to,phrasal verb,c2
+116,dialogue,dialogue,noun,b2
+117,discuss,discuss,verb,a1
+118,discussion,discussion,noun,a2
+119,dishonour_2,dishonour,verb,c2
+120,dissolution,dissolution,noun,c2
+121,dissolve,dissolve,verb,c2
+122,dissuade,dissuade,verb,c2
+123,hard_1,drive/strike a hard bargain,idiom,c2
+124,encourage,encourage,verb,b1
+125,entice,entice,verb,c2
+126,exhort,exhort,verb,c2
+127,exhortation,exhortation,noun,c2
+128,expire,expire,verb,c1
+129,expiry,expiry,noun,c2
+130,fence-mending,fence-mending,noun,c2
+131,gentleman-s-agreement,gentleman’s agreement,noun,c2
+132,get,get,verb,b2
+133,get-around,get around,phrasal verb,c2
+134,get-out-of,get out of,phrasal verb,c2
+135,get-round,get round,phrasal verb,c2
+136,give_1,give,verb,c2
+137,give-in,give in,phrasal verb,b2
+138,way_1,give way (to somebody/something),idiom,c2
+139,go-along-with,go along with,phrasal verb,c1
+140,go-with,go with,phrasal verb,c2
+141,hammer-out,hammer out,phrasal verb,c2
+142,handshake,handshake,noun,b2
+143,harangue_1,harangue,verb,c2
+144,harangue_2,harangue,noun,c2
+145,hash-out,hash out,phrasal verb,c2
+146,hold-out-for,hold out for,phrasal verb,c2
+147,hold-with,hold with,phrasal verb,c2
+148,honest-broker,honest broker,noun,c2
+149,honor_2,honor,verb,c2
+150,honor-system,honor system,noun,c2
+151,honour_2,honour,verb,c2
+152,horse-trading,horse-trading,noun,c2
+153,humour_2,humour,verb,c2
+154,induce,induce,verb,c1
+155,inducement,inducement,noun,c1
+156,sync_1,in sync,idiom,c2
+157,intercede,intercede,verb,c2
+158,intercession,intercession,noun,c2
+159,interest-in,interest in,phrasal verb,c1
+160,intermediary_1,intermediary,noun,c2
+161,intermediary_2,intermediary,adjective,c2
+162,intervene,intervene,verb,c1
+163,intervention,intervention,noun,c1
+164,joint_1,joint,adjective,b2
+165,jointly,jointly,adverb,b2
+166,jolly-into,jolly into,phrasal verb,c2
+167,jolly-into-doing,jolly into doing,phrasal verb,c2
+168,lobby_2,lobby,verb,c1
+169,lobbyist,lobbyist,noun,c1
+170,lure_1,lure,verb,c1
+171,common_1,make common cause with somebody,idiom,c2
+172,make-up_1,make up,phrasal verb,c1
+173,peace,make (your) peace with somebody,idiom,c2
+174,mediate,mediate,verb,c2
+175,mediation,mediation,noun,c2
+176,mediator,mediator,noun,c2
+177,meet_1,meet somebody halfway,idiom,c2
+178,mend_1,mend,verb,c2
+179,mend_1,mend (your) fences (with somebody),idiom,c2
+180,middle-ground,middle ground,noun,c2
+181,moderator,moderator,noun,c2
+182,modus-vivendi,modus vivendi,noun,c2
+183,nail-down,nail down,phrasal verb,c2
+184,negotiable,negotiable,adjective,c2
+185,negotiate,negotiate,verb,b2
+186,negotiation,negotiation,noun,b2
+187,nobble,nobble,verb,c2
+188,nullify,nullify,verb,c2
+189,ok_1,OK,exclamation,a1
+190,oneness,oneness,noun,c2
+191,page_1,on the same page,idiom,c2
+192,understanding_1,on the understanding that…,idiom,c2
+193,pact,pact,noun,c2
+194,parley_1,parley,noun,c2
+195,parley_2,parley,verb,c2
+196,party_1,party,noun,c1
+197,patch-up,patch up,phrasal verb,c2
+198,peacekeeper,peacekeeper,noun,c1
+199,peacemaker,peacemaker,noun,c2
+200,peace-offering,peace offering,noun,c2
+201,persuade,persuade,verb,b1
+202,persuasion_1,persuasion,noun,c1
+203,persuasive,persuasive,adjective,b2
+204,pour,pour oil on troubled water(s),idiom,c2
+205,prenuptial-agreement,prenuptial agreement,noun,c2
+206,press_2,press,verb,c1
+207,pressure_1,pressure,noun,b1
+208,pressure_2,pressure,verb,c1
+209,pressurize,pressurize,verb,c1
+210,prevail-on-to-do,prevail on to do,phrasal verb,c2
+211,prevail-upon-to-do,prevail upon to do,phrasal verb,c2
+212,protocol,protocol,noun,c1
+213,proviso,proviso,noun,c2
+214,push_1,push,verb,b2
+215,put-aside,put aside,phrasal verb,c2
+216,ratification,ratification,noun,c2
+217,ratify,ratify,verb,c2
+218,realign,realign,verb,c2
+219,realignment,realignment,noun,c2
+220,reason-with,reason with,phrasal verb,c2
+221,reconcilable,reconcilable,adjective,c2
+222,reconcile,reconcile,verb,c2
+223,reconciliation,reconciliation,noun,c2
+224,red-line,red line,noun,c2
+225,referee_1,referee,noun,c2
+226,relent,relent,verb,c2
+227,renege,renege,verb,c2
+228,rescind,rescind,verb,c2
+229,rescission,rescission,noun,c2
+230,resolution,resolution,noun,c1
+231,resolve_1,resolve,verb,b2
+232,retract,retract,verb,c2
+233,right_5,right,exclamation,b2
+234,run-out_1,run out,phrasal verb,b2
+235,rupture_1,rupture,noun,c2
+236,rupture_2,rupture,verb,c2
+237,seal_1,seal,verb,c1
+238,seduce,seduce,verb,c2
+239,settle_1,settle,verb,b2
+240,settlement,settlement,noun,c1
+241,sign_2,sign,verb,a2
+242,signatory,signatory,noun,c2
+243,sign-on,sign on,phrasal verb,c2
+244,sign_2,sign on the dotted line,idiom,c2
+245,sign-up,sign up,phrasal verb,c2
+246,sign-up-to,sign up to,phrasal verb,c2
+247,silver-tongue,silver tongue,noun,c2
+248,silver-tongued,silver-tongued,adjective,c2
+249,sink_1,sink your differences,idiom,c2
+250,smooth-talking,smooth-talking,adjective,c2
+251,soften-up,soften up,phrasal verb,c2
+252,the-fine-print,the fine print,noun,c2
+253,the-negotiating-table,the negotiating table,noun,c2
+254,the-small-print,the small print,noun,c1
+255,strike_1,strike a bargain/deal (with somebody/something),idiom,c2
+256,submission,submission,noun,c1
+257,submissive,submissive,adjective,c2
+258,submissively,submissively,adverb,c2
+259,submit,submit,verb,c1
+260,subscribe-to,subscribe to,phrasal verb,c2
+261,surely,surely,adverb,b1
+262,sway_1,sway,verb,c2
+263,sweeten,sweeten,verb,c2
+264,talk-into,talk into,phrasal verb,c1
+265,talk-out-of,talk out of,phrasal verb,c1
+266,talk-over,talk over,phrasal verb,c1
+267,talk-round,talk round,phrasal verb,c2
+268,tempt,tempt,verb,c1
+269,term_1,term,noun,c1
+270,terms,terms,noun,b2
+271,gift_1,the gift of the gab,idiom,c2
+272,tie-up_2,tie-up,noun,c2
+273,together_1,together,adverb,b2
+274,tolerance,tolerance,noun,c1
+275,tolerant,tolerant,adjective,c1
+276,tolerantly,tolerantly,adverb,c1
+277,toleration,toleration,noun,c1
+278,treaty,treaty,noun,c1
+279,truce,truce,noun,c1
+280,twist_1,twist somebody’s arm,idiom,c1
+281,uncontentious,uncontentious,adjective,c2
+282,uncontroversial,uncontroversial,adjective,c2
+283,understand,understand,verb,c2
+284,understanding_1,understanding,noun,b2
+285,undertake,undertake,verb,c1
+286,undertaking,undertaking,noun,c1
+287,united,united,adjective,b1
+288,unity,unity,noun,b2
+289,urge_1,urge,verb,b2
+290,violate,violate,verb,c1
+291,violation,violation,noun,c1
+292,violator,violator,noun,c2
+293,warranty,warranty,noun,c2
+294,wheedle,wheedle,verb,c2
+295,win-around,win around,phrasal verb,c2
+296,win-over,win over,phrasal verb,c2
+297,win-round,win round,phrasal verb,c2
+298,wipe_1,wipe the slate clean,idiom,c2
+299,work-on,work on,phrasal verb,c2
+300,wrap-up,wrap up,phrasal verb,c1
+301,write-into,write into,phrasal verb,c2
+302,yes-man,yes-man,noun,c2
+303,yield_2,yield,verb,c1
+304,win_1,you win,idiom,c2
+305,admit-of,admit of,phrasal verb,c2
+306,foregone,a foregone conclusion,idiom,c2
+307,bet_2,a good/safe/sure bet,idiom,c2
+308,long_1,a long shot,idiom,c2
+309,mistake_1,and no mistake,idiom,c2
+310,educated,an educated guess,idiom,c2
+311,guess_2,anybody’s/anyone’s guess,idiom,c2
+312,apocryphal,apocryphal,adjective,c2
+313,a-priori,a priori,adjective,c2
+314,question-mark,a question mark over/against something,idiom,c2
+315,arguable,arguable,adjective,c2
+316,far_1,as far as I know,idiom,c1
+317,dark_2,a shot/stab in the dark,idiom,c2
+318,like_7,(as) like as not,idiom,c2
+319,likely_2,as likely as not,idiom,b1
+320,assure,assure,verb,c1
+321,assured,assured,adjective,c1
+322,mark_2,be close to/near the mark,idiom,c2
+323,guarantee_1,be guaranteed to do something,idiom,c1
+324,bag_1,be in the bag,idiom,c2
+325,chance_1,be in with a chance (of doing something),idiom,c2
+326,believe,believe,verb,a1
+327,believe-in,believe in,phrasal verb,a2
+328,contest_1,be no contest,idiom,c2
+329,mark_2,be off the mark,idiom,c2
+330,stare_1,be staring somebody in the face,idiom,c2
+331,bet_1,bet,verb,b2
+332,doubt_1,beyond (any) doubt,idiom,c1
+333,bound_1,bound,adjective,b2
+334,buoyancy,buoyancy,noun,c2
+335,buoyant,buoyant,adjective,c2
+336,calculate,calculate,verb,c1
+337,can1,can,modal verb,b1
+338,cast-iron_2,cast-iron,adjective,c2
+339,categorical,categorical,adjective,c2
+340,cert_1,cert,noun,c2
+341,certain_1,certain,adjective,a2
+342,certainty,certainty,noun,b2
+343,certitude,certitude,noun,c2
+344,check_2,check,noun,a2
+345,check-on,check on,phrasal verb,c1
+346,check-over,check over,phrasal verb,c1
+347,check-through,check through,phrasal verb,c1
+348,check-up,check-up,noun,b2
+349,check-up-on,check up on,phrasal verb,c1
+350,cinch_1,cinch,noun,c2
+351,cinch_2,cinch,verb,c2
+352,cliffhanger,cliffhanger,noun,c2
+353,cliffhanging,cliffhanging,adjective,c2
+354,close2_1,"close, but no cigar",idiom,c2
+355,cold_1,cold,adjective,c2
+356,concrete_1,concrete,adjective,c1
+357,concretely,concretely,adverb,c1
+358,confidence,confidence,noun,b2
+359,confident,confident,adjective,b1
+360,confidently,confidently,adverb,b1
+361,confusion,confusion,noun,b2
+362,conjectural,conjectural,adjective,c2
+363,conjecture_1,conjecture,noun,c2
+364,conviction,conviction,noun,c1
+365,convinced,convinced,adjective,b2
+366,could,could,modal verb,b1
+367,count-on,count on,phrasal verb,c1
+368,cross-check_1,cross-check,verb,c2
+369,cross-check_2,cross-check,noun,c2
+370,debatable,debatable,adjective,c1
+371,decidedly,decidedly,adverb,c2
+372,definite_1,definite,adjective,b1
+373,definite_2,definite,noun,b2
+374,definitely,definitely,adverb,a2
+375,depend-on,depend on,phrasal verb,a2
+376,depend-upon,depend upon,phrasal verb,a2
+377,divine_2,divine,verb,c2
+378,dogmatic,dogmatic,adjective,c2
+379,dogmatically,dogmatically,adverb,c2
+380,tell,don’t tell me,idiom,c2
+381,doubt_1,doubt,noun,b1
+382,doubt_2,doubt,verb,b1
+383,doubtful,doubtful,adjective,c1
+384,dubious,dubious,adjective,c1
+385,easily,easily,adverb,c1
+386,ensure,ensure,verb,b2
+387,expect,expect,verb,b2
+388,expected,expected,adjective,b1
+389,feel_1,feel (it) in your bones (that…),idiom,c2
+390,finger_1,finger in the air,idiom,c2
+391,forecast_1,forecast,noun,b2
+392,forecast_2,forecast,verb,b2
+393,one_1,get something in one,idiom,c2
+394,straight_2,get something straight,idiom,c2
+395,giveaway_1,giveaway,noun,c2
+396,guarantee_1,guarantee,verb,b2
+397,guarantee_2,guarantee,noun,b2
+398,guarantor,guarantor,noun,c2
+399,guess_1,guess,verb,a1
+400,guess_2,guess,noun,a1
+401,guessing-game,guessing game,noun,b2
+402,guesstimate,guesstimate,noun,c2
+403,guesswork,guesswork,noun,c1
+404,guestimate,guestimate,noun,c2
+405,halting,halting,adjective,c2
+406,haltingly,haltingly,adverb,c2
+407,mind_1,have a good mind to do something,idiom,c2
+408,pocket_1,have something in your pocket,idiom,c2
+409,hazard_2,hazard,verb,c2
+410,hesitate,hesitate,verb,b2
+411,hesitation,hesitation,noun,c1
+412,mark_2,hit/miss the mark,idiom,c2
+413,hot_1,hot,adjective,c2
+414,hypothesis,hypothesis,noun,c1
+415,dare_1,I dare say,idiom,c2
+416,if_2,if,noun,c2
+417,iffy,iffy,adjective,c2
+418,warrant_2,I/I’ll warrant (you),idiom,c2
+419,imagine,imagine,verb,b1
+420,impossible,impossible,adjective,a2
+421,inconclusive,inconclusive,adjective,c1
+422,inevitable,inevitable,noun,b2
+423,inevitably,inevitably,adverb,b2
+424,early_1,it’s early days (yet),idiom,c2
+425,matter_1,it’s just/only a matter of time (before…),idiom,c1
+426,bound_1,I’ll be bound,idiom,c2
+427,judge_2,judge,verb,b1
+428,know_1,know,verb,a1
+429,lend,lend colour to something,idiom,c2
+430,dust_1,let the dust settle,idiom,c2
+431,likely_1,likely,adjective,a2
+432,look_1,look,verb,b1
+433,certain_1,make certain of something/of doing something,idiom,c1
+434,sure_1,make sure (of something/that…),idiom,a2
+435,may_1,may,modal verb,a2
+436,maybe_1,maybe,adverb,a1
+437,might_1,might,modal verb,a2
+438,nailed-on,nailed on,adjective,c2
+439,doubt_1,no doubt,idiom,b2
+440,notional,notional,adjective,c2
+441,necessarily,not necessarily,idiom,b1
+442,top_1,off the top of your head,idiom,c2
+443,spec_1,on spec,idiom,c2
+444,or_1,or somebody/something/somewhere,idiom,b1
+445,what,or what,idiom,c1
+446,ought-to,ought to,modal verb,b2
+447,outlook,outlook,noun,c1
+448,paradox,paradox,noun,c1
+449,paradoxical,paradoxical,adjective,c1
+450,perhaps,perhaps,adverb,a2
+451,positive_1,positive,adjective,b2
+452,possibility,possibility,noun,a2
+453,possible_1,possible,adjective,a1
+454,possibly,possibly,adverb,b1
+455,predict,predict,verb,a2
+456,prediction,prediction,noun,b1
+457,presumably,presumably,adverb,c1
+458,presumption,presumption,noun,c2
+459,probabilistic,probabilistic,adjective,c2
+460,probability,probability,noun,b2
+461,probable_1,probable,adjective,b2
+462,probably,probably,adverb,a1
+463,straight_2,put/set somebody straight (about/on something),idiom,c2
+464,two,put two and two together,idiom,c2
+465,money,put your money on somebody/something,idiom,c2
+466,racing-certainty,racing certainty,noun,c2
+467,read_1,read,verb,b2
+468,red-hot,red-hot,adjective,c2
+469,reputed,reputed,adjective,c2
+470,reputedly,reputedly,adverb,c2
+471,robust,robust,adjective,c1
+472,robustly,robustly,adverb,c1
+473,robustness,robustness,noun,c1
+474,second-guess,second-guess,verb,c2
+475,set_3,set,adjective,c1
+476,shake_1,shake,verb,c2
+477,shaky,shaky,adjective,c2
+478,should,should,modal verb,b2
+479,slam-dunk_1,slam dunk,noun,c2
+480,somehow,somehow,adverb,b2
+481,someway,someway,adverb,c2
+482,speculate,speculate,verb,b2
+483,speculation,speculation,noun,b2
+484,speculative,speculative,adjective,c1
+485,speculatively,speculatively,adverb,c1
+486,chance_1,stand a chance (of doing something),idiom,c1
+487,supposedly,supposedly,adverb,c1
+488,sure_1,sure,adjective,b1
+489,sure-fire,sure-fire,adjective,c2
+490,surely,surely,adverb,b1
+491,surmise_1,surmise,verb,c2
+492,surmise_2,surmise,noun,c2
+493,suspect_1,suspect,verb,b2
+494,suspected,suspected,adjective,c1
+495,swear-by,swear by,phrasal verb,c2
+496,grant_1,take it for granted (that…),idiom,c2
+497,ten,ten out of ten (for something),idiom,b2
+498,tentative,tentative,adjective,c1
+499,tentatively,tentatively,adverb,c1
+500,ten,ten to one,idiom,c2
+501,depend,that depends,idiom,a2
+502,jury,the jury is (still) out on something,idiom,c2
+503,way_1,(there are) no two ways about it,idiom,c2
+504,way_1,(there is) no way,idiom,a2
+505,question_1,there is/was no question of something happening/of somebody doing something,idiom,c1
+506,slip_2,there’s many a slip ’twixt cup and lip,idiom,c2
+507,thumbsuck,thumbsuck,noun,c2
+508,toss_1,toss,verb,c1
+509,true_1,true,adjective,a1
+510,truth,truth,noun,b1
+511,uncertain,uncertain,adjective,b1
+512,uncertainty,uncertainty,noun,c1
+513,unclear,unclear,adjective,b1
+514,unconvinced,unconvinced,adjective,b2
+515,undeniable,undeniable,adjective,c1
+516,undeniably,undeniably,adverb,c1
+517,underestimate_1,underestimate,verb,c1
+518,unlikely,unlikely,adjective,b1
+519,unsure,unsure,adjective,b1
+520,warm_1,warm,adjective,c2
+521,weaken,weaken,verb,c1
+522,well_1,well,adverb,c1
+523,will_3,will,modal verb,b1
+524,doubt_1,without/beyond (a) doubt,idiom,c1
+525,would,would,modal verb,b2
+526,bet_1,you bet!,idiom,b2
+527,bet_1,you can bet your life/your bottom dollar (on something/(that)…),idiom,c2
+528,life_1,you can bet your life/your bottom dollar (on something/(that)…),idiom,c2
+529,tell,you can never tell,idiom,c1
+530,know_1,you never know,idiom,b2
+531,lucky,you’ll be lucky,idiom,c1
+532,bone_1,a bone of contention,idiom,c2
+533,about-turn,about-turn,noun,c2
+534,absolutely,absolutely,adverb,b1
+535,according-to,according to,preposition,a2
+536,accord-with,accord with,phrasal verb,c2
+537,account_2,account,verb,b2
+538,chink_1,a chink in somebody’s armour,idiom,c2
+539,ad-hominem,ad hominem,adjective,c2
+540,adversary,adversary,noun,c2
+541,advice,advice,noun,a1
+542,advise,advise,verb,b1
+543,advocate_2,advocate,verb,c1
+544,affirmative_1,affirmative,adjective,c1
+545,affirmative_2,affirmative,noun,c1
+546,affirmatively,affirmatively,adverb,c1
+547,again,again,adverb,c1
+548,against,against,preposition,a2
+549,agnostic_2,agnostic,adjective,c2
+550,agree,agree,verb,a1
+551,ah_1,ah,exclamation,a2
+552,air_2,air,verb,c2
+553,airing,airing,noun,c2
+554,align-yourself-with,align yourself with,phrasal verb,c2
+555,link_1,a link in the chain,idiom,c2
+556,hell,all hell broke loose,idiom,c2
+557,all-right_1,all right,exclamation,a2
+558,alright_1,alright,exclamation,a2
+559,altercation,altercation,noun,c2
+560,heart_1,a man/woman after your own heart,idiom,c2
+561,ammunition,ammunition,noun,c2
+562,moot_1,a moot point/question,idiom,c2
+563,anodyne,anodyne,adjective,c2
+564,answer-for,answer for,phrasal verb,c2
+565,anti_1,anti,preposition,c1
+566,anyway,anyway,adverb,a2
+567,apologia,apologia,noun,c2
+568,aporia,aporia,noun,c2
+569,appraise,appraise,verb,c1
+570,approbation,approbation,noun,c2
+571,approval,approval,noun,b2
+572,approve,approve,verb,b2
+573,arguable,arguable,adjective,c1
+574,arguably,arguably,adverb,c1
+575,argue,argue,verb,a2
+576,argue,argue the toss,idiom,c2
+577,argue-with,argue with,phrasal verb,c2
+578,argument,argument,noun,a2
+579,argumentation,argumentation,noun,c2
+580,argumentative,argumentative,adjective,c1
+581,argy-bargy,argy-bargy,noun,c2
+582,beat_1,a rod/stick to beat somebody with,idiom,c2
+583,matter_1,as a matter of fact,idiom,c1
+584,assent_1,assent,noun,c2
+585,assent_2,assent,verb,c2
+586,assert,assert,verb,c1
+587,assertion,assertion,noun,c1
+588,assertive,assertive,adjective,c1
+589,assertively,assertively,adverb,c1
+590,assess,assess,verb,b2
+591,assessment,assessment,noun,b2
+592,associate_1,associate,verb,c2
+593,far_1,as/so far as I am concerned,idiom,b2
+594,far_1,as/so far as somebody/something is concerned,idiom,c1
+595,best_3,at best,idiom,c2
+596,athwart,athwart,preposition,c2
+597,loggerheads,at loggerheads (with somebody) (over something),idiom,c2
+598,time_1,at the same time,idiom,c1
+599,attitude,attitude,noun,b1
+600,variance,at variance (with somebody/something),idiom,c2
+601,avow,avow,verb,c2
+602,avowal,avowal,noun,c2
+603,avowed,avowed,adjective,c2
+604,war,a war of words,idiom,c2
+605,back-pedal,back-pedal,verb,c2
+606,backtrack,backtrack,verb,c2
+607,feeling,bad/ill feeling,idiom,c2
+608,badly,badly,adverb,b1
+609,balls_1,balls,exclamation,c2
+610,bandy_2,bandy words (with somebody),idiom,c2
+611,head_1,bang/knock your/their heads together,idiom,c2
+612,barney,barney,noun,c2
+613,basically,basically,adverb,b2
+614,battle_1,battle,noun,b1
+615,battleground,battleground,noun,c2
+616,ask_1,be asking for trouble,idiom,c2
+617,throat,be at each other’s throats,idiom,c2
+618,odds,be at odds (with somebody) (over/on something),idiom,c2
+619,moment,be having a moment,idiom,c2
+620,minority,be in a minority of one,idiom,c2
+621,tune_1,be in/out of tune (with somebody/something),idiom,c2
+622,belabour,belabour the point,idiom,c2
+623,belief,belief,noun,b1
+624,believe,believe,verb,a1
+625,bellicose,bellicose,adjective,c2
+626,bellicosity,bellicosity,noun,c2
+627,mind_1,be of one/the same mind (about somebody/something),idiom,c2
+628,opinion,be of the opinion that…,idiom,c1
+629,collision,be on a collision course (with somebody/something),idiom,c2
+630,ground_1,be on firm/solid ground,idiom,c2
+631,side_1,be on somebody’s side,idiom,c2
+632,way_1,be set in your ways,idiom,c2
+633,bet_1,bet,verb,b2
+634,bet_2,bet,noun,b2
+635,world,be worlds apart,idiom,c2
+636,bias_1,bias,noun,b2
+637,bias_2,bias,verb,c1
+638,biased,biased,adjective,b2
+639,bicker,bicker,verb,c2
+640,bickering,bickering,noun,c2
+641,bite_1,bite your tongue,idiom,c2
+642,blow_1,blow hot and cold (about something),idiom,c2
+643,bollocks,bollocks,exclamation,c2
+644,bolshie,bolshie,adjective,c2
+645,budge,budge,verb,c2
+646,bumptious,bumptious,adjective,c2
+647,bunfight,bunfight,noun,c2
+648,bust-up_2,bust-up,noun,c2
+649,bust-up_1,bust up,phrasal verb,c2
+650,but_1,but,conjunction,a1
+651,but_4,but,noun,c1
+652,extension,by extension,idiom,c2
+653,calculate,calculate,verb,c1
+654,calculation,calculation,noun,c1
+655,call_1,call a spade a spade,idiom,c2
+656,bad_1,can’t be bad,idiom,c2
+657,carry_1,carry,verb,c2
+658,carry-on_1,carry on,phrasal verb,c2
+659,case_1,case,noun,b2
+660,casuistry,casuistry,noun,c2
+661,challenging,challenging,adjective,c1
+662,chameleon,chameleon,noun,c2
+663,change_1,change your/somebody’s mind,idiom,b1
+664,change_1,change your tune,idiom,c2
+665,check_3,check,exclamation,c2
+666,chime-with,chime with,phrasal verb,c2
+667,circular_1,circular,adjective,c2
+668,circularity,circularity,noun,c2
+669,claim_1,claim,verb,b1
+670,claim_2,claim,noun,b1
+671,clash_1,clash,noun,c1
+672,clash_2,clash,verb,c2
+673,climb-down,climb down,phrasal verb,c2
+674,climbdown,climbdown,noun,c2
+675,clincher,clincher,noun,c2
+676,collide,collide,verb,c2
+677,collision,collision,noun,c2
+678,combative,combative,adjective,c2
+679,come-around,come around,phrasal verb,c2
+680,come-off-it,come off it,phrasal verb,c2
+681,come-out,come out,phrasal verb,c2
+682,top_1,come out on top,idiom,c2
+683,come-over,come over,phrasal verb,c2
+684,come-round,come round,phrasal verb,c2
+685,comment_1,comment,noun,a2
+686,comment_2,comment,verb,b1
+687,commit,commit,verb,c1
+688,compliant,compliant,adjective,c2
+689,concede,concede,verb,c1
+690,concur,concur,verb,c2
+691,concurrence,concurrence,noun,c2
+692,confer,confer,verb,c1
+693,conflict_1,conflict,noun,b2
+694,conform,conform,verb,c1
+695,conformability,conformability,noun,c2
+696,conformable,conformable,adjective,c2
+697,conformance,conformance,noun,c2
+698,conformity,conformity,noun,c1
+699,confrontation,confrontation,noun,c1
+700,confrontational,confrontational,adjective,c2
+701,confute,confute,verb,c2
+702,conjecture_1,conjecture,noun,c2
+703,conjecture_2,conjecture,verb,c2
+704,consciousness,consciousness,noun,c1
+705,consensus,consensus,noun,c1
+706,consistency,consistency,noun,c1
+707,consistent,consistent,adjective,b2
+708,consistently,consistently,adverb,b2
+709,consonance,consonance,noun,c2
+710,consonant_2,consonant,adjective,c2
+711,contend,contend,verb,c1
+712,contention,contention,noun,c1
+713,contentious,contentious,adjective,c1
+714,contradict,contradict,verb,c1
+715,contradiction,contradiction,noun,c1
+716,contradictory,contradictory,adjective,c1
+717,contrarian,contrarian,noun,c2
+718,contretemps,contretemps,noun,c2
+719,controversial,controversial,adjective,b2
+720,controversially,controversially,adverb,b2
+721,controversy,controversy,noun,b2
+722,convert_1,convert,verb,c1
+723,convert_2,convert,noun,c1
+724,conviction,conviction,noun,c1
+725,cool_1,cool,adjective,a1
+726,corollary,corollary,noun,c2
+727,count_2,count,noun,c2
+728,counterargument,counterargument,noun,b2
+729,counter-attack_1,counter-attack,verb,c2
+730,counter-attack_2,counter-attack,noun,c2
+731,counterexample,counterexample,noun,c2
+732,credible,credible,adjective,c1
+733,critic,critic,noun,b2
+734,criticism,criticism,noun,b2
+735,criticize,criticize,verb,b2
+736,critique_1,critique,noun,c1
+737,critique_2,critique,verb,c1
+738,cross_1,cross swords (with somebody),idiom,c2
+739,current_2,current,noun,c2
+740,deadlock,deadlock,noun,c2
+741,deadlocked,deadlocked,adjective,c2
+742,debatable,debatable,adjective,c1
+743,debate_1,debate,noun,b2
+744,debate_2,debate,verb,b2
+745,decided,decided,adjective,c2
+746,declamation,declamation,noun,c2
+747,declamatory,declamatory,adjective,c2
+748,deduce,deduce,verb,c1
+749,deem,deem,verb,c1
+750,deep_1,deep,adjective,c2
+751,deep-dyed,deep-dyed,adjective,c2
+752,defence,defence,noun,c1
+753,defend,defend,verb,b2
+754,defense,defense,noun,c1
+755,defensible,defensible,adjective,c2
+756,delude,delude,verb,c2
+757,delusion,delusion,noun,c2
+758,demur_1,demur,verb,c2
+759,devil-s-advocate,devil’s advocate,noun,c2
+760,dialectic,dialectic,noun,c2
+761,dialectical,dialectical,adjective,c2
+762,dicker,dicker,verb,c2
+763,differ,differ,verb,b2
+764,difference,difference,noun,a1
+765,different,different,adjective,a1
+766,ding-dong,ding-dong,noun,c2
+767,disagree,disagree,verb,a2
+768,disagreement,disagreement,noun,b2
+769,disassociate,disassociate,verb,c2
+770,discord,discord,noun,c2
+771,discordant,discordant,adjective,c2
+772,discuss,discuss,verb,a2
+773,discussion,discussion,noun,a2
+774,disharmony,disharmony,noun,c2
+775,disposed,disposed,adjective,c2
+776,disputable,disputable,adjective,c2
+777,disputation,disputation,noun,c2
+778,dispute_1,dispute,noun,c1
+779,dispute_2,dispute,verb,c1
+780,dissension,dissension,noun,c2
+781,dissent_1,dissent,noun,c2
+782,dissent_2,dissent,verb,c2
+783,dissenter,dissenter,noun,c2
+784,dissenting,dissenting,adjective,c2
+785,dissidence,dissidence,noun,c2
+786,dissident_1,dissident,noun,c2
+787,dissident_2,dissident,adjective,c2
+788,dissociate,dissociate,verb,c2
+789,dissociation,dissociation,noun,c2
+790,dissonance,dissonance,noun,c2
+791,dissonant,dissonant,adjective,c2
+792,disunite,disunite,verb,c2
+793,disunity,disunity,noun,c2
+794,diverge,diverge,verb,c2
+795,divergence,divergence,noun,c2
+796,divergent,divergent,adjective,c2
+797,divide_1,divide,verb,b2
+798,divide_1,divide and rule,idiom,c2
+799,divided,divided,adjective,c1
+800,division,division,noun,b2
+801,divisive,divisive,adjective,c2
+802,divisively,divisively,adverb,c2
+803,divisiveness,divisiveness,noun,c2
+804,battle_1,do battle (with somebody) (over something),idiom,c2
+805,dogma,dogma,noun,c2
+806,dogmatic,dogmatic,adjective,c2
+807,dogmatically,dogmatically,adverb,c2
+808,judge_2,don’t judge a book by its cover,idiom,c1
+809,don-t-know,don’t-know,noun,c1
+810,doublethink,doublethink,noun,c2
+811,downvote_1,downvote,verb,c2
+812,downvote_2,downvote,noun,c2
+813,duke_2,duke it out,idiom,c2
+814,dust-up,dust-up,noun,c2
+815,dyed-in-the-wool,dyed in the wool,adjective,c2
+816,echo_1,echo,verb,c1
+817,echo_2,echo,noun,c2
+818,editorial_2,editorial,noun,b2
+819,editorialize,editorialize,verb,c2
+820,eloquence,eloquence,noun,c2
+821,eloquent,eloquent,adjective,c2
+822,eloquently,eloquently,adverb,c2
+823,embroil,embroil,verb,c2
+824,esteem_1,esteem,noun,c2
+825,esteem_2,esteem,verb,c2
+826,estimate_1,estimate,verb,b2
+827,estimate_2,estimate,noun,b2
+828,estimation,estimation,noun,c2
+829,evaluate,evaluate,verb,b2
+830,evaluation,evaluation,noun,b2
+831,evaluative,evaluative,adjective,c1
+832,evangelical_1,evangelical,adjective,c2
+833,evangelicalism,evangelicalism,noun,c2
+834,evidence_1,evidence,noun,a2
+835,exactly,exactly,adverb,b1
+836,examination,examination,noun,b2
+837,examine,examine,verb,b1
+838,exchange_1,exchange,noun,c2
+839,excuse_2,excuse me,idiom,a1
+840,exponent,exponent,noun,c2
+841,expostulate,expostulate,verb,c2
+842,expostulation,expostulation,noun,c2
+843,express_1,express,verb,a2
+844,expression,expression,noun,b1
+845,extrapolate,extrapolate,verb,c2
+846,extrapolation,extrapolation,noun,c2
+847,face-off_2,face-off,noun,c2
+848,face-off_1,face off,phrasal verb,c2
+849,faction,faction,noun,c2
+850,falling-out,falling-out,noun,c2
+851,fall-in-with,fall in with,phrasal verb,c2
+852,fall-out,fall out,phrasal verb,b2
+853,far_1,far be it from me to do something (but…),idiom,c2
+854,favourability,favourability,noun,c2
+855,favourable,favourable,adjective,c1
+856,favourably,favourably,adverb,c1
+857,feed-back,feed back,phrasal verb,c2
+858,feel_1,feel,verb,a2
+859,feeling,feeling,noun,a2
+860,feisty,feisty,adjective,c2
+861,feud_1,feud,noun,c2
+862,feud_2,feud,verb,c2
+863,feuding,feuding,noun,c2
+864,fiddlesticks,fiddlesticks,exclamation,c2
+865,fight_1,fight,verb,b1
+866,fight_2,fight,noun,b1
+867,fight_1,fight fire with fire,idiom,c2
+868,fighting,fighting,noun,b1
+869,fight-it-out,fight it out,phrasal verb,c1
+870,fight-out,fight out,phrasal verb,c1
+871,fight_1,fight your own battles,idiom,c2
+872,find_1,find,verb,a2
+873,find_1,find your voice/tongue,idiom,c2
+874,fist-bump_1,fist bump,noun,c2
+875,fist-bump_2,fist-bump,verb,c2
+876,fit_1,fit,verb,b2
+877,flap_1,flap,noun,c2
+878,flat_2,flat,adjective,c2
+879,flatten,flatten,verb,c2
+880,flatter,flatter,verb,c2
+881,flesh-out,flesh out,phrasal verb,c2
+882,flip-flop_1,flip-flop,verb,c2
+883,flip-flopper,flip-flopper,noun,c2
+884,football,football,noun,c2
+885,start_2,for a start,idiom,c2
+886,forceful,forceful,adjective,c2
+887,forcefulness,forcefulness,noun,c2
+888,throat,force/thrust/ram something down somebody’s throat,idiom,c2
+889,money,for my money,idiom,c2
+890,starter,for starters,idiom,c2
+891,matter_1,for that matter,idiom,c1
+892,forum,forum,noun,b2
+893,worth_1,for what it’s worth,idiom,c2
+894,fracas,fracas,noun,c2
+895,fray_2,fray,noun,c2
+896,free-for-all,free-for-all,noun,c2
+897,freethinker,freethinker,noun,c2
+898,freethinking,freethinking,adjective,c2
+899,frenemy,frenemy,noun,c2
+900,friction,friction,noun,c2
+901,furthermore,furthermore,adverb,b2
+902,gag_1,gag,noun,c2
+903,gag_2,gag,verb,c2
+904,gainsay,gainsay,verb,c2
+905,gallup-polltm,Gallup poll™,noun,c2
+906,gap,gap,noun,b1
+907,generalize,generalize,verb,c1
+908,get-above-yourself,get above yourself,phrasal verb,c2
+909,soapbox,get/be on your soapbox,idiom,c2
+910,measure_2,get/take/have the measure of somebody/something,idiom,c2
+911,given-that,given that,conjunction,c1
+912,fair_1,(give somebody) a fair hearing,idiom,c2
+913,nod_2,give somebody/something the nod,idiom,c2
+914,voice_1,give voice to something,idiom,c2
+915,go-against,go against,phrasal verb,c1
+916,go-around_2,go-around,noun,c2
+917,go-by,go by,phrasal verb,c2
+918,good-name,good name,noun,c2
+919,go-on,go on,phrasal verb,c2
+920,go-round_2,go-round,noun,c2
+921,tide_1,"go, swim, etc. with/against the tide",idiom,c2
+922,law,go to law,idiom,c2
+923,mat_1,go to the mat (with somebody) (for somebody/something),idiom,c2
+924,great_1,great minds think alike,idiom,c2
+925,gridlock,gridlock,noun,c2
+926,guess_1,guess,verb,a1
+927,guess_2,guess,noun,a1
+928,haggle,haggle,verb,c2
+929,hair-splitting,hair-splitting,noun,c2
+930,hammer_1,hammer and tongs,idiom,c2
+931,happen,happen,verb,c2
+932,harmonious,harmonious,adjective,c2
+933,harmoniously,harmoniously,adverb,c2
+934,harmony,harmony,noun,c1
+935,harrumph_1,harrumph,noun,c2
+936,harrumph_2,harrumph,verb,c2
+937,hassle_1,hassle,noun,c2
+938,have_1,have,verb,c2
+939,down_5,have a down on somebody/something,idiom,c2
+940,opinion,"have a good, bad, high, low, etc. opinion of somebody/something",idiom,b2
+941,mind_1,have a mind of your own,idiom,c2
+942,problem_1,have a problem with something/somebody,idiom,c1
+943,word_1,have/exchange words (with somebody) (about something),idiom,c2
+944,way_1,have it your own way!,idiom,c2
+945,have-out,have out,phrasal verb,c2
+946,thought,have second thoughts,idiom,c1
+947,say_1,having said that,idiom,c1
+948,head-to-head_1,head-to-head,adjective,c2
+949,head-to-head_2,head-to-head,adverb,c2
+950,hear,hear! hear!,idiom,c2
+951,hearing,hearing,noun,c2
+952,hedge_2,hedge your bets,idiom,c2
+953,heresy,heresy,noun,c2
+954,heretical,heretical,adjective,c2
+955,heterodox,heterodox,adjective,c2
+956,heterodoxy,heterodoxy,noun,c2
+957,high-ground,high ground,noun,c2
+958,hogwash,hogwash,noun,c2
+959,hokum,hokum,noun,c2
+960,hold_1,hold,verb,b2
+961,hold-against,hold against,phrasal verb,c2
+962,ground_1,hold/stand your ground,idiom,c2
+963,peace,hold your peace/tongue,idiom,c2
+964,hostile,hostile,adjective,c1
+965,hostility,hostility,noun,c1
+966,hot-button,hot button,noun,c2
+967,hot-stuff,hot stuff,noun,c2
+968,how,how’s that?,idiom,c1
+969,hue,hue,noun,c2
+970,hunker-down,hunker down,phrasal verb,c2
+971,beg,I beg to differ,idiom,c2
+972,idea,idea,noun,a2
+973,think_1,I don’t think so,idiom,c1
+974,if_1,if,conjunction,b1
+975,if_1,if anything,idiom,c1
+976,ask_1,if you ask me,idiom,b2
+977,like_3,if you like,idiom,b1
+978,know_1,I know,idiom,a2
+979,ill_1,ill/bad feeling,idiom,c2
+980,imho,IMHO,abbreviation,c2
+981,imo,IMO,abbreviation,c2
+982,impasse,impasse,noun,c2
+983,impression,impression,noun,b1
+984,say_1,I must say,idiom,c1
+985,accordance,in accordance with something,idiom,c1
+986,accord_1,in accord (with something/somebody),idiom,c2
+987,honesty,in (all) honesty,idiom,c2
+988,incident_1,incident,noun,b2
+989,incline_1,incline,verb,c2
+990,inclined,inclined,adjective,c1
+991,conformity,in conformity with something,idiom,c2
+992,inconsistency,inconsistency,noun,c2
+993,inconsistent,inconsistent,adjective,c2
+994,inconsistently,inconsistently,adverb,c2
+995,incontestable,incontestable,adjective,c2
+996,incontestably,incontestably,adverb,c2
+997,incontrovertible,incontrovertible,adjective,c2
+998,incontrovertibly,incontrovertibly,adverb,c2
+999,indisputable,indisputable,adjective,c2
+1000,indisputably,indisputably,adverb,c2
+1001,effect_1,in effect,idiom,c1
+1002,favour_1,in favour (of somebody/something),idiom,b1
+1003,infer,infer,verb,b2
+1004,inference,inference,noun,b2
+1005,infighting,infighting,noun,c2
+1006,inflexibility,inflexibility,noun,c2
+1007,inflexible,inflexible,adjective,c1
+1008,inflexibly,inflexibly,adverb,c2
+1009,keeping,in keeping (with something),idiom,c2
+1010,book_1,in my book,idiom,c2
+1011,opposition,in opposition to somebody/something,idiom,b2
+1012,eye_1,in somebody’s eyes,idiom,c1
+1013,interject,interject,verb,c2
+1014,place_1,"in the first, second, etc. place",idiom,b2
+1015,sight_1,in the sight of somebody/in somebody’s sight,idiom,c2
+1016,wrong_3,in the wrong,idiom,c2
+1017,intransigence,intransigence,noun,c2
+1018,intransigent,intransigent,adjective,c2
+1019,invalidate,invalidate,verb,c2
+1020,invalidation,invalidation,noun,c2
+1021,invoke,invoke,verb,c1
+1022,irreconcilable,irreconcilable,adjective,c2
+1023,issue_1,issue,noun,b1
+1024,sound_2,(it) sounds like a plan (to me),idiom,c2
+1025,easy_1,I’m easy,idiom,c2
+1026,sorry_1,I’m sorry,idiom,a1
+1027,joust_1,joust,noun,c2
+1028,joust_2,joust,verb,c2
+1029,judge_1,judge,noun,b1
+1030,judge_2,judge,verb,b1
+1031,judgement,judgement,noun,b2
+1032,just_1,just,adverb,c2
+1033,counsel_1,keep your own counsel,idiom,c2
+1034,keystone,keystone,noun,c2
+1035,knock-down-drag-out,knock-down-drag-out,adjective,c2
+1036,lay-out,lay out,phrasal verb,c2
+1037,leading-article,leading article,noun,c2
+1038,leaning,leaning,noun,c2
+1039,lean-to_1,lean to,phrasal verb,c2
+1040,lean-toward,lean toward,phrasal verb,c2
+1041,lean-towards,lean towards,phrasal verb,c2
+1042,left-field_1,left field,noun,c2
+1043,lend,lend your name to something,idiom,c2
+1044,like_1,like,preposition,a1
+1045,like_3,like,verb,b1
+1046,like_4,like,noun,b1
+1047,lock_1,lock,verb,c2
+1048,lock_1,lock horns (with somebody) (over something),idiom,c2
+1049,trouble_1,look for trouble,idiom,c1
+1050,mainstream_1,mainstream,noun,c1
+1051,mainstream_3,mainstream,verb,c2
+1052,maintain,maintain,verb,b2
+1053,mincemeat,make mincemeat of somebody,idiom,c2
+1054,voice_1,make your voice heard,idiom,c2
+1055,mano-a-mano_2,mano a mano,adverb,c2
+1056,mano-a-mano_3,mano-a-mano,adjective,c2
+1057,match_1,match,noun,c1
+1058,match_2,match,verb,a2
+1059,maverick_1,maverick,adjective,c2
+1060,maverick_2,maverick,noun,c2
+1061,may_1,may,modal verb,b2
+1062,maybe_1,maybe,adverb,a1
+1063,middle-ground,middle ground,noun,c2
+1064,minority-report,minority report,noun,c2
+1065,misjudge,misjudge,verb,c2
+1066,misjudgement,misjudgement,noun,c2
+1067,mistake_1,mistake,noun,a1
+1068,mistaken,mistaken,adjective,c1
+1069,mistakenly,mistakenly,adverb,c1
+1070,misunderstanding,misunderstanding,noun,b2
+1071,mix_1,mix it (with somebody),idiom,c2
+1072,moderate_1,moderate,adjective,c1
+1073,moderate_3,moderate,noun,c1
+1074,mold_2,mold,verb,c2
+1075,monkey-in-the-middle,monkey in the middle,noun,c2
+1076,moralize,moralize,verb,c2
+1077,mould_2,mould,verb,c2
+1078,mouthy,mouthy,adjective,c2
+1079,muzzle_2,muzzle,verb,c2
+1080,way_1,my way or the highway,idiom,c2
+1081,name_1,name,noun,b2
+1082,negation,negation,noun,c2
+1083,negative_1,negative,adjective,b1
+1084,negative_3,negative,verb,c2
+1085,niggle_2,niggle,verb,c2
+1086,no_4,no,noun,a1
+1087,nod_1,nod,verb,c1
+1088,hard_1,no hard feelings,idiom,c2
+1089,kid_2,no kidding,idiom,c1
+1090,non-committal,non-committal,adjective,c2
+1091,non-committally,non-committally,adverb,c2
+1092,non-controversial,non-controversial,adjective,c2
+1093,nor,nor,conjunction,b1
+1094,not,not at all,idiom,c1
+1095,half_3,not half,idiom,c2
+1096,water_1,not hold water,idiom,c2
+1097,notice_2,notice,noun,c2
+1098,likely_2,not likely!,idiom,c2
+1099,object_2,object,verb,b2
+1100,objective_2,objective,adjective,b2
+1101,objectivity,objectivity,noun,c1
+1102,of,of,preposition,a1
+1103,course_1,of course,idiom,a2
+1104,ok_1,OK,exclamation,a1
+1105,ok_4,OK,verb,c2
+1106,okey-doke,okey-doke,exclamation,c2
+1107,thought,on second thoughts,idiom,c2
+1108,balance_1,(on) the balance of evidence/probability,idiom,c2
+1109,face_1,on the face of it,idiom,c2
+1110,opine,opine,verb,c2
+1111,opinion,opinion,noun,a1
+1112,opinionated,opinionated,adjective,c2
+1113,opinion-poll,opinion poll,noun,c1
+1114,opponent,opponent,noun,b2
+1115,oppose,oppose,verb,b2
+1116,opposed,opposed,adjective,b2
+1117,opposition,opposition,noun,b2
+1118,oppositional,oppositional,adjective,c2
+1119,what,or what,idiom,c1
+1120,hand_1,out of hand,idiom,c2
+1121,keeping,out of keeping (with something),idiom,c2
+1122,kilter,out of kilter,idiom,c2
+1123,sympathy,out of sympathy with somebody/something,idiom,c2
+1124,sync_1,out of sync,idiom,c2
+1125,whack_2,out of whack,idiom,c2
+1126,overrate,overrate,verb,c2
+1127,pace2,pace,preposition,c2
+1128,part_2,part company (with/from somebody),idiom,c2
+1129,party_1,party,noun,c1
+1130,perception,perception,noun,b2
+1131,perhaps,perhaps,adverb,a2
+1132,personally,personally,adverb,b1
+1133,pick_1,pick a fight/quarrel (with somebody),idiom,c2
+1134,piggy-in-the-middle,piggy in the middle,noun,c2
+1135,pig-headed,pig-headed,adjective,c2
+1136,pig-headedness,pig-headedness,noun,c2
+1137,pitch_1,pitch,noun,c2
+1138,platform,platform,noun,c2
+1139,play-along,play along,phrasal verb,c2
+1140,ace_1,play your ace,idiom,c2
+1141,plead,plead,verb,c1
+1142,point_1,point,noun,a1
+1143,point_2,point,verb,c1
+1144,point-of-view,point of view,noun,b1
+1145,point-out,point out,phrasal verb,b1
+1146,point_1,point taken,idiom,c2
+1147,polarity,polarity,noun,c2
+1148,polarization,polarization,noun,c2
+1149,polarize,polarize,verb,c2
+1150,polemic,polemic,noun,c2
+1151,polemical,polemical,adjective,c2
+1152,poll_1,poll,noun,c1
+1153,pontificate_1,pontificate,verb,c2
+1154,posit,posit,verb,c2
+1155,position_1,position,noun,b2
+1156,positive_1,positive,adjective,a2
+1157,positively,positively,adverb,b1
+1158,scorn_1,pour/heap scorn on somebody/something,idiom,c2
+1159,precisely,precisely,adverb,b2
+1160,preconception,preconception,noun,c2
+1161,prejudice_1,prejudice,noun,c1
+1162,prejudice_2,prejudice,verb,c1
+1163,prejudiced,prejudiced,adjective,c2
+1164,premise,premise,noun,c1
+1165,press_2,press something home,idiom,c2
+1166,presupposition,presupposition,noun,c2
+1167,prognosis,prognosis,noun,c2
+1168,prong,prong,noun,c2
+1169,pronouncement,pronouncement,noun,c2
+1170,pronounce-on,pronounce on,phrasal verb,c2
+1171,pronounce-upon,pronounce upon,phrasal verb,c2
+1172,proof_1,proof,noun,b2
+1173,proposition_1,proposition,noun,c1
+1174,protest_1,protest,noun,b1
+1175,protest_2,protest,verb,b1
+1176,prove,prove,verb,b1
+1177,provocation,provocation,noun,c2
+1178,provocative,provocative,adjective,c1
+1179,provocatively,provocatively,adverb,c1
+1180,provoke,provoke,verb,c1
+1181,public-opinion,public opinion,noun,b2
+1182,pugnacious,pugnacious,adjective,c2
+1183,pugnaciously,pugnaciously,adverb,c2
+1184,pugnacity,pugnacity,noun,c2
+1185,pussyfoot,pussyfoot,verb,c2
+1186,cent_1,put in your two cents’ worth,idiom,c2
+1187,penn-orth,put in your two penn'orth,idiom,c2
+1188,pennyworth,put in your two pennyworth,idiom,c2
+1189,put,put it to somebody that…,idiom,c2
+1190,oar,put/stick your oar in,idiom,c2
+1191,quarrel_1,quarrel,noun,c2
+1192,quarrel_2,quarrel,verb,c2
+1193,quarrelsome,quarrelsome,adjective,c2
+1194,quarrel-with,quarrel with,phrasal verb,c2
+1195,quibble_1,quibble,verb,c2
+1196,quite,quite,adverb,c2
+1197,ram_1,ram something 󿿱 home,idiom,c2
+1198,rather_2,rather,exclamation,c2
+1199,ratiocination,ratiocination,noun,c2
+1200,really,really,adverb,a1
+1201,reappraise,reappraise,verb,c2
+1202,reason_1,reason,noun,b2
+1203,reasoning,reasoning,noun,c1
+1204,reassess,reassess,verb,c2
+1205,reassessment,reassessment,noun,c2
+1206,reckon,reckon,verb,b2
+1207,reconsider,reconsider,verb,c1
+1208,reconsideration,reconsideration,noun,c2
+1209,re-evaluate,re-evaluate,verb,c2
+1210,re-evaluation,re-evaluation,noun,c2
+1211,re-examination,re-examination,noun,c1
+1212,re-examine,re-examine,verb,c1
+1213,register_1,register,verb,c2
+1214,rehearse,rehearse,verb,c2
+1215,remark_1,remark,noun,b2
+1216,remark_2,remark,verb,b2
+1217,represent,represent,verb,c2
+1218,representation,representation,noun,c2
+1219,reputation,reputation,noun,b2
+1220,repute,repute,noun,c2
+1221,reputed,reputed,adjective,c2
+1222,reputedly,reputedly,adverb,c2
+1223,reserve_1,reserve,noun,c1
+1224,reserved,reserved,adjective,c1
+1225,resolution,resolution,noun,c1
+1226,respect_2,respect,verb,b1
+1227,review_1,review,noun,a2
+1228,review_2,review,verb,a2
+1229,reviewer,reviewer,noun,b1
+1230,revise,revise,verb,b1
+1231,rift,rift,noun,c2
+1232,right_1,right,adjective,a1
+1233,right_5,right,exclamation,b2
+1234,right-minded,right-minded,adjective,c2
+1235,right-on,right-on,adjective,c2
+1236,right-thinking,right-thinking,adjective,c1
+1237,riven,riven,adjective,c2
+1238,row2_1,row,noun,c2
+1239,row2_2,row,verb,c2
+1240,row-back,row back,phrasal verb,c2
+1241,rowback,rowback,noun,c2
+1242,ruckus,ruckus,noun,c2
+1243,ructions,ructions,noun,c2
+1244,run-in_2,run-in,noun,c2
+1245,say_1,say,verb,b1
+1246,say_2,say,noun,c1
+1247,scene,scene,noun,c2
+1248,scheme_2,scheme,verb,c2
+1249,schism,schism,noun,c2
+1250,schizophrenic_2,schizophrenic,adjective,c2
+1251,score_1,score a point/points (off/against/over somebody),idiom,c2
+1252,score-off,score off,phrasal verb,c2
+1253,scorn_1,scorn,noun,c2
+1254,scorn_2,scorn,verb,c2
+1255,scrap_1,scrap,noun,c2
+1256,see_1,see,verb,b1
+1257,see-saw_1,see-saw,verb,c2
+1258,self-image,self-image,noun,c1
+1259,self-opinionated,self-opinionated,adjective,c2
+1260,self-regard,self-regard,noun,c2
+1261,self-regarding,self-regarding,adjective,c2
+1262,sentiment,sentiment,noun,c1
+1263,set-to_2,set-to,noun,c2
+1264,shade_1,shade,noun,c2
+1265,shake_1,shake,verb,a2
+1266,shift_2,shift,verb,c1
+1267,shift_2,shift your ground,idiom,c2
+1268,shindy,shindy,noun,c2
+1269,shit-stirrer,shit stirrer,noun,c2
+1270,shit-stirring,shit stirring,noun,c2
+1271,shitstorm,shitstorm,noun,c2
+1272,shoot-down,shoot down,phrasal verb,c2
+1273,shot_1,shot,noun,c2
+1274,should,should,modal verb,b2
+1275,shoulder_1,shoulder to shoulder (with somebody),idiom,c2
+1276,shouting-match,shouting match,noun,c2
+1277,showdown,showdown,noun,c2
+1278,shrewish,shrewish,adjective,c2
+1279,side_1,side,noun,b2
+1280,side-with,side with,phrasal verb,c2
+1281,signal_2,signal,verb,c2
+1282,signpost_2,signpost,verb,c1
+1283,signposting,signposting,noun,c1
+1284,sing_2,sing a different tune,idiom,c2
+1285,sing_2,sing from the same hymn/song sheet,idiom,c2
+1286,size-up,size up,phrasal verb,c2
+1287,skirmish_1,skirmish,noun,c2
+1288,skirmish_2,skirmish,verb,c2
+1289,skirmishing,skirmishing,noun,c2
+1290,slanging-match,slanging match,noun,c2
+1291,slant_1,slant,verb,c2
+1292,slant_2,slant,noun,c2
+1293,slugfest,slugfest,noun,c2
+1294,slur_2,slur,noun,c2
+1295,small-minded,small-minded,adjective,c2
+1296,small-mindedness,small-mindedness,noun,c2
+1297,so_1,so,adverb,b2
+1298,solid_1,solid,adjective,c2
+1299,solidarity,solidarity,noun,c1
+1300,solidly,solidly,adverb,c2
+1301,some_1,some,determiner,c2
+1302,take_1,somebody can take it or leave it,idiom,c2
+1303,any_2,somebody isn’t having any (of it),idiom,c2
+1304,blood_1,somebody’s blood is up,idiom,c2
+1305,sophist,sophist,noun,c2
+1306,sophistry,sophistry,noun,c2
+1307,sound-off,sound off,phrasal verb,c2
+1308,note_1,sound/strike a note (of something),idiom,c2
+1309,spar_1,spar,verb,c2
+1310,spark-up,spark up,phrasal verb,c2
+1311,sparring-partner,sparring partner,noun,c2
+1312,spat_1,spat,noun,c2
+1313,speak_1,speaking as something,idiom,c1
+1314,speak-out,speak out,phrasal verb,c1
+1315,language,speak/talk the same language,idiom,c2
+1316,special-pleading,special pleading,noun,c2
+1317,speculate,speculate,verb,b2
+1318,speculation,speculation,noun,b2
+1319,speculative,speculative,adjective,c1
+1320,speculatively,speculatively,adverb,c1
+1321,split_1,split,verb,b2
+1322,split_2,split,noun,b2
+1323,split_1,split hairs,idiom,c2
+1324,squabble_1,squabble,verb,c2
+1325,squabble_2,squabble,noun,c2
+1326,square_1,square,adjective,c2
+1327,square-with,square with,phrasal verb,c2
+1328,stake-out_1,stake out,phrasal verb,c2
+1329,stalemate,stalemate,noun,c2
+1330,stance,stance,noun,b2
+1331,stand_1,stand,verb,c2
+1332,stand_2,stand,noun,b2
+1333,stand-by,stand by,phrasal verb,c2
+1334,fast_2,stand fast/firm,idiom,c2
+1335,stand-off,stand-off,noun,c2
+1336,pat_4,stand pat,idiom,c2
+1337,standpoint,standpoint,noun,c2
+1338,stand-up_3,stand-up,adjective,c2
+1339,count_1,stand up and be counted,idiom,c2
+1340,statement_1,statement,noun,a1
+1341,sticking-point,sticking point,noun,c2
+1342,stir_1,stir,verb,c2
+1343,stir-up,stir up,phrasal verb,c2
+1344,stormy,stormy,adjective,c2
+1345,straw-poll,straw poll,noun,c2
+1346,street_1,street,noun,c2
+1347,strife,strife,noun,c2
+1348,stripe,stripe,noun,c2
+1349,strong,strong,adjective,c2
+1350,strongly,strongly,adverb,b1
+1351,strong-minded,strong-minded,adjective,c2
+1352,struggle_1,struggle,verb,b2
+1353,struggle_2,struggle,noun,b2
+1354,stubborn,stubborn,adjective,b2
+1355,stubbornly,stubbornly,adverb,c2
+1356,stubbornness,stubbornness,noun,c2
+1357,subjective,subjective,adjective,b2
+1358,subjectively,subjectively,adverb,b2
+1359,subjectivity,subjectivity,noun,c1
+1360,suggest,suggest,verb,a2
+1361,suggestion,suggestion,noun,a2
+1362,summing-up,summing-up,noun,c2
+1363,sum-up,sum up,phrasal verb,b2
+1364,support_1,support,verb,b1
+1365,suppose,suppose,verb,a2
+1366,surely,surely,adverb,c2
+1367,survey_1,survey,noun,a2
+1368,survey_2,survey,verb,b2
+1369,sustain,sustain,verb,c2
+1370,swing_1,swing,verb,c1
+1371,swing_2,swing,noun,c1
+1372,syllogism,syllogism,noun,c2
+1373,sympathetic,sympathetic,adjective,c1
+1374,sympathetically,sympathetically,adverb,c2
+1375,sympathize,sympathize,verb,c2
+1376,syndrome,syndrome,noun,c2
+1377,take_1,take,verb,b2
+1378,take_2,take,noun,c2
+1379,dim_1,take a dim view of somebody/something,idiom,c2
+1380,moral_1,"take, claim, seize, etc. the moral high ground",idiom,c2
+1381,issue_1,take issue with somebody (about/on/over something),idiom,c2
+1382,side_1,take sides,idiom,c2
+1383,mat_1,take somebody/something to the mat,idiom,c2
+1384,consideration,take something into consideration,idiom,c1
+1385,talking-point,talking point,noun,c1
+1386,tangle_1,tangle,noun,c2
+1387,tangle-with,tangle with,phrasal verb,c2
+1388,tear-apart,tear apart,phrasal verb,c2
+1389,tell,tell me about it,idiom,c1
+1390,tendentious,tendentious,adjective,c2
+1391,tendentiously,tendentiously,adverb,c2
+1392,tendentiousness,tendentiousness,noun,c2
+1393,two,that makes two of us,idiom,c2
+1394,say_1,that said,idiom,c1
+1395,battle_1,the battle lines are drawn,idiom,c2
+1396,glove,the gloves are off,idiom,c2
+1397,theory,theory,noun,b1
+1398,there_1,there,adverb,c1
+1399,say_1,"there’s something, not much, etc. to be said for something/doing something",idiom,c2
+1400,thesis,thesis,noun,c1
+1401,think_1,think,verb,a1
+1402,think_1,think for yourself,idiom,c1
+1403,thinking_1,thinking,noun,a2
+1404,think_1,think (the) better of somebody,idiom,c2
+1405,think_1,"think the world, highly, a lot, poorly, little, etc. of somebody/something",idiom,c2
+1406,thorny,thorny,adjective,c2
+1407,thoughtcrime,thoughtcrime,noun,c2
+1408,thought-police,thought police,noun,c2
+1409,thrust_2,thrust,noun,c2
+1410,tide_1,tide,noun,c1
+1411,tie-in_1,tie in,phrasal verb,c2
+1412,tiff_1,tiff,noun,c2
+1413,beard_2,to beard the lion in his den,idiom,c2
+1414,mind_1,to my mind,idiom,c1
+1415,way_1,to my way of thinking,idiom,c2
+1416,start_1,to start with,idiom,b2
+1417,touche,touché,exclamation,c2
+1418,troublemaker,troublemaker,noun,c1
+1419,true_1,true,adjective,a2
+1420,tub-thumping_1,tub-thumping,adjective,c2
+1421,tub-thumping_2,tub-thumping,noun,c2
+1422,turbulence,turbulence,noun,c2
+1423,turbulent,turbulent,adjective,c2
+1424,turf-war,turf war,noun,c2
+1425,turnaround,turnaround,noun,c2
+1426,turnround,turnround,noun,c2
+1427,tussle_1,tussle,noun,c2
+1428,tussle_2,tussle,verb,c2
+1429,unanimity,unanimity,noun,c2
+1430,unanimous,unanimous,adjective,c2
+1431,unanswerable,unanswerable,adjective,c2
+1432,unarguable,unarguable,adjective,c2
+1433,unarguably,unarguably,adverb,c2
+1434,unbending,unbending,adjective,c2
+1435,unbridgeable,unbridgeable,adjective,c2
+1436,unchallengeable,unchallengeable,adjective,c2
+1437,uncommunicative,uncommunicative,adjective,c2
+1438,unconscious-bias,unconscious bias,noun,c1
+1439,uncontested,uncontested,adjective,c2
+1440,underpin,underpin,verb,c2
+1441,underpinning,underpinning,noun,c2
+1442,protest_1,under protest,idiom,c2
+1443,unequivocal,unequivocal,adjective,c2
+1444,unlike_3,unlike,verb,c2
+1445,unpleasantness,unpleasantness,noun,c2
+1446,unprejudiced,unprejudiced,adjective,c2
+1447,unsettled,unsettled,adjective,c2
+1448,unspoken,unspoken,adjective,c1
+1449,unstated,unstated,adjective,c1
+1450,unsympathetic,unsympathetic,adjective,c2
+1451,unsympathetically,unsympathetically,adverb,c2
+1452,uproar,uproar,noun,c2
+1453,upvote_1,upvote,verb,c2
+1454,upvote_2,upvote,noun,c2
+1455,vacillate,vacillate,verb,c2
+1456,vacillation,vacillation,noun,c2
+1457,value-free,value-free,adjective,c2
+1458,value-judgement,value judgement,noun,c2
+1459,value-laden,value-laden,adjective,c2
+1460,vendetta,vendetta,noun,c2
+1461,ventilate,ventilate,verb,c2
+1462,verdict,verdict,noun,c1
+1463,view_1,view,noun,a2
+1464,virtue-signalling,virtue signalling,noun,c2
+1465,vocal_1,vocal,adjective,c1
+1466,vociferous,vociferous,adjective,c2
+1467,voice_1,voice,noun,c1
+1468,voice_2,voice,verb,c1
+1469,volte-face,volte-face,noun,c2
+1470,vox-pop,vox pop,noun,c2
+1471,wade-in,wade in,phrasal verb,c2
+1472,wade-into,wade into,phrasal verb,c2
+1473,weak,weak,adjective,c2
+1474,weigh-in_1,weigh in,phrasal verb,c2
+1475,weigh-up,weigh up,phrasal verb,c2
+1476,welcome_4,welcome,noun,c2
+1477,well_3,well,exclamation,a1
+1478,say_1,well said!,idiom,c2
+1479,say_1,whatever you say,idiom,c2
+1480,while_1,while,conjunction,b1
+1481,whilst,whilst,conjunction,c1
+1482,say_1,who says (…)?,idiom,c2
+1483,wilco,wilco,exclamation,c2
+1484,floor_1,wipe/mop the floor with somebody,idiom,c2
+1485,accord_1,with one accord,idiom,c2
+1486,voice_1,with one voice,idiom,c2
+1487,doubt_1,without/beyond (a) doubt,idiom,c1
+1488,pleasure,with pleasure,idiom,c2
+1489,respect_1,with respect,idiom,c2
+1490,worst_4,worst,verb,c2
+1491,would,would,modal verb,b2
+1492,wrangle_1,wrangle,noun,c2
+1493,wrangle_2,wrangle,verb,c2
+1494,wrangling,wrangling,noun,c2
+1495,write-in_1,write in,phrasal verb,c2
+1496,foot_1,…my foot!,idiom,c2
+1497,yeah,yeah,exclamation,a1
+1498,yeah,"yeah, right",idiom,c2
+1499,yes_1,yes,exclamation,a1
+1500,yes_2,yes,noun,a2
+1501,yessir,yessir,exclamation,c2
+1502,say_1,you can say that again,idiom,c1
+1503,start_1,"you, he, she, etc. started it",idiom,c2
+1504,know_1,you know something/what?,idiom,c1
+1505,consider,your considered opinion,idiom,c2
+1506,say_1,you said it!,idiom,c2
+1507,tell,you’re telling me!,idiom,c2
+1508,acceptable,acceptable,adjective,b2
+1509,acceptably,acceptably,adverb,b2
+1510,adherence,adherence,noun,c2
+1511,adhere-to,adhere to,phrasal verb,c1
+1512,admissibility,admissibility,noun,c2
+1513,admissible,admissible,adjective,c2
+1514,age-limit,age limit,noun,b2
+1515,allow,allow,verb,a2
+1516,allowable,allowable,adjective,c2
+1517,allowance,allowance,noun,c1
+1518,all-right_2,all right,adjective,a2
+1519,alright_2,alright,adjective,a2
+1520,application,application,noun,c1
+1521,bounden,a/your bounden duty,idiom,c2
+1522,ban_1,ban,verb,b1
+1523,ban_2,ban,noun,b1
+1524,be_2,be,auxiliary verb,b2
+1525,rule_1,bend/stretch the rules,idiom,c2
+1526,suppose,be supposed to do/be something,idiom,b1
+1527,binding_1,binding,adjective,c2
+1528,force_1,bring something into force,idiom,c2
+1529,bye-law,bye-law,noun,c2
+1530,by-law,by-law,noun,c2
+1531,bypass_2,bypass,verb,c2
+1532,can1,can,modal verb,a2
+1533,circumvent,circumvent,verb,c2
+1534,circumvention,circumvention,noun,c2
+1535,compelling,compelling,adjective,c1
+1536,compliance,compliance,noun,c1
+1537,compliant,compliant,adjective,c2
+1538,comply,comply,verb,c1
+1539,compulsory,compulsory,adjective,b2
+1540,condition_1,condition,noun,b1
+1541,conform,conform,verb,c1
+1542,conformance,conformance,noun,c2
+1543,consent_1,consent,noun,c1
+1544,consent_2,consent,verb,c1
+1545,contravene,contravene,verb,c2
+1546,contravention,contravention,noun,c2
+1547,controlled,controlled,adjective,b2
+1548,default_1,default,noun,c1
+1549,defy,defy,verb,c1
+1550,deregulate,deregulate,verb,c2
+1551,deregulation,deregulation,noun,c2
+1552,deregulatory,deregulatory,adjective,c2
+1553,derogation,derogation,noun,c2
+1554,dictate_2,dictate,noun,c2
+1555,diktat,diktat,noun,c2
+1556,dispensation,dispensation,noun,c2
+1557,dos-and-don-ts,dos and don’ts,idiom,c1
+1558,due_1,due,adjective,b2
+1559,enforce,enforce,verb,c1
+1560,enforcement,enforcement,noun,c1
+1561,etiquette,etiquette,noun,b2
+1562,exception,exception,noun,b2
+1563,feel_1,feel free (to do something),idiom,c1
+1564,honor_1,(feel) honor-bound to do something,idiom,c2
+1565,honour_1,(feel) honour-bound to do something,idiom,c2
+1566,forbid,forbid,verb,b2
+1567,forbidden,forbidden,adjective,b2
+1568,forbidden,forbidden fruit,idiom,c2
+1569,free-for-all,free-for-all,noun,c2
+1570,barrel_1,(get/have somebody) over a barrel,idiom,c2
+1571,ground-rule,ground rule,noun,c2
+1572,guideline,guideline,noun,b2
+1573,have-to,have to,modal verb,a1
+1574,hand_1,have your hands tied,idiom,c2
+1575,illegal_1,illegal,adjective,b1
+1576,illegally,illegally,adverb,b1
+1577,illegitimacy,illegitimacy,noun,c2
+1578,illegitimate,illegitimate,adjective,c2
+1579,illegitimately,illegitimately,adverb,c2
+1580,illicit,illicit,adjective,c2
+1581,illicitly,illicitly,adverb,c2
+1582,impermissible,impermissible,adjective,c2
+1583,impose,impose,verb,b2
+1584,imposition,imposition,noun,c2
+1585,accordance,in accordance with something,idiom,c1
+1586,inadmissible,inadmissible,adjective,c2
+1587,conformity,in conformity with something,idiom,c2
+1588,infraction,infraction,noun,c2
+1589,infringe,infringe,verb,c2
+1590,infringement,infringement,noun,c2
+1591,order_1,in order (to do something),idiom,c2
+1592,circumstance,in/under no circumstances,idiom,c1
+1593,law,law,noun,a2
+1594,lawful,lawful,adjective,c2
+1595,lawfully,lawfully,adverb,c2
+1596,lawfulness,lawfulness,noun,c2
+1597,lay-down,lay down,phrasal verb,c2
+1598,leave_2,leave,noun,b2
+1599,legal,legal,adjective,b1
+1600,legally,legally,adverb,b1
+1601,legit,legit,adjective,c2
+1602,legitimacy,legitimacy,noun,c2
+1603,legitimate,legitimate,adjective,c1
+1604,legitimately,legitimately,adverb,c1
+1605,leniency,leniency,noun,c2
+1606,lenient,lenient,adjective,c1
+1607,leniently,leniently,adverb,c1
+1608,licit,licit,adjective,c2
+1609,licitly,licitly,adverb,c2
+1610,exception,make an exception,idiom,c2
+1611,must_1,must,modal verb,a1
+1612,necessary,necessary,adjective,b2
+1613,necessity,necessity,noun,b2
+1614,need_2,need,noun,a2
+1615,no_2,no,determiner,a1
+1616,go_1,no go,idiom,c2
+1617,hold_2,no holds barred,idiom,c2
+1618,non-compliance,non-compliance,noun,c2
+1619,non-observance,non-observance,noun,c2
+1620,non-smoking_1,non-smoking,adjective,b1
+1621,no-smoking,no-smoking,adjective,b1
+1622,suppose,not be supposed to do something,idiom,b2
+1623,obligation,obligation,noun,b2
+1624,obligatory,obligatory,adjective,c1
+1625,obliged,obliged,adjective,c1
+1626,observe,observe,verb,c1
+1627,off-limits,off-limits,adjective,c2
+1628,ok_1,OK,exclamation,a1
+1629,understanding_1,on the understanding that…,idiom,c2
+1630,order_2,order,verb,b1
+1631,ordinance,ordinance,noun,c2
+1632,out_1,out,adverb,c2
+1633,bounds,out of bounds (to/for somebody),idiom,c2
+1634,order_1,out of order,idiom,c2
+1635,question_1,out of the question,idiom,c1
+1636,pass_1,pass,verb,c2
+1637,permissible,permissible,adjective,c2
+1638,permission,permission,noun,a2
+1639,permit_1,permit,verb,b2
+1640,permit_2,permit,noun,b2
+1641,rule_1,play by somebody’s (own) rules,idiom,c1
+1642,police_2,police,verb,c2
+1643,policing,policing,noun,c2
+1644,precondition,precondition,noun,c2
+1645,prerequisite_1,prerequisite,adjective,c2
+1646,prerequisite_2,prerequisite,noun,c2
+1647,prohibit,prohibit,verb,b2
+1648,prohibition,prohibition,noun,b2
+1649,provide,provide,verb,c2
+1650,provided,provided,conjunction,b2
+1651,providing,providing,conjunction,b2
+1652,proviso,proviso,noun,c2
+1653,recusancy,recusancy,noun,c2
+1654,recusant,recusant,noun,c2
+1655,regulate,regulate,verb,b2
+1656,regulation_1,regulation,noun,b2
+1657,regulation_2,regulation,adjective,c1
+1658,require,require,verb,b2
+1659,requirement,requirement,noun,b2
+1660,restrict,restrict,verb,b2
+1661,restricted,restricted,adjective,b2
+1662,restriction,restriction,noun,b2
+1663,rigorous,rigorous,adjective,c1
+1664,rigorously,rigorously,adverb,c1
+1665,rule_1,rule,noun,a1
+1666,rule-book,rule book,noun,b2
+1667,afoul,run afoul of something,idiom,c2
+1668,slap-on,slap on,phrasal verb,c2
+1669,statute,statute,noun,c2
+1670,statutory,statutory,adjective,c2
+1671,statutory-instrument,statutory instrument,noun,c2
+1672,stipulate,stipulate,verb,c2
+1673,stipulation,stipulation,noun,c2
+1674,strict,strict,adjective,b2
+1675,strictly,strictly,adverb,b2
+1676,strictness,strictness,noun,b2
+1677,stringent,stringent,adjective,c2
+1678,submission,submission,noun,c1
+1679,letter_1,the letter of the law,idiom,c2
+1680,three-line-whip,three-line whip,noun,c2
+1681,tough_1,tough,adjective,b2
+1682,toughen,toughen,verb,c2
+1683,unlawful,unlawful,adjective,c2
+1684,unlawfully,unlawfully,adverb,c2
+1685,sauce,what’s sauce for the goose is sauce for the gander,idiom,c2
+1686,fail_2,without fail,idiom,c2
+1687,option_1,a/an/the soft/easy option,idiom,c2
+1688,abide,abide,verb,c2
+1689,absolute_1,absolute,adjective,c2
+1690,buyer,a buyer’s market,idiom,c2
+1691,accountability,accountability,noun,c1
+1692,accountable,accountable,adjective,c1
+1693,acquittal,acquittal,noun,c2
+1694,adjudge,adjudge,verb,c2
+1695,adjudicate,adjudicate,verb,c2
+1696,adjudication,adjudication,noun,c2
+1697,adjudicator,adjudicator,noun,c2
+1698,admiration,admiration,noun,c1
+1699,adoption,adoption,noun,c1
+1700,adore,adore,verb,b2
+1701,allergic,allergic,adjective,c2
+1702,alternative_1,alternative,noun,a2
+1703,alternatively,alternatively,adverb,b2
+1704,acquire,an acquired taste,idiom,c2
+1705,easy_1,an/a/the easy/soft option,idiom,c2
+1706,anathema,anathema,noun,c2
+1707,antipathetic,antipathetic,adjective,c2
+1708,antipathy,antipathy,noun,c2
+1709,appeal_1,appeal,noun,b2
+1710,appeal_2,appeal,verb,b2
+1711,appellant,appellant,noun,c2
+1712,appellate-court,appellate court,noun,c2
+1713,avenue,avenue,noun,c2
+1714,averse,averse,adjective,c2
+1715,aversion,aversion,noun,c2
+1716,award_1,award,noun,c1
+1717,award_2,award,verb,b1
+1718,bag_2,bag,verb,c2
+1719,beggar_1,beggars can’t be choosers,idiom,c2
+1720,spoilt,be spoilt for choice,idiom,c1
+1721,sweet_1,be sweet on somebody,idiom,c2
+1722,devil,between the devil and the deep blue sea,idiom,c2
+1723,master_1,be your own master/mistress,idiom,c2
+1724,blind-test,blind test,noun,c2
+1725,default_1,by default,idiom,c2
+1726,call_2,call,noun,c2
+1727,change_1,change your/somebody’s mind,idiom,b1
+1728,choice_1,choice,noun,a2
+1729,choose,choose,verb,a1
+1730,clincher,clincher,noun,c2
+1731,side_1,come down on one side of the fence or the other,idiom,c2
+1732,commit,commit,verb,c1
+1733,consider,consider,verb,a2
+1734,consult,consult,verb,b2
+1735,consultation,consultation,noun,c1
+1736,contest_2,contest,verb,b2
+1737,criterion,criterion,noun,b2
+1738,decide,decide,verb,a1
+1739,decision,decision,noun,a2
+1740,decision-maker,decision-maker,noun,b2
+1741,decision-theory,decision theory,noun,c2
+1742,decree_1,decree,noun,c2
+1743,default_1,default,noun,c1
+1744,default_2,default,verb,c2
+1745,delegate_1,delegate,noun,c1
+1746,deliberate_2,deliberate,verb,c2
+1747,despise,despise,verb,c1
+1748,determined,determined,adjective,b1
+1749,dilemma,dilemma,noun,c1
+1750,disgust_1,disgust,noun,c1
+1751,dislike_1,dislike,verb,b1
+1752,dislike_2,dislike,noun,b1
+1753,dissent_1,dissent,noun,c2
+1754,drag_1,drag your feet/heels,idiom,c2
+1755,either_2,either,adverb,a2
+1756,enamoured,enamoured,adjective,c2
+1757,enemy,enemy,noun,b1
+1758,faddiness,faddiness,noun,c2
+1759,faddy,faddy,adjective,c2
+1760,favour_2,favour,verb,b2
+1761,favoured,favoured,adjective,c2
+1762,find_1,find,verb,c1
+1763,find-against,find against,phrasal verb,c2
+1764,find-for,find for,phrasal verb,c2
+1765,finding,finding,noun,c2
+1766,finicky,finicky,adjective,c2
+1767,force_2,force the issue,idiom,c2
+1768,liking,for your liking,idiom,c1
+1769,free-will,free will,noun,c2
+1770,frenemy,frenemy,noun,c2
+1771,give_1,give me something/somebody (any day/time),idiom,c2
+1772,go-before,go before,phrasal verb,c2
+1773,go-for,go for,phrasal verb,c2
+1774,go-off,go off,phrasal verb,c2
+1775,grow-on,grow on,phrasal verb,c2
+1776,grudge_1,grudge,noun,c2
+1777,hand-down,hand down,phrasal verb,c2
+1778,hate_1,hate,verb,a1
+1779,hate_2,hate,noun,b1
+1780,sight_1,"hate, be sick of, etc. the sight of somebody/something",idiom,c2
+1781,have-against,have against,phrasal verb,c2
+1782,time_1,have a lot of time for somebody/something,idiom,c2
+1783,soft,have a soft spot for somebody/something,idiom,c2
+1784,sweet_1,have a sweet tooth,idiom,c2
+1785,thing,have a thing about somebody/something,idiom,c2
+1786,think_2,have a think (about something),idiom,c1
+1787,time_1,have no time for somebody/something,idiom,c2
+1788,use_2,have no use for somebody,idiom,c2
+1789,head_1,head,noun,c1
+1790,heart_2,heart,verb,c2
+1791,hedge_2,hedge your bets,idiom,c2
+1792,hem_2,hem and haw,idiom,c2
+1793,hobson-s-choice,Hobson’s choice,noun,c2
+1794,hum_1,hum and haw,idiom,c2
+1795,hustle_1,hustle,verb,c2
+1796,soon,"I, etc. would sooner do something (than something else)",idiom,c2
+1797,incisive,incisive,adjective,c2
+1798,inclined,inclined,adjective,c1
+1799,inconclusive,inconclusive,adjective,c1
+1800,indecisive,indecisive,adjective,c1
+1801,inflexible,inflexible,adjective,c1
+1802,favour_1,in somebody’s favour,idiom,c2
+1803,broad_1,it’s as broad as it’s long,idiom,c2
+1804,six,it’s six of one and half a dozen of the other,idiom,c2
+1805,easy_1,I’m easy,idiom,c2
+1806,joint-resolution,joint resolution,noun,c2
+1807,judge_1,judge,noun,b1
+1808,judgement,judgement,noun,b2
+1809,judgement-call,judgement call,noun,c2
+1810,judicial-review,judicial review,noun,c2
+1811,jurisdiction,jurisdiction,noun,c1
+1812,jurisdictional,jurisdictional,adjective,c2
+1813,keen_1,keen,adjective,b1
+1814,option_1,keep/leave your options open,idiom,c2
+1815,leaning,leaning,noun,c2
+1816,lean-to_1,lean to,phrasal verb,c2
+1817,lean-toward,lean toward,phrasal verb,c2
+1818,lean-towards,lean towards,phrasal verb,c2
+1819,like_3,like,verb,a1
+1820,like_4,like,noun,b1
+1821,list-box,list box,noun,c2
+1822,love_2,love,verb,a1
+1823,mad_1,mad,adjective,b1
+1824,majority-verdict,majority verdict,noun,c2
+1825,allowance,make allowance(s) for something,idiom,c2
+1826,miscarriage-of-justice,miscarriage of justice,noun,c2
+1827,misogynist,misogynist,noun,c2
+1828,misogynistic,misogynistic,adjective,c2
+1829,nail-down,nail down,phrasal verb,c2
+1830,narrow-down,narrow down,phrasal verb,c2
+1831,negotiable,negotiable,adjective,c2
+1832,no-brainer,no-brainer,noun,c2
+1833,inch_1,not budge/give/move an inch,idiom,c2
+1834,horn_1,on the horns of a dilemma,idiom,c2
+1835,open-verdict,open verdict,noun,c2
+1836,option_1,option,noun,a2
+1837,overfond,overfond,adjective,c2
+1838,override,override,verb,c2
+1839,overrule,overrule,verb,c2
+1840,overturn,overturn,verb,c1
+1841,partial,partial,adjective,c2
+1842,partiality,partiality,noun,c2
+1843,passion,passion,noun,b1
+1844,penchant,penchant,noun,c2
+1845,phile,-phile,combining form,c2
+1846,phobe,-phobe,combining form,c2
+1847,pick_1,pick,verb,a2
+1848,pick_1,pick and choose,idiom,c2
+1849,pick_1,pick a winner,idiom,c2
+1850,picky,picky,adjective,c2
+1851,please_2,please,verb,c1
+1852,potty_1,potty,adjective,c2
+1853,prefer,prefer,verb,a1
+1854,preferable,preferable,adjective,c1
+1855,preferably,preferably,adverb,c1
+1856,preference,preference,noun,b2
+1857,prejudice_1,prejudice,noun,c1
+1858,prejudiced,prejudiced,adjective,c2
+1859,put-off,put off,phrasal verb,c1
+1860,quorate,quorate,adjective,c2
+1861,quorum,quorum,noun,c2
+1862,railroad_2,railroad,verb,c2
+1863,reconsider,reconsider,verb,c1
+1864,reconsideration,reconsideration,noun,c2
+1865,remit-to,remit to,phrasal verb,c2
+1866,repugnance,repugnance,noun,c2
+1867,repulsion,repulsion,noun,c2
+1868,resistance,resistance,noun,c1
+1869,resolution,resolution,noun,b2
+1870,resolve_1,resolve,verb,c2
+1871,retreat_1,retreat,noun,c2
+1872,return_1,return,verb,c2
+1873,reverse_1,reverse,verb,c1
+1874,rowback,rowback,noun,c2
+1875,rubber-stamp_2,rubber-stamp,verb,c2
+1876,rubber-stamp_1,rubber stamp,noun,c2
+1877,rule_2,rule,verb,c1
+1878,ruling_1,ruling,noun,c1
+1879,say_2,say,noun,c1
+1880,settle-on,settle on,phrasal verb,c2
+1881,sleep-on,sleep on,phrasal verb,c2
+1882,hate_2,somebody’s pet hate,idiom,c2
+1883,pet_3,somebody’s pet hate,idiom,c2
+1884,peeve,somebody’s pet peeve,idiom,c2
+1885,the-rubicon,the Rubicon,noun,c2
+1886,straight_2,straight,adjective,c2
+1887,tail_1,tail,noun,c1
+1888,account_1,take account of something,idiom,b2
+1889,chance_1,take a chance (on something),idiom,c1
+1890,fancy_3,take a fancy to somebody/something,idiom,c2
+1891,take-against,take against,phrasal verb,c2
+1892,shine_2,take a shine to somebody/something,idiom,c2
+1893,consideration,take something into consideration,idiom,c1
+1894,advisement,take something under advisement,idiom,c2
+1895,take-to,take to,phrasal verb,c2
+1896,taste_1,taste,noun,b2
+1897,that_2,that’s that,idiom,c2
+1898,lesser_1,the lesser of two evils,idiom,c2
+1899,think-over,think over,phrasal verb,c1
+1900,think_1,think twice about something/about doing something,idiom,c1
+1901,toss-up,toss-up,noun,c2
+1902,toughie,toughie,noun,c2
+1903,unanimous,unanimous,adjective,c2
+1904,undecided,undecided,adjective,c1
+1905,uphold,uphold,verb,c1
+1906,verdict,verdict,noun,c1
+1907,versus,versus,preposition,c1
+1908,veto_1,veto,noun,c2
+1909,volition,volition,noun,c2
+1910,vote_1,vote,noun,b1
+1911,vote_2,vote,verb,b2
+1912,warm-to,warm to,phrasal verb,c2
+1913,warm-towards,warm towards,phrasal verb,c2
+1914,waver,waver,verb,c2
+1915,waverer,waverer,noun,c2
+1916,weigh,weigh,verb,c2
+1917,push_2,when push comes to shove,idiom,c2
+1918,whether,whether,conjunction,b1
+1919,would,would,modal verb,a1
+1920,rather_1,would rather… (than),idiom,b2
+1921,counsel_1,a counsel of despair,idiom,c2
+1922,counsel_1,a counsel of perfection,idiom,c2
+1923,act-on,act on,phrasal verb,c1
+1924,act-upon,act upon,phrasal verb,c1
+1925,admonish,admonish,verb,c2
+1926,advance_2,advance,verb,c2
+1927,advice,advice,noun,a1
+1928,advice-column,advice column,noun,b1
+1929,advice-columnist,advice columnist,noun,c1
+1930,advise,advise,verb,b1
+1931,advisement,advisement,noun,c2
+1932,adviser,adviser,noun,b1
+1933,advisory_1,advisory,adjective,c2
+1934,aftercare,aftercare,noun,c2
+1935,after-sales-service,after-sales service,noun,c1
+1936,agony-aunt,agony aunt,noun,c2
+1937,agony-column,agony column,noun,c2
+1938,agony-uncle,agony uncle,noun,c2
+1939,alternatively,alternatively,adverb,b2
+1940,always,always,adverb,c1
+1941,assessor,assessor,noun,c2
+1942,suggestion,at/on somebody’s suggestion,idiom,c1
+1943,bespeak,bespeak,verb,c2
+1944,better_2,better,adverb,b1
+1945,bring-forward,bring forward,phrasal verb,c2
+1946,can1,can,modal verb,a2
+1947,careline,careline,noun,c2
+1948,caution_1,caution,noun,c1
+1949,cautionary,cautionary,adjective,c2
+1950,challenge_1,challenge,noun,b2
+1951,challenge_2,challenge,verb,b2
+1952,commend,commend,verb,c2
+1953,connotation,connotation,noun,c1
+1954,connote,connote,verb,c2
+1955,consult,consult,verb,b2
+1956,consultancy,consultancy,noun,c1
+1957,consultant,consultant,noun,b2
+1958,could,could,modal verb,b1
+1959,counsel_1,counsel,noun,c2
+1960,counsel_2,counsel,verb,c2
+1961,counselling,counselling,noun,c1
+1962,counsellor,counsellor,noun,c1
+1963,blame_1,don’t blame me,idiom,c2
+1964,enjoin,enjoin,verb,c2
+1965,failing_3,failing,preposition,c2
+1966,feedback,feedback,noun,b2
+1967,float_1,float,verb,c2
+1968,follow,follow,verb,a2
+1969,worth_1,for what it’s worth,idiom,c2
+1970,guidance,guidance,noun,c1
+1971,guide_1,guide,noun,b2
+1972,guiding,guiding,adjective,c1
+1973,hand-out,hand out,phrasal verb,c1
+1974,have-to,have to,modal verb,a2
+1975,hazard_2,hazard,verb,c2
+1976,heads-up,heads-up,noun,c2
+1977,heed_1,heed,verb,c2
+1978,help_2,help,noun,a2
+1979,helpline,helpline,noun,b2
+1980,hint_1,hint,noun,c1
+1981,hint_2,hint,verb,c1
+1982,homily,homily,noun,c2
+1983,how,how about…?,idiom,a1
+1984,how-to_1,how-to,adjective,c1
+1985,how-to_2,how-to,noun,c1
+1986,about_1,how/what about…?,idiom,a1
+1987,hypothesize,hypothesize,verb,c2
+1988,idea,idea,noun,a1
+1989,doubt_1,if in doubt,idiom,c2
+1990,place_1,if I was/were in your place,idiom,c1
+1991,shoe_1,if I were in your shoes,idiom,c2
+1992,if_1,if I were you,idiom,b1
+1993,tell,I/I’ll tell you what,idiom,c2
+1994,know_1,I know,idiom,b1
+1995,implicit,implicit,adjective,c1
+1996,implicitly,implicitly,adverb,c1
+1997,inadvisable,inadvisable,adjective,c2
+1998,indicate,indicate,verb,c2
+1999,indicative_1,indicative,adjective,c2
+2000,infer,infer,verb,c2
+2001,insinuate,insinuate,verb,c2
+2002,harm_1,it wouldn’t do somebody any harm (to do something),idiom,c2
+2003,let_1,let,verb,a1
+2004,marriage-counselling,marriage counselling,noun,c2
+2005,marriage-guidance,marriage guidance,noun,c2
+2006,maybe_1,maybe,adverb,a1
+2007,mentee,mentee,noun,c2
+2008,mentor,mentor,noun,c1
+2009,mentoring,mentoring,noun,c1
+2010,mentorship,mentorship,noun,c2
+2011,might_1,might,modal verb,b2
+2012,moot_2,moot,verb,c2
+2013,move_1,move,verb,c2
+2014,must_1,must,modal verb,b1
+2015,nominate,nominate,verb,c1
+2016,nomination,nomination,noun,c1
+2017,nominee,nominee,noun,c1
+2018,now_1,now then,idiom,c1
+2019,talk_1,now you’re talking,idiom,c2
+2020,opinion,opinion,noun,b1
+2021,oracle_1,oracle,noun,c2
+2022,ought-to,ought to,modal verb,b1
+2023,perhaps,perhaps,adverb,a2
+2024,pointer,pointer,noun,c2
+2025,point-to,point to,phrasal verb,c2
+2026,posit,posit,verb,c2
+2027,postulate_1,postulate,verb,c2
+2028,preach,preach,verb,c1
+2029,preachy,preachy,adjective,c2
+2030,prefigure,prefigure,verb,c2
+2031,proffer,proffer,verb,c2
+2032,prompt_1,prompt,verb,c1
+2033,proposal,proposal,noun,b2
+2034,propose,propose,verb,b2
+2035,proposer,proposer,noun,c2
+2036,proposition_1,proposition,noun,c1
+2037,propound,propound,verb,c2
+2038,put-forward,put forward,phrasal verb,c1
+2039,put,put it to somebody that…,idiom,c2
+2040,oar,put/stick your oar in,idiom,c2
+2041,put-to,put to,phrasal verb,c1
+2042,rather_2,rather,exclamation,c2
+2043,receptive,receptive,adjective,c1
+2044,receptiveness,receptiveness,noun,c2
+2045,receptivity,receptivity,noun,c2
+2046,recommend,recommend,verb,a2
+2047,recommendation,recommendation,noun,b1
+2048,road-map,road map,noun,c2
+2049,rule_1,rule,noun,b1
+2050,saw_1,saw,noun,c2
+2051,say_1,say,verb,b2
+2052,say_3,say,exclamation,c2
+2053,sermon,sermon,noun,c2
+2054,sermonize,sermonize,verb,c2
+2055,shall,shall,modal verb,a2
+2056,should,should,modal verb,a2
+2057,slate_2,slate,verb,c2
+2058,steer_2,steer,noun,c2
+2059,submit,submit,verb,c2
+2060,suggest,suggest,verb,a2
+2061,sure_1,sure thing,idiom,c1
+2062,tacit,tacit,adjective,c2
+2063,tacitly,tacitly,adverb,c2
+2064,board_1,take something on board,idiom,c2
+2065,blind_1,the blind leading the blind,idiom,c2
+2066,theorize,theorize,verb,c2
+2067,theorizing,theorizing,noun,c2
+2068,tip_1,tip,noun,a2
+2069,turn-to,turn to,phrasal verb,c1
+2070,urge_1,urge,verb,b2
+2071,volunteer_2,volunteer,verb,c1
+2072,vote_2,vote,verb,c1
+2073,want_1,want,verb,c2
+2074,warn,warn,verb,b1
+2075,warn-off,warn off,phrasal verb,c2
+2076,what,what about…?,idiom,a1
+2077,wait_1,what are we waiting for?,idiom,c1
+2078,get,"what are you, was he, etc. getting at?",idiom,c2
+2079,say_1,whatever you say,idiom,c2
+2080,why_1,why not?,idiom,a2
+2081,worth_1,worth,adjective,b2
+2082,would,would,modal verb,b2
+2083,know_1,you never know,idiom,b2
+2084,say_1,you said it!,idiom,c2

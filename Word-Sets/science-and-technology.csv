@@ -1,0 +1,1652 @@
+subLink,word,type,level
+0,accommodation,accommodation,noun,c2
+1,acquired-characteristic,acquired characteristic,noun,c2
+2,allele,allele,noun,c2
+3,ameba,ameba,noun,c2
+4,amino-acid,amino acid,noun,c2
+5,amnion,amnion,noun,c2
+6,amoeba,amoeba,noun,c2
+7,anaerobic,anaerobic,adjective,c2
+8,anatomy,anatomy,noun,c2
+9,antibody,antibody,noun,c2
+10,antigen,antigen,noun,c2
+11,asexual,asexual,adjective,c2
+12,axon,axon,noun,c2
+13,bacteria,bacteria,noun,b2
+14,behaviour,behaviour,noun,a2
+15,being,being,noun,b2
+16,biochemist,biochemist,noun,b2
+17,biochemistry,biochemistry,noun,b2
+18,biological,biological,adjective,b2
+19,biologist,biologist,noun,b1
+20,biology,biology,noun,a2
+21,biomolecule,biomolecule,noun,c2
+22,biotype,biotype,noun,c2
+23,bisexual_1,bisexual,adjective,c2
+24,blueprint,blueprint,noun,c2
+25,botanist,botanist,noun,c2
+26,botany,botany,noun,c2
+27,capsid,capsid,noun,c2
+28,carb,carb,noun,b2
+29,carbohydrate,carbohydrate,noun,b2
+30,cell,cell,noun,b2
+31,centriole,centriole,noun,c2
+32,chemosynthesis,chemosynthesis,noun,c2
+33,chemosynthetic,chemosynthetic,adjective,c2
+34,chlorophyll,chlorophyll,noun,c2
+35,chloroplast,chloroplast,noun,c2
+36,cholesterol,cholesterol,noun,c1
+37,chromosomal,chromosomal,adjective,c2
+38,chromosome,chromosome,noun,c2
+39,circulate,circulate,verb,c1
+40,clone_1,clone,noun,c1
+41,clone_2,clone,verb,c1
+42,community,community,noun,c2
+43,connective-tissue,connective tissue,noun,c2
+44,cortisol,cortisol,noun,c2
+45,cosmopolitan_1,cosmopolitan,adjective,c2
+46,cycle_1,cycle,noun,b1
+47,cytoplasm,cytoplasm,noun,c2
+48,dendrite,dendrite,noun,c2
+49,dendritic,dendritic,adjective,c2
+50,deoxyribonucleic-acid,deoxyribonucleic acid,noun,c2
+51,digest_1,digest,verb,c1
+52,digestion,digestion,noun,c1
+53,digestive,digestive,adjective,c1
+54,disruptor,disruptor,noun,c2
+55,divide_1,divide,verb,b1
+56,division,division,noun,b2
+57,dna,DNA,noun,b2
+58,dominant,dominant,adjective,c2
+59,egg_1,egg,noun,b2
+60,embryo,embryo,noun,c1
+61,encode,encode,verb,c2
+62,engineer_2,engineer,verb,c1
+63,enzyme,enzyme,noun,c2
+64,eucaryote,eucaryote,noun,c2
+65,eucaryotic,eucaryotic,adjective,c2
+66,eukaryote,eukaryote,noun,c2
+67,eukaryotic,eukaryotic,adjective,c2
+68,evolution,evolution,noun,b2
+69,evolutionary,evolutionary,adjective,c1
+70,evolve,evolve,verb,b2
+71,excrement,excrement,noun,c2
+72,excrete,excrete,verb,c2
+73,faeces,faeces,noun,c2
+74,feces,feces,noun,c2
+75,female_1,female,adjective,a2
+76,female_2,female,noun,a2
+77,fertile,fertile,adjective,c1
+78,fertilize,fertilize,verb,c1
+79,fetus,fetus,noun,c2
+80,filament,filament,noun,c2
+81,fission,fission,noun,c2
+82,foetus,foetus,noun,c2
+83,fossil,fossil,noun,b2
+84,frankenfood,Frankenfood,noun,c2
+85,fungus,fungus,noun,c1
+86,gamete,gamete,noun,c2
+87,gas-exchange,gas exchange,noun,c2
+88,gene_1,gene,noun,b2
+89,gene-editing,gene editing,noun,c2
+90,gene-pool,gene pool,noun,c2
+91,gene-therapy,gene therapy,noun,c2
+92,genetic,genetic,adjective,b2
+93,genetically,genetically,adverb,b2
+94,genetically-modified,genetically modified,adjective,b2
+95,genetic-code,genetic code,noun,c1
+96,genetic-engineering,genetic engineering,noun,b2
+97,genetics,genetics,noun,b2
+98,genome,genome,noun,c1
+99,genotype,genotype,noun,c2
+100,germ,germ,noun,b2
+101,gm_2,GM,abbreviation,b2
+102,gmo,GMO,noun,c2
+103,heterozygote,heterozygote,noun,c2
+104,histamine,histamine,noun,c2
+105,homologous,homologous,adjective,c2
+106,homozygote,homozygote,noun,c2
+107,hormone,hormone,noun,c1
+108,hybrid_2,hybrid,noun,c1
+109,hydrocortisone,hydrocortisone,noun,c2
+110,incubate,incubate,verb,c2
+111,incubation,incubation,noun,c2
+112,inheritable,inheritable,adjective,c2
+113,inhibitor,inhibitor,noun,c2
+114,instinct,instinct,noun,c1
+115,insulin,insulin,noun,c2
+116,interferon,interferon,noun,c2
+117,in-vitro_1,in vitro,adjective,c2
+118,in-vitro_2,in vitro,adverb,c2
+119,in-vivo_1,in vivo,adjective,c2
+120,in-vivo_2,in vivo,adverb,c2
+121,killer-cell,killer cell,noun,c2
+122,lactate,lactate,verb,c2
+123,life-cycle,life cycle,noun,b2
+124,lipid,lipid,noun,c2
+125,lymph,lymph,noun,c2
+126,lymph-node,lymph node,noun,c2
+127,male_1,male,adjective,a2
+128,male_2,male,noun,a2
+129,maltose,maltose,noun,c2
+130,medium_2,medium,noun,c2
+131,meiosis,meiosis,noun,c2
+132,membrane,membrane,noun,c2
+133,metabolism,metabolism,noun,c1
+134,microbe,microbe,noun,c2
+135,mitochondrial,mitochondrial,adjective,c2
+136,mitochondrion,mitochondrion,noun,c2
+137,mitosis,mitosis,noun,c2
+138,mutant_1,mutant,adjective,c2
+139,mutant_2,mutant,noun,c2
+140,mutate,mutate,verb,c2
+141,mutation,mutation,noun,c1
+142,nerve_1,nerve,noun,b2
+143,neurology,neurology,noun,c2
+144,neuron,neuron,noun,c2
+145,neurotransmitter,neurotransmitter,noun,c2
+146,nucleotide,nucleotide,noun,c2
+147,nucleus,nucleus,noun,c1
+148,nutrient,nutrient,noun,b2
+149,oestrogen,oestrogen,noun,c2
+150,organic,organic,adjective,c1
+151,organism,organism,noun,b2
+152,oviparous,oviparous,adjective,c2
+153,ovoviviparous,ovoviviparous,adjective,c2
+154,ovulate,ovulate,verb,c2
+155,ovum,ovum,noun,c2
+156,parasite,parasite,noun,c1
+157,pathology,pathology,noun,c2
+158,pepsin,pepsin,noun,c2
+159,pharming,pharming,noun,c2
+160,phenotype,phenotype,adjective,c2
+161,photosynthesis,photosynthesis,noun,c1
+162,physiology,physiology,noun,c1
+163,pigmentation,pigmentation,noun,c2
+164,procaryote,procaryote,noun,c2
+165,procaryotic,procaryotic,adjective,c2
+166,progesterone,progesterone,noun,c2
+167,prokaryote,prokaryote,noun,c2
+168,prokaryotic,prokaryotic,adjective,c2
+169,propagate,propagate,verb,c2
+170,propagation,propagation,noun,c2
+171,protein,protein,noun,b2
+172,protoplasm,protoplasm,noun,c2
+173,receptor,receptor,noun,c2
+174,recessive,recessive,adjective,c2
+175,regurgitate,regurgitate,verb,c2
+176,replicator,replicator,noun,c2
+177,reproduce,reproduce,verb,c1
+178,reproduction,reproduction,noun,c1
+179,reproductive,reproductive,adjective,c1
+180,respiration,respiration,noun,c2
+181,respiratory,respiratory,adjective,c2
+182,rna,RNA,noun,c2
+183,secrete,secrete,verb,c2
+184,semen,semen,noun,c2
+185,sequence_2,sequence,verb,c2
+186,sex-chromosome,sex chromosome,noun,c2
+187,species,species,noun,b2
+188,specimen,specimen,noun,c1
+189,sperm,sperm,noun,c2
+190,starch_1,starch,noun,c2
+191,stem-cell,stem cell,noun,c2
+192,stimulus,stimulus,noun,c1
+193,subspecies,subspecies,noun,c1
+194,symbiosis,symbiosis,noun,c2
+195,synthesis,synthesis,noun,c1
+196,synthesize,synthesize,verb,c2
+197,testosterone,testosterone,noun,c2
+198,survival_1,the survival of the fittest,idiom,c2
+199,tissue,tissue,noun,c1
+200,transgenic_1,transgenic,adjective,c2
+201,transgenic_2,transgenic,noun,c2
+202,urinate,urinate,verb,c2
+203,vector,vector,noun,c2
+204,vesicle,vesicle,noun,c2
+205,virus,virus,noun,a2
+206,viviparous,viviparous,adjective,c2
+207,wall_1,wall,noun,c2
+208,x-chromosome,X chromosome,noun,c2
+209,y-chromosome,Y chromosome,noun,c2
+210,zoologist,zoologist,noun,c1
+211,zoology,zoology,noun,c1
+212,accelerator-board,accelerator board,noun,c2
+213,access_2,access,verb,b1
+214,add-in_2,add-in,noun,c2
+215,ai,AI,abbreviation,c2
+216,algol,Algol,noun,c2
+217,alt-key,Alt key,noun,c2
+218,analogue_1,analogue,adjective,c1
+219,animation,animation,noun,b2
+220,antivirus,antivirus,adjective,c1
+221,app,app,noun,a2
+222,applet,applet,noun,c2
+223,application,application,noun,c1
+224,ar_2,AR,noun,c2
+225,architect_1,architect,noun,c2
+226,architect_2,architect,verb,c2
+227,architecture,architecture,noun,c1
+228,archive_1,archive,noun,c2
+229,archive_2,archive,verb,c2
+230,array_1,array,noun,c2
+231,artificial-intelligence,artificial intelligence,noun,b2
+232,authenticate,authenticate,verb,c2
+233,authoring,authoring,noun,c2
+234,autocorrect_1,autocorrect,noun,c2
+235,autocorrect_2,autocorrect,verb,c2
+236,back-end_1,back end,noun,c2
+237,back-end_2,back-end,adjective,c2
+238,backslash,backslash,noun,c2
+239,backspace_1,backspace,noun,c2
+240,backspace_2,backspace,verb,c2
+241,back-up,back up,phrasal verb,c1
+242,backup,backup,noun,c1
+243,basic_2,BASIC,noun,c2
+244,batch_1,batch,noun,c2
+245,beta-version,beta version,noun,c2
+246,binary_2,binary,adjective,c2
+247,bios,BIOS,abbreviation,c2
+248,bit_1,bit,noun,c2
+249,blackberrytm,BlackBerry™,noun,c1
+250,bluetoothtm,Bluetooth™,noun,c1
+251,blu-ray,Blu-ray,noun,c1
+252,boolean-operator,Boolean operator,noun,c2
+253,boot_2,boot,verb,c2
+254,bootstrap_1,bootstrap,noun,c2
+255,bootstrap_2,bootstrap,verb,c2
+256,bot,bot,noun,c1
+257,botnet,botnet,noun,c2
+258,bug_1,bug,noun,b2
+259,buggy_2,buggy,adjective,c2
+260,bundle_1,bundle,noun,c2
+261,bundle_2,bundle,verb,c2
+262,burn_1,burn,verb,c2
+263,bus_1,bus,noun,c2
+264,button_1,button,noun,a2
+265,byte,byte,noun,c1
+266,cache_1,cache,noun,c2
+267,cache_2,cache,verb,c2
+268,card_1,card,noun,c2
+269,cd-burner,CD burner,noun,c2
+270,cd-rom,CD-ROM,noun,b2
+271,cd-writer,CD writer,noun,c2
+272,central-processing-unit,central processing unit,noun,c2
+273,channel_1,channel,noun,c1
+274,chatbot,chatbot,noun,c2
+275,chip_1,chip,noun,b1
+276,click_1,click,verb,b1
+277,click_2,click,noun,b1
+278,client,client,noun,c2
+279,clip-art,clip art,noun,c2
+280,clipboard,clipboard,noun,c2
+281,clock-speed,clock speed,noun,c2
+282,clone_1,clone,noun,c2
+283,cobol,COBOL,noun,c2
+284,code_1,code,noun,b2
+285,code_2,code,verb,b2
+286,codec,codec,noun,c2
+287,command_1,command,noun,b2
+288,command-language,command language,noun,c2
+289,compatibility,compatibility,noun,c2
+290,compatible,compatible,adjective,c1
+291,computer,computer,noun,a1
+292,computer-aided,computer-aided,adjective,c1
+293,computer-generated,computer-generated,adjective,c1
+294,computerize,computerize,verb,c1
+295,computer-literate,computer-literate,adjective,c1
+296,computing,computing,noun,b1
+297,configuration,configuration,noun,c2
+298,configure,configure,verb,c2
+299,connect,connect,verb,a2
+300,console2,console,noun,c2
+301,control_1,control,noun,c1
+302,corrupt_2,corrupt,verb,c2
+303,corruption,corruption,noun,c2
+304,courseware,courseware,noun,c2
+305,cpu,CPU,abbreviation,c2
+306,cracker,cracker,noun,c2
+307,crash_1,crash,noun,b2
+308,crash_2,crash,verb,b2
+309,cursor,cursor,noun,c1
+310,cut_1,cut,verb,b2
+311,cybercrime,cybercrime,noun,c1
+312,cyberspace,cyberspace,noun,c1
+313,data,data,noun,a2
+314,databank,databank,noun,c1
+315,database,database,noun,b2
+316,data-centre,data centre,noun,c2
+317,data-processing,data processing,noun,c1
+318,data-set,data set,noun,c1
+319,data-terminal,data terminal,noun,c2
+320,data-warehouse,data warehouse,noun,c2
+321,data-warehousing,data warehousing,noun,c2
+322,debug_1,debug,noun,c2
+323,debug_2,debug,verb,c2
+324,debugger,debugger,noun,c2
+325,deck_1,deck,noun,c2
+326,default_1,default,noun,c1
+327,delete_1,delete,verb,b2
+328,deletion,deletion,noun,c1
+329,demo_1,demo,noun,c2
+330,demo_3,demo,verb,c2
+331,deprecate,deprecate,verb,c2
+332,deselect,deselect,verb,c2
+333,desktop,desktop,noun,c1
+334,desktop-publishing,desktop publishing,noun,c2
+335,diagnostic_2,diagnostic,noun,c2
+336,dialog-box,dialog box,noun,c2
+337,digital_1,digital,adjective,a2
+338,directory,directory,noun,c2
+339,disassemble,disassemble,verb,c2
+340,disassembler,disassembler,noun,c2
+341,disinfect,disinfect,verb,c2
+342,disk,disk,noun,b2
+343,disk-drive,disk drive,noun,c2
+344,diskette,diskette,noun,c2
+345,display_2,display,noun,c1
+346,docking-station,docking station,noun,c2
+347,document_1,document,noun,a2
+348,dongle,dongle,noun,c2
+349,double-click,double-click,verb,b2
+350,down_4,down,adjective,c1
+351,download_1,download,verb,a2
+352,download_2,download,noun,a2
+353,drag_1,drag,verb,c2
+354,drag-and-drop,drag-and-drop,adjective,c2
+355,drive_2,drive,noun,c2
+356,drive-bay,drive bay,noun,c2
+357,driver,driver,noun,c2
+358,drop-down-menu,drop-down menu,noun,c1
+359,duplex_1,duplex,adjective,c2
+360,dvd,DVD,noun,a1
+361,e-book,e-book,noun,b2
+362,edit_2,edit,verb,b2
+363,edutainment,edutainment,noun,c2
+364,encode,encode,verb,c1
+365,encrypt,encrypt,verb,c2
+366,end-user,end user,noun,c2
+367,environment,environment,noun,c2
+368,e-reader,e-reader,noun,b2
+369,error-correction,error correction,noun,b2
+370,error-message,error message,noun,b1
+371,escape_2,escape,noun,c2
+372,executable,executable,adjective,c2
+373,exit_2,exit,verb,c1
+374,export_2,export,verb,b2
+375,extension,extension,noun,c2
+376,file_1,file,noun,b1
+377,filename,filename,noun,b2
+378,file-sharing,file sharing,noun,c1
+379,filter_1,filter,noun,c2
+380,firewall,firewall,noun,c1
+381,firmware,firmware,noun,c2
+382,flash-drive,flash drive,noun,c1
+383,flash-memory,flash memory,noun,c2
+384,flatbed-scanner,flatbed scanner,noun,c2
+385,flat-panel,flat-panel,adjective,c2
+386,flat-screen,flat-screen,adjective,b1
+387,flic,flic,noun,c2
+388,floppy-disk,floppy disk,noun,c2
+389,folder,folder,noun,b2
+390,format_2,format,verb,c1
+391,fortran,Fortran,noun,c2
+392,forward-slash,forward slash,noun,c2
+393,freeware,freeware,noun,c2
+394,freeze_1,freeze,verb,c2
+395,front-end_1,front end,noun,c2
+396,function_1,function,noun,c2
+397,functionality,functionality,noun,c2
+398,function-key,function key,noun,c2
+399,generate,generate,verb,c2
+400,gibibit,gibibit,noun,c2
+401,gibibyte,gibibyte,noun,c2
+402,gif,GIF,noun,c2
+403,gigabit,gigabit,noun,c2
+404,gigabyte,gigabyte,noun,c1
+405,graphics,graphics,noun,b2
+406,graphics-adapter,graphics adapter,noun,c2
+407,graphics-card,graphics card,noun,c2
+408,graphics-tablet,graphics tablet,noun,c2
+409,groupware,groupware,noun,c2
+410,gui,GUI,noun,c2
+411,hack_1,hack,verb,b2
+412,hack_2,hack,noun,c2
+413,hackathon,hackathon,noun,c2
+414,hacker,hacker,noun,c1
+415,handheld_2,handheld,adjective,b2
+416,hard-copy,hard copy,noun,c2
+417,hard-disk,hard disk,noun,c1
+418,hard-error,hard error,noun,c2
+419,hardware,hardware,noun,c1
+420,help-desk,help desk,noun,c1
+421,icon,icon,noun,b2
+422,import_2,import,verb,b2
+423,infect,infect,verb,c1
+424,information-technology,information technology,noun,b1
+425,initialization,initialization,noun,c2
+426,initialize,initialize,verb,c2
+427,input_1,input,noun,b2
+428,input_2,input,verb,b2
+429,install,install,verb,b2
+430,instruction_1,instruction,noun,b2
+431,interactive,interactive,adjective,c1
+432,interface_1,interface,noun,c1
+433,interoperability,interoperability,noun,c2
+434,interpreter,interpreter,noun,c2
+435,intranet,intranet,noun,c1
+436,invalid_1,invalid,adjective,c2
+437,ipodtm,iPod™,noun,b1
+438,isa2,ISA,abbreviation,c2
+439,it_2,IT,noun,b1
+440,iteration,iteration,noun,c2
+441,joystick,joystick,noun,c2
+442,k_2,K,abbreviation,c2
+443,key_1,key,noun,b1
+444,key_3,key,verb,b1
+445,keyboard_1,keyboard,noun,b1
+446,keylogger,keylogger,noun,c2
+447,keystroke,keystroke,noun,c2
+448,keyword,keyword,noun,b2
+449,kibibit,kibibit,noun,c2
+450,kibibyte,kibibyte,noun,c2
+451,killer-app,killer app,noun,c2
+452,kilobit,kilobit,noun,c2
+453,kilobyte,kilobyte,noun,c2
+454,laggy,laggy,adjective,c2
+455,lan,LAN,noun,c2
+456,landscape_1,landscape,noun,c2
+457,language,language,noun,a1
+458,laptop,laptop,noun,a2
+459,list-box,list box,noun,c2
+460,load_2,load,verb,c1
+461,local-area-network,local area network,noun,c2
+462,local-bus,local bus,noun,c2
+463,location,location,noun,c2
+464,logic_1,logic,noun,c2
+465,logic-circuit,logic circuit,noun,c2
+466,log-in,log in,phrasal verb,b1
+467,login,login,noun,b1
+468,log-off,log off,phrasal verb,b2
+469,log-on,log on,phrasal verb,b1
+470,logon,logon,noun,b2
+471,log-out,log out,phrasal verb,b2
+472,machine-code,machine code,noun,c2
+473,machine-learning,machine learning,noun,c1
+474,macro_1,macro,noun,c2
+475,mainframe,mainframe,noun,c2
+476,malicious,malicious,adjective,c2
+477,malware,malware,noun,c2
+478,markup,markup,noun,c2
+479,mebibit,mebibit,noun,c2
+480,mebibyte,mebibyte,noun,c2
+481,medium_2,medium,noun,c2
+482,megabit,megabit,noun,c2
+483,megabyte,megabyte,noun,c1
+484,megaflop,megaflop,noun,c2
+485,megahertz,megahertz,noun,c2
+486,megapixel,megapixel,noun,c2
+487,memory,memory,noun,a2
+488,memory-bank,memory bank,noun,c2
+489,memory-card,memory card,noun,c1
+490,memory-sticktm,Memory Stick™,noun,b2
+491,menu,menu,noun,a1
+492,menu-bar,menu bar,noun,c1
+493,microchip_1,microchip,noun,c1
+494,microprocessor,microprocessor,noun,c1
+495,middleware,middleware,noun,c2
+496,mobile-device,mobile device,noun,a2
+497,mod_1,mod,noun,c2
+498,mod_2,mod,verb,c2
+499,modding,modding,noun,c2
+500,modem,modem,noun,c2
+501,module,module,noun,c2
+502,monitor_1,monitor,noun,b2
+503,motherboard,motherboard,noun,c2
+504,mouse_1,mouse,noun,a1
+505,mouse-mat,mouse mat,noun,b2
+506,mouse-potato,mouse potato,noun,c2
+507,mp3-player,MP3 player,noun,a2
+508,multimedia_2,multimedia,adjective,c1
+509,multiprocessor,multiprocessor,noun,c2
+510,multitasking,multitasking,noun,c2
+511,netbook,netbook,noun,c2
+512,network_1,network,noun,a2
+513,network_2,network,verb,b2
+514,noise,noise,noun,c2
+515,notebook,notebook,noun,c2
+516,on-board,on-board,adjective,c2
+517,onboard,onboard,verb,c2
+518,open_2,open,verb,a1
+519,open-source,open-source,adjective,c2
+520,operating-system,operating system,noun,c1
+521,operation,operation,noun,b2
+522,option_1,option,noun,a2
+523,output_1,output,noun,b2
+524,output_2,output,verb,b2
+525,overflow_2,overflow,noun,c2
+526,overload_1,overload,verb,c1
+527,overload_2,overload,noun,c1
+528,palmtop,palmtop,noun,c2
+529,parallel-port,parallel port,noun,c2
+530,pascal,pascal,noun,c2
+531,passcode,passcode,noun,c1
+532,password,password,noun,b2
+533,paste_2,paste,verb,c1
+534,patch_1,patch,noun,c2
+535,pc_1,PC,noun,c1
+536,pen-drive,pen drive,noun,c2
+537,peripheral_2,peripheral,noun,c2
+538,personal-computer,personal computer,noun,a2
+539,photoshop,photoshop,verb,c2
+540,pinch_1,pinch,verb,c1
+541,piracy,piracy,noun,c1
+542,pirate_2,pirate,verb,c1
+543,pixel,pixel,noun,c2
+544,pixelate,pixelate,verb,c2
+545,plasma-screen,plasma screen,noun,c2
+546,platform,platform,noun,c2
+547,plug-and-play_1,Plug and Play,noun,c2
+548,plug-and-play_2,plug-and-play,adjective,c2
+549,plug-in_3,plug-in,adjective,c2
+550,pointer,pointer,noun,c2
+551,pointing-device,pointing device,noun,c2
+552,pop-up_1,pop-up,noun,c1
+553,port_1,port,noun,c2
+554,portrait,portrait,noun,c2
+555,power-brick,power brick,noun,c2
+556,power-user,power user,noun,c2
+557,predictive,predictive,adjective,c2
+558,print_1,print,verb,a2
+559,printer,printer,noun,a2
+560,printout,printout,noun,b2
+561,process1_2,process,verb,b2
+562,processor,processor,noun,c1
+563,program_1,program,noun,a2
+564,program_2,program,verb,b1
+565,programmatically,programmatically,adverb,c2
+566,programmer,programmer,noun,b1
+567,programming,programming,noun,b2
+568,prompt_3,prompt,noun,c2
+569,proxy-server,proxy server,noun,c2
+570,push-alert,push alert,noun,c2
+571,query-language,query language,noun,c2
+572,quit,quit,verb,b1
+573,ram_3,RAM,noun,c1
+574,random-access-memory,random-access memory,noun,c2
+575,read-only,read-only,adjective,c1
+576,read-only-memory,read-only memory,noun,c2
+577,real-time,real time,noun,b2
+578,reboot_2,reboot,verb,c2
+579,refresh,refresh,verb,c1
+580,reload,reload,verb,c2
+581,reserved-word,reserved word,noun,c2
+582,resize,resize,verb,c2
+583,retrieval,retrieval,noun,c2
+584,retrieve,retrieve,verb,c1
+585,return_2,return,noun,c1
+586,right-click,right-click,verb,c1
+587,rip_1,rip,verb,c2
+588,rom,ROM,noun,c2
+589,router1,router,noun,c2
+590,run_1,run,verb,b2
+591,saas,SaaS,noun,c2
+592,safe-mode,safe mode,noun,c2
+593,save_1,save,verb,a2
+594,scan_1,scan,verb,b2
+595,scanner,scanner,noun,b2
+596,scareware,scareware,noun,c2
+597,screen_1,screen,noun,a2
+598,screen-saver,screen saver,noun,c2
+599,screenshot,screenshot,noun,c1
+600,script_1,script,noun,c2
+601,scroll_2,scroll,verb,c1
+602,scroll-bar,scroll bar,noun,c2
+603,search_1,search,noun,a2
+604,second-screen_1,second screen,noun,c1
+605,security-hole,security hole,noun,c2
+606,seek-time,seek time,noun,c2
+607,select_1,select,verb,b2
+608,serial-port,serial port,noun,c2
+609,server,server,noun,c1
+610,server-farm,server farm,noun,c2
+611,sgml,SGML,abbreviation,c2
+612,shareware,shareware,noun,c2
+613,shift_1,shift,noun,c2
+614,silicon-chip,silicon chip,noun,c1
+615,skin_1,skin,noun,c2
+616,slash_2,slash,noun,c1
+617,slider,slider,noun,c2
+618,slide-show,slide show,noun,c2
+619,smart-speaker,smart speaker,noun,c2
+620,soft-error,soft error,noun,c2
+621,software,software,noun,b1
+622,software-engineer,software engineer,noun,b2
+623,sound-card,sound card,noun,c2
+624,sound-effect,sound effect,noun,b2
+625,source-code,source code,noun,c2
+626,space-bar,space bar,noun,c2
+627,speech-recognition,speech recognition,noun,c2
+628,spellcheck_1,spellcheck,verb,c1
+629,spellcheck_2,spellcheck,noun,c1
+630,spellchecker,spellchecker,noun,c1
+631,split-screen_1,split screen,noun,c2
+632,split-screen_2,split-screen,adjective,c2
+633,spreadsheet,spreadsheet,noun,c1
+634,stack_1,stack,noun,c2
+635,status-bar,status bar,noun,c2
+636,storage,storage,noun,c1
+637,suite,suite,noun,c2
+638,swipe_1,swipe,verb,c1
+639,system,system,noun,b1
+640,systems-analysis,systems analysis,noun,c2
+641,systems-analyst,systems analyst,noun,c2
+642,system-unit,system unit,noun,c2
+643,tab_1,tab,noun,c1
+644,tablet,tablet,noun,a2
+645,terminal_1,terminal,noun,c1
+646,text-to-speech,text-to-speech,noun,c2
+647,thumb-drive,thumb drive,noun,c2
+648,time-out_1,time out,phrasal verb,c1
+649,timeout,timeout,noun,c2
+650,timestamp_1,timestamp,noun,c2
+651,timestamp_2,timestamp,verb,c2
+652,title-bar,title bar,noun,c2
+653,toggle_1,toggle,noun,c2
+654,toggle_2,toggle,verb,c2
+655,toolbar,toolbar,noun,c2
+656,touchpad,touchpad,noun,c2
+657,touchscreen,touchscreen,noun,b2
+658,trojan-horse,Trojan horse,noun,c2
+659,troubleshoot,troubleshoot,verb,c2
+660,tts,TTS,abbreviation,c2
+661,tutorial_1,tutorial,noun,c2
+662,type_2,type,verb,b1
+663,uncheck,uncheck,verb,b2
+664,undelete,undelete,verb,c2
+665,underscore_2,underscore,noun,c1
+666,unencrypted,unencrypted,adjective,c2
+667,uninstall,uninstall,verb,c1
+668,unit,unit,noun,b2
+669,unlock,unlock,verb,c2
+670,unreadable,unreadable,adjective,c2
+671,upgrade_1,upgrade,verb,c1
+672,upgrade_2,upgrade,noun,c1
+673,upload_1,upload,verb,a2
+674,upload_2,upload,noun,a2
+675,usb,USB,abbreviation,c1
+676,usb-drive,USB drive,noun,c1
+677,user,user,noun,a2
+678,user-id,user ID,noun,b2
+679,username,username,noun,b1
+680,utility_1,utility,noun,c2
+681,vapourware,vapourware,noun,c2
+682,vdu,VDU,noun,c2
+683,video_1,video,noun,a1
+684,video-card,video card,noun,c2
+685,virtual,virtual,adjective,b2
+686,virtual-machine,virtual machine,noun,c2
+687,virtual-reality,virtual reality,noun,b2
+688,virus,virus,noun,a2
+689,visual-display-unit,visual display unit,noun,c2
+690,voice-assistant,voice assistant,noun,c1
+691,voice-recognition,voice recognition,noun,c1
+692,vpn,VPN,noun,c2
+693,wallpaper_1,wallpaper,noun,c2
+694,wan_2,WAN,noun,c2
+695,webcam,webcam,noun,b2
+696,wi-fitm,Wi-Fi™,noun,b1
+697,window,window,noun,b1
+698,wireless_2,wireless,adjective,b1
+699,word-processing,word processing,noun,c1
+700,word-processor,word processor,noun,c1
+701,workstation,workstation,noun,c1
+702,worm_1,worm,noun,c2
+703,wysiwyg,WYSIWYG,abbreviation,c2
+704,xml,XML,noun,c2
+705,3d-printer,3D printer,noun,b2
+706,ac,AC,abbreviation,c2
+707,action_1,action,noun,c2
+708,activate,activate,verb,b2
+709,activation,activation,noun,c1
+710,actuate,actuate,verb,c2
+711,adapter,adapter,noun,c1
+712,alternator,alternator,noun,c2
+713,ammeter,ammeter,noun,c2
+714,amp_1,amp,noun,c2
+715,amperage,amperage,noun,c2
+716,amplifier,amplifier,noun,c1
+717,analogue_1,analogue,adjective,c1
+718,antenna,antenna,noun,c1
+719,appliance,appliance,noun,b2
+720,arm_1,arm,noun,c1
+721,ball-bearing,ball bearing,noun,c2
+722,bandwidth,bandwidth,noun,c2
+723,battery,battery,noun,b1
+724,bearing,bearing,noun,c2
+725,belt_1,belt,noun,c1
+726,belt-drive,belt drive,noun,c2
+727,bench-test_1,bench test,noun,c2
+728,bench-test_2,bench-test,verb,c2
+729,blade,blade,noun,c1
+730,blow_1,blow,verb,c2
+731,blueprint,blueprint,noun,c2
+732,bolt_1,bolt,noun,c2
+733,bolt_2,bolt,verb,c2
+734,bolt-on,bolt-on,adjective,c2
+735,break_1,break,verb,a1
+736,break-down,break down,phrasal verb,b1
+737,breakdown,breakdown,noun,c1
+738,button_1,button,noun,a2
+739,cable_1,cable,noun,b2
+740,cannibalize,cannibalize,verb,c2
+741,capacitor,capacitor,noun,c2
+742,capacity,capacity,noun,c1
+743,chemical-engineering,chemical engineering,noun,b2
+744,chronograph,chronograph,noun,c2
+745,circuit,circuit,noun,b2
+746,circuit-board,circuit board,noun,c2
+747,circuit-breaker,circuit breaker,noun,c2
+748,civil-engineering,civil engineering,noun,c1
+749,clock_1,clock,noun,a1
+750,coax_2,coax,adjective,c2
+751,coaxial,coaxial,adjective,c2
+752,cog,cog,noun,c2
+753,condenser,condenser,noun,c2
+754,conduct_1,conduct,verb,c1
+755,connect,connect,verb,a2
+756,console2,console,noun,c2
+757,contrivance,contrivance,noun,c2
+758,controller,controller,noun,b2
+759,crane_1,crane,noun,c1
+760,crank_1,crank,noun,c2
+761,crank_2,crank,verb,c2
+762,crank-up,crank up,phrasal verb,c2
+763,current_2,current,noun,b2
+764,cycle_1,cycle,noun,b2
+765,dc,DC,abbreviation,c2
+766,deactivate,deactivate,verb,c2
+767,depress,depress,verb,c2
+768,device,device,noun,a2
+769,dial_1,dial,noun,c1
+770,diode,diode,noun,c2
+771,disconnect_1,disconnect,verb,c1
+772,driveshaft,driveshaft,noun,c2
+773,dynamo,dynamo,noun,c2
+774,earth_1,earth,noun,c2
+775,earth_2,earth,verb,c2
+776,electric_1,electric,adjective,a2
+777,electrical,electrical,adjective,a2
+778,electrical-engineering,electrical engineering,noun,b2
+779,electricity,electricity,noun,a2
+780,electrode,electrode,noun,c1
+781,electronic,electronic,adjective,a2
+782,electronics,electronics,noun,b2
+783,engineer_1,engineer,noun,a2
+784,engineering,engineering,noun,b1
+785,extension-lead,extension lead,noun,c2
+786,filament,filament,noun,c2
+787,first-generation_1,first generation,noun,c1
+788,functionality,functionality,noun,c2
+789,fuse_1,fuse,noun,c2
+790,gadget,gadget,noun,b1
+791,gearing,gearing,noun,c2
+792,generation,generation,noun,c1
+793,generator,generator,noun,c1
+794,ground_1,ground,noun,c2
+795,ground_2,ground,verb,c2
+796,high-tech,high-tech,adjective,b1
+797,high-technology,high technology,noun,c1
+798,hi-tech,hi-tech,adjective,b1
+799,indicate,indicate,verb,b2
+800,instrument,instrument,noun,b2
+801,insulator,insulator,noun,c2
+802,jack_1,jack,noun,c2
+803,jam_1,jam,noun,c2
+804,jam_2,jam,verb,c2
+805,knob,knob,noun,c1
+806,lathe,lathe,noun,c2
+807,lever_1,lever,noun,c1
+808,live2_1,live,adjective,c1
+809,machine_1,machine,noun,a1
+810,machine_2,machine,verb,c2
+811,machine-made,machine-made,adjective,b2
+812,machinery,machinery,noun,c1
+813,machine-tool,machine tool,noun,c1
+814,magnify,magnify,verb,c1
+815,mechanical,mechanical,adjective,b2
+816,mechanical-engineering,mechanical engineering,noun,b2
+817,mechanism,mechanism,noun,b2
+818,meter_1,meter,noun,c1
+819,microchip_1,microchip,noun,c1
+820,microelectronic,microelectronic,adjective,c2
+821,microelectronics,microelectronics,noun,c2
+822,motor_1,motor,noun,b2
+823,next-generation,next-generation,adjective,c1
+824,nut_1,nut,noun,c2
+825,ohm,ohm,noun,c2
+826,ohmmeter,ohmmeter,noun,c2
+827,oscillator,oscillator,noun,c2
+828,oscilloscope,oscilloscope,noun,c2
+829,overhaul_1,overhaul,noun,c2
+830,overhaul_2,overhaul,verb,c2
+831,parallel-circuit,parallel circuit,noun,c2
+832,photocell,photocell,noun,c2
+833,photoelectric,photoelectric,adjective,c2
+834,photoelectric-cell,photoelectric cell,noun,c2
+835,press_2,press,verb,b1
+836,probe_1,probe,noun,c2
+837,prototype,prototype,noun,c1
+838,pump_1,pump,verb,c1
+839,pump_2,pump,noun,c1
+840,relay1_1,relay,noun,c2
+841,rewire,rewire,verb,c2
+842,rivet_1,rivet,noun,c2
+843,robot,robot,noun,b1
+844,robotics,robotics,noun,c1
+845,roller,roller,noun,c2
+846,rotor,rotor,noun,c2
+847,run_1,run,verb,b2
+848,running-repairs,running repairs,noun,c2
+849,safety-valve,safety valve,noun,c2
+850,screw_1,screw,verb,c1
+851,screw_2,screw,noun,c1
+852,semiconductor,semiconductor,noun,c2
+853,sensor,sensor,noun,b2
+854,service_1,service,noun,c1
+855,service_2,service,verb,c1
+856,servicing,servicing,noun,c1
+857,servo,servo,noun,c2
+858,shaft_1,shaft,noun,c2
+859,shock_1,shock,noun,b2
+860,short-circuit_1,short circuit,noun,c2
+861,shut-down,shut down,phrasal verb,b2
+862,shutdown,shutdown,noun,c2
+863,shut-off,shut off,phrasal verb,c2
+864,silicon-chip,silicon chip,noun,c1
+865,sleep-mode,sleep mode,noun,c2
+866,solar-cell,solar cell,noun,c1
+867,solenoid,solenoid,noun,c2
+868,spare-part,spare part,noun,c1
+869,sprocket,sprocket,noun,c2
+870,switch_2,switch,noun,b2
+871,switch-off,switch off,phrasal verb,b1
+872,switch-on,switch on,phrasal verb,b1
+873,technical,technical,adjective,b1
+874,technician,technician,noun,b2
+875,thermostat,thermostat,noun,c2
+876,timer,timer,noun,b2
+877,time-switch,time switch,noun,c1
+878,transducer,transducer,noun,c2
+879,transformer,transformer,noun,c2
+880,transistor,transistor,noun,c1
+881,transmitter,transmitter,noun,c1
+882,turbine,turbine,noun,b1
+883,turn-off_1,turn off,phrasal verb,a2
+884,turn-on_1,turn on,phrasal verb,a2
+885,volt,volt,noun,c2
+886,voltage,voltage,noun,c2
+887,voltmeter,voltmeter,noun,c2
+888,washer,washer,noun,c2
+889,watt,watt,noun,c2
+890,wattage,wattage,noun,c2
+891,wire_1,wire,noun,b2
+892,working_1,working,adjective,c2
+893,acre,acre,noun,c1
+894,acute-angle,acute angle,noun,c2
+895,add_1,add,verb,a1
+896,addition,addition,noun,b1
+897,add-up,add up,phrasal verb,b1
+898,add-up-to,add up to,phrasal verb,b2
+899,algebra,algebra,noun,c1
+900,amount-to,amount to,phrasal verb,b2
+901,amp_1,amp,noun,c2
+902,angle_1,angle,noun,b2
+903,arc_1,arc,noun,c2
+904,area,area,noun,b2
+905,arithmetic_1,arithmetic,noun,c1
+906,array_1,array,noun,c2
+907,asymmetric,asymmetric,adjective,c2
+908,asymmetrically,asymmetrically,adverb,c2
+909,asymmetry,asymmetry,noun,c2
+910,average_1,average,adjective,a2
+911,average_2,average,noun,a2
+912,axis,axis,noun,c1
+913,bar-chart,bar chart,noun,b2
+914,bar-graph,bar graph,noun,b2
+915,billion,billion,number,a2
+916,binary_2,binary,adjective,c2
+917,bracket_1,bracket,noun,c1
+918,breadth,breadth,noun,c2
+919,c_3,C,abbreviation,c1
+920,calculate,calculate,verb,b2
+921,calculation,calculation,noun,c1
+922,calculator,calculator,noun,b2
+923,calculus,calculus,noun,c2
+924,calorie,calorie,noun,b1
+925,carat,carat,noun,c2
+926,cardinal_1,cardinal,noun,c2
+927,catastrophe-theory,catastrophe theory,noun,c2
+928,celsius_1,Celsius,adjective,b2
+929,centigrade_2,centigrade,adjective,c1
+930,centilitre,centilitre,noun,c2
+931,centimetre,centimetre,noun,a2
+932,chaos-theory,chaos theory,noun,c2
+933,circumference,circumference,noun,c2
+934,cl,cl,abbreviation,c2
+935,coaxial,coaxial,adjective,c2
+936,common-denominator,common denominator,noun,c2
+937,common-fraction,common fraction,noun,c2
+938,congruence,congruence,noun,c2
+939,congruent,congruent,adjective,c2
+940,coordinate_2,coordinate,noun,c2
+941,cos2,cos,abbreviation,c2
+942,cosine,cosine,noun,c2
+943,count_1,count,verb,a2
+944,count_2,count,noun,b1
+945,cube_1,cube,noun,c2
+946,cube_2,cube,verb,c2
+947,cube-root,cube root,noun,c2
+948,cubic,cubic,adjective,c2
+949,cupful,cupful,noun,b2
+950,cwt,cwt,abbreviation,c2
+951,decimal_2,decimal,noun,c1
+952,deduce,deduce,verb,c1
+953,deduction,deduction,noun,b2
+954,degree,degree,noun,a2
+955,denominator,denominator,noun,c2
+956,depth,depth,noun,b2
+957,diameter,diameter,noun,c1
+958,differential-calculus,differential calculus,noun,c2
+959,digit,digit,noun,b2
+960,dimension,dimension,noun,c1
+961,divide_1,divide,verb,b1
+962,divisible,divisible,adjective,c2
+963,division,division,noun,b2
+964,divisor,divisor,noun,c2
+965,domain,domain,noun,c2
+966,double_3,double,pronoun,a2
+967,double_4,double,verb,a2
+968,equal_2,equal,linking verb,b1
+969,equals-sign,equals sign,noun,b2
+970,equation,equation,noun,c1
+971,express_1,express,verb,c1
+972,exterior-angle,exterior angle,noun,c2
+973,factor_1,factor,noun,c1
+974,factorial,factorial,noun,c2
+975,fahrenheit_2,Fahrenheit,noun,c1
+976,figure_1,figure,noun,a2
+977,fl-oz,fl oz,abbreviation,c2
+978,fluid-ounce,fluid ounce,noun,c2
+979,foot_1,foot,noun,a2
+980,footage,footage,noun,c2
+981,formula,formula,noun,c1
+982,fps_1,fps,abbreviation,c2
+983,fraction,fraction,noun,b2
+984,ft_1,ft,abbreviation,c2
+985,function_1,function,noun,c1
+986,g_1,g,abbreviation,a2
+987,gal_2,gal.,abbreviation,c2
+988,gallon,gallon,noun,c1
+989,game-theory,game theory,noun,c2
+990,geodesic,geodesic,adjective,c2
+991,geometric,geometric,adjective,c2
+992,geometry,geometry,noun,c2
+993,gradient,gradient,noun,c2
+994,gram,gram,noun,b2
+995,gramme,gramme,noun,b2
+996,graph,graph,noun,b1
+997,hectare,hectare,noun,c1
+998,height,height,noun,a2
+999,hertz,hertz,noun,c2
+1000,horizontal_1,horizontal,adjective,b2
+1001,horsepower,horsepower,noun,c2
+1002,hundred,hundred,number,a1
+1003,hundredth_1,hundredth,ordinal number,a2
+1004,hundredweight,hundredweight,noun,c2
+1005,hypotenuse,hypotenuse,noun,c2
+1006,hz,Hz,abbreviation,c2
+1007,in_5,in.,abbreviation,c2
+1008,inch_1,inch,noun,b2
+1009,index_1,index,noun,c2
+1010,induction,induction,noun,c2
+1011,infinite_1,infinite,adjective,c1
+1012,infinity,infinity,noun,c1
+1013,information-theory,information theory,noun,c2
+1014,integral-calculus,integral calculus,noun,c2
+1015,interior-angle,interior angle,noun,c2
+1016,into,into,preposition,c1
+1017,irrational-number,irrational number,noun,c2
+1018,iterate,iterate,verb,c2
+1019,iteration,iteration,noun,c2
+1020,karat,karat,noun,c2
+1021,kg_1,kg,abbreviation,a2
+1022,khz,kHz,abbreviation,c2
+1023,kilo_1,kilo,noun,a2
+1024,kilogram,kilogram,noun,a2
+1025,kilohertz,kilohertz,noun,c2
+1026,kilometre,kilometre,noun,a1
+1027,kilowatt,kilowatt,noun,c2
+1028,km,km,abbreviation,a2
+1029,kmph,kmph,abbreviation,c1
+1030,knot_1,knot,noun,c2
+1031,kph,kph,abbreviation,c1
+1032,kw,kW,abbreviation,c2
+1033,l_1,l,abbreviation,c2
+1034,lb,lb,abbreviation,c2
+1035,length,length,noun,b1
+1036,line-graph,line graph,noun,b2
+1037,liter,liter,noun,b1
+1038,litre,litre,noun,b2
+1039,logarithm,logarithm,noun,c2
+1040,long-division,long division,noun,c2
+1041,m_1,m,abbreviation,a2
+1042,mathematical,mathematical,adjective,c1
+1043,mathematically,mathematically,adverb,b2
+1044,mathematician,mathematician,noun,b2
+1045,mathematics,mathematics,noun,a2
+1046,maths,maths,noun,a2
+1047,matrix,matrix,noun,c2
+1048,maximum_2,maximum,adjective,b2
+1049,maximum_3,maximum,noun,b2
+1050,mean_2,mean,adjective,c2
+1051,mean_3,mean,noun,c2
+1052,measure_1,measure,verb,b1
+1053,measure_2,measure,noun,b2
+1054,measurement,measurement,noun,b2
+1055,measuring-tape,measuring tape,noun,b2
+1056,megahertz,megahertz,noun,c2
+1057,megawatt,megawatt,noun,c2
+1058,metre,metre,noun,a1
+1059,metric_1,metric,adjective,c1
+1060,metric_2,metric,noun,c2
+1061,metric-ton,metric ton,noun,c1
+1062,mg,mg,abbreviation,c2
+1063,mhz,MHz,abbreviation,c2
+1064,mile,mile,noun,a1
+1065,milligram,milligram,noun,b1
+1066,millilitre,millilitre,noun,b1
+1067,millimetre,millimetre,noun,b1
+1068,million,million,number,a1
+1069,minimum_2,minimum,adjective,b2
+1070,minimum_3,minimum,noun,b2
+1071,minus_1,minus,preposition,b1
+1072,minus_2,minus,noun,b1
+1073,minute1_1,minute,noun,c2
+1074,ml,ml,abbreviation,b1
+1075,mm_1,mm,abbreviation,b1
+1076,mph,mph,abbreviation,c1
+1077,multiple_2,multiple,noun,b2
+1078,multiply,multiply,verb,b2
+1079,mw,MW,abbreviation,c2
+1080,nanometre,nanometre,noun,c2
+1081,negative_1,negative,adjective,b2
+1082,nil_1,nil,noun,c1
+1083,nought,nought,noun,c1
+1084,number_1,number,noun,a1
+1085,numeracy,numeracy,noun,c2
+1086,numerator,numerator,noun,c2
+1087,numerical,numerical,adjective,c1
+1088,obtuse-angle,obtuse angle,noun,c2
+1089,operator,operator,noun,c2
+1090,ordinal_1,ordinal,noun,c1
+1091,ounce,ounce,noun,c1
+1092,oz_1,oz,abbreviation,c2
+1093,pace1,pace,noun,c1
+1094,parabola,parabola,noun,c2
+1095,parallel_1,parallel,adjective,b2
+1096,percentage,percentage,noun,b1
+1097,perimeter,perimeter,noun,c2
+1098,pie-chart,pie chart,noun,b2
+1099,pint,pint,noun,c1
+1100,place_1,place,noun,c1
+1101,plane_1,plane,noun,c2
+1102,plus1_1,plus,preposition,b1
+1103,plus1_3,plus,noun,b2
+1104,point_1,point,noun,b1
+1105,polynomial_1,polynomial,adjective,c2
+1106,positive_1,positive,adjective,b2
+1107,pound_1,pound,noun,b1
+1108,power_1,power,noun,c2
+1109,prime-number,prime number,noun,c2
+1110,probability,probability,noun,b2
+1111,problem_1,problem,noun,b2
+1112,product,product,noun,c2
+1113,proof_1,proof,noun,c1
+1114,pt_1,pt,abbreviation,c2
+1115,qt,qt,abbreviation,c2
+1116,quadruple_1,quadruple,verb,c2
+1117,quart,quart,noun,c2
+1118,radius,radius,noun,c1
+1119,ratio,ratio,noun,c1
+1120,rational-number,rational number,noun,c2
+1121,reflex-angle,reflex angle,noun,c2
+1122,register_1,register,verb,c2
+1123,right-angle,right angle,noun,c1
+1124,right-angled,right-angled,adjective,c2
+1125,root_1,root,noun,c2
+1126,round-bracket,round bracket,noun,c1
+1127,rpm,rpm,abbreviation,c2
+1128,ruler,ruler,noun,a2
+1129,scalar_2,scalar,adjective,c2
+1130,scale_1,scale,noun,b2
+1131,score_2,score,noun,c1
+1132,segment_1,segment,noun,c1
+1133,set_2,set,noun,b2
+1134,si,SI,abbreviation,c2
+1135,sign_1,sign,noun,b1
+1136,sine,sine,noun,c2
+1137,size_1,size,noun,a2
+1138,solid_2,solid,noun,c1
+1139,solution,solution,noun,a2
+1140,solve,solve,verb,a2
+1141,spoonful,spoonful,noun,b2
+1142,square_1,square,adjective,b2
+1143,square_2,square,noun,c2
+1144,square_3,square,verb,c2
+1145,squared,squared,adjective,c2
+1146,square-number,square number,noun,c2
+1147,square-root,square root,noun,c2
+1148,st_1,st,abbreviation,c2
+1149,statistic,statistic,noun,b1
+1150,stats,stats,noun,b1
+1151,stone_1,stone,noun,c1
+1152,straight-angle,straight angle,noun,c2
+1153,subtract,subtract,verb,c1
+1154,subtraction,subtraction,noun,c1
+1155,sum_1,sum,noun,b2
+1156,symbol,symbol,noun,a2
+1157,symmetrical,symmetrical,adjective,c2
+1158,symmetrically,symmetrically,adverb,c2
+1159,symmetry,symmetry,noun,c2
+1160,tablespoon,tablespoon,noun,c1
+1161,tangent,tangent,noun,c2
+1162,tape-measure,tape measure,noun,c2
+1163,teaspoon,teaspoon,noun,c1
+1164,theorem,theorem,noun,c2
+1165,thousand,thousand,number,a1
+1166,thousandth_1,thousandth,ordinal number,a2
+1167,times_1,times,preposition,b1
+1168,ton,ton,noun,b2
+1169,tonne,tonne,noun,b2
+1170,total_2,total,noun,b1
+1171,total_3,total,verb,c1
+1172,track_2,track,verb,c2
+1173,treble_2,treble,verb,c2
+1174,trigonometry,trigonometry,noun,c2
+1175,unit,unit,noun,b2
+1176,v_3,V,abbreviation,c2
+1177,value_1,value,noun,c1
+1178,variable_1,variable,noun,c1
+1179,vector,vector,noun,c2
+1180,vertical_1,vertical,adjective,b2
+1181,volt,volt,noun,c2
+1182,volume,volume,noun,b2
+1183,vulgar-fraction,vulgar fraction,noun,c2
+1184,w_2,W,abbreviation,c2
+1185,watt,watt,noun,c2
+1186,weigh,weigh,linking verb,b1
+1187,weight_1,weight,noun,a2
+1188,width,width,noun,c1
+1189,yard,yard,noun,b1
+1190,yd,yd,abbreviation,c2
+1191,absorb,absorb,verb,b2
+1192,accelerate,accelerate,verb,c1
+1193,acceleration,acceleration,noun,c1
+1194,acid_1,acid,noun,b2
+1195,acid_2,acid,adjective,c1
+1196,acidity,acidity,noun,c1
+1197,activate,activate,verb,b2
+1198,activation,activation,noun,c1
+1199,aerodynamics,aerodynamics,noun,c2
+1200,alcohol,alcohol,noun,b1
+1201,alkali,alkali,noun,c2
+1202,alloy_1,alloy,noun,c2
+1203,alpha-particle,alpha particle,noun,c2
+1204,alpha-radiation,alpha radiation,noun,c2
+1205,aluminium,aluminium,noun,c1
+1206,ammonia,ammonia,noun,c2
+1207,amphoteric,amphoteric,adjective,c2
+1208,amplitude,amplitude,noun,c2
+1209,anion,anion,noun,c2
+1210,antimatter,antimatter,noun,c2
+1211,arsenic,arsenic,noun,c2
+1212,atom,atom,noun,b2
+1213,atomic,atomic,adjective,c1
+1214,atomic-energy,atomic energy,noun,c1
+1215,atomic-number,atomic number,noun,c2
+1216,bend_1,bend,verb,b1
+1217,block_1,block,noun,b1
+1218,boiling-point,boiling point,noun,b2
+1219,bond_1,bond,noun,c2
+1220,bond_2,bond,verb,c1
+1221,breeze-block,breeze block,noun,c2
+1222,brick_1,brick,noun,b2
+1223,bronze_1,bronze,noun,c1
+1224,calcium,calcium,noun,b2
+1225,carbon,carbon,noun,b2
+1226,carbon-dioxide,carbon dioxide,noun,b2
+1227,carbon-monoxide,carbon monoxide,noun,c1
+1228,catalyse,catalyse,verb,c2
+1229,catalysis,catalysis,noun,c2
+1230,catalyst,catalyst,noun,c2
+1231,catalytic,catalytic,adjective,c2
+1232,cation,cation,noun,c2
+1233,caustic,caustic,adjective,c2
+1234,celsius_2,Celsius,noun,b2
+1235,cement_1,cement,noun,c1
+1236,centigrade_1,centigrade,noun,c1
+1237,centre-of-mass,centre of mass,noun,c2
+1238,centripetal-force,centripetal force,noun,c2
+1239,chalk_1,chalk,noun,c1
+1240,charcoal,charcoal,noun,c2
+1241,charge_1,charge,noun,c1
+1242,charge_2,charge,verb,b1
+1243,charged,charged,adjective,c1
+1244,charger,charger,noun,b2
+1245,chemical_1,chemical,adjective,b1
+1246,chemical_2,chemical,noun,b1
+1247,chemist,chemist,noun,b1
+1248,chemistry,chemistry,noun,c1
+1249,chlorine,chlorine,noun,c2
+1250,chrome,chrome,noun,c2
+1251,circulate,circulate,verb,c1
+1252,cobalt,cobalt,noun,c2
+1253,composition,composition,noun,c1
+1254,compound_1,compound,noun,b2
+1255,compress_1,compress,verb,c1
+1256,concrete_1,concrete,adjective,b2
+1257,concrete_2,concrete,noun,b2
+1258,condense,condense,verb,c2
+1259,conductive,conductive,adjective,c2
+1260,conductivity,conductivity,noun,c2
+1261,conductor,conductor,noun,c1
+1262,contract_2,contract,verb,b2
+1263,copper,copper,noun,c1
+1264,corrode,corrode,verb,c2
+1265,corrosion,corrosion,noun,c2
+1266,covalent,covalent,adjective,c2
+1267,crack_1,crack,verb,b2
+1268,crystal,crystal,noun,c1
+1269,dark-matter,dark matter,noun,c2
+1270,deactivate,deactivate,verb,c2
+1271,decay_1,decay,noun,c2
+1272,density,density,noun,c1
+1273,depleted-uranium,depleted uranium,noun,c2
+1274,detergent,detergent,noun,c2
+1275,dissolve,dissolve,verb,c1
+1276,distil,distil,verb,c2
+1277,ductile,ductile,adjective,c2
+1278,dynamic_2,dynamic,noun,c2
+1279,dynamite_1,dynamite,noun,c1
+1280,effort,effort,noun,c2
+1281,electric_1,electric,adjective,a2
+1282,electrical,electrical,adjective,a2
+1283,electricity,electricity,noun,a2
+1284,electromagnetic,electromagnetic,adjective,c2
+1285,electromagnetism,electromagnetism,noun,c2
+1286,electron,electron,noun,c1
+1287,element,element,noun,b2
+1288,elementary-particle,elementary particle,noun,c2
+1289,emission,emission,noun,b2
+1290,emit,emit,verb,c1
+1291,energy,energy,noun,c1
+1292,entropy,entropy,noun,c2
+1293,evaporate,evaporate,verb,c1
+1294,evaporation,evaporation,noun,c1
+1295,expand,expand,verb,b1
+1296,expansivity,expansivity,noun,c2
+1297,fabric,fabric,noun,b2
+1298,fahrenheit_2,Fahrenheit,noun,c1
+1299,fibre,fibre,noun,c1
+1300,fibreboard,fibreboard,noun,c2
+1301,fibreglass,fibreglass,noun,c2
+1302,field_1,field,noun,b2
+1303,filtrate,filtrate,noun,c2
+1304,fissile,fissile,adjective,c2
+1305,fission,fission,noun,c2
+1306,flameproof,flameproof,adjective,c2
+1307,flexible,flexible,adjective,b2
+1308,fluoride,fluoride,noun,c2
+1309,force_1,force,noun,b1
+1310,freezing-point,freezing point,noun,b2
+1311,frequency,frequency,noun,c1
+1312,friction,friction,noun,c2
+1313,fundamental-force,fundamental force,noun,c2
+1314,fundamental-particle,fundamental particle,noun,c2
+1315,fusion,fusion,noun,c1
+1316,gamma-radiation,gamma radiation,noun,c2
+1317,gas_1,gas,noun,a2
+1318,gelignite,gelignite,noun,c2
+1319,glucose,glucose,noun,c1
+1320,gold_1,gold,noun,a2
+1321,graphite,graphite,noun,c1
+1322,gravitation,gravitation,noun,c2
+1323,gravitational,gravitational,adjective,c2
+1324,gravitational-wave,gravitational wave,noun,c2
+1325,gravity,gravity,noun,c1
+1326,gunpowder,gunpowder,noun,c1
+1327,heat_1,heat,noun,a2
+1328,heavy_1,heavy,adjective,b2
+1329,helium,helium,noun,c1
+1330,hydroelectric,hydroelectric,adjective,b2
+1331,hydrogen,hydrogen,noun,c1
+1332,incident_2,incident,adjective,c2
+1333,induction,induction,noun,c2
+1334,inertia,inertia,noun,c2
+1335,infrared,infrared,adjective,c2
+1336,inorganic,inorganic,adjective,c2
+1337,insoluble,insoluble,adjective,c2
+1338,insulated,insulated,adjective,c1
+1339,insulating,insulating,adjective,c2
+1340,interference,interference,noun,c2
+1341,iodine,iodine,noun,c2
+1342,ion_1,ion,noun,c2
+1343,ionic,ionic,adjective,c2
+1344,iron_1,iron,noun,b1
+1345,isotope,isotope,noun,c2
+1346,kinetic,kinetic,adjective,c2
+1347,laser,laser,noun,c1
+1348,lead2,lead,noun,c1
+1349,light_1,light,noun,a1
+1350,light_2,light,adjective,a2
+1351,lightweight_1,lightweight,adjective,c1
+1352,liquid_1,liquid,noun,b1
+1353,lithium,lithium,noun,c2
+1354,magnesium,magnesium,noun,c2
+1355,magnet,magnet,noun,c1
+1356,magnetic,magnetic,adjective,c1
+1357,magnetism,magnetism,noun,c1
+1358,magnetize,magnetize,verb,c2
+1359,mass_1,mass,noun,c1
+1360,material_1,material,noun,a2
+1361,matter_1,matter,noun,b2
+1362,mechanic,mechanic,noun,c1
+1363,mechanical,mechanical,adjective,c1
+1364,melamine,melamine,noun,c2
+1365,melt,melt,verb,b2
+1366,mercury_1,mercury,noun,c2
+1367,metal,metal,noun,a2
+1368,metallic,metallic,adjective,c2
+1369,microwave_1,microwave,noun,c1
+1370,mineral,mineral,noun,b2
+1371,mole,mole,noun,c2
+1372,molecular,molecular,adjective,c1
+1373,molecule,molecule,noun,b2
+1374,momentum,momentum,noun,c2
+1375,motion_1,motion,noun,b2
+1376,nanotechnological,nanotechnological,adjective,c2
+1377,nanotechnology,nanotechnology,noun,c1
+1378,neon,neon,noun,c1
+1379,neutron,neutron,noun,c2
+1380,nickel,nickel,noun,c2
+1381,nitrogen,nitrogen,noun,c1
+1382,nuclear,nuclear,adjective,b1
+1383,nuclear-energy,nuclear energy,noun,b1
+1384,nuclear-fission,nuclear fission,noun,c2
+1385,nuclear-fusion,nuclear fusion,noun,c1
+1386,nuclear-physics,nuclear physics,noun,b2
+1387,nuclear-power,nuclear power,noun,b1
+1388,nuclear-reactor,nuclear reactor,noun,c1
+1389,nucleus,nucleus,noun,c1
+1390,nylon,nylon,noun,c1
+1391,ore,ore,noun,c2
+1392,organic,organic,adjective,c1
+1393,oscillate,oscillate,verb,c2
+1394,oxygen_1,oxygen,noun,b2
+1395,ozone,ozone,noun,c1
+1396,particle,particle,noun,c1
+1397,paving-stone,paving stone,noun,c2
+1398,perspextm,Perspex™,noun,c2
+1399,petrol,petrol,noun,a2
+1400,petroleum,petroleum,noun,c1
+1401,ph,pH,noun,c2
+1402,photon,photon,noun,c2
+1403,physical_1,physical,adjective,b2
+1404,physicist,physicist,noun,b1
+1405,physics,physics,noun,a2
+1406,plasma,plasma,noun,c2
+1407,plastic_1,plastic,noun,a2
+1408,plastic_2,plastic,adjective,a2
+1409,platinum,platinum,noun,c2
+1410,plutonium,plutonium,noun,c2
+1411,pole_1,pole,noun,c2
+1412,polyester,polyester,noun,c2
+1413,polythene,polythene,noun,c2
+1414,polyurethane,polyurethane,noun,c2
+1415,potassium,potassium,noun,c2
+1416,potential-energy,potential energy,noun,c2
+1417,precipitate_3,precipitate,noun,c2
+1418,pressure_1,pressure,noun,b2
+1419,product,product,noun,b2
+1420,proof_2,proof,adjective,b2
+1421,property,property,noun,c1
+1422,proton,proton,noun,c2
+1423,pull_2,pull,noun,b1
+1424,pvc,PVC,noun,c2
+1425,quark,quark,noun,c2
+1426,radiate,radiate,verb,c1
+1427,radiation,radiation,noun,b2
+1428,radioactive,radioactive,adjective,c1
+1429,radioactivity,radioactivity,noun,c1
+1430,radium,radium,noun,c2
+1431,raw-material,raw material,noun,c1
+1432,ray_1,ray,noun,c1
+1433,rayon,rayon,noun,c2
+1434,react,react,verb,b2
+1435,reaction,reaction,noun,b1
+1436,reactor,reactor,noun,c1
+1437,reflect,reflect,verb,b1
+1438,reflectivity,reflectivity,noun,c2
+1439,refract,refract,verb,c2
+1440,refraction,refraction,noun,c2
+1441,refractive-index,refractive index,noun,c2
+1442,reinforce,reinforce,verb,c1
+1443,resilient,resilient,adjective,c2
+1444,resin,resin,noun,c2
+1445,resistance,resistance,noun,c2
+1446,rigid,rigid,adjective,c1
+1447,rna,RNA,noun,c2
+1448,salt_1,salt,noun,c1
+1449,sand_1,sand,noun,b1
+1450,shape_2,shape,verb,b2
+1451,shatter,shatter,verb,c1
+1452,sheet,sheet,noun,b1
+1453,silicon,silicon,noun,c1
+1454,silver_1,silver,noun,a2
+1455,sodium,sodium,noun,c1
+1456,solar,solar,adjective,b2
+1457,solid_2,solid,noun,b1
+1458,solidify,solidify,verb,c2
+1459,soluble,soluble,adjective,c2
+1460,solute,solute,noun,c2
+1461,solution,solution,noun,b2
+1462,solvent_1,solvent,noun,c2
+1463,spectrum,spectrum,noun,c1
+1464,static_1,static,adjective,c2
+1465,static_2,static,noun,c2
+1466,the-periodic-table,the periodic table,noun,c2
+1467,steel_1,steel,noun,b2
+1468,stick_1,stick,verb,b1
+1469,stone_1,stone,noun,a2
+1470,strain_1,strain,noun,c1
+1471,stress_1,stress,noun,b2
+1472,stretch_1,stretch,verb,b2
+1473,strong-force,strong force,noun,c2
+1474,substance,substance,noun,b1
+1475,sulphite,sulphite,noun,c2
+1476,sulphur,sulphur,noun,c2
+1477,sulphurous,sulphurous,adjective,c2
+1478,sun_1,sun,noun,a1
+1479,suspension,suspension,noun,c2
+1480,synthesis,synthesis,noun,c1
+1481,synthesize,synthesize,verb,c2
+1482,synthetic_1,synthetic,adjective,c1
+1483,tensile,tensile,adjective,c2
+1484,terminal-velocity,terminal velocity,noun,c2
+1485,thermal_1,thermal,adjective,c1
+1486,thermoplastic,thermoplastic,noun,c2
+1487,thermostatic,thermostatic,adjective,c2
+1488,thermostatically,thermostatically,adverb,c2
+1489,tin,tin,noun,b2
+1490,titanium,titanium,noun,c2
+1491,twist_1,twist,verb,c1
+1492,ultraviolet,ultraviolet,adjective,c2
+1493,uranium,uranium,noun,c1
+1494,vacuum_1,vacuum,noun,c1
+1495,vapor,vapor,noun,c1
+1496,vapour,vapour,noun,c1
+1497,vector,vector,noun,c2
+1498,velocity,velocity,noun,c2
+1499,volatile,volatile,adjective,c2
+1500,water-repellent,water-repellent,adjective,c2
+1501,wave_1,wave,noun,b1
+1502,wavelength,wavelength,noun,c1
+1503,weak-force,weak force,noun,c2
+1504,wood,wood,noun,a2
+1505,x-ray_2,X-ray,noun,b2
+1506,zinc,zinc,noun,c2
+1507,advancement,advancement,noun,c1
+1508,analyse,analyse,verb,b1
+1509,analysis,analysis,noun,b1
+1510,anatomy,anatomy,noun,c2
+1511,apparatus,apparatus,noun,c1
+1512,archaeology,archaeology,noun,b2
+1513,beaker,beaker,noun,c2
+1514,bias_1,bias,noun,c1
+1515,bias_2,bias,verb,c1
+1516,biochemistry,biochemistry,noun,b2
+1517,biology,biology,noun,a2
+1518,botanist,botanist,noun,c2
+1519,botany,botany,noun,c2
+1520,bunsen-burner,Bunsen burner,noun,c2
+1521,carbon-dating,carbon dating,noun,c1
+1522,case-study,case study,noun,b2
+1523,chemistry,chemistry,noun,a2
+1524,chemistry-set,chemistry set,noun,b1
+1525,classify,classify,verb,b2
+1526,climatology,climatology,noun,c2
+1527,clinical-trial,clinical trial,noun,c1
+1528,colligate,colligate,verb,c2
+1529,conclude,conclude,verb,b1
+1530,conclusion,conclusion,noun,b1
+1531,conduct_1,conduct,verb,b2
+1532,confirm,confirm,verb,b1
+1533,constant_2,constant,noun,c2
+1534,control_1,control,noun,c1
+1535,controlled-experiment,controlled experiment,noun,c2
+1536,correlate_1,correlate,verb,c1
+1537,correlation,correlation,noun,c1
+1538,corroborate,corroborate,verb,c2
+1539,corroboration,corroboration,noun,c2
+1540,cybernetics,cybernetics,noun,c2
+1541,data,data,noun,a2
+1542,demolish,demolish,verb,c2
+1543,detect,detect,verb,b2
+1544,detectable,detectable,adjective,c1
+1545,determine,determine,verb,b1
+1546,develop,develop,verb,a2
+1547,development,development,noun,b1
+1548,discover,discover,verb,a2
+1549,discovery,discovery,noun,a2
+1550,disprove,disprove,verb,c1
+1551,dissect,dissect,verb,c2
+1552,earth-science,earth science,noun,b2
+1553,earth-scientist,earth scientist,noun,b2
+1554,empirical,empirical,adjective,c1
+1555,empirically,empirically,adverb,c1
+1556,engineering,engineering,noun,b1
+1557,equipment,equipment,noun,a2
+1558,evaluate,evaluate,verb,b2
+1559,evaluation,evaluation,noun,b2
+1560,evidence_1,evidence,noun,a2
+1561,experiment_2,experiment,verb,b1
+1562,experimental,experimental,adjective,c1
+1563,experimentation,experimentation,noun,c1
+1564,fact,fact,noun,a1
+1565,falsification,falsification,noun,c2
+1566,falsify,falsify,verb,c2
+1567,filter_1,filter,noun,c1
+1568,finding,finding,noun,b2
+1569,flask,flask,noun,c2
+1570,food-science,food science,noun,b2
+1571,food-technology,food technology,noun,b2
+1572,formula,formula,noun,c1
+1573,funnel_1,funnel,noun,c2
+1574,geochemical,geochemical,adjective,c1
+1575,geochemistry,geochemistry,noun,c1
+1576,geologist,geologist,noun,b2
+1577,geology,geology,noun,b2
+1578,geoscience,geoscience,noun,c1
+1579,guinea-pig,guinea pig,noun,c1
+1580,hydrology,hydrology,noun,c2
+1581,hypothesis,hypothesis,noun,b2
+1582,instrument,instrument,noun,b2
+1583,journal,journal,noun,b1
+1584,kinesiology,kinesiology,noun,c2
+1585,lab_1,lab,noun,a2
+1586,laboratory,laboratory,noun,b1
+1587,law,law,noun,b2
+1588,medicine,medicine,noun,a2
+1589,meteorological,meteorological,adjective,c1
+1590,meteorology,meteorology,noun,c1
+1591,method,method,noun,a2
+1592,microscope,microscope,noun,b2
+1593,model_2,model,verb,b2
+1594,mortar_1,mortar,noun,c2
+1595,negative_2,negative,noun,b2
+1596,neurobiology,neurobiology,noun,c2
+1597,null-hypothesis,null hypothesis,noun,c2
+1598,oceanographer,oceanographer,noun,c2
+1599,oceanography,oceanography,noun,c2
+1600,pathology,pathology,noun,c2
+1601,pestle,pestle,noun,c2
+1602,physics,physics,noun,a2
+1603,physiology,physiology,noun,c1
+1604,positive_2,positive,noun,b2
+1605,positivity,positivity,noun,c2
+1606,principle,principle,noun,b2
+1607,procedure,procedure,noun,b2
+1608,proof_1,proof,noun,b2
+1609,protocol,protocol,noun,c2
+1610,prove,prove,verb,b1
+1611,pseudoscience,pseudoscience,noun,c1
+1612,psychological,psychological,adjective,b2
+1613,psychologist,psychologist,noun,b2
+1614,quantum-physics,quantum physics,noun,c2
+1615,r_2,R,noun,c2
+1616,radiocarbon-dating,radiocarbon dating,noun,c2
+1617,randomize,randomize,verb,c2
+1618,research_1,research,noun,a2
+1619,research_2,research,verb,a2
+1620,result_1,result,noun,a1
+1621,r-number,R number,noun,c2
+1622,sample_1,sample,noun,b2
+1623,science,science,noun,a1
+1624,scientific,scientific,adjective,b1
+1625,scientist,scientist,noun,a1
+1626,self-report_1,self-report,verb,c1
+1627,self-report_2,self-report,noun,c1
+1628,slide_2,slide,noun,c2
+1629,soil-science,soil science,noun,c1
+1630,statistic,statistic,noun,b1
+1631,stats,stats,noun,b1
+1632,study_1,study,noun,b1
+1633,study_2,study,verb,b1
+1634,subject_1,subject,noun,c1
+1635,survey_1,survey,noun,a2
+1636,symbol,symbol,noun,a2
+1637,syringe_1,syringe,noun,c2
+1638,technology,technology,noun,a2
+1639,telescope_1,telescope,noun,b2
+1640,test_1,test,noun,a2
+1641,test_2,test,verb,a2
+1642,test-tube,test tube,noun,c1
+1643,theoretical,theoretical,adjective,c1
+1644,theory,theory,noun,b1
+1645,thesis,thesis,noun,c1
+1646,trial_1,trial,noun,b2
+1647,verify,verify,verb,c1
+1648,vivisection,vivisection,noun,c2
+1649,weather-balloon,weather balloon,noun,c2
+1650,zoology,zoology,noun,c1

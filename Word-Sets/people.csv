@@ -1,0 +1,3161 @@
+subLink,word,type,level
+0,absentee,absentee,noun,c2
+1,absenteeism,absenteeism,noun,c2
+2,academic_1,academic,adjective,b1
+3,academic_2,academic,noun,b2
+4,academic-year,academic year,noun,c1
+5,academy,academy,noun,c1
+6,access-course,access course,noun,c2
+7,ace_3,ace,verb,c2
+8,act_3,ACT,abbreviation,c2
+9,admission,admission,noun,c1
+10,admit,admit,verb,c1
+11,adult-education,adult education,noun,b1
+12,a-level,A level,noun,c1
+13,algebra,algebra,noun,c1
+14,alma-mater,alma mater,noun,c2
+15,alumna,alumna,noun,c2
+16,alumni,alumni,noun,c2
+17,alumnus,alumnus,noun,c2
+18,answer_1,answer,noun,a1
+19,applicant,applicant,noun,b2
+20,application,application,noun,b1
+21,arithmetic_1,arithmetic,noun,c1
+22,art_1,art,noun,a1
+23,as-level,AS (level),noun,c2
+24,assembly,assembly,noun,c1
+25,assess,assess,verb,b2
+26,assessment,assessment,noun,b2
+27,assessor,assessor,noun,c1
+28,assignment,assignment,noun,b1
+29,assistant_1,assistant,noun,a2
+30,attend,attend,verb,a2
+31,attendance,attendance,noun,c1
+32,award_1,award,noun,c1
+33,ba,BA,noun,c2
+34,bachelor,bachelor,noun,c2
+35,bell,bell,noun,b1
+36,biology,biology,noun,a2
+37,blackboard,blackboard,noun,b1
+38,blazer,blazer,noun,c2
+39,blended-learning,blended learning,noun,c1
+40,board_1,board,noun,a2
+41,boarder,boarder,noun,c2
+42,boarding-school,boarding school,noun,b2
+43,book_1,book,noun,a1
+44,bsc,BSc,noun,c2
+45,btec,BTEC,noun,c2
+46,bunk-off,bunk off,phrasal verb,c2
+47,bunk-off-school,bunk off school,phrasal verb,c2
+48,bunk-off-work,bunk off work,phrasal verb,c2
+49,bursary,bursary,noun,c2
+50,business-school,business school,noun,b1
+51,business-studies,business studies,noun,b1
+52,calculator,calculator,noun,b2
+53,campus,campus,noun,b1
+54,candidate,candidate,noun,b1
+55,canteen,canteen,noun,b1
+56,caretaker_1,caretaker,noun,c1
+57,catchment-area,catchment area,noun,c2
+58,certificate_1,certificate,noun,b2
+59,chair_1,chair,noun,c1
+60,chalk_1,chalk,noun,c1
+61,chalkboard,chalkboard,noun,c1
+62,chancellor,chancellor,noun,c2
+63,chapel,chapel,noun,c2
+64,chemistry,chemistry,noun,a2
+65,class_1,class,noun,a1
+66,classic_2,classic,noun,c1
+67,classmate,classmate,noun,a1
+68,classroom,classroom,noun,a1
+69,classwork,classwork,noun,b1
+70,clearing,clearing,noun,c2
+71,coach_1,coach,noun,a2
+72,coach_2,coach,verb,b1
+73,co-education,co-education,noun,c2
+74,co-educational,co-educational,adjective,c2
+75,college,college,noun,a1
+76,collegiate,collegiate,adjective,c2
+77,colloquium,colloquium,noun,c2
+78,commencement,commencement,noun,c2
+79,commit,commit,verb,c2
+80,common-core,Common Core,noun,c2
+81,common-room,common room,noun,c2
+82,community-college,community college,noun,c2
+83,composition,composition,noun,c1
+84,comprehension,comprehension,noun,a2
+85,comprehensive_1,comprehensive,adjective,c2
+86,comprehensive_2,comprehensive,noun,c2
+87,compulsory,compulsory,adjective,b2
+88,confer,confer,verb,c1
+89,conservatory,conservatory,noun,c2
+90,continuing-education,continuing education,noun,c1
+91,convocation,convocation,noun,c2
+92,corporal-punishment,corporal punishment,noun,c2
+93,corridor,corridor,noun,b2
+94,course_1,course,noun,a1
+95,coursebook,coursebook,noun,c1
+96,coursework,coursework,noun,b2
+97,crammer,crammer,noun,c2
+98,credit_1,credit,noun,c2
+99,crib_1,crib,noun,c2
+100,crib_2,crib,verb,c2
+101,cross-disciplinary,cross-disciplinary,adjective,c2
+102,ctc,CTC,abbreviation,c2
+103,cum-laude,cum laude,adverb,c2
+104,curricular,curricular,adjective,c2
+105,curriculum,curriculum,noun,b2
+106,custodian,custodian,noun,c2
+107,day-school,day school,noun,c2
+108,dean_1,dean,noun,c2
+109,degree,degree,noun,a2
+110,demerit,demerit,noun,c2
+111,department,department,noun,a2
+112,deputy,deputy,noun,c1
+113,desk,desk,noun,a1
+114,detention,detention,noun,c1
+115,dictionary,dictionary,noun,a1
+116,diploma,diploma,noun,b1
+117,disciplinary,disciplinary,adjective,c2
+118,discipline_1,discipline,noun,b2
+119,discipline_2,discipline,verb,b2
+120,dissertation,dissertation,noun,c1
+121,distance-learning,distance learning,noun,c1
+122,ditch_2,ditch,verb,c2
+123,doctor_1,doctor,noun,b1
+124,doctorate,doctorate,noun,c1
+125,don_1,don,noun,c2
+126,dorm,dorm,noun,b2
+127,dormitory,dormitory,noun,c1
+128,dr,Dr,abbreviation,b1
+129,drama,drama,noun,a2
+130,drill_1,drill,noun,c2
+131,drop_1,drop,verb,b2
+132,drop-out,drop out,phrasal verb,b2
+133,dropout,dropout,noun,c1
+134,dt,DT,noun,c2
+135,economics,economics,noun,b2
+136,edtech,EdTech,noun,c2
+137,educate,educate,verb,b1
+138,educated,educated,adjective,b1
+139,education,education,noun,a2
+140,educational,educational,adjective,b1
+141,educator,educator,noun,c1
+142,elective_1,elective,adjective,c2
+143,elective_2,elective,noun,c2
+144,elementary-school,elementary school,noun,b2
+145,eleven-plus,eleven-plus,noun,c2
+146,ell_2,ELL,noun,c2
+147,endowment,endowment,noun,c2
+148,engineering,engineering,noun,b1
+149,english_1,English,noun,a1
+150,enrol,enrol,verb,c1
+151,enrolment,enrolment,noun,c1
+152,entrance1,entrance,noun,b2
+153,entrant,entrant,noun,c2
+154,esol,ESOL,abbreviation,c2
+155,essay_1,essay,noun,a2
+156,evening-class,evening class,noun,b1
+157,exam,exam,noun,a1
+158,examination,examination,noun,b2
+159,examinee,examinee,noun,c2
+160,exchange_1,exchange,noun,b1
+161,exclude,exclude,verb,b2
+162,exclusion,exclusion,noun,c1
+163,exeat,exeat,noun,c2
+164,exercise_1,exercise,noun,a1
+165,exercise-book,exercise book,noun,b2
+166,expel,expel,verb,c1
+167,expulsion,expulsion,noun,c2
+168,extension,extension,noun,c2
+169,extracurricular,extracurricular,adjective,c1
+170,extramural,extramural,adjective,c2
+171,f_2,F,noun,c1
+172,faculty,faculty,noun,c1
+173,fail_1,fail,verb,a2
+174,fee,fee,noun,b2
+175,fellow_2,fellow,noun,c2
+176,field-day,field day,noun,c1
+177,field-trip,field trip,noun,c1
+178,fieldwork,fieldwork,noun,c1
+179,final_2,final,noun,c2
+180,first_3,first,noun,c2
+181,first-class_2,first class,noun,c2
+182,flipped-classroom,flipped classroom,noun,c2
+183,flunk,flunk,verb,c2
+184,form_1,form,noun,c1
+185,foundation-course,foundation course,noun,c2
+186,frat,frat,noun,c2
+187,fraternity,fraternity,noun,c2
+188,free-period,free period,noun,b2
+189,fresher,fresher,noun,c2
+190,freshman,freshman,noun,c2
+191,freshwoman,freshwoman,noun,c2
+192,full-professor,full professor,noun,c1
+193,funding,funding,noun,b2
+194,further-education,further education,noun,b2
+195,gap-year,gap year,noun,b2
+196,gcse,GCSE,noun,c1
+197,ged,GED,noun,c2
+198,gender-studies,gender studies,noun,b2
+199,geography,geography,noun,a1
+200,geology,geology,noun,b2
+201,geometry,geometry,noun,c2
+202,gmat,GMAT,abbreviation,c2
+203,gown,gown,noun,c1
+204,grad,grad,noun,b1
+205,grade_1,grade,noun,b1
+206,grade_2,grade,verb,b2
+207,grade-point-average,grade point average,noun,c2
+208,grade-school,grade school,noun,b2
+209,grad-school,grad school,noun,b2
+210,graduate_1,graduate,noun,b1
+211,graduate_2,graduate,verb,b1
+212,graduate-school,graduate school,noun,b2
+213,graduation,graduation,noun,b1
+214,grammar-school,grammar school,noun,c1
+215,grant_2,grant,noun,b2
+216,grant-maintained,grant-maintained,adjective,c2
+217,guidance-counselor,guidance counselor,noun,c2
+218,gym,gym,noun,a1
+219,gymnasium,gymnasium,noun,c1
+220,gymnastics,gymnastics,noun,b1
+221,gymslip,gymslip,noun,c2
+222,half-term,half-term,noun,c1
+223,hall,hall,noun,b1
+224,hall-of-residence,hall of residence,noun,b2
+225,head_1,head,noun,b2
+226,head-boy,head boy,noun,c2
+227,head-girl,head girl,noun,c2
+228,headmaster,headmaster,noun,c1
+229,headmistress,headmistress,noun,c2
+230,headship,headship,noun,c2
+231,higher-education,higher education,noun,b1
+232,high-school,high school,noun,a1
+233,history,history,noun,a1
+234,holiday_1,holiday,noun,a2
+235,home-economics,home economics,noun,c2
+236,homework,homework,noun,a1
+237,honor_1,honor,noun,c2
+238,honour_1,honour,noun,c2
+239,hons,Hons,abbreviation,c2
+240,house_1,house,noun,c2
+241,housemaster,housemaster,noun,c2
+242,human-geography,human geography,noun,c1
+243,humanity,humanity,noun,c1
+244,ict,ICT,noun,b2
+245,igcse,IGCSE,noun,c1
+246,independent-school,independent school,noun,c1
+247,infant-school,infant school,noun,c1
+248,infirmary,infirmary,noun,c2
+249,information-technology,information technology,noun,b1
+250,inspector,inspector,noun,c1
+251,institution,institution,noun,b2
+252,instructor,instructor,noun,a2
+253,intake,intake,noun,c1
+254,interactive-whiteboard,interactive whiteboard,noun,c1
+255,interdisciplinarity,interdisciplinarity,noun,c2
+256,interdisciplinary,interdisciplinary,adjective,c2
+257,invigilate,invigilate,verb,c2
+258,invigilation,invigilation,noun,c2
+259,invigilator,invigilator,noun,c2
+260,ivy-league,Ivy League,adjective,c2
+261,janitor,janitor,noun,c2
+262,j-d,J.D.,noun,c2
+263,junior_1,junior,adjective,c1
+264,junior_2,junior,noun,c1
+265,junior-high-school,junior high school,noun,b2
+266,junior-school,junior school,noun,b2
+267,k-12,K-12,adjective,c2
+268,kindergarten,kindergarten,noun,b2
+269,knowledge,knowledge,noun,a2
+270,laboratory,laboratory,noun,b1
+271,language-laboratory,language laboratory,noun,c2
+272,law,law,noun,b1
+273,learn,learn,verb,a1
+274,learner,learner,noun,a1
+275,learning,learning,noun,a2
+276,learning-difficulty,learning difficulty,noun,b2
+277,learning-disability,learning disability,noun,c1
+278,lector,lector,noun,c2
+279,lecture_1,lecture,noun,a2
+280,lecture_2,lecture,verb,a2
+281,lecture-hall,lecture hall,noun,b2
+282,lecturer,lecturer,noun,b1
+283,lectureship,lectureship,noun,c2
+284,lecture-theatre,lecture theatre,noun,b2
+285,lesson,lesson,noun,a1
+286,liberal-arts,liberal arts,noun,c2
+287,library,library,noun,a1
+288,linguistics,linguistics,noun,c2
+289,literacy,literacy,noun,c1
+290,literate,literate,adjective,c1
+291,loan_1,loan,noun,b2
+292,locker,locker,noun,b2
+293,locker-room,locker room,noun,c2
+294,lollipop-lady,lollipop lady,noun,c2
+295,lollipop-man,lollipop man,noun,c2
+296,lower-school,lower school,noun,c1
+297,magna-cum-laude,magna cum laude,adverb,c2
+298,magnet-school,magnet school,noun,c2
+299,major_2,major,noun,c1
+300,major-in,major in,phrasal verb,c1
+301,makatontm,Makaton™,noun,c2
+302,make-up_2,make-up,noun,c2
+303,mark_1,mark,verb,b1
+304,mark_2,mark,noun,b1
+305,mark-down,mark down,phrasal verb,c2
+306,marker,marker,noun,b2
+307,master_1,master,noun,b2
+308,mathematics,mathematics,noun,a2
+309,matric-exemption,matric exemption,noun,c2
+310,matriculate,matriculate,verb,c2
+311,matriculation,matriculation,noun,c2
+312,matron,matron,noun,c2
+313,mature-student,mature student,noun,c1
+314,media-studies,media studies,noun,b2
+315,medical-school,medical school,noun,b1
+316,med-school,med school,noun,c1
+317,memorize,memorize,verb,b1
+318,merit_1,merit,noun,c2
+319,mess-around,mess around,phrasal verb,c1
+320,middle-school,middle school,noun,c1
+321,minor_2,minor,noun,c1
+322,minus_3,minus,adjective,c2
+323,mistress,mistress,noun,c2
+324,mixed,mixed,adjective,b2
+325,mock_2,mock,adjective,c2
+326,mock_3,mock,noun,c2
+327,moderate_2,moderate,verb,c2
+328,moderator,moderator,noun,c2
+329,modular,modular,adjective,c2
+330,module,module,noun,b2
+331,monitor_1,monitor,noun,c2
+332,mortar-board,mortar board,noun,c2
+333,msc,MSc,noun,c2
+334,multidisciplinary,multidisciplinary,adjective,c2
+335,multiple-choice,multiple-choice,adjective,b2
+336,music,music,noun,a1
+337,night-school,night school,noun,b1
+338,non-attendance,non-attendance,noun,c2
+339,notebook,notebook,noun,b2
+340,nursery-school,nursery school,noun,c1
+341,ofsted,OFSTED,abbreviation,c2
+342,optional,optional,adjective,b2
+343,oral_2,oral,noun,c1
+344,oxbridge,Oxbridge,noun,c2
+345,paraprofessional_1,paraprofessional,noun,c2
+346,paraprofessional_2,paraprofessional,adjective,c2
+347,pass_1,pass,verb,a2
+348,pass_2,pass,noun,b1
+349,pass-fail_1,pass-fail,adverb,c1
+350,pass-fail_2,pass-fail,adjective,c1
+351,passing_2,passing,adjective,c1
+352,pe,PE,noun,b1
+353,period_1,period,noun,b2
+354,personal-statement,personal statement,noun,b2
+355,phd,PhD,noun,b2
+356,phi-beta-kappa,Phi Beta Kappa,noun,c2
+357,philosophy,philosophy,noun,b2
+358,phonics,phonics,noun,c2
+359,physical-education,physical education,noun,b1
+360,physics,physics,noun,a2
+361,pigeonhole_1,pigeonhole,noun,c2
+362,place_1,place,noun,b1
+363,playground,playground,noun,b1
+364,hookey,play hookey,idiom,c2
+365,hooky,play hooky,idiom,c2
+366,playing-field,playing field,noun,b2
+367,playtime,playtime,noun,b2
+368,truant_2,play truant,idiom,c1
+369,plus1_2,plus,adjective,c2
+370,politics,politics,noun,b1
+371,polytechnic,polytechnic,noun,c2
+372,postdoctoral,postdoctoral,adjective,c2
+373,postgraduate,postgraduate,noun,b2
+374,practical_2,practical,noun,c1
+375,practise,practise,verb,a1
+376,prefect,prefect,noun,c2
+377,preparatory-school,preparatory school,noun,c2
+378,president,president,noun,b1
+379,primary_1,primary,adjective,b1
+380,primary-school,primary school,noun,b1
+381,principal_2,principal,noun,c1
+382,private-school,private school,noun,b1
+383,prize-giving,prize-giving,noun,b2
+384,prof_1,prof,noun,c2
+385,professor,professor,noun,a2
+386,programme_1,programme,noun,b1
+387,programmed-learning,programmed learning,noun,c2
+388,project_1,project,noun,a1
+389,prom,prom,noun,b2
+390,prospectus,prospectus,noun,c2
+391,provost,provost,noun,c2
+392,pshe,PSHE,noun,c2
+393,psychology,psychology,noun,b2
+394,pta,PTA,abbreviation,c2
+395,public-school,public school,noun,c1
+396,pupil,pupil,noun,b2
+397,quad,quad,noun,c2
+398,quadrangle,quadrangle,noun,c2
+399,qualification,qualification,noun,b1
+400,qualified,qualified,adjective,b1
+401,qualify,qualify,verb,b1
+402,re_1,RE,noun,c2
+403,read_1,read,verb,c2
+404,reader,reader,noun,c2
+405,readership,readership,noun,c2
+406,reading-list,reading list,noun,a2
+407,reception,reception,noun,c2
+408,reception-class,reception class,noun,c2
+409,recess_1,recess,noun,c2
+410,red-brick,red-brick,adjective,c2
+411,register_2,register,noun,b2
+412,registrar,registrar,noun,c2
+413,registration,registration,noun,c1
+414,remote-learning,remote learning,noun,b2
+415,report_1,report,noun,b1
+416,research_1,research,noun,a2
+417,research_2,research,verb,a2
+418,residence-hall,residence hall,noun,c1
+419,residential,residential,adjective,c1
+420,resit_1,resit,noun,c2
+421,resit_2,resit,verb,c2
+422,result_1,result,noun,a1
+423,retake_2,retake,noun,c1
+424,review_1,review,noun,a2
+425,review_2,review,verb,a2
+426,revise,revise,verb,b1
+427,revision,revision,noun,b2
+428,room-mate,room-mate,noun,b2
+429,rubber_1,rubber,noun,b2
+430,rubric,rubric,noun,c2
+431,ruler,ruler,noun,a2
+432,sat_2,SAT,noun,c2
+433,satchel,satchel,noun,c2
+434,sce,SCE,abbreviation,c2
+435,schedule_1,schedule,noun,a2
+436,scholar,scholar,noun,c1
+437,scholarship,scholarship,noun,b2
+438,scholastic,scholastic,adjective,c2
+439,school_1,school,noun,a1
+440,schoolchild,schoolchild,noun,a2
+441,school-council,school council,noun,c1
+442,school-day,school day,noun,a2
+443,school-district,school district,noun,c1
+444,schooling,schooling,noun,c1
+445,schoolkid,schoolkid,noun,a2
+446,school-leaver,school-leaver,noun,b1
+447,schoolmistress,schoolmistress,noun,c2
+448,schoolyard,schoolyard,noun,c2
+449,science,science,noun,a1
+450,score_1,score,verb,b1
+451,score_2,score,noun,a2
+452,script_1,script,noun,c2
+453,second1_3,second,noun,c2
+454,secondary-education,secondary education,noun,b2
+455,secondary-modern,secondary modern,noun,c2
+456,secondary-school,secondary school,noun,b1
+457,second-class_1,second class,noun,c2
+458,semester,semester,noun,b1
+459,seminar,seminar,noun,b2
+460,sen_1,SEN,abbreviation,c2
+461,senior_1,senior,adjective,c1
+462,senior_2,senior,noun,c1
+463,senior-high-school,senior high school,noun,b2
+464,session,session,noun,c2
+465,set_1,set,verb,b1
+466,setter,setter,noun,c1
+467,sickbay,sickbay,noun,c2
+468,sit,sit,verb,c2
+469,sixth-form,sixth form,noun,c1
+470,sixth-form-college,sixth-form college,noun,c1
+471,skip_1,skip,verb,c1
+472,skive,skive,verb,c2
+473,social-science,social science,noun,b2
+474,social-studies,social studies,noun,b2
+475,sociological,sociological,adjective,c1
+476,sociology,sociology,noun,b2
+477,sophomore,sophomore,noun,c2
+478,sorority,sorority,noun,c2
+479,special-education,special education,noun,c2
+480,special-school,special school,noun,c2
+481,sponsor_1,sponsor,verb,b2
+482,sponsor_2,sponsor,noun,b2
+483,sports-day,sports day,noun,b1
+484,staff_1,staff,noun,c2
+485,staffroom,staffroom,noun,c1
+486,state-school,state school,noun,b2
+487,state-university,state university,noun,b2
+488,the-ivy-league,the Ivy League,noun,c2
+489,the-performing-arts,the performing arts,noun,b2
+490,the-school-run,the school run,noun,c2
+491,steam_2,STEAM,abbreviation,c2
+492,stem_2,STEM,abbreviation,c1
+493,stream_1,stream,noun,c2
+494,student,student,noun,a1
+495,studious,studious,adjective,c2
+496,study_1,study,noun,a1
+497,study_2,study,verb,a1
+498,study-hall,study hall,noun,c2
+499,subject_1,subject,noun,a1
+500,summa-cum-laude,summa cum laude,adverb,c2
+501,summer-school,summer school,noun,b2
+502,suspend,suspend,verb,c1
+503,suspension,suspension,noun,c1
+504,swot_1,swot,noun,c2
+505,swot_2,swot,verb,c2
+506,swot-up,swot up,phrasal verb,c2
+507,swot-up-on,swot up on,phrasal verb,c2
+508,syllabus,syllabus,noun,c1
+509,take_1,take,verb,a2
+510,task_1,task,noun,a2
+511,taunt_1,taunt,verb,c2
+512,taunt_2,taunt,noun,c2
+513,teach,teach,verb,a1
+514,teacher,teacher,noun,a1
+515,teacher-trainer,teacher trainer,noun,b2
+516,teacher-training,teacher training,noun,b2
+517,teaching,teaching,noun,a2
+518,teaching-assistant,teaching assistant,noun,b1
+519,telling-off,telling-off,noun,c2
+520,tell-off,tell off,phrasal verb,c1
+521,tell-on,tell on,phrasal verb,c2
+522,tenure,tenure,noun,c2
+523,term_1,term,noun,b1
+524,term-time_1,term time,noun,b2
+525,tertiary,tertiary,adjective,c2
+526,tertiary-college,tertiary college,noun,c2
+527,test_1,test,noun,a1
+528,test_2,test,verb,a1
+529,text_1,text,noun,a1
+530,textbook_1,textbook,noun,b2
+531,theology,theology,noun,c1
+532,thesis,thesis,noun,b2
+533,third_2,third,noun,c2
+534,third-class_1,third class,noun,c2
+535,third-class_3,third-class,adjective,c2
+536,timetable_1,timetable,noun,a2
+537,trade-school,trade school,noun,c2
+538,train_2,train,verb,a2
+539,trainee,trainee,noun,b2
+540,training,training,noun,a2
+541,transcript,transcript,noun,c2
+542,truant_1,truant,verb,c1
+543,truant_2,truant,noun,c1
+544,tuition,tuition,noun,c1
+545,tutor_1,tutor,noun,b1
+546,tutor_2,tutor,verb,b2
+547,tutorial_1,tutorial,noun,b2
+548,undergraduate,undergraduate,noun,c1
+549,uniform_1,uniform,noun,a2
+550,university,university,noun,a1
+551,upper-school,upper school,noun,c1
+552,vacation_1,vacation,noun,a2
+553,varsity_1,varsity,noun,c2
+554,vice-chancellor,vice chancellor,noun,c2
+555,visiting,visiting,adjective,b2
+556,viva2,viva,noun,c2
+557,viva-voce,viva voce,noun,c2
+558,vle,VLE,noun,c2
+559,vocational,vocational,adjective,c1
+560,vocational-school,vocational school,noun,c1
+561,weighting,weighting,noun,c2
+562,whiteboard,whiteboard,noun,b1
+563,workbook,workbook,noun,b2
+564,worksheet,worksheet,noun,b2
+565,written_1,written,adjective,b1
+566,year,year,noun,a1
+567,yearbook,yearbook,noun,c2
+568,zoology,zoology,noun,c1
+569,acquaintance,acquaintance,noun,b2
+570,adopt,adopt,verb,b2
+571,adoptive,adoptive,adjective,c1
+572,adulterous,adulterous,adjective,c2
+573,adultery,adultery,noun,c2
+574,affair,affair,noun,b2
+575,affaire,affaire,noun,c2
+576,affinity,affinity,noun,c2
+577,alike_2,alike,adjective,c1
+578,ally_1,ally,noun,c1
+579,amity,amity,noun,c2
+580,ancestor,ancestor,noun,b2
+581,ancestry,ancestry,noun,c1
+582,annul,annul,verb,c2
+583,annulment,annulment,noun,c2
+584,antecedent_1,antecedent,noun,c2
+585,aunt,aunt,noun,a1
+586,avuncular,avuncular,adjective,c2
+587,background,background,noun,a2
+588,band_1,band,noun,b2
+589,befriend,befriend,verb,c2
+590,terms,"be on good, friendly, bad, etc. terms (with somebody)",idiom,c1
+591,bestie,bestie,noun,c2
+592,bf,BF,abbreviation,c2
+593,biracial,biracial,adjective,c1
+594,birth-father,birth father,noun,c1
+595,birth-mother,birth mother,noun,c1
+596,birthright,birthright,noun,c2
+597,blended-family,blended family,noun,c2
+598,blood_1,blood,noun,c2
+599,blood-relation,blood relation,noun,c2
+600,blue-blood,blue blood,noun,c2
+601,blue-blooded,blue-blooded,adjective,c2
+602,bond_1,bond,noun,b2
+603,bond_2,bond,verb,c1
+604,bonding,bonding,noun,c2
+605,bonhomie,bonhomie,noun,c2
+606,bosom-friend,bosom friend,noun,c2
+607,boyfriend,boyfriend,noun,a1
+608,branch_1,branch,noun,c1
+609,break-up_2,break-up,noun,c1
+610,break-up_1,break up,phrasal verb,b1
+611,breeding,breeding,noun,c2
+612,broer,broer,noun,c2
+613,broken-home,broken home,noun,c2
+614,brother_1,brother,noun,a1
+615,brotherhood,brotherhood,noun,c1
+616,brother-in-law,brother-in-law,noun,b1
+617,brotherly,brotherly,adjective,c1
+618,bua,bua,noun,c2
+619,buddy_1,buddy,noun,c1
+620,marriage,by marriage,idiom,b2
+621,camaraderie,camaraderie,noun,c2
+622,care_2,care,verb,a2
+623,caress_1,caress,verb,c2
+624,caress_2,caress,noun,c2
+625,chacha,chacha,noun,c2
+626,chachi,chachi,noun,c2
+627,cheat_1,cheat,verb,c1
+628,chemistry,chemistry,noun,c2
+629,cherish,cherish,verb,c2
+630,christian-name,Christian name,noun,c1
+631,chuck_1,chuck,verb,c2
+632,chum,chum,noun,c2
+633,civil-partner,civil partner,noun,c1
+634,clan,clan,noun,c1
+635,close2_1,close,adjective,b1
+636,close-knit,close-knit,adjective,c1
+637,cobber,cobber,noun,c2
+638,common-law-husband,common-law husband,noun,c2
+639,common-law-wife,common-law wife,noun,c2
+640,companion,companion,noun,c1
+641,companionship,companionship,noun,c1
+642,compatible,compatible,adjective,c1
+643,comrade,comrade,noun,c2
+644,consanguinity,consanguinity,noun,c2
+645,convivial,convivial,adjective,c2
+646,conviviality,conviviality,noun,c2
+647,co-parent_1,co-parent,noun,c1
+648,co-parent_2,co-parent,verb,c1
+649,co-parenting,co-parenting,noun,c1
+650,couple_1,couple,noun,a2
+651,court_2,court,verb,c2
+652,cousin,cousin,noun,a1
+653,crony,crony,noun,c2
+654,crush_2,crush,noun,c2
+655,cuddle_1,cuddle,verb,c2
+656,cupid,Cupid,noun,c2
+657,custodial,custodial,adjective,c2
+658,custody,custody,noun,c1
+659,dad,dad,noun,a1
+660,dada_1,dada,noun,c2
+661,daddy,daddy,noun,a2
+662,damad,damad,noun,c2
+663,datable,datable,adjective,c1
+664,date_1,date,noun,a2
+665,date_2,date,verb,b2
+666,date-night,date night,noun,b2
+667,dating-agency,dating agency,noun,c2
+668,daughter,daughter,noun,a1
+669,daughter-in-law,daughter-in-law,noun,b1
+670,decree-absolute,decree absolute,noun,c2
+671,descendant,descendant,noun,c1
+672,descent,descent,noun,c2
+673,devoted,devoted,adjective,c1
+674,devotion,devotion,noun,c1
+675,didi,didi,noun,c2
+676,disown,disown,verb,c2
+677,dissolution,dissolution,noun,c2
+678,dissolve,dissolve,verb,c2
+679,distant,distant,adjective,c1
+680,divorce_1,divorce,noun,b2
+681,divorce_2,divorce,verb,b2
+682,divorced,divorced,adjective,a2
+683,divorcee_1,divorcee,noun,c2
+684,divorce_3,divorcé,noun,c2
+685,divorcee_2,divorcée,noun,c2
+686,double-barrelled,double-barrelled,adjective,c2
+687,dual-heritage,dual heritage,noun,c2
+688,dump_1,dump,verb,c1
+689,dynasty_1,dynasty,noun,c1
+690,elder_1,elder,adjective,c1
+691,eldest,eldest,adjective,b2
+692,embrace_2,embrace,verb,b2
+693,estranged,estranged,adjective,c2
+694,ex_1,ex,noun,c1
+695,ex_3,ex-,prefix,c1
+696,extended-family,extended family,noun,c1
+697,extraction,extraction,noun,c2
+698,fall-in-with,fall in with,phrasal verb,c2
+699,fam,fam,noun,c2
+700,family_1,family,noun,a1
+701,family-name,family name,noun,a2
+702,family-tree,family tree,noun,b1
+703,fancy_1,fancy,verb,b1
+704,father_1,father,noun,a1
+705,father-in-law,father-in-law,noun,b1
+706,fellowship,fellowship,noun,c2
+707,first-base,first base,noun,c2
+708,first-cousin,first cousin,noun,a1
+709,first-name,first name,noun,a2
+710,fling_2,fling,noun,c2
+711,flirt_1,flirt,verb,c1
+712,flirt_2,flirt,noun,c1
+713,flirtation,flirtation,noun,c2
+714,forebear,forebear,noun,c2
+715,forefather,forefather,noun,c2
+716,forename,forename,noun,c2
+717,foster_1,foster,verb,c1
+718,fraternity,fraternity,noun,c2
+719,friend_1,friend,noun,a1
+720,friendship,friendship,noun,b1
+721,gang_1,gang,noun,b2
+722,genealogical,genealogical,adjective,c2
+723,genealogy,genealogy,noun,c2
+724,generation,generation,noun,b1
+725,get-off-with,get off with,phrasal verb,c2
+726,get-on,get on,phrasal verb,b1
+727,house_1,get on like a house on fire,idiom,c2
+728,get-on-with,get on with,phrasal verb,b1
+729,gf,GF,abbreviation,c2
+730,girlfriend,girlfriend,noun,a1
+731,given-name,given name,noun,c1
+732,godchild,godchild,noun,c2
+733,god-daughter,god-daughter,noun,c2
+734,godfather,godfather,noun,c2
+735,godmother,godmother,noun,c2
+736,godparent,godparent,noun,c2
+737,godson,godson,noun,c2
+738,gramps,gramps,noun,c2
+739,gran,gran,noun,b2
+740,grandad,grandad,noun,a1
+741,grandchild,grandchild,noun,a1
+742,granddaughter,granddaughter,noun,a1
+743,grandfather,grandfather,noun,a1
+744,grandkid,grandkid,noun,b2
+745,grandma,grandma,noun,a1
+746,grandmother,grandmother,noun,a1
+747,grandpa,grandpa,noun,a1
+748,grandparent,grandparent,noun,a1
+749,grandson,grandson,noun,a1
+750,granny_1,granny,noun,a2
+751,great_1,great,adjective,c2
+752,half-brother,half-brother,noun,c1
+753,half-sister,half-sister,noun,c1
+754,harmonious,harmonious,adjective,c2
+755,heir,heir,noun,c1
+756,heiress,heiress,noun,c1
+757,heirloom_1,heirloom,noun,c2
+758,heritage,heritage,noun,c1
+759,hit_1,hit it off (with somebody),idiom,c1
+760,home_1,home,noun,a2
+761,homeboy,homeboy,noun,c2
+762,homegirl,homegirl,noun,c2
+763,hook-up-with,hook up with,phrasal verb,c2
+764,hospitable,hospitable,adjective,c1
+765,hospitality,hospitality,noun,c1
+766,hug_1,hug,verb,b2
+767,hug_2,hug,noun,b2
+768,husband_1,husband,noun,a1
+769,identical,identical,adjective,b2
+770,identical-twin,identical twin,noun,b2
+771,illegitimate,illegitimate,adjective,c2
+772,infatuated,infatuated,adjective,c2
+773,infatuation,infatuation,noun,c2
+774,inherit,inherit,verb,b2
+775,inheritance,inheritance,noun,c1
+776,in-laws,in-laws,noun,b2
+777,intimacy,intimacy,noun,c2
+778,intimate_1,intimate,adjective,c1
+779,intimate_3,intimate,noun,c2
+780,jamai,jamai,noun,c2
+781,joint-family,joint family,noun,c2
+782,junior_1,junior,adjective,c1
+783,kid_3,kid,adjective,c1
+784,kin,kin,noun,c2
+785,kinship,kinship,noun,c2
+786,kiss_1,kiss,verb,b1
+787,kiss_2,kiss,noun,b1
+788,kin,kith and kin,idiom,c2
+789,last-name,last name,noun,a2
+790,lead-on,lead on,phrasal verb,c2
+791,leave_1,leave,verb,a1
+792,legitimate,legitimate,adjective,c2
+793,liaison,liaison,noun,c2
+794,lineal,lineal,adjective,c2
+795,lone-parent-family,lone-parent family,noun,c2
+796,love_1,love,noun,a1
+797,love-affair,love affair,noun,b2
+798,lovebird,lovebird,noun,c2
+799,love-hate-relationship,love-hate relationship,noun,c2
+800,love-letter,love letter,noun,b1
+801,love-life,love life,noun,b1
+802,lovelorn,lovelorn,adjective,c2
+803,love-match,love match,noun,c2
+804,love-nest,love nest,noun,c2
+805,lover,lover,noun,b1
+806,lovesick,lovesick,adjective,c2
+807,love-triangle,love triangle,noun,c2
+808,lovey-dovey,lovey-dovey,adjective,c2
+809,lust_1,lust,noun,c2
+810,ma_1,ma,noun,c2
+811,maa,maa,noun,c2
+812,maasi,maasi,noun,c2
+813,maiden-name,maiden name,noun,c1
+814,main-man,main man,noun,c2
+815,make-out,make out,phrasal verb,c2
+816,mama1,mama,noun,c2
+817,mama2,mama,noun,c2
+818,mami,mami,noun,c2
+819,masa2,masa,noun,c2
+820,matchmaker,matchmaker,noun,c2
+821,mate_1,mate,noun,b2
+822,maternal,maternal,adjective,c2
+823,matriarch,matriarch,noun,c2
+824,matrilineal,matrilineal,adjective,c2
+825,meetup,meetup,noun,c2
+826,middle-name,middle name,noun,b1
+827,mistress,mistress,noun,c2
+828,mixed,mixed,adjective,b2
+829,mixed-race,mixed-race,adjective,c1
+830,mom,mom,noun,a1
+831,momma,momma,noun,a2
+832,mommy,mommy,noun,a2
+833,monozygotic-twin,monozygotic twin,noun,c2
+834,mother_1,mother,noun,a1
+835,mother-in-law,mother-in-law,noun,b1
+836,multiracial,multiracial,adjective,c2
+837,mum_1,mum,noun,a1
+838,mummy,mummy,noun,a2
+839,name_1,name,noun,a1
+840,nan1,nan,noun,c2
+841,nana2,nana,noun,c2
+842,nanny,nanny,noun,c2
+843,near_2,near,adjective,b2
+844,neighbour_1,neighbour,noun,a1
+845,neighbourly,neighbourly,adjective,c1
+846,nephew,nephew,noun,a2
+847,next-of-kin,next of kin,noun,c1
+848,nickname_1,nickname,noun,b1
+849,niece,niece,noun,a2
+850,nuclear-family,nuclear family,noun,c1
+851,nullity,nullity,noun,c2
+852,nee,née,adjective,c2
+853,one-parent-family,one-parent family,noun,b2
+854,only-child,only child,noun,b1
+855,open-marriage,open marriage,noun,c2
+856,orphan_1,orphan,noun,c1
+857,orphanage,orphanage,noun,c1
+858,pa_1,pa,noun,c2
+859,pal_1,pal,noun,c2
+860,pal-around,pal around,phrasal verb,c2
+861,papa,papa,noun,b2
+862,parent_1,parent,noun,a1
+863,parent_2,parent,verb,c1
+864,parenting,parenting,noun,c1
+865,parents-in-law,parents-in-law,noun,b1
+866,part_2,part,verb,c2
+867,partner_1,partner,noun,a2
+868,party_1,party,noun,a1
+869,passion,passion,noun,b1
+870,passionate,passionate,adjective,b2
+871,paterfamilias,paterfamilias,noun,c2
+872,paternal,paternal,adjective,c2
+873,patriarch,patriarch,noun,c2
+874,patrilineal,patrilineal,adjective,c2
+875,patronymic,patronymic,noun,c2
+876,pedigree_1,pedigree,noun,c2
+877,pet-name,pet name,noun,c2
+878,phupha,phupha,noun,c2
+879,pick-up,pick up,phrasal verb,c2
+880,pickup_1,pickup,noun,c2
+881,platonic,platonic,adjective,c2
+882,playmate,playmate,noun,c1
+883,plus-one,plus-one,noun,c2
+884,polyamory,polyamory,noun,c2
+885,prefix_1,prefix,noun,c2
+886,related,related,adjective,b1
+887,relation,relation,noun,b1
+888,relationship,relationship,noun,b1
+889,relative_2,relative,noun,b1
+890,romance_1,romance,noun,b2
+891,romantic_1,romantic,adjective,b1
+892,romanticism,romanticism,noun,c2
+893,school-friend,school friend,noun,a2
+894,second-cousin,second cousin,noun,c2
+895,second-name,second name,noun,a2
+896,senior_1,senior,adjective,c1
+897,separate_2,separate,verb,b1
+898,separated,separated,adjective,b1
+899,separation,separation,noun,c1
+900,set_2,set,noun,c2
+901,settlement,settlement,noun,c2
+902,shipping,shipping,noun,c2
+903,shohar,shohar,noun,c2
+904,sibling,sibling,noun,b2
+905,sidekick,sidekick,noun,c2
+906,significant-other,significant other,noun,c2
+907,single-parent-family,single-parent family,noun,b1
+908,sister,sister,noun,a1
+909,sisterhood,sisterhood,noun,c1
+910,sister-in-law,sister-in-law,noun,b1
+911,sisterly,sisterly,adjective,c1
+912,smitten_1,smitten,adjective,c2
+913,sociability,sociability,noun,c1
+914,sociable,sociable,adjective,b1
+915,socialize,socialize,verb,b2
+916,son,son,noun,a1
+917,son-in-law,son-in-law,noun,b1
+918,soulmate,soulmate,noun,c2
+919,speed-dating,speed dating,noun,c2
+920,split_1,split,verb,c2
+921,step_3,step-,combining form,b2
+922,stepbrother,stepbrother,noun,b2
+923,stepchild,stepchild,noun,b2
+924,stepdaughter,stepdaughter,noun,b2
+925,stepfamily,stepfamily,noun,b2
+926,stepfather,stepfather,noun,b2
+927,stepmother,stepmother,noun,b2
+928,step-parent,step-parent,noun,b2
+929,stepsister,stepsister,noun,b2
+930,stepson,stepson,noun,b2
+931,surname,surname,noun,a2
+932,surrogate-mother,surrogate mother,noun,c2
+933,sweetheart,sweetheart,noun,c1
+934,thick_1,thick,adjective,c2
+935,tie_2,tie,noun,b2
+936,tiger-mother,tiger mother,noun,c2
+937,tight-knit,tight-knit,adjective,c1
+938,together_1,together,adverb,a1
+939,trace_1,trace,verb,b2
+940,triplet,triplet,noun,c2
+941,twin_1,twin,noun,a2
+942,uncle,uncle,noun,a1
+943,unfaithful,unfaithful,adjective,c2
+944,unrequited,unrequited,adjective,c2
+945,valentine,valentine,noun,c1
+946,wife,wife,noun,a1
+947,young_1,young,adjective,b1
+948,abashed,abashed,adjective,c2
+949,abhor,abhor,verb,c2
+950,abominable,abominable,adjective,c2
+951,abominate,abominate,verb,c2
+952,absorbed,absorbed,adjective,c1
+953,absorption,absorption,noun,c2
+954,abuse_1,abuse,noun,c1
+955,acrimonious,acrimonious,adjective,c2
+956,acrimony,acrimony,noun,c2
+957,addict,addict,noun,c1
+958,addicted,addicted,adjective,b2
+959,adoration,adoration,noun,c2
+960,adore,adore,verb,b2
+961,adoring,adoring,adjective,c2
+962,adrenaline,adrenaline,noun,c1
+963,adrift,adrift,adjective,c2
+964,affection,affection,noun,c1
+965,affectionate,affectionate,adjective,c1
+966,aflutter,aflutter,adjective,c2
+967,afraid,afraid,adjective,a1
+968,aggression,aggression,noun,c1
+969,aggressive,aggressive,adjective,b2
+970,aghast,aghast,adjective,c2
+971,agitate,agitate,verb,c1
+972,agitated,agitated,adjective,c1
+973,agitation,agitation,noun,c2
+974,agog,agog,adjective,c2
+975,alarm_1,alarm,noun,b2
+976,alarm_2,alarm,verb,b2
+977,alarmed,alarmed,adjective,b2
+978,alone,alone,adjective,b1
+979,amaze,amaze,verb,b1
+980,amazed,amazed,adjective,b1
+981,amazement,amazement,noun,b2
+982,amorous,amorous,adjective,c2
+983,amour,amour,noun,c2
+984,amusement,amusement,noun,b2
+985,anger_1,anger,noun,b2
+986,anger_2,anger,verb,b2
+987,angrily,angrily,adverb,b1
+988,angry,angry,adjective,a1
+989,annoy,annoy,verb,b1
+990,annoyance,annoyance,noun,c1
+991,annoyed,annoyed,adjective,b1
+992,annoying,annoying,adjective,b1
+993,antagonism,antagonism,noun,c2
+994,antagonize,antagonize,verb,c2
+995,anxiety,anxiety,noun,b2
+996,anxious,anxious,adjective,b2
+997,apathy,apathy,noun,c2
+998,apoplectic,apoplectic,adjective,c2
+999,appalled,appalled,adjective,c1
+1000,apprehension,apprehension,noun,c2
+1001,apprehensive,apprehensive,adjective,c1
+1002,approval,approval,noun,b2
+1003,ardour,ardour,noun,c2
+1004,argue,argue,verb,a2
+1005,argument,argument,noun,a2
+1006,ashamed,ashamed,adjective,b2
+1007,punch_3,(as) pleased/proud as Punch,idiom,c2
+1008,sick_1,(as) sick as a parrot,idiom,c2
+1009,astonish,astonish,verb,b2
+1010,astonished,astonished,adjective,b2
+1011,astonishment,astonishment,noun,c1
+1012,astound,astound,verb,c1
+1013,astounded,astounded,adjective,c1
+1014,attraction,attraction,noun,b1
+1015,awkward,awkward,adjective,b2
+1016,bad_1,bad,adjective,b1
+1017,bashful,bashful,adjective,c2
+1018,nerve_1,be a bag/bundle of nerves,idiom,c2
+1019,beam_2,beam,verb,c2
+1020,wit,be at your wits’ end,idiom,c2
+1021,shadow_1,be frightened/nervous/scared of your own shadow,idiom,c2
+1022,rile,be/get (all) riled up,idiom,c2
+1023,steam_3,be/get (all) steamed up (about/over something),idiom,c2
+1024,belong,belong,verb,b1
+1025,lost_1,be lost for words,idiom,c1
+1026,edge_1,be on edge,idiom,c2
+1027,tenterhooks,(be) on tenterhooks,idiom,c2
+1028,bereft,bereft,adjective,c2
+1029,berserk,berserk,adjective,c2
+1030,witless,be scared/bored witless,idiom,c2
+1031,besotted,besotted,adjective,c2
+1032,starve,be starving (for something),idiom,c2
+1033,aback,be taken aback (by somebody/something),idiom,c2
+1034,tickle_1,be tickled pink,idiom,c2
+1035,bitter_1,bitter,adjective,b2
+1036,blanch,blanch,verb,c2
+1037,blaze-up,blaze up,phrasal verb,c2
+1038,blazing,blazing,adjective,c2
+1039,bleary,bleary,adjective,c2
+1040,bleary-eyed,bleary-eyed,adjective,c2
+1041,blench,blench,verb,c2
+1042,blindside,blindside,verb,c2
+1043,blissful,blissful,adjective,c2
+1044,blithe,blithe,adjective,c2
+1045,bloom_2,bloom,verb,c2
+1046,blow_1,blow a fuse,idiom,c2
+1047,sock_1,blow/knock somebody’s socks off,idiom,c2
+1048,blow-up_2,blow-up,noun,c2
+1049,blow-up_1,blow up,phrasal verb,c2
+1050,blue_1,blue,adjective,c2
+1051,blush_1,blush,verb,c1
+1052,body-blow,body blow,noun,c2
+1053,boggle,boggle,verb,c2
+1054,boil_1,boil,verb,c2
+1055,boil-over,boil over,phrasal verb,c2
+1056,boil-up,boil up,phrasal verb,c2
+1057,bore_1,bore,verb,c1
+1058,bore_2,bore,noun,c1
+1059,bored,bored,adjective,a1
+1060,boredom,boredom,noun,b2
+1061,bowl-over,bowl over,phrasal verb,c2
+1062,brain-dead,brain-dead,adjective,c2
+1063,break_1,break,verb,c2
+1064,breathtaking,breathtaking,adjective,b2
+1065,bristle_2,bristle,verb,c2
+1066,broken_1,broken,adjective,c1
+1067,broken-heart,broken heart,noun,c1
+1068,broken-hearted,broken-hearted,adjective,c1
+1069,brood_1,brood,verb,c2
+1070,broody,broody,adjective,c2
+1071,bum_2,bum,verb,c2
+1072,bust-up_2,bust-up,noun,c2
+1073,buzz_2,buzz,noun,c1
+1074,caper_2,caper,verb,c2
+1075,capture_1,capture,verb,b2
+1076,care_2,care,verb,a2
+1077,careworn,careworn,adjective,c2
+1078,carry_1,carry a torch for somebody,idiom,c2
+1079,balance_1,(catch/throw somebody) off balance,idiom,c2
+1080,chafe,chafe,verb,c2
+1081,chagrin,chagrin,noun,c2
+1082,channel_1,channel,noun,c1
+1083,chatter_1,chatter,verb,c2
+1084,cheerful,cheerful,adjective,b1
+1085,cheery,cheery,adjective,c2
+1086,chill_1,chill,noun,c2
+1087,choked,choked,adjective,c2
+1088,choleric,choleric,adjective,c2
+1089,chuffed,chuffed,adjective,c2
+1090,chug_1,chug,verb,c2
+1091,churn_1,churn,verb,c2
+1092,cloud_2,cloud,verb,c2
+1093,cold-sweat,cold sweat,noun,c2
+1094,alive,come alive,idiom,c1
+1095,complain,complain,verb,a2
+1096,condole,condole,verb,c2
+1097,confess,confess,verb,b2
+1098,confession,confession,noun,c1
+1099,confound,confound,verb,c2
+1100,confrontational,confrontational,adjective,c2
+1101,conscience-stricken,conscience-stricken,adjective,c2
+1102,consternation,consternation,noun,c2
+1103,contempt,contempt,noun,c1
+1104,contemptuous,contemptuous,adjective,c1
+1105,content2_1,content,adjective,c1
+1106,controversial,controversial,adjective,b2
+1107,cool_1,cool,adjective,b2
+1108,cowed,cowed,adjective,c2
+1109,cower,cower,verb,c2
+1110,cranky,cranky,adjective,c2
+1111,crazy_1,crazy,adjective,a2
+1112,creepy,creepy,adjective,c2
+1113,crestfallen,crestfallen,adjective,c2
+1114,cringe,cringe,verb,c2
+1115,cringeworthy,cringeworthy,adjective,c2
+1116,cross_3,cross,adjective,c2
+1117,crotchety,crotchety,adjective,c2
+1118,crumple,crumple,verb,c2
+1119,cry_1,cry,verb,a2
+1120,curdle,curdle,verb,c2
+1121,curious,curious,adjective,b2
+1122,dead-beat,dead beat,adjective,c2
+1123,dejected,dejected,adjective,c2
+1124,dejection,dejection,noun,c2
+1125,delighted,delighted,adjective,b2
+1126,delirious,delirious,adjective,c2
+1127,demolish,demolish,verb,c2
+1128,depressed,depressed,adjective,b2
+1129,depressing,depressing,adjective,b2
+1130,depression,depression,noun,b2
+1131,desire_1,desire,noun,b2
+1132,desolate_1,desolate,adjective,c1
+1133,desolation,desolation,noun,c2
+1134,despair_1,despair,noun,c1
+1135,despair_2,despair,verb,c1
+1136,desperate,desperate,adjective,b2
+1137,desperation,desperation,noun,c2
+1138,despondency,despondency,noun,c2
+1139,despondent,despondent,adjective,c2
+1140,detest,detest,verb,c1
+1141,devastate,devastate,verb,c1
+1142,devoted,devoted,adjective,c1
+1143,devotion,devotion,noun,c1
+1144,devour,devour,verb,c1
+1145,diffidence,diffidence,noun,c2
+1146,diffident,diffident,adjective,c2
+1147,disappoint,disappoint,verb,b2
+1148,disappointed,disappointed,adjective,b1
+1149,disappointing,disappointing,adjective,b1
+1150,disappointment,disappointment,noun,b2
+1151,disapproval,disapproval,noun,c1
+1152,discomfit,discomfit,verb,c2
+1153,discomfiture,discomfiture,noun,c2
+1154,discomfort_2,discomfort,verb,c1
+1155,disconcert,disconcert,verb,c2
+1156,disconcerted,disconcerted,adjective,c2
+1157,disconcerting,disconcerting,adjective,c2
+1158,disconsolate,disconsolate,adjective,c2
+1159,discontent,discontent,noun,c1
+1160,discontented,discontented,adjective,c1
+1161,disgrace_2,disgrace,verb,c2
+1162,disgraceful,disgraceful,adjective,c2
+1163,disgruntled,disgruntled,adjective,c2
+1164,disgust_1,disgust,noun,c1
+1165,disgust_2,disgust,verb,c2
+1166,disgusted,disgusted,adjective,c1
+1167,disgusting,disgusting,adjective,b2
+1168,disillusioned,disillusioned,adjective,c1
+1169,disinterested,disinterested,adjective,c2
+1170,dismay_1,dismay,noun,c2
+1171,dismay_2,dismay,verb,c2
+1172,distress_1,distress,noun,c1
+1173,distress_2,distress,verb,c1
+1174,distressed,distressed,adjective,c1
+1175,distressing,distressing,adjective,c1
+1176,disturbed,disturbed,adjective,c1
+1177,dog-tired,dog-tired,adjective,c2
+1178,doldrums,doldrums,noun,c2
+1179,doleful,doleful,adjective,c2
+1180,dote-on,dote on,phrasal verb,c2
+1181,dote-upon,dote upon,phrasal verb,c2
+1182,doting,doting,adjective,c2
+1183,down_3,down,verb,c2
+1184,down_4,down,adjective,b2
+1185,downcast,downcast,adjective,c2
+1186,downer,downer,noun,c2
+1187,downhearted,downhearted,adjective,c2
+1188,dumps,down in the dumps,idiom,c2
+1189,mouth_1,down in the mouth,idiom,c2
+1190,drab,drab,adjective,c2
+1191,drag_2,drag,noun,c2
+1192,drained,drained,adjective,c2
+1193,dread_1,dread,verb,c1
+1194,dread_2,dread,noun,c1
+1195,dreaded,dreaded,adjective,c2
+1196,dreadful,dreadful,adjective,b2
+1197,dreary,dreary,adjective,c2
+1198,droop_1,droop,verb,c2
+1199,drowsy,drowsy,adjective,c2
+1200,dry_1,dry,adjective,c2
+1201,dull_1,dull,adjective,b2
+1202,dumbfound,dumbfound,verb,c2
+1203,dumbfounded,dumbfounded,adjective,c2
+1204,eager,eager,adjective,c1
+1205,eagerness,eagerness,noun,c1
+1206,eco-anxiety,eco-anxiety,noun,c1
+1207,ecstatic,ecstatic,adjective,c1
+1208,edgy,edgy,adjective,c2
+1209,effervescent,effervescent,adjective,c2
+1210,ejaculation,ejaculation,noun,c2
+1211,elated,elated,adjective,c2
+1212,electric_1,electric,adjective,c2
+1213,electrify,electrify,verb,c2
+1214,embarrassed,embarrassed,adjective,b1
+1215,embarrassing,embarrassing,adjective,b1
+1216,embarrassment,embarrassment,noun,c1
+1217,embitter,embitter,verb,c2
+1218,embittered,embittered,adjective,c2
+1219,emotion,emotion,noun,b1
+1220,emotional,emotional,adjective,b2
+1221,empathetic,empathetic,adjective,c2
+1222,empathetically,empathetically,adverb,c2
+1223,emptiness,emptiness,noun,c2
+1224,empty_2,empty,adjective,b2
+1225,enamoured,enamoured,adjective,c2
+1226,enchant,enchant,verb,c2
+1227,engrossed,engrossed,adjective,c2
+1228,enjoy,enjoy,verb,a2
+1229,enjoyment,enjoyment,noun,b2
+1230,enrage,enrage,verb,c2
+1231,enthuse,enthuse,verb,c2
+1232,enthusiasm,enthusiasm,noun,b2
+1233,enthusiast,enthusiast,noun,c1
+1234,envy_1,envy,noun,c1
+1235,envy_2,envy,verb,c1
+1236,exasperated,exasperated,adjective,c2
+1237,excitable,excitable,adjective,c2
+1238,excite,excite,verb,c1
+1239,excited,excited,adjective,b2
+1240,excitement,excitement,noun,b1
+1241,exclamatory,exclamatory,adjective,c2
+1242,exhausted,exhausted,adjective,b1
+1243,exhausting,exhausting,adjective,b2
+1244,exhaustion,exhaustion,noun,c1
+1245,exhilarate,exhilarate,verb,c2
+1246,exhilarated,exhilarated,adjective,c2
+1247,exhilaration,exhilaration,noun,c2
+1248,explode,explode,verb,c2
+1249,explosive_1,explosive,adjective,c2
+1250,exult,exult,verb,c2
+1251,exultant,exultant,adjective,c2
+1252,fail_1,fail,verb,c1
+1253,faintness,faintness,noun,c2
+1254,fall-for,fall for,phrasal verb,c1
+1255,famished,famished,adjective,c2
+1256,fancy_1,fancy,verb,b1
+1257,pleased,far from pleased,idiom,c2
+1258,fascinated,fascinated,adjective,b2
+1259,fascination,fascination,noun,c1
+1260,fatigue,fatigue,noun,c1
+1261,fatigued,fatigued,adjective,c2
+1262,fear_2,fear,verb,b1
+1263,fear-for,fear for,phrasal verb,c1
+1264,fearful,fearful,adjective,b2
+1265,fearsome,fearsome,adjective,c2
+1266,febrile,febrile,adjective,c2
+1267,fed-up,fed up,adjective,b1
+1268,feel_1,feel,linking verb,a1
+1269,feel_1,feel good,idiom,a2
+1270,feel-good,feel-good,adjective,b2
+1271,feeling,feeling,noun,a1
+1272,fidget_1,fidget,verb,c2
+1273,fidgety,fidgety,adjective,c2
+1274,fierce,fierce,adjective,c1
+1275,fiery,fiery,adjective,c2
+1276,fire_2,fire,verb,c2
+1277,flabbergasted,flabbergasted,adjective,c2
+1278,flap_2,flap,verb,c2
+1279,flare_1,flare,verb,c2
+1280,flare-up_2,flare-up,noun,c2
+1281,flare-up_1,flare up,phrasal verb,c2
+1282,flattering,flattering,adjective,c2
+1283,flinch,flinch,verb,c2
+1284,flinch-from,flinch from,phrasal verb,c2
+1285,flinch-from-doing,flinch from doing,phrasal verb,c2
+1286,flip_1,flip,verb,c2
+1287,flip_1,flip your lid,idiom,c2
+1288,air_1,float/walk on air,idiom,c2
+1289,floor_2,floor,verb,c2
+1290,flop_1,flop,verb,c2
+1291,flourish_1,flourish,verb,c1
+1292,flush_1,flush,verb,c2
+1293,flush_2,flush,noun,c2
+1294,fluster_2,fluster,noun,c2
+1295,flutter_1,flutter,verb,c2
+1296,flutter_2,flutter,noun,c2
+1297,fly_1,"fly into a rage, temper, etc.",idiom,c2
+1298,fly_1,fly off the handle,idiom,c2
+1299,foam_2,foam at the mouth,idiom,c2
+1300,fomo,FOMO,abbreviation,c2
+1301,fond,fond,adjective,c1
+1302,foolish,foolish,adjective,c1
+1303,fear_1,for fear of something/of doing something,idiom,c1
+1304,forlorn,forlorn,adjective,c2
+1305,frantic,frantic,adjective,c1
+1306,frazzled,frazzled,adjective,c2
+1307,freak_3,freak,verb,c2
+1308,freeze_1,freeze your blood,idiom,c2
+1309,fret_1,fret,verb,c2
+1310,fretful,fretful,adjective,c2
+1311,fright,fright,noun,c1
+1312,frightened,frightened,adjective,b1
+1313,frisson,frisson,noun,c2
+1314,frozen_1,frozen,adjective,c1
+1315,frustrate,frustrate,verb,c1
+1316,frustrated,frustrated,adjective,c1
+1317,fulfil,fulfil,verb,b2
+1318,fulfilled,fulfilled,adjective,c1
+1319,fume,fume,verb,c2
+1320,fun_1,fun,noun,a1
+1321,furious,furious,adjective,b2
+1322,fury,fury,noun,c1
+1323,gall_2,gall,verb,c2
+1324,galling,galling,adjective,c2
+1325,galvanize,galvanize,verb,c2
+1326,gasp_1,gasp,verb,c1
+1327,cold_1,get/have cold feet,idiom,c2
+1328,hots,get/have the hots for somebody,idiom,c2
+1329,gibber,gibber,verb,c2
+1330,giddy,giddy,adjective,c2
+1331,creep_2,give somebody the creeps,idiom,c2
+1332,heart_1,give your heart to somebody,idiom,c2
+1333,glad,glad,adjective,b1
+1334,gladden,gladden,verb,c2
+1335,glare_1,glare,verb,c1
+1336,glare_2,glare,noun,c1
+1337,glaze_1,glaze,verb,c2
+1338,glee,glee,noun,c2
+1339,gleeful,gleeful,adjective,c2
+1340,gloom,gloom,noun,c1
+1341,gloomy,gloomy,adjective,c1
+1342,glow_1,glow,verb,c2
+1343,glow_2,glow,noun,c2
+1344,glower_2,glower,verb,c2
+1345,rivet_2,glued/riveted/rooted to the spot,idiom,c2
+1346,spot_1,glued/riveted/rooted to the spot,idiom,c2
+1347,glum,glum,adjective,c2
+1348,gnash,gnash your teeth,idiom,c2
+1349,gnaw-at,gnaw at,phrasal verb,c2
+1350,ballistic,go ballistic,idiom,c2
+1351,banana,go bananas,idiom,c2
+1352,gobble,gobble,verb,c2
+1353,gobsmacked,gobsmacked,adjective,c2
+1354,goggle,goggle,verb,c2
+1355,goggle-eyed,goggle-eyed,adjective,c2
+1356,hot_1,go hot and cold,idiom,c2
+1357,go_1,go off on one,idiom,c2
+1358,go-on,go on,phrasal verb,c1
+1359,goose-pimples,goose pimples,noun,c2
+1360,gorge_2,gorge,verb,c2
+1361,spare_1,go spare,idiom,c2
+1362,roof_1,go through the roof,idiom,c2
+1363,grab_1,grab,verb,c2
+1364,grateful,grateful,adjective,b1
+1365,gratitude,gratitude,noun,c1
+1366,grave1_2,grave,adjective,c2
+1367,greed,greed,noun,c1
+1368,greedy,greedy,adjective,b2
+1369,grief-stricken,grief-stricken,adjective,c2
+1370,grieve,grieve,verb,c2
+1371,groggy,groggy,adjective,c2
+1372,gross-out_2,gross-out,noun,c2
+1373,gross-out_3,gross-out,adjective,c2
+1374,grudge_1,grudge,noun,c2
+1375,guilt_1,guilt,noun,c1
+1376,guilty,guilty,adjective,b1
+1377,gutted,gutted,adjective,c2
+1378,guzzle,guzzle,verb,c2
+1379,hacked-off,hacked off,adjective,c2
+1380,hang-up_2,hang-up,noun,c2
+1381,happiness,happiness,noun,b1
+1382,happy,happy,adjective,a1
+1383,happy-place,happy place,noun,c2
+1384,harp-on,harp on,phrasal verb,c2
+1385,hate_1,hate,verb,a1
+1386,hate_2,hate,noun,b1
+1387,hatred,hatred,noun,c1
+1388,temper_1,have a quick/short temper,idiom,c2
+1389,thing,have a thing for somebody/something,idiom,c2
+1390,bad_1,have got it bad,idiom,c2
+1391,hysterics,have hysterics,idiom,c2
+1392,head_1,head over heels in love,idiom,c2
+1393,heady,heady,adjective,c2
+1394,heart_1,heart,noun,b1
+1395,heartache,heartache,noun,c2
+1396,heartbreak,heartbreak,noun,c2
+1397,heartbreaking,heartbreaking,adjective,c2
+1398,heartbroken,heartbroken,adjective,c1
+1399,heart-rending,heart-rending,adjective,c2
+1400,heartsick,heartsick,adjective,c2
+1401,heaven,heaven,noun,b2
+1402,het-up,het up,adjective,c2
+1403,highly-strung,highly strung,adjective,c2
+1404,hit_1,hit the roof,idiom,c2
+1405,nerve_1,hit/touch/strike a (raw/sensitive) nerve,idiom,c2
+1406,homesick,homesick,adjective,b2
+1407,homesickness,homesickness,noun,c1
+1408,honor_1,honor,noun,b2
+1409,honour_1,honour,noun,b2
+1410,hook_1,hook,noun,c2
+1411,hope_1,hope,verb,a1
+1412,hope_2,hope,noun,a2
+1413,hopping_2,hopping mad,idiom,c2
+1414,horrified,horrified,adjective,c1
+1415,horrify,horrify,verb,b2
+1416,horrifying,horrifying,adjective,c1
+1417,horror,horror,noun,b1
+1418,horror-struck,horror-struck,adjective,c2
+1419,hostile,hostile,adjective,c1
+1420,hostility,hostility,noun,c1
+1421,hot_1,hot,adjective,c1
+1422,hot-blooded,hot-blooded,adjective,c2
+1423,hot-tempered,hot-tempered,adjective,c2
+1424,hot_1,hot under the collar,idiom,c2
+1425,huff_1,huff,verb,c2
+1426,puff_1,huff and puff,idiom,c2
+1427,humdrum,humdrum,adjective,c2
+1428,humiliate,humiliate,verb,c1
+1429,humiliating,humiliating,adjective,c1
+1430,humiliation,humiliation,noun,c1
+1431,hunger_1,hunger,noun,b2
+1432,hungry,hungry,adjective,a1
+1433,hunted,hunted,adjective,c2
+1434,hurt_1,hurt,verb,b2
+1435,hyped-up,hyped up,adjective,c2
+1436,hyper_1,hyper,adjective,c2
+1437,hyperventilate,hyperventilate,verb,c2
+1438,hysteria,hysteria,noun,c1
+1439,hysterics,hysterics,noun,c2
+1440,idol,idol,noun,c1
+1441,idolatrous,idolatrous,adjective,c2
+1442,idolatry,idolatry,noun,c2
+1443,idolize,idolize,verb,c2
+1444,idyll,idyll,noun,c2
+1445,ignominious,ignominious,adjective,c2
+1446,ignominy,ignominy,noun,c2
+1447,ill-tempered,ill-tempered,adjective,c2
+1448,illuminate,illuminate,verb,c2
+1449,illumine,illumine,verb,c2
+1450,spin_2,in a (flat) spin,idiom,c2
+1451,huff_2,in a huff,idiom,c2
+1452,incense_2,incense,verb,c2
+1453,incensed,incensed,adjective,c2
+1454,inconsolable,inconsolable,adjective,c2
+1455,indignant,indignant,adjective,c2
+1456,indignation,indignation,noun,c2
+1457,indignity,indignity,noun,c2
+1458,infatuated,infatuated,adjective,c2
+1459,infatuation,infatuation,noun,c2
+1460,fear_1,in fear of your life,idiom,c2
+1461,inflamed,inflamed,adjective,c2
+1462,infuriate,infuriate,verb,c1
+1463,infuriating,infuriating,adjective,c1
+1464,heart_1,in good heart,idiom,c2
+1465,inhibited,inhibited,adjective,c2
+1466,inhibition,inhibition,noun,c2
+1467,inquisitive,inquisitive,adjective,c1
+1468,insecure,insecure,adjective,c1
+1469,insecurity,insecurity,noun,c1
+1470,seventh_1,in seventh heaven,idiom,c2
+1471,interest_1,interest,noun,a1
+1472,intimidated,intimidated,adjective,c2
+1473,intoxicated,intoxicated,adjective,c2
+1474,intoxicating,intoxicating,adjective,c2
+1475,intrigue_1,intrigue,verb,c1
+1476,intrigued,intrigued,adjective,c1
+1477,invective,invective,noun,c2
+1478,irascibility,irascibility,noun,c2
+1479,irascible,irascible,adjective,c2
+1480,irate,irate,adjective,c2
+1481,irrepressible,irrepressible,adjective,c2
+1482,irritate,irritate,verb,c1
+1483,irritated,irritated,adjective,b2
+1484,isolation,isolation,noun,c1
+1485,jaunty,jaunty,adjective,c2
+1486,jealous,jealous,adjective,b1
+1487,jealousy,jealousy,noun,b2
+1488,jitters,jitters,noun,c2
+1489,jittery,jittery,adjective,c2
+1490,jolt_2,jolt,noun,c2
+1491,jomo,JOMO,abbreviation,c2
+1492,joy,joy,noun,b2
+1493,joyful,joyful,adjective,c1
+1494,joyous,joyous,adjective,c2
+1495,jump_1,jump,verb,b1
+1496,jumpy,jumpy,adjective,c2
+1497,keen_1,keen,adjective,b1
+1498,keyed-up,keyed up,adjective,c2
+1499,kick-off_1,kick off,phrasal verb,c2
+1500,knock_1,knock,verb,c2
+1501,knock_1,knock somebody sideways,idiom,c2
+1502,knot_2,knot,verb,c2
+1503,lament_1,lament,verb,c2
+1504,lash_1,lash,verb,c2
+1505,laugh_1,laugh,verb,a1
+1506,laugh_2,laugh,noun,a1
+1507,livid,livid,adjective,c2
+1508,loathe,loathe,verb,c1
+1509,loathsome,loathsome,adjective,c2
+1510,loneliness,loneliness,noun,c1
+1511,lonely,lonely,adjective,b1
+1512,loner,loner,noun,c2
+1513,lonesome_1,lonesome,adjective,c2
+1514,longing_1,longing,noun,c2
+1515,small_1,look/feel small,idiom,c2
+1516,heart_1,lose your heart (to somebody/something),idiom,c2
+1517,rag_1,lose your rag,idiom,c2
+1518,lovable,lovable,adjective,c1
+1519,love_1,love,noun,a1
+1520,love_2,love,verb,a1
+1521,loved-up,loved-up,adjective,c2
+1522,loveless,loveless,adjective,c1
+1523,lovelorn,lovelorn,adjective,c2
+1524,lovesick,lovesick,adjective,c2
+1525,lovey-dovey,lovey-dovey,adjective,c2
+1526,loving,loving,adjective,c1
+1527,lugubrious,lugubrious,adjective,c2
+1528,lukewarm,lukewarm,adjective,c2
+1529,lurch_1,lurch,verb,c2
+1530,lurve,lurve,noun,c2
+1531,lust_1,lust,noun,c2
+1532,mad_1,mad,adjective,b1
+1533,madden,madden,verb,c2
+1534,maddening,maddening,adjective,c2
+1535,sick_1,make somebody sick,idiom,c2
+1536,blood_1,make somebody’s blood boil,idiom,c2
+1537,blood_1,make somebody’s blood run cold,idiom,c2
+1538,day,make somebody’s day,idiom,c1
+1539,toe_1,make somebody’s toes curl,idiom,c2
+1540,flesh_1,make your flesh creep,idiom,c2
+1541,skin_1,make your skin crawl,idiom,c2
+1542,manic,manic,adjective,c2
+1543,marvel_2,marvel,verb,c1
+1544,melancholy_1,melancholy,noun,c2
+1545,melancholy_2,melancholy,adjective,c2
+1546,mellow_1,mellow,adjective,c2
+1547,melting,melting,adjective,c2
+1548,menace_1,menace,noun,c2
+1549,merriment,merriment,noun,c2
+1550,merry,merry,adjective,c1
+1551,messed-up,messed-up,adjective,c2
+1552,miffed,miffed,adjective,c2
+1553,mind-numbing,mind-numbing,adjective,c2
+1554,miserable,miserable,adjective,b2
+1555,misery,misery,noun,c1
+1556,monotonous,monotonous,adjective,c1
+1557,monotony,monotony,noun,c2
+1558,mood,mood,noun,b2
+1559,moody,moody,adjective,b2
+1560,moon-about,moon about,phrasal verb,c2
+1561,moon-around,moon around,phrasal verb,c2
+1562,moonstruck,moonstruck,adjective,c2
+1563,morose,morose,adjective,c2
+1564,mortification,mortification,noun,c2
+1565,mortify,mortify,verb,c2
+1566,mortifying,mortifying,adjective,c2
+1567,mourn,mourn,verb,c2
+1568,mournful,mournful,adjective,c2
+1569,munchies,munchies,noun,c2
+1570,nail-biting,nail-biting,adjective,c2
+1571,nerve_1,nerve,noun,b2
+1572,nervous,nervous,adjective,a2
+1573,nervy,nervy,adjective,c2
+1574,nettle_2,nettle,verb,c2
+1575,neurosis,neurosis,noun,c2
+1576,nuts,nuts,adjective,c2
+1577,offend,offend,verb,b2
+1578,ok_2,OK,adjective,a1
+1579,top_1,on top of the world,idiom,c1
+1580,conscience,on your conscience,idiom,c2
+1581,open-mouthed,open-mouthed,adjective,c2
+1582,outrage_1,outrage,noun,c1
+1583,outrage_2,outrage,verb,c1
+1584,overawe,overawe,verb,c2
+1585,overawed,overawed,adjective,c2
+1586,overexcited,overexcited,adjective,c1
+1587,overheated,overheated,adjective,c2
+1588,overjoyed,overjoyed,adjective,c1
+1589,overprotective,overprotective,adjective,c2
+1590,moon_1,over the moon,idiom,c1
+1591,overtired,overtired,adjective,c2
+1592,overwrought,overwrought,adjective,c2
+1593,pain_1,pain,noun,a2
+1594,painful,painful,adjective,b1
+1595,palpitate,palpitate,verb,c2
+1596,panic_2,panic,verb,b2
+1597,paranoia,paranoia,noun,c2
+1598,parched,parched,adjective,c2
+1599,passion,passion,noun,b1
+1600,passionate,passionate,adjective,b2
+1601,peckish,peckish,adjective,c2
+1602,pessimism,pessimism,noun,b2
+1603,pessimist,pessimist,noun,b2
+1604,petrified,petrified,adjective,c2
+1605,petrify,petrify,verb,c2
+1606,phobia,phobia,noun,b1
+1607,pig_2,pig,verb,c1
+1608,pine_2,pine,verb,c2
+1609,pique_1,pique,noun,c2
+1610,pity_1,pity,noun,c1
+1611,pity_2,pity,verb,b2
+1612,plaintive,plaintive,adjective,c2
+1613,pleased,pleased,adjective,a2
+1614,pleasure,pleasure,noun,b1
+1615,poignancy,poignancy,noun,c2
+1616,poignant,poignant,adjective,c2
+1617,poleaxe,poleaxe,verb,c2
+1618,ponderous,ponderous,adjective,c2
+1619,pop_3,pop,verb,c2
+1620,pop-eyed,pop-eyed,adjective,c2
+1621,predictable,predictable,adjective,c1
+1622,prickle_1,prickle,verb,c2
+1623,protective,protective,adjective,c1
+1624,proud_1,proud,adjective,b1
+1625,provocation,provocation,noun,c2
+1626,provocative,provocative,adjective,c1
+1627,provoke,provoke,verb,c1
+1628,psyched,psyched,adjective,c2
+1629,heartstrings,"pull, tug, etc. at somebody's heartstrings",idiom,c2
+1630,pump-up,pump up,phrasal verb,c2
+1631,puppy-love,puppy love,noun,c2
+1632,push_1,push,verb,c1
+1633,spot_1,put somebody on the spot,idiom,c2
+1634,quail_2,quail,verb,c2
+1635,quake_1,quake,verb,c2
+1636,quarrel_1,quarrel,noun,c2
+1637,queasy,queasy,adjective,c2
+1638,quench,quench,verb,c2
+1639,querulous,querulous,adjective,c2
+1640,quick-tempered,quick-tempered,adjective,c2
+1641,race_2,race,verb,c2
+1642,radiance,radiance,noun,c2
+1643,radiant,radiant,adjective,c2
+1644,rage_1,rage,noun,c1
+1645,rage_2,rage,verb,c2
+1646,rail_2,rail,verb,c2
+1647,rankle,rankle,verb,c2
+1648,rant_1,rant,verb,c2
+1649,rave_1,rant and rave,idiom,c2
+1650,rantings,rantings,noun,c2
+1651,rapt,rapt,adjective,c2
+1652,rattle_1,rattle,verb,c2
+1653,ratty,ratty,adjective,c2
+1654,rave_1,rave,verb,c2
+1655,ravenous,ravenous,adjective,c2
+1656,recluse,recluse,noun,c2
+1657,reclusive,reclusive,adjective,c2
+1658,recoil_1,recoil,verb,c2
+1659,red_1,red,adjective,a2
+1660,red-faced,red-faced,adjective,b1
+1661,regret_2,regret,noun,b2
+1662,regretful,regretful,adjective,c2
+1663,rejoicing,rejoicing,noun,c2
+1664,relief,relief,noun,b2
+1665,relieved,relieved,adjective,b2
+1666,repel,repel,verb,c2
+1667,repetitive,repetitive,adjective,b2
+1668,reproach_2,reproach,verb,c2
+1669,repugnance,repugnance,noun,c2
+1670,repugnant,repugnant,adjective,c2
+1671,repulse,repulse,verb,c2
+1672,requite,requite,verb,c2
+1673,resent,resent,verb,c1
+1674,resentful,resentful,adjective,c1
+1675,resentment,resentment,noun,c1
+1676,retiring,retiring,adjective,c2
+1677,revolt_2,revolt,verb,c2
+1678,revulsion,revulsion,noun,c2
+1679,rile,rile,verb,c2
+1680,rip-into,rip into,phrasal verb,c2
+1681,rivet_2,rivet,verb,c2
+1682,roast_1,roast,verb,c2
+1683,round-eyed,round-eyed,adjective,c2
+1684,rouse,rouse,verb,c2
+1685,routine_1,routine,noun,b1
+1686,routine_2,routine,adjective,b2
+1687,row2_1,row,noun,c2
+1688,rueful,rueful,adjective,c2
+1689,rut,rut,noun,c2
+1690,sad_1,sad,adjective,a1
+1691,sadden,sadden,verb,c2
+1692,sadly,sadly,adverb,a2
+1693,sadness,sadness,noun,b1
+1694,satisfied,satisfied,adjective,b2
+1695,satisfy,satisfy,verb,b2
+1696,scare_2,scare,noun,b2
+1697,scared,scared,adjective,a2
+1698,scene,scene,noun,c2
+1699,scoff,scoff,verb,c2
+1700,scream_1,scream,verb,b2
+1701,secure_2,secure,adjective,b2
+1702,security,security,noun,b2
+1703,red_2,see red,idiom,c2
+1704,seethe,seethe,verb,c2
+1705,self-conscious,self-conscious,adjective,c1
+1706,self-effacement,self-effacement,noun,c2
+1707,self-effacing,self-effacing,adjective,c2
+1708,self-esteem,self-esteem,noun,c1
+1709,self-fulfilment,self-fulfilment,noun,c2
+1710,self-loathing,self-loathing,noun,c2
+1711,self-satisfaction,self-satisfaction,noun,c2
+1712,self-satisfied,self-satisfied,adjective,c2
+1713,sensation,sensation,noun,c1
+1714,sensational,sensational,adjective,c1
+1715,sentiment,sentiment,noun,c1
+1716,sentimental,sentimental,adjective,c1
+1717,sepulchral,sepulchral,adjective,c2
+1718,seraphic,seraphic,adjective,c2
+1719,shake_1,shake,verb,b2
+1720,shake_1,shake in your boots/shoes,idiom,c2
+1721,shaken,shaken,adjective,c1
+1722,shame_1,shame,noun,b2
+1723,shamefaced,shamefaced,adjective,c2
+1724,shameful,shameful,adjective,c2
+1725,shaming,shaming,adjective,c2
+1726,shattered,shattered,adjective,c1
+1727,sheepish,sheepish,adjective,c2
+1728,shirty,shirty,adjective,c2
+1729,shiver_1,shiver,verb,c1
+1730,shock_2,shock,verb,b2
+1731,short-fused,short-fused,adjective,c2
+1732,short-tempered,short-tempered,adjective,c2
+1733,shriek_1,shriek,verb,c2
+1734,shriek_2,shriek,noun,c2
+1735,shrink_1,shrink,verb,c2
+1736,shudder_1,shudder,verb,c2
+1737,shy_1,shy,adjective,b1
+1738,sick_1,sick at heart,idiom,c2
+1739,sickness,sickness,noun,c2
+1740,sigh_1,sigh,verb,c1
+1741,slake,slake,verb,c2
+1742,smile_1,smile,verb,a2
+1743,smile_2,smile,noun,a2
+1744,ear,smile/grin/beam from ear to ear,idiom,c2
+1745,smirk_1,smirk,verb,c2
+1746,smirk_2,smirk,noun,c2
+1747,smitten_1,smitten,adjective,c2
+1748,smize_1,smize,verb,c2
+1749,smize_2,smize,noun,c2
+1750,smother,smother,verb,c2
+1751,snap_1,snap,verb,c2
+1752,snarf,snarf,verb,c2
+1753,snarl_1,snarl,verb,c2
+1754,solitary_1,solitary,adjective,c1
+1755,solitude,solitude,noun,c2
+1756,sombre,sombre,adjective,c2
+1757,blood_1,somebody’s blood is up,idiom,c2
+1758,face_1,somebody’s face is like thunder,idiom,c2
+1759,heart_1,somebody’s heart is in their mouth,idiom,c2
+1760,heart_1,somebody’s heart leaps,idiom,c2
+1761,boggle,something boggles the mind,idiom,c2
+1762,sore_1,sore,adjective,c2
+1763,sorrow_1,sorrow,noun,c1
+1764,sorrowful,sorrowful,adjective,c2
+1765,sorry_1,sorry,adjective,a1
+1766,soulful,soulful,adjective,c2
+1767,speechless,speechless,adjective,c1
+1768,spent_1,spent,adjective,c2
+1769,spiky,spiky,adjective,c2
+1770,spineless,spineless,adjective,c2
+1771,spit_1,spit,verb,c2
+1772,splenetic,splenetic,adjective,c2
+1773,spook_2,spook,verb,c2
+1774,square_1,square,adjective,c2
+1775,stagger_2,stagger,verb,c2
+1776,staggered,staggered,adjective,c2
+1777,staid,staid,adjective,c2
+1778,start_1,start,verb,c2
+1779,startle,startle,verb,c2
+1780,startled,startled,adjective,c2
+1781,static_2,static,noun,c2
+1782,the-heebie-jeebies,the heebie-jeebies,noun,c2
+1783,the-willies,the willies,noun,c2
+1784,steal_1,steal somebody’s heart,idiom,c2
+1785,steaming_1,steaming,adjective,c2
+1786,stimulate,stimulate,verb,c1
+1787,sting_1,sting,verb,c2
+1788,stir_1,stir,verb,c2
+1789,stir_1,stir the blood,idiom,c2
+1790,stoked,stoked,adjective,c2
+1791,stoke-up,stoke up,phrasal verb,c2
+1792,track_1,stop/halt somebody in their tracks,idiom,c2
+1793,storm_2,storm,verb,c2
+1794,stormy,stormy,adjective,c2
+1795,stress_1,stress,noun,a2
+1796,stress_2,stress,verb,b2
+1797,stressed,stressed,adjective,b1
+1798,strife,strife,noun,c2
+1799,string-along,string along,phrasal verb,c2
+1800,strung-up,strung up,adjective,c2
+1801,stuff_2,stuff,verb,c2
+1802,stuffed,stuffed,adjective,c2
+1803,stuffy,stuffy,adjective,c2
+1804,stun,stun,verb,c1
+1805,stupefaction,stupefaction,noun,c2
+1806,stupefy,stupefy,verb,c2
+1807,subdued,subdued,adjective,c2
+1808,suburban,suburban,adjective,c2
+1809,sulk_1,sulk,verb,c2
+1810,sulk_2,sulk,noun,c2
+1811,sulky,sulky,adjective,c2
+1812,sunny,sunny,adjective,c1
+1813,surprise_1,surprise,noun,a2
+1814,surprise_2,surprise,verb,a2
+1815,surprised,surprised,adjective,a2
+1816,surprising,surprising,adjective,a2
+1817,sweep_1,sweep somebody off their feet,idiom,c2
+1818,switched-on,switched on,adjective,c2
+1819,swoon_1,swoon,verb,c2
+1820,take-aback,take aback,phrasal verb,c2
+1821,tantrum,tantrum,noun,c2
+1822,tease_1,tease,verb,b2
+1823,teed-off,teed off,adjective,c2
+1824,tee-off,tee off,phrasal verb,c2
+1825,temper_1,temper,noun,b2
+1826,temperamental,temperamental,adjective,c2
+1827,tense_1,tense,adjective,c1
+1828,terrible,terrible,adjective,a1
+1829,terrify,terrify,verb,b2
+1830,terrifying,terrifying,adjective,b2
+1831,terror,terror,noun,b2
+1832,tetchy,tetchy,adjective,c2
+1833,thankful,thankful,adjective,c1
+1834,feel-good,the feel-good factor,idiom,c2
+1835,thirst_1,thirst,noun,b2
+1836,thirsty,thirsty,adjective,a1
+1837,thrill_1,thrill,noun,b2
+1838,thrill_2,thrill,verb,b2
+1839,thrilled,thrilled,adjective,c1
+1840,throw_1,throw,verb,c2
+1841,thunderous,thunderous,adjective,c2
+1842,thunderstruck,thunderstruck,adjective,c2
+1843,tight_1,tight,adjective,c2
+1844,tight-lipped,tight-lipped,adjective,c2
+1845,tirade,tirade,noun,c2
+1846,tire_1,tire,verb,c2
+1847,tired,tired,adjective,a1
+1848,tiredness,tiredness,noun,b1
+1849,togetherness,togetherness,noun,c2
+1850,tongue-tied,tongue-tied,adjective,c2
+1851,torrid,torrid,adjective,c2
+1852,torture_1,torture,noun,c1
+1853,torture_2,torture,verb,c1
+1854,tortured,tortured,adjective,c2
+1855,tragic,tragic,adjective,b2
+1856,tremble_1,tremble,verb,c1
+1857,tremor,tremor,noun,c2
+1858,tremulous,tremulous,adjective,c2
+1859,trepidation,trepidation,noun,c2
+1860,trigger_1,trigger,verb,c2
+1861,trippy,trippy,adjective,c2
+1862,trouble_1,trouble,noun,b1
+1863,truculence,truculence,noun,c2
+1864,truculent,truculent,adjective,c2
+1865,twinkle_2,twinkle,noun,c2
+1866,twitchy,twitchy,adjective,c2
+1867,uncomfortable,uncomfortable,adjective,b2
+1868,unconcerned,unconcerned,adjective,c1
+1869,unconsolable,unconsolable,adjective,c2
+1870,underfed,underfed,adjective,c2
+1871,unease,unease,noun,c2
+1872,uneasy,uneasy,adjective,c1
+1873,unhappiness,unhappiness,noun,b1
+1874,unhappy,unhappy,adjective,a2
+1875,uninterested,uninterested,adjective,b2
+1876,unnerve,unnerve,verb,c2
+1877,unnerving,unnerving,adjective,c2
+1878,unrequited,unrequited,adjective,c2
+1879,up_3,up,adjective,c2
+1880,uplifted,uplifted,adjective,c2
+1881,upset_1,upset,adjective,b1
+1882,upset_2,upset,verb,b1
+1883,upsetting,upsetting,adjective,b2
+1884,uptight,uptight,adjective,c2
+1885,vexed,vexed,adjective,c2
+1886,wail_1,wail,verb,c2
+1887,walk_1,walk tall,idiom,c2
+1888,wearing,wearing,adjective,c2
+1889,wearisome,wearisome,adjective,c2
+1890,wear-out,wear out,phrasal verb,c2
+1891,weary_1,weary,adjective,c2
+1892,weep_1,weep,verb,c1
+1893,weepy_1,weepy,adjective,c2
+1894,whacked,whacked,adjective,c2
+1895,whip-up,whip up,phrasal verb,c2
+1896,whirl_1,whirl,verb,c2
+1897,whoop_2,whoop,verb,c2
+1898,wide-eyed,wide-eyed,adjective,c2
+1899,wilt,wilt,verb,c2
+1900,win_1,win somebody’s heart,idiom,c2
+1901,wiped-out,wiped out,adjective,c2
+1902,wired_1,wired,adjective,c2
+1903,bated,with bated breath,idiom,c2
+1904,woebegone,woebegone,adjective,c2
+1905,woeful,woeful,adjective,c2
+1906,wolf_2,wolf,verb,c2
+1907,wonder_2,wonder,noun,b1
+1908,wonderful,wonderful,adjective,b1
+1909,wonderment,wonderment,noun,c2
+1910,woo,woo,verb,c2
+1911,worked-up,worked up,adjective,c2
+1912,work-off,work off,phrasal verb,c2
+1913,worn_1,worn,adjective,c2
+1914,worn-out,worn out,adjective,c1
+1915,worried,worried,adjective,a2
+1916,worry_1,worry,verb,a2
+1917,worry_2,worry,noun,b1
+1918,worship_1,worship,noun,c1
+1919,worship_2,worship,verb,c1
+1920,wretched,wretched,adjective,c2
+1921,wry,wry,adjective,c2
+1922,abort,abort,verb,c2
+1923,abortion,abortion,noun,c1
+1924,adolescence,adolescence,noun,c1
+1925,adolescent_1,adolescent,noun,c1
+1926,adolescent_2,adolescent,adjective,b2
+1927,adopt,adopt,verb,b2
+1928,adoption,adoption,noun,c1
+1929,adoptive,adoptive,adjective,c1
+1930,adult_1,adult,noun,a1
+1931,adulthood,adulthood,noun,b2
+1932,adulting,adulting,noun,c2
+1933,afterbirth,afterbirth,noun,c2
+1934,aged,aged,adjective,c1
+1935,ageless,ageless,adjective,c2
+1936,alzheimer-s,Alzheimer’s,noun,c2
+1937,anniversary,anniversary,noun,b2
+1938,antenatal,antenatal,adjective,c2
+1939,arranged-marriage,arranged marriage,noun,b2
+1940,arthritis,arthritis,noun,c2
+1941,ash_1,ash,noun,c2
+1942,childhood,a/somebody’s second childhood,idiom,c2
+1943,assisted-dying,assisted dying,noun,c2
+1944,rest_1,at rest,idiom,c2
+1945,au-pair,au pair,noun,c1
+1946,autopsy,autopsy,noun,c2
+1947,baby_1,baby,noun,a1
+1948,baby-blues,baby blues,noun,c2
+1949,baby-buggy,baby buggy,noun,c2
+1950,baby-faced,baby-faced,adjective,c1
+1951,babyhood,babyhood,noun,c1
+1952,babysit,babysit,verb,b2
+1953,babysitter,babysitter,noun,b2
+1954,babysitting,babysitting,noun,b2
+1955,bachelor,bachelor,noun,c2
+1956,bachelorette,bachelorette,noun,c2
+1957,bachelorette-party,bachelorette party,noun,c2
+1958,bachelorhood,bachelorhood,noun,c2
+1959,bachelor-party,bachelor party,noun,c2
+1960,expect,be expecting (a baby/child),idiom,a2
+1961,best-man,best man,noun,c1
+1962,best-woman,best woman,noun,c1
+1963,child,be with child,idiom,c2
+1964,bier,bier,noun,c2
+1965,bigamous,bigamous,adjective,c2
+1966,birth,birth,noun,a2
+1967,birth-father,birth father,noun,c1
+1968,birthing,birthing,noun,c2
+1969,birth-mother,birth mother,noun,c1
+1970,birthweight,birthweight,noun,c2
+1971,born_1,born,verb,a1
+1972,bottle_1,bottle,noun,b2
+1973,bottle-feed,bottle-feed,verb,c1
+1974,boy_1,boy,noun,a1
+1975,boyhood,boyhood,noun,c1
+1976,breadwinner,breadwinner,noun,c1
+1977,break_1,break,verb,c2
+1978,breastfeed,breastfeed,verb,c1
+1979,breech-birth,breech birth,noun,c2
+1980,bridal,bridal,adjective,c2
+1981,bride,bride,noun,b1
+1982,bridegroom,bridegroom,noun,b2
+1983,bridesmaid,bridesmaid,noun,b2
+1984,bring-up,bring up,phrasal verb,b2
+1985,buggy_1,buggy,noun,c2
+1986,burial,burial,noun,c1
+1987,burial-ground,burial ground,noun,c2
+1988,bury,bury,verb,b1
+1989,cadaver,cadaver,noun,c2
+1990,care_1,care,noun,a2
+1991,care-home,care home,noun,c1
+1992,carry_1,carry,verb,c2
+1993,carrycot,carrycot,noun,c2
+1994,casket,casket,noun,c2
+1995,catacombs,catacombs,noun,c2
+1996,catafalque,catafalque,noun,c2
+1997,cemetery,cemetery,noun,c1
+1998,centenarian,centenarian,noun,c2
+1999,ceremony,ceremony,noun,b1
+2000,certificate_1,certificate,noun,b2
+2001,cesarean_1,cesarean,noun,c2
+2002,cesarian_1,cesarian,noun,c2
+2003,chapel-of-rest,chapel of rest,noun,c2
+2004,child,child,noun,a1
+2005,childbearing,childbearing,noun,c2
+2006,childbirth,childbirth,noun,b2
+2007,childcare,childcare,noun,b2
+2008,childhood,childhood,noun,b1
+2009,childish,childish,adjective,b2
+2010,childminder,childminder,noun,c1
+2011,childproof,childproof,adjective,c2
+2012,civil-marriage,civil marriage,noun,c1
+2013,civil-partnership,civil partnership,noun,c1
+2014,coddle,coddle,verb,c2
+2015,coffin,coffin,noun,c1
+2016,committal,committal,noun,c2
+2017,conceive,conceive,verb,c1
+2018,conception,conception,noun,c1
+2019,confetti,confetti,noun,c2
+2020,confinement,confinement,noun,c2
+2021,conjugal,conjugal,adjective,c2
+2022,connubial,connubial,adjective,c2
+2023,consummate2,consummate,verb,c2
+2024,consummation,consummation,noun,c2
+2025,contraction,contraction,noun,c2
+2026,co-parent_1,co-parent,noun,c1
+2027,co-parent_2,co-parent,verb,c1
+2028,co-parenting,co-parenting,noun,c1
+2029,corpse,corpse,noun,c2
+2030,cot,cot,noun,c1
+2031,cradle_1,cradle,noun,c1
+2032,crawl_1,crawl,verb,c1
+2033,cremains,cremains,noun,c2
+2034,cremate,cremate,verb,c2
+2035,cremation,cremation,noun,c2
+2036,crematorium,crematorium,noun,c2
+2037,crib_1,crib,noun,c1
+2038,creche,crèche,noun,c2
+2039,curfew,curfew,noun,c1
+2040,day-nursery,day nursery,noun,c1
+2041,dead_1,dead,adjective,a2
+2042,death,death,noun,a2
+2043,deceased,deceased,adjective,c2
+2044,deliver,deliver,verb,c2
+2045,delivery,delivery,noun,c2
+2046,dementia,dementia,noun,c2
+2047,departed,departed,adjective,c2
+2048,depart,depart this life,idiom,c2
+2049,dependant,dependant,noun,c2
+2050,diamond-wedding,diamond wedding,noun,c2
+2051,diaper,diaper,noun,c1
+2052,diaper-rash,diaper rash,noun,c2
+2053,die_1,die,verb,a1
+2054,discipline_2,discipline,verb,c2
+2055,doddering,doddering,adjective,c2
+2056,dotage,dotage,noun,c2
+2057,doula,doula,noun,c2
+2058,dowry,dowry,noun,c2
+2059,dummy_1,dummy,noun,c2
+2060,elder_1,elder,adjective,c1
+2061,elder_2,elder,noun,c1
+2062,elderly,elderly,adjective,b2
+2063,engaged,engaged,adjective,b1
+2064,engagement,engagement,noun,c1
+2065,engagement-ring,engagement ring,noun,c1
+2066,epitaph,epitaph,noun,c2
+2067,extramarital,extramarital,adjective,c2
+2068,family_1,family,noun,a1
+2069,father_1,father,noun,a1
+2070,fatherhood,fatherhood,noun,c1
+2071,feed_2,feed,noun,b2
+2072,fiance,fiancé,noun,c1
+2073,fiancee,fiancée,noun,c1
+2074,forceps,forceps,noun,c2
+2075,foster_1,foster,verb,c1
+2076,fresh-faced,fresh-faced,adjective,c2
+2077,full-term,full-term,adjective,c2
+2078,funeral,funeral,noun,c1
+2079,funeral-director,funeral director,noun,c2
+2080,gawky,gawky,adjective,c2
+2081,geriatric_1,geriatric,noun,c2
+2082,geriatric_2,geriatric,adjective,c2
+2083,gerontology,gerontology,noun,c2
+2084,hitch_1,get hitched,idiom,c2
+2085,girl,girl,noun,a1
+2086,girlhood,girlhood,noun,c1
+2087,give-away,give away,phrasal verb,c2
+2088,godparent,godparent,noun,c2
+2089,golden-wedding,golden wedding,noun,c2
+2090,aisle,go/walk down the aisle,idiom,c2
+2091,grave1_1,grave,noun,c1
+2092,gravestone,gravestone,noun,c2
+2093,graveyard,graveyard,noun,c1
+2094,gray_1,gray,adjective,a1
+2095,grey_1,grey,adjective,a1
+2096,grey_3,grey,verb,b2
+2097,groom_2,groom,noun,b2
+2098,groomsman,groomsman,noun,c2
+2099,ground_2,ground,verb,c2
+2100,growing-pains,growing pains,noun,c2
+2101,grow-into,grow into,phrasal verb,c2
+2102,grown-up1,grown-up,adjective,b2
+2103,grown-up2,grown-up,noun,b2
+2104,grow-out-of,grow out of,phrasal verb,c1
+2105,grow-up,grow up,phrasal verb,a1
+2106,guardian,guardian,noun,c2
+2107,hearse,hearse,noun,c2
+2108,hen-party,hen party,noun,c2
+2109,homeschool,homeschool,verb,c1
+2110,homeschooling,homeschooling,noun,c1
+2111,honeymoon_1,honeymoon,noun,b2
+2112,housewife,housewife,noun,b1
+2113,immature,immature,adjective,b2
+2114,incubator,incubator,noun,c2
+2115,induce,induce,verb,c2
+2116,induction,induction,noun,c2
+2117,infancy,infancy,noun,c1
+2118,infant_1,infant,noun,c1
+2119,infirm,infirm,adjective,c2
+2120,ingenue,ingénue,noun,c2
+2121,innocent_1,innocent,adjective,b2
+2122,inter_1,inter,verb,c2
+2123,interment,interment,noun,c2
+2124,juvenile_1,juvenile,adjective,c1
+2125,kid_1,kid,noun,a2
+2126,labor_1,labor,noun,c2
+2127,labour_1,labour,noun,c2
+2128,lad,lad,noun,c1
+2129,lass,lass,noun,c2
+2130,lone-parent,lone parent,noun,c2
+2131,lone-parent-family,lone-parent family,noun,c2
+2132,love-match,love match,noun,c2
+2133,lullaby,lullaby,noun,c2
+2134,lying-in,lying-in,noun,c2
+2135,maid-of-honour,maid of honour,noun,c2
+2136,man_1,man,noun,a1
+2137,manhood,manhood,noun,c2
+2138,marital,marital,adjective,c1
+2139,marriage,marriage,noun,b1
+2140,marriageable,marriageable,adjective,c2
+2141,marriage-counselling,marriage counselling,noun,c2
+2142,marriage-guidance,marriage guidance,noun,c2
+2143,marriage-lines,marriage lines,noun,c2
+2144,marriage-of-convenience,marriage of convenience,noun,c2
+2145,married,married,adjective,a1
+2146,marry,marry,verb,a2
+2147,match_1,match,noun,c2
+2148,maternity-leave,maternity leave,noun,c1
+2149,matrimonial,matrimonial,adjective,c2
+2150,matrimony,matrimony,noun,c2
+2151,matronly,matronly,adjective,c2
+2152,maturation,maturation,noun,c2
+2153,mature_1,mature,adjective,c1
+2154,mature_2,mature,verb,c1
+2155,maturity,maturity,noun,c1
+2156,mausoleum,mausoleum,noun,c2
+2157,menopausal,menopausal,adjective,c2
+2158,menopause,menopause,noun,c2
+2159,middle-age,middle age,noun,b2
+2160,middle-aged,middle-aged,adjective,b2
+2161,middle-age-spread,middle-age spread,noun,c2
+2162,midlife,midlife,noun,c2
+2163,midlife-crisis,midlife crisis,noun,c2
+2164,midwife,midwife,noun,c2
+2165,minor_2,minor,noun,c2
+2166,miscarriage,miscarriage,noun,c2
+2167,miscarry,miscarry,verb,c2
+2168,mollycoddle,mollycoddle,verb,c2
+2169,morgue,morgue,noun,c2
+2170,morning-sickness,morning sickness,noun,c2
+2171,mortal_1,mortal,adjective,c2
+2172,mortician,mortician,noun,c2
+2173,mortuary,mortuary,noun,c2
+2174,mother_1,mother,noun,a1
+2175,motherhood,motherhood,noun,c1
+2176,mothering,mothering,noun,c2
+2177,mother-to-be,mother-to-be,noun,c2
+2178,mourner,mourner,noun,c2
+2179,mummify,mummify,verb,c2
+2180,naive,naive,adjective,c1
+2181,nanny,nanny,noun,c1
+2182,nappy,nappy,noun,c1
+2183,nappy-rash,nappy rash,noun,c2
+2184,natal,natal,adjective,c2
+2185,natural-childbirth,natural childbirth,noun,c1
+2186,neonate,neonate,noun,c2
+2187,newborn,newborn,adjective,c1
+2188,newly-wed_1,newly-wed,noun,c2
+2189,newly-wed_2,newly-wed,adjective,c2
+2190,nuclear-family,nuclear family,noun,c1
+2191,nuptial,nuptial,adjective,c2
+2192,nuptials,nuptials,noun,c2
+2193,nursery_1,nursery,noun,c1
+2194,nursing-home,nursing home,noun,c1
+2195,nurture_1,nurture,verb,c1
+2196,nurture_2,nurture,noun,c1
+2197,oap,OAP,noun,c2
+2198,obstetric,obstetric,adjective,c2
+2199,obstetrics,obstetrics,noun,c2
+2200,old,old,adjective,a1
+2201,old-age,old age,noun,b1
+2202,old-age-pensioner,old-age pensioner,noun,c2
+2203,old-people-s-home,old people’s home,noun,c1
+2204,one-parent-family,one-parent family,noun,b2
+2205,orphan_1,orphan,noun,c1
+2206,pageboy,pageboy,noun,c2
+2207,parent_1,parent,noun,a1
+2208,parent_2,parent,verb,c1
+2209,parental,parental,adjective,c1
+2210,parenthood,parenthood,noun,c1
+2211,parenting,parenting,noun,c1
+2212,partner_1,partner,noun,a2
+2213,pass-away,pass away,phrasal verb,c1
+2214,paternity-leave,paternity leave,noun,c1
+2215,pension1_1,pension,noun,b2
+2216,pensioner,pensioner,noun,c1
+2217,pension-off,pension off,phrasal verb,c2
+2218,perinatal,perinatal,adjective,c2
+2219,placenta,placenta,noun,c2
+2220,playground,playground,noun,b1
+2221,playgroup,playgroup,noun,c1
+2222,playpen,playpen,noun,c2
+2223,playroom,playroom,noun,b2
+2224,playscheme,playscheme,noun,c2
+2225,playschool,playschool,noun,c1
+2226,post-mortem,post-mortem,noun,c2
+2227,postnatal,postnatal,adjective,c2
+2228,postnatal-depression,postnatal depression,noun,c2
+2229,post-partum,post-partum,adjective,c2
+2230,potty-train,potty-train,verb,c2
+2231,potty-training,potty-training,noun,c2
+2232,pram,pram,noun,c2
+2233,pregnancy,pregnancy,noun,c1
+2234,pregnant,pregnant,adjective,b2
+2235,premature,premature,adjective,c1
+2236,prenatal,prenatal,adjective,c2
+2237,prenuptial-agreement,prenuptial agreement,noun,c2
+2238,pre-teen_1,pre-teen,adjective,c2
+2239,pre-teen_2,pre-teen,noun,c2
+2240,proposal,proposal,noun,b2
+2241,propose,propose,verb,b2
+2242,puberty,puberty,noun,c2
+2243,pubescent,pubescent,adjective,c2
+2244,pushchair,pushchair,noun,c2
+2245,pyre,pyre,noun,c2
+2246,raise_1,raise,verb,b2
+2247,rear_3,rear,verb,c2
+2248,reception,reception,noun,b1
+2249,registry-office,registry office,noun,c1
+2250,remains,remains,noun,c1
+2251,remembrance,remembrance,noun,c2
+2252,reminisce,reminisce,verb,c1
+2253,reminiscence,reminiscence,noun,c2
+2254,retire,retire,verb,b1
+2255,retirement,retirement,noun,b2
+2256,retirement-community,retirement community,noun,c1
+2257,retirement-home,retirement home,noun,b2
+2258,ring1_1,ring,noun,a2
+2259,ring-bearer,ring bearer,noun,c2
+2260,role-model,role model,noun,b2
+2261,rompers,rompers,noun,c2
+2262,ruby-wedding,ruby wedding,noun,c2
+2263,sarcophagus,sarcophagus,noun,c2
+2264,scan_2,scan,noun,b2
+2265,school-day,school day,noun,b1
+2266,senile,senile,adjective,c2
+2267,senility,senility,noun,c2
+2268,senior_1,senior,adjective,c1
+2269,senior_2,senior,noun,c1
+2270,senior-citizen,senior citizen,noun,c1
+2271,senior-moment,senior moment,noun,c2
+2272,sepulchre,sepulchre,noun,c2
+2273,settle-down,settle down,phrasal verb,c1
+2274,shotgun-wedding,shotgun wedding,noun,c2
+2275,shower_1,shower,noun,c2
+2276,shroud_1,shroud,noun,c2
+2277,sids,SIDS,noun,c2
+2278,silver-wedding,silver wedding,noun,c2
+2279,single-parent,single parent,noun,b2
+2280,single-parent-family,single-parent family,noun,b1
+2281,sleepsuit,sleepsuit,noun,c2
+2282,smack_1,smack,verb,c2
+2283,smacking,smacking,noun,c2
+2284,socialization,socialization,noun,c1
+2285,water_1,somebody’s waters break,idiom,c2
+2286,soother,soother,noun,c2
+2287,spank_2,spank,verb,c2
+2288,spanking_1,spanking,noun,c2
+2289,sperm-bank,sperm bank,noun,c2
+2290,spoon-feed,spoon-feed,verb,c2
+2291,sprightliness,sprightliness,noun,c2
+2292,sprightly,sprightly,adjective,c2
+2293,spry,spry,adjective,c2
+2294,stag-night,stag night,noun,c2
+2295,stay-at-home_1,stay-at-home,adjective,c1
+2296,stillbirth,stillbirth,noun,c2
+2297,stretch-marks,stretch marks,noun,c2
+2298,stroller,stroller,noun,c2
+2299,suckle,suckle,verb,c2
+2300,suckling,suckling,noun,c2
+2301,surrogacy,surrogacy,noun,c2
+2302,surrogate_1,surrogate,adjective,c2
+2303,tantrum,tantrum,noun,c2
+2304,tearaway,tearaway,noun,c2
+2305,teenage,teenage,adjective,a2
+2306,teenager,teenager,noun,a1
+2307,teens,teens,noun,b2
+2308,teethe,teethe,verb,c2
+2309,telling-off,telling-off,noun,c2
+2310,terminate,terminate,verb,c1
+2311,termination,termination,noun,c2
+2312,test-tube-baby,test-tube baby,noun,c2
+2313,toast_2,toast,verb,c2
+2314,toddle,toddle,verb,c2
+2315,toddler,toddler,noun,c1
+2316,toilet-train,toilet-train,verb,c2
+2317,toilet-training,toilet-training,noun,c2
+2318,tot_1,tot,noun,c2
+2319,trimester,trimester,noun,c2
+2320,tween,tween,noun,c2
+2321,umbilical-cord,umbilical cord,noun,c2
+2322,unborn,unborn,adjective,c1
+2323,underage,underage,adjective,c1
+2324,undertaker,undertaker,noun,c2
+2325,union,union,noun,c2
+2326,unmarried,unmarried,adjective,b1
+2327,upbringing,upbringing,noun,b2
+2328,urn_1,urn,noun,c2
+2329,venerable,venerable,adjective,c2
+2330,vow_1,vow,verb,c1
+2331,vow_2,vow,noun,c1
+2332,wake_2,wake,noun,c2
+2333,walker,walker,noun,c2
+2334,ward_1,ward,noun,c2
+2335,wardship,wardship,noun,c2
+2336,wedding,wedding,noun,a2
+2337,wedding-anniversary,wedding anniversary,noun,b2
+2338,wedding-band,wedding band,noun,c2
+2339,wedding-cake,wedding cake,noun,a2
+2340,wedding-dress,wedding dress,noun,a2
+2341,wedding-ring,wedding ring,noun,a2
+2342,wedlock,wedlock,noun,c2
+2343,white-wedding,white wedding,noun,c2
+2344,widow_1,widow,noun,c1
+2345,widower,widower,noun,c1
+2346,widowhood,widowhood,noun,c2
+2347,winding-sheet,winding sheet,noun,c2
+2348,wisdom,wisdom,noun,b2
+2349,wise_1,wise,adjective,b2
+2350,wizened,wizened,adjective,c2
+2351,woman,woman,noun,a1
+2352,womanhood,womanhood,noun,c2
+2353,wunderkind,wunderkind,noun,c2
+2354,young_1,young,adjective,a1
+2355,young-adult_1,young adult,noun,a2
+2356,youngster,youngster,noun,c1
+2357,youth,youth,noun,b1
+2358,youthful,youthful,adjective,c1
+2359,able_1,able,adjective,c1
+2360,above_1,above yourself,idiom,c2
+2361,abrasive_1,abrasive,adjective,c2
+2362,abrupt,abrupt,adjective,c2
+2363,abusive,abusive,adjective,c2
+2364,academic_1,academic,adjective,b1
+2365,accommodating,accommodating,adjective,c2
+2366,accomplished,accomplished,adjective,c1
+2367,acid_2,acid,adjective,c2
+2368,active_1,active,adjective,c1
+2369,adept_1,adept,adjective,c2
+2370,adroit,adroit,adjective,c2
+2371,affability,affability,noun,c2
+2372,affable,affable,adjective,c2
+2373,affection,affection,noun,c1
+2374,affectionate,affectionate,adjective,c1
+2375,agile,agile,adjective,c2
+2376,live2_1,a live wire,idiom,c2
+2377,aloof,aloof,adjective,c2
+2378,ambitious,ambitious,adjective,b1
+2379,amiable,amiable,adjective,c2
+2380,amicable,amicable,adjective,c2
+2381,amoral,amoral,adjective,c2
+2382,angel,angel,noun,c1
+2383,angelic,angelic,adjective,c2
+2384,animated,animated,adjective,c2
+2385,annoying,annoying,adjective,b1
+2386,approachable,approachable,adjective,c2
+2387,argumentative,argumentative,adjective,c1
+2388,arrogance,arrogance,noun,c2
+2389,arrogant,arrogant,adjective,b2
+2390,artful,artful,adjective,c2
+2391,articulate_2,articulate,adjective,c1
+2392,artistic,artistic,adjective,b2
+2393,artless,artless,adjective,c2
+2394,assertive,assertive,adjective,c1
+2395,assiduous,assiduous,adjective,c2
+2396,assured,assured,adjective,c2
+2397,astute,astute,adjective,c2
+2398,attentive,attentive,adjective,c1
+2399,attitude,attitude,noun,c1
+2400,ease_1,at (your) ease,idiom,c2
+2401,audacious,audacious,adjective,c2
+2402,audacity,audacity,noun,c2
+2403,authenticity,authenticity,noun,c1
+2404,autocrat,autocrat,noun,c2
+2405,autocratic,autocratic,adjective,c2
+2406,autonomous,autonomous,adjective,c2
+2407,backbiting,backbiting,noun,c2
+2408,backsliding,backsliding,noun,c2
+2409,bad_1,bad,adjective,a1
+2410,badness,badness,noun,b2
+2411,bad-tempered,bad-tempered,adjective,c1
+2412,balls_1,balls,noun,c2
+2413,ballsy,ballsy,adjective,c2
+2414,base_3,base,adjective,c2
+2415,big_1,be/get too big for your boots,idiom,c2
+2416,belligerent_1,belligerent,adjective,c2
+2417,benevolent,benevolent,adjective,c2
+2418,benign,benign,adjective,c2
+2419,ball_1,(be) on the ball,idiom,c2
+2420,puff_1,"be puffed up with pride, etc.",idiom,c2
+2421,limit_1,be the limit,idiom,c2
+2422,big-head,big-head,noun,c2
+2423,big-headed,big-headed,adjective,c2
+2424,big-hearted,big-hearted,adjective,c1
+2425,bigot,bigot,noun,c2
+2426,bigoted,bigoted,adjective,c2
+2427,bitchy,bitchy,adjective,c2
+2428,blabber,blabber,verb,c2
+2429,bleeding-heart,bleeding heart,noun,c2
+2430,blimp,blimp,noun,c2
+2431,blimpish,blimpish,adjective,c2
+2432,bluff_1,bluff,verb,c2
+2433,bluster_1,bluster,verb,c2
+2434,boast_1,boast,verb,c1
+2435,boastful,boastful,adjective,c2
+2436,bogus,bogus,adjective,c2
+2437,boisterous,boisterous,adjective,c2
+2438,bold_1,bold,adjective,b2
+2439,bone-idle,bone idle,adjective,c2
+2440,boss_2,boss,verb,c1
+2441,bottle_1,bottle,noun,c2
+2442,bounce_1,bounce,verb,c2
+2443,bouncing,bouncing,adjective,c2
+2444,bouncy,bouncy,adjective,c2
+2445,boy-wonder,boy wonder,noun,c2
+2446,brag_1,brag,verb,c1
+2447,braggart,braggart,noun,c2
+2448,brainbox,brainbox,noun,c2
+2449,brainy,brainy,adjective,c1
+2450,brash,brash,adjective,c2
+2451,brave_1,brave,adjective,b1
+2452,breeze_2,breeze,verb,c2
+2453,bright_1,bright,adjective,b2
+2454,brilliant,brilliant,adjective,a2
+2455,brisk,brisk,adjective,c2
+2456,broad-minded,broad-minded,adjective,c1
+2457,brute_1,brute,noun,c2
+2458,brutish,brutish,adjective,c2
+2459,bubbly_1,bubbly,adjective,c2
+2460,bullheaded,bullheaded,adjective,c2
+2461,bullish,bullish,adjective,c2
+2462,bum_1,bum,noun,c2
+2463,busybody,busybody,noun,c2
+2464,calm_1,calm,adjective,b1
+2465,canny,canny,adjective,c2
+2466,careful,careful,adjective,a2
+2467,caring,caring,adjective,b2
+2468,catty,catty,adjective,c2
+2469,caution_1,caution,noun,c1
+2470,cautious,cautious,adjective,c1
+2471,character,character,noun,b1
+2472,charitable,charitable,adjective,c1
+2473,chatty,chatty,adjective,c1
+2474,cheap_1,cheap,adjective,c2
+2475,cheat_1,cheat,verb,b1
+2476,cheek_1,cheek,noun,c1
+2477,cheeky,cheeky,adjective,c1
+2478,chicken_3,chicken,adjective,c2
+2479,chicken-out,chicken out,phrasal verb,c2
+2480,chirpy,chirpy,adjective,c2
+2481,chivalrous,chivalrous,adjective,c2
+2482,chivalry,chivalry,noun,c2
+2483,churlish,churlish,adjective,c2
+2484,chutzpah,chutzpah,noun,c2
+2485,clean-cut,clean-cut,adjective,c2
+2486,clean-living,clean-living,adjective,c2
+2487,clever,clever,adjective,a2
+2488,coarse,coarse,adjective,c2
+2489,cocky,cocky,adjective,c2
+2490,cold-hearted,cold-hearted,adjective,c1
+2491,colonel-blimp,Colonel Blimp,noun,c2
+2492,coltish,coltish,adjective,c2
+2493,come-out-of-yourself,come out of yourself,phrasal verb,c2
+2494,comfort_2,comfort,verb,b2
+2495,comfortable,comfortable,adjective,b1
+2496,committed,committed,adjective,c1
+2497,companionable,companionable,adjective,c2
+2498,compassionate,compassionate,adjective,c1
+2499,competent,competent,adjective,c1
+2500,conceit,conceit,noun,c2
+2501,conceited,conceited,adjective,c1
+2502,conciliate,conciliate,verb,c2
+2503,confidence,confidence,noun,b2
+2504,confident,confident,adjective,b1
+2505,conniving,conniving,adjective,c2
+2506,conscience,conscience,noun,c1
+2507,conscientious,conscientious,adjective,c1
+2508,considerate,considerate,adjective,c1
+2509,contrary2,contrary,adjective,c2
+2510,cool_1,cool,adjective,c1
+2511,corrupt_1,corrupt,adjective,c1
+2512,corruption,corruption,noun,c1
+2513,courage,courage,noun,b2
+2514,courageous,courageous,adjective,c1
+2515,courteous,courteous,adjective,c2
+2516,covidiot,covidiot,noun,c2
+2517,coward,coward,noun,c1
+2518,cowardice,cowardice,noun,c2
+2519,cowardly,cowardly,adjective,c1
+2520,coy,coy,adjective,c2
+2521,crafty,crafty,adjective,c2
+2522,craven,craven,adjective,c2
+2523,creative_1,creative,adjective,a2
+2524,criminal_2,criminal,adjective,b1
+2525,crisp_1,crisp,adjective,c2
+2526,crude_1,crude,adjective,c1
+2527,cruel_1,cruel,adjective,b1
+2528,cunning_1,cunning,adjective,c2
+2529,cunning_2,cunning,noun,c2
+2530,cutie,cutie,noun,c2
+2531,cutting_2,cutting,adjective,c2
+2532,dare_1,dare,verb,b2
+2533,daring_1,daring,adjective,b2
+2534,daring_2,daring,noun,c1
+2535,darling_1,darling,noun,c1
+2536,dashing,dashing,adjective,c2
+2537,deadbeat,deadbeat,noun,c2
+2538,dear_3,dear,noun,c1
+2539,debauched,debauched,adjective,c2
+2540,debonair,debonair,adjective,c2
+2541,deceit,deceit,noun,c2
+2542,deceitful,deceitful,adjective,c2
+2543,deceive,deceive,verb,b2
+2544,decency,decency,noun,c2
+2545,decent,decent,adjective,b2
+2546,deception,deception,noun,c1
+2547,dependable,dependable,adjective,c1
+2548,depraved,depraved,adjective,c2
+2549,depravity,depravity,noun,c2
+2550,derring-do,derring-do,noun,c2
+2551,devilish,devilish,adjective,c2
+2552,devious,devious,adjective,c2
+2553,diabolical,diabolical,adjective,c2
+2554,difficult,difficult,adjective,a1
+2555,dignified,dignified,adjective,c1
+2556,diligent,diligent,adjective,c2
+2557,disagreeable,disagreeable,adjective,c1
+2558,discreet,discreet,adjective,c2
+2559,discretion,discretion,noun,c1
+2560,dishonest,dishonest,adjective,b2
+2561,dishonesty,dishonesty,noun,b2
+2562,dishonour_1,dishonour,noun,c2
+2563,dishonourable,dishonourable,adjective,c2
+2564,disobedient,disobedient,adjective,c2
+2565,dissolute,dissolute,adjective,c2
+2566,domineering,domineering,adjective,c2
+2567,head_1,do somebody’s head in,idiom,c2
+2568,dosser,dosser,noun,c2
+2569,doughty,doughty,adjective,c2
+2570,dour,dour,adjective,c2
+2571,drive_2,drive,noun,c1
+2572,drone_1,drone,noun,c2
+2573,dubious,dubious,adjective,c2
+2574,duplicity,duplicity,noun,c2
+2575,dutiful,dutiful,adjective,c2
+2576,duty,duty,noun,b1
+2577,dynamic_1,dynamic,adjective,b2
+2578,dynamism,dynamism,noun,c2
+2579,easy_1,easy,adjective,c1
+2580,easy-going,easy-going,adjective,b2
+2581,ebullience,ebullience,noun,c2
+2582,ebullient,ebullient,adjective,c2
+2583,effervescent,effervescent,adjective,c2
+2584,efficient,efficient,adjective,b2
+2585,effrontery,effrontery,noun,c2
+2586,egocentric,egocentric,adjective,c2
+2587,egoism,egoism,noun,c2
+2588,empathy,empathy,noun,c1
+2589,energetic,energetic,adjective,b2
+2590,energize,energize,verb,c1
+2591,enterprising,enterprising,adjective,c2
+2592,enthusiastic,enthusiastic,adjective,b2
+2593,ethic,ethic,noun,b2
+2594,ethical,ethical,adjective,b2
+2595,ethos,ethos,noun,c1
+2596,evil_1,evil,adjective,b2
+2597,exasperating,exasperating,adjective,c2
+2598,excel,excel,verb,b2
+2599,experienced,experienced,adjective,b1
+2600,extravert,extravert,noun,b2
+2601,extrovert_1,extrovert,noun,b2
+2602,exuberant,exuberant,adjective,c2
+2603,faint-hearted,faint-hearted,adjective,c2
+2604,faithful,faithful,adjective,c1
+2605,fake_1,fake,adjective,b2
+2606,fake_2,fake,noun,b1
+2607,false,false,adjective,b2
+2608,familiarity,familiarity,noun,c2
+2609,fickle,fickle,adjective,c2
+2610,flamboyant,flamboyant,adjective,c2
+2611,flaunt,flaunt,verb,c2
+2612,fool_2,fool,verb,b1
+2613,forced,forced,adjective,c2
+2614,forthright,forthright,adjective,c2
+2615,fortitude,fortitude,noun,c2
+2616,forward_2,forward,adjective,c2
+2617,foul-mouthed,foul-mouthed,adjective,c2
+2618,frank_1,frank,adjective,c1
+2619,fresh_1,fresh,adjective,c2
+2620,friendly_1,friendly,adjective,a1
+2621,frisky,frisky,adjective,c2
+2622,frolic_1,frolic,verb,c2
+2623,frolic_2,frolic,noun,c2
+2624,frolicsome,frolicsome,adjective,c2
+2625,front_1,front,noun,c2
+2626,full_1,full of yourself,idiom,c2
+2627,gallant_1,gallant,adjective,c2
+2628,gallantry,gallantry,noun,c2
+2629,gamely,gamely,adverb,c2
+2630,generous,generous,adjective,b1
+2631,genial,genial,adjective,c2
+2632,genius_1,genius,noun,b2
+2633,gentle,gentle,adjective,b1
+2634,genuine,genuine,adjective,b2
+2635,get-on,get on,phrasal verb,b1
+2636,get-on-with,get on with,phrasal verb,b1
+2637,get-up-and-go,get-up-and-go,noun,c2
+2638,gibe_1,gibe,noun,c2
+2639,goad_1,goad,verb,c2
+2640,god-fearing,God-fearing,adjective,c2
+2641,godly,godly,adjective,c2
+2642,good_1,good,adjective,a1
+2643,good-for-nothing_1,good-for-nothing,adjective,c2
+2644,good-for-nothing_2,good-for-nothing,noun,c2
+2645,good-hearted,good-hearted,adjective,c1
+2646,good-nature,good nature,noun,c1
+2647,good-natured,good-natured,adjective,c1
+2648,good-sense,good sense,noun,b2
+2649,goodwill,goodwill,noun,c1
+2650,graceful,graceful,adjective,c2
+2651,gracious,gracious,adjective,c2
+2652,grasping,grasping,adjective,c2
+2653,grateful,grateful,adjective,b1
+2654,greedy,greedy,adjective,b2
+2655,greedy,greedy guts,idiom,c2
+2656,gregarious,gregarious,adjective,c2
+2657,gripe_2,gripe,verb,c2
+2658,grit_1,grit,noun,c2
+2659,gritty,gritty,adjective,c2
+2660,grouse_2,grouse,verb,c2
+2661,grubby,grubby,adjective,c2
+2662,guile,guile,noun,c2
+2663,guileless,guileless,adjective,c2
+2664,gumption,gumption,noun,c2
+2665,gusto,gusto,noun,c2
+2666,gut_1,gut,noun,c1
+2667,gutless,gutless,adjective,c2
+2668,gutsy,gutsy,adjective,c2
+2669,hard-working,hard-working,adjective,a2
+2670,harsh,harsh,adjective,c1
+2671,hateful,hateful,adjective,c2
+2672,big_1,have a big mouth,idiom,c2
+2673,heart_1,have a heart of gold,idiom,c2
+2674,courage,have/lack the courage of your convictions,idiom,c2
+2675,stomach_1,have no stomach for something,idiom,c2
+2676,hearty_1,hearty,adjective,c2
+2677,heinous,heinous,adjective,c2
+2678,helpful,helpful,adjective,a2
+2679,henpecked,henpecked,adjective,c2
+2680,hero,hero,noun,a2
+2681,heroic,heroic,adjective,c1
+2682,heroics,heroics,noun,c2
+2683,heroine,heroine,noun,a2
+2684,heroism,heroism,noun,c1
+2685,highbrow,highbrow,adjective,c2
+2686,high-handed,high-handed,adjective,c2
+2687,high-minded,high-minded,adjective,c2
+2688,high-spirited,high-spirited,adjective,c2
+2689,holy,holy,adjective,b2
+2690,honest,honest,adjective,b1
+2691,honesty,honesty,noun,b2
+2692,honor_1,honor,noun,b2
+2693,honorable,honorable,adjective,c1
+2694,honour_1,honour,noun,b2
+2695,honourable,honourable,adjective,c1
+2696,horrible,horrible,adjective,b1
+2697,horrid,horrid,adjective,c2
+2698,hospitable,hospitable,adjective,c1
+2699,hubris,hubris,noun,c2
+2700,humanity,humanity,noun,c1
+2701,hyper_1,hyper,adjective,c2
+2702,icy,icy,adjective,c1
+2703,idler,idler,noun,c2
+2704,ill-treat,ill-treat,verb,c2
+2705,ill-treatment,ill-treatment,noun,c2
+2706,ill-will,ill will,noun,c2
+2707,imaginative,imaginative,adjective,b2
+2708,immodest,immodest,adjective,c2
+2709,immoral,immoral,adjective,b2
+2710,impertinence,impertinence,noun,c2
+2711,impertinent,impertinent,adjective,c2
+2712,importunate,importunate,adjective,c2
+2713,importune,importune,verb,c2
+2714,impudence,impudence,noun,c2
+2715,impudent,impudent,adjective,c2
+2716,impure,impure,adjective,c2
+2717,incisive,incisive,adjective,c2
+2718,incivility,incivility,noun,c2
+2719,inconstancy,inconstancy,noun,c2
+2720,inconstant,inconstant,adjective,c2
+2721,indecency,indecency,noun,c2
+2722,indecent,indecent,adjective,c2
+2723,indefensible,indefensible,adjective,c2
+2724,independent_1,independent,adjective,b1
+2725,indomitable,indomitable,adjective,c2
+2726,infamous,infamous,adjective,c1
+2727,infamy,infamy,noun,c2
+2728,infernal,infernal,adjective,c2
+2729,ingenious,ingenious,adjective,c1
+2730,ingenuity,ingenuity,noun,c2
+2731,ingenuous,ingenuous,adjective,c2
+2732,insensitive,insensitive,adjective,c1
+2733,insolence,insolence,noun,c2
+2734,insolent,insolent,adjective,c2
+2735,inspo,inspo,noun,c2
+2736,insufferable,insufferable,adjective,c2
+2737,integrity,integrity,noun,c1
+2738,intellect,intellect,noun,c1
+2739,intelligent,intelligent,adjective,a2
+2740,interfering,interfering,adjective,c2
+2741,intolerant,intolerant,adjective,c1
+2742,intrepid,intrepid,adjective,c2
+2743,introvert_1,introvert,noun,b2
+2744,introverted,introverted,adjective,c2
+2745,invent,invent,verb,b1
+2746,invest-in,invest in,phrasal verb,c2
+2747,irrepressible,irrepressible,adjective,c2
+2748,irritable,irritable,adjective,c1
+2749,jaunty,jaunty,adjective,c2
+2750,jealous,jealous,adjective,b1
+2751,jibe_1,jibe,noun,c2
+2752,jilt,jilt,verb,c2
+2753,jolly_1,jolly,adjective,c1
+2754,jovial,jovial,adjective,c2
+2755,judgemental,judgemental,adjective,c1
+2756,just_2,just,adjective,c1
+2757,keen_1,keen,adjective,b1
+2758,kid_2,kid,verb,c2
+2759,kind_2,kind,adjective,b1
+2760,kind-hearted,kind-hearted,adjective,c1
+2761,kindly_2,kindly,adjective,c1
+2762,kindness,kindness,noun,b1
+2763,knowledgeable,knowledgeable,adjective,c1
+2764,laggard,laggard,noun,c2
+2765,laid-back,laid-back,adjective,b2
+2766,layabout,layabout,noun,c2
+2767,laze,laze,verb,c1
+2768,laze-away,laze away,phrasal verb,c1
+2769,lazy,lazy,adjective,a2
+2770,leadership,leadership,noun,b2
+2771,lead-on,lead on,phrasal verb,c2
+2772,libertine,libertine,noun,c2
+2773,licentious,licentious,adjective,c2
+2774,lie2_1,lie,verb,b1
+2775,lie-around,lie around,phrasal verb,c1
+2776,lily-livered,lily-livered,adjective,c2
+2777,lively,lively,adjective,b2
+2778,loafer,loafer,noun,c2
+2779,lofty,lofty,adjective,c2
+2780,loll,loll,verb,c2
+2781,loose_1,loose,adjective,c2
+2782,loud_1,loud,adjective,b1
+2783,loudmouth,loudmouth,noun,c1
+2784,lounge_2,lounge,verb,c2
+2785,lovely_1,lovely,adjective,a2
+2786,loving,loving,adjective,c1
+2787,loyal,loyal,adjective,b2
+2788,lump_1,lump,noun,c2
+2789,macho,macho,adjective,c2
+2790,magnanimous,magnanimous,adjective,c2
+2791,magnetism,magnetism,noun,c2
+2792,fun_1,make fun of somebody/something,idiom,b2
+2793,malefactor,malefactor,noun,c2
+2794,malicious,malicious,adjective,c1
+2795,man_1,man,noun,c1
+2796,manful,manful,adjective,c2
+2797,mastermind_1,mastermind,noun,c2
+2798,mature_1,mature,adjective,c1
+2799,mean_2,mean,adjective,c2
+2800,menace_1,menace,noun,c1
+2801,mercenary_2,mercenary,adjective,c2
+2802,merciful,merciful,adjective,c2
+2803,mercurial,mercurial,adjective,c2
+2804,mercy,mercy,noun,c1
+2805,meticulous,meticulous,adjective,c2
+2806,mild_1,mild,adjective,c2
+2807,milksop,milksop,noun,c2
+2808,mischief,mischief,noun,c2
+2809,mischievous,mischievous,adjective,c2
+2810,miser,miser,noun,c2
+2811,miserable,miserable,adjective,c1
+2812,mislead,mislead,verb,b2
+2813,misleading,misleading,adjective,c1
+2814,misrepresent,misrepresent,verb,c1
+2815,mistreat,mistreat,verb,c1
+2816,moan_1,moan,verb,c1
+2817,mock_1,mock,verb,c1
+2818,modest,modest,adjective,b2
+2819,monstrous,monstrous,adjective,c2
+2820,moral_1,moral,adjective,b2
+2821,moral-fibre,moral fibre,noun,c2
+2822,moralist,moralist,noun,c2
+2823,morality,morality,noun,c1
+2824,moralize,moralize,verb,c2
+2825,mordant,mordant,adjective,c2
+2826,motivate,motivate,verb,b2
+2827,mouthy,mouthy,adjective,c2
+2828,musical_1,musical,adjective,b2
+2829,muster_1,muster,verb,c2
+2830,narcissism,narcissism,noun,c2
+2831,narrow-minded,narrow-minded,adjective,c1
+2832,nasty,nasty,adjective,b2
+2833,needy,needy,adjective,c2
+2834,nefarious,nefarious,adjective,c2
+2835,nerve_1,nerve,noun,c2
+2836,nervous,nervous,adjective,b1
+2837,ne-er-do-well,ne’er-do-well,noun,c2
+2838,nice,nice,adjective,a1
+2839,nobility,nobility,noun,c2
+2840,noble_1,noble,adjective,c1
+2841,nosey,nosey,adjective,b2
+2842,nosy,nosy,adjective,b2
+2843,nosy-parker,nosy parker,noun,c2
+2844,nuisance,nuisance,noun,c1
+2845,number-one_2,number one,noun,c2
+2846,obstinate,obstinate,adjective,c2
+2847,offensive_1,offensive,adjective,b2
+2848,open_1,open,adjective,b2
+2849,open-hearted,open-hearted,adjective,c1
+2850,open-minded,open-minded,adjective,c1
+2851,openness,openness,noun,c1
+2852,opportunism,opportunism,noun,c2
+2853,opportunist_1,opportunist,adjective,c2
+2854,opportunist_2,opportunist,noun,c2
+2855,optimism,optimism,noun,c1
+2856,optimistic,optimistic,adjective,b2
+2857,organized,organized,adjective,b1
+2858,outface,outface,verb,c2
+2859,outgoing,outgoing,adjective,b1
+2860,overconfident,overconfident,adjective,c2
+2861,over-optimistic,over-optimistic,adjective,c2
+2862,overweening,overweening,adjective,c2
+2863,pain_1,pain,noun,b2
+2864,panache,panache,noun,c2
+2865,passionate,passionate,adjective,b2
+2866,past-master,past master,noun,c2
+2867,patience,patience,noun,b2
+2868,patient_2,patient,adjective,b2
+2869,people-skills,people skills,noun,b2
+2870,pep_2,pep,noun,c2
+2871,peppy,peppy,adjective,c2
+2872,perk-up,perk up,phrasal verb,c2
+2873,perky,perky,adjective,c2
+2874,personable,personable,adjective,c2
+2875,petty,petty,adjective,c2
+2876,phoney_1,phoney,adjective,c2
+2877,phony_1,phony,adjective,c2
+2878,pig-headed,pig-headed,adjective,c2
+2879,pizzazz,pizzazz,noun,c2
+2880,plain_1,plain,adjective,c1
+2881,pleasant,pleasant,adjective,b1
+2882,pluck_2,pluck,noun,c2
+2883,plucky,plucky,adjective,c2
+2884,poise_1,poise,noun,c2
+2885,poised,poised,adjective,c2
+2886,poke_1,poke fun at somebody/something,idiom,c2
+2887,polished,polished,adjective,c2
+2888,polite,polite,adjective,a2
+2889,positive_1,positive,adjective,b1
+2890,positivity,positivity,noun,c2
+2891,possessive_1,possessive,adjective,c2
+2892,potential_2,potential,noun,b2
+2893,powerhouse,powerhouse,noun,c2
+2894,practical_1,practical,adjective,b2
+2895,preach,preach,verb,c1
+2896,preen,preen,verb,c2
+2897,prejudiced,prejudiced,adjective,c2
+2898,presumption,presumption,noun,c2
+2899,presumptuous,presumptuous,adjective,c2
+2900,pretend_1,pretend,verb,b1
+2901,pride_1,pride,noun,b2
+2902,prince-charming,Prince Charming,noun,c2
+2903,principle,principle,noun,b2
+2904,principled,principled,adjective,c1
+2905,proactive,proactive,adjective,c2
+2906,prodigy,prodigy,noun,b2
+2907,profess,profess,verb,c1
+2908,professional_1,professional,adjective,b1
+2909,proper,proper,adjective,c2
+2910,proud_1,proud,adjective,b1
+2911,prude,prude,noun,c2
+2912,prudish,prudish,adjective,c2
+2913,punky,punky,adjective,c2
+2914,puritan_1,puritan,noun,c2
+2915,puritanical,puritanical,adjective,c2
+2916,pushy,pushy,adjective,c1
+2917,pussycat,pussycat,noun,c2
+2918,quality_1,quality,noun,b1
+2919,quick-witted,quick-witted,adjective,c2
+2920,raffish,raffish,adjective,c2
+2921,rambunctious,rambunctious,adjective,c2
+2922,rational,rational,adjective,c1
+2923,razor-sharp,razor-sharp,adjective,c2
+2924,rebel_1,rebel,noun,c1
+2925,rebel_2,rebel,verb,c1
+2926,rebellious,rebellious,adjective,c1
+2927,rebuff_1,rebuff,verb,c2
+2928,rebuff_2,rebuff,noun,c2
+2929,rectitude,rectitude,noun,c2
+2930,relatable,relatable,adjective,c1
+2931,relaxed,relaxed,adjective,b1
+2932,reliable,reliable,adjective,b1
+2933,renaissance-man,Renaissance man,noun,c2
+2934,renaissance-woman,Renaissance woman,noun,c2
+2935,reprobate_1,reprobate,adjective,c2
+2936,reprobate_2,reprobate,noun,c2
+2937,resentful,resentful,adjective,c1
+2938,responsible,responsible,adjective,b2
+2939,ridicule_1,ridicule,noun,c1
+2940,ridicule_2,ridicule,verb,c1
+2941,rogue_1,rogue,noun,c1
+2942,rude,rude,adjective,a2
+2943,rumbustious,rumbustious,adjective,c2
+2944,saint,saint,noun,c1
+2945,sangfroid,sangfroid,noun,c2
+2946,sanguine,sanguine,adjective,c2
+2947,sap_1,sap,noun,c2
+2948,sarcasm,sarcasm,noun,c2
+2949,sassy,sassy,adjective,c2
+2950,scorn_2,scorn,verb,c2
+2951,scoundrel,scoundrel,noun,c2
+2952,scrupulous,scrupulous,adjective,c2
+2953,secretive,secretive,adjective,c1
+2954,secure_2,secure,adjective,b2
+2955,seedy,seedy,adjective,c2
+2956,self-absorbed,self-absorbed,adjective,c2
+2957,self-assertive,self-assertive,adjective,c2
+2958,self-assurance,self-assurance,noun,c2
+2959,self-assured,self-assured,adjective,c2
+2960,self-centred,self-centred,adjective,c1
+2961,self-confidence,self-confidence,noun,b2
+2962,self-confident,self-confident,adjective,b2
+2963,self-congratulation,self-congratulation,noun,c2
+2964,self-congratulatory,self-congratulatory,adjective,c2
+2965,self-deprecating,self-deprecating,adjective,c2
+2966,self-indulgence,self-indulgence,noun,c2
+2967,self-indulgent,self-indulgent,adjective,c2
+2968,selfish,selfish,adjective,b1
+2969,self-motivated,self-motivated,adjective,c1
+2970,self-motivation,self-motivation,noun,c2
+2971,self-pity,self-pity,noun,c1
+2972,self-possessed,self-possessed,adjective,c2
+2973,self-possession,self-possession,noun,c2
+2974,self-regard,self-regard,noun,c2
+2975,self-regarding,self-regarding,adjective,c2
+2976,self-reliance,self-reliance,noun,c2
+2977,self-reliant,self-reliant,adjective,c2
+2978,self-respect,self-respect,noun,c2
+2979,self-respecting,self-respecting,adjective,c2
+2980,self-satisfied,self-satisfied,adjective,c2
+2981,self-serving,self-serving,adjective,c2
+2982,self-starter,self-starter,noun,c2
+2983,self-worth,self-worth,noun,c2
+2984,sensible,sensible,adjective,b1
+2985,sensitive,sensitive,adjective,b2
+2986,sermonize,sermonize,verb,c2
+2987,shamble,shamble,verb,c2
+2988,sharp_1,sharp,adjective,b2
+2989,shiftless,shiftless,adjective,c2
+2990,shifty,shifty,adjective,c2
+2991,shirk,shirk,verb,c2
+2992,shirker,shirker,noun,c2
+2993,shoot_1,shoot your mouth off (about something),idiom,c2
+2994,show-off_1,show off,phrasal verb,b2
+2995,shrewd,shrewd,adjective,c2
+2996,shy_1,shy,adjective,b1
+2997,skill,skill,noun,a1
+2998,skilled,skilled,adjective,b2
+2999,skill-set,skill set,noun,b2
+3000,slacker,slacker,noun,c2
+3001,sleaze,sleaze,noun,c2
+3002,sleazy,sleazy,adjective,c2
+3003,slob_1,slob,noun,c2
+3004,slob-around,slob around,phrasal verb,c2
+3005,slob-out,slob out,phrasal verb,c2
+3006,sloth,sloth,noun,c2
+3007,slothful,slothful,adjective,c2
+3008,slouch_2,slouch,noun,c2
+3009,slouchy,slouchy,adjective,c2
+3010,sluggard,sluggard,noun,c2
+3011,sluggish,sluggish,adjective,c2
+3012,sly,sly,adjective,c2
+3013,smart_1,smart,adjective,b1
+3014,smear_1,smear,verb,c2
+3015,smoothly,smoothly,adverb,c2
+3016,smug,smug,adjective,c2
+3017,snide,snide,adjective,c2
+3018,sociable,sociable,adjective,b1
+3019,soft,soft,adjective,c2
+3020,soft-hearted,soft-hearted,adjective,c2
+3021,softie,softie,noun,c2
+3022,softy,softy,noun,c2
+3023,sordid,sordid,adjective,c2
+3024,sparkle_1,sparkle,verb,c2
+3025,sparkle_2,sparkle,noun,c2
+3026,spin_1,"spin (somebody) a yarn, tale, etc.",idiom,c2
+3027,spirit_1,spirit,noun,b2
+3028,spirited,spirited,adjective,c2
+3029,spiteful,spiteful,adjective,c2
+3030,sprightly,sprightly,adjective,c2
+3031,springy,springy,adjective,c2
+3032,spry,spry,adjective,c2
+3033,spunk,spunk,noun,c2
+3034,spurn,spurn,verb,c2
+3035,square_1,square,adjective,c2
+3036,tall,stand tall,idiom,c2
+3037,staunch_1,staunch,adjective,c2
+3038,stiff-necked,stiff-necked,adjective,c2
+3039,stout_1,stout,adjective,c2
+3040,stout-hearted,stout-hearted,adjective,c2
+3041,straight_2,straight,adjective,c2
+3042,straightforward,straightforward,adjective,c1
+3043,straight-laced,straight-laced,adjective,c2
+3044,strait-laced,strait-laced,adjective,c2
+3045,street-smart,street-smart,adjective,c2
+3046,street-smarts,street smarts,noun,c2
+3047,streetwise,streetwise,adjective,c2
+3048,strength,strength,noun,b2
+3049,strict,strict,adjective,b2
+3050,strong,strong,adjective,b1
+3051,strut_1,strut,verb,c2
+3052,stubborn,stubborn,adjective,b2
+3053,suave,suave,adjective,c2
+3054,sulky,sulky,adjective,c2
+3055,superficial,superficial,adjective,c1
+3056,superiority-complex,superiority complex,noun,c2
+3057,sure_1,sure,adjective,a1
+3058,sure-footed,sure-footed,adjective,c2
+3059,sureness,sureness,noun,c1
+3060,surly,surly,adjective,c2
+3061,suspicion,suspicion,noun,c1
+3062,suspicious,suspicious,adjective,c1
+3063,swagger_1,swagger,verb,c2
+3064,swank,swank,verb,c2
+3065,sweet_1,sweet,adjective,c1
+3066,sweetie,sweetie,noun,c2
+3067,sympathetic,sympathetic,adjective,b2
+3068,sympathy,sympathy,noun,b2
+3069,tactful,tactful,adjective,c1
+3070,talented,talented,adjective,b1
+3071,talkative,talkative,adjective,b2
+3072,tart_2,tart,adjective,c2
+3073,taunt_1,taunt,verb,c2
+3074,taunt_2,taunt,noun,c2
+3075,team-player,team player,noun,c1
+3076,temerity,temerity,noun,c2
+3077,temperament,temperament,noun,c2
+3078,temperamental,temperamental,adjective,c2
+3079,tender_1,tender,adjective,c1
+3080,tender-hearted,tender-hearted,adjective,c2
+3081,thoughtful,thoughtful,adjective,c1
+3082,tigerish,tigerish,adjective,c2
+3083,timid,timid,adjective,c1
+3084,timidity,timidity,noun,c2
+3085,timorous,timorous,adjective,c2
+3086,tireless,tireless,adjective,c2
+3087,together_2,together,adjective,c2
+3088,tolerance,tolerance,noun,c1
+3089,tolerant,tolerant,adjective,c1
+3090,tough_1,tough,adjective,b2
+3091,trick_2,trick,verb,b1
+3092,trumpet_2,trumpet,verb,c2
+3093,trust_1,trust,noun,b2
+3094,trust_2,trust,verb,b2
+3095,trustworthy,trustworthy,adjective,c1
+3096,truthful,truthful,adjective,c1
+3097,trying,trying,adjective,c2
+3098,unapproachable,unapproachable,adjective,c2
+3099,unbearable,unbearable,adjective,c1
+3100,uncharitable,uncharitable,adjective,c2
+3101,unchristian,unchristian,adjective,c1
+3102,unconscionable,unconscionable,adjective,c2
+3103,understanding_2,understanding,adjective,b1
+3104,unflinching,unflinching,adjective,c2
+3105,unfriendliness,unfriendliness,noun,b2
+3106,unfriendly,unfriendly,adjective,b1
+3107,ungracious,ungracious,adjective,c2
+3108,unsmiling,unsmiling,adjective,c1
+3109,untruthful,untruthful,adjective,c1
+3110,upright_1,upright,adjective,c2
+3111,upstanding,upstanding,adjective,c2
+3112,vain,vain,adjective,c1
+3113,vainglorious,vainglorious,adjective,c2
+3114,vainglory,vainglory,noun,c2
+3115,valiant,valiant,adjective,c2
+3116,valour,valour,noun,c2
+3117,vanity,vanity,noun,c2
+3118,veracity,veracity,noun,c2
+3119,vice_1,vice,noun,c1
+3120,vigorous,vigorous,adjective,c2
+3121,vigour,vigour,noun,c2
+3122,villain,villain,noun,b2
+3123,villainous,villainous,adjective,c1
+3124,villainy,villainy,noun,c1
+3125,virtue,virtue,noun,c1
+3126,virtuous,virtuous,adjective,c2
+3127,vital,vital,adjective,c2
+3128,vivacious,vivacious,adjective,c2
+3129,vivacity,vivacity,noun,c2
+3130,vociferous,vociferous,adjective,c2
+3131,vulgar,vulgar,adjective,c2
+3132,vulgarity,vulgarity,noun,c2
+3133,walk_1,walk tall,idiom,c2
+3134,wanton,wanton,adjective,c2
+3135,warm_1,warm,adjective,b1
+3136,warm-hearted,warm-hearted,adjective,c1
+3137,wastrel,wastrel,noun,c2
+3138,weak-kneed,weak-kneed,adjective,c2
+3139,welcoming,welcoming,adjective,b1
+3140,well-disposed,well disposed,adjective,c2
+3141,well-meaning,well meaning,adjective,c2
+3142,while-away,while away,phrasal verb,c2
+3143,whine_1,whine,verb,c1
+3144,whinge_2,whinge,verb,c2
+3145,whizz-kid,whizz-kid,noun,c2
+3146,wholesome,wholesome,adjective,c2
+3147,wily,wily,adjective,c2
+3148,wimp_1,wimp,noun,c2
+3149,wisdom,wisdom,noun,b2
+3150,wise_1,wise,adjective,b2
+3151,wit,wit,noun,c1
+3152,withdrawn,withdrawn,adjective,c1
+3153,witty,witty,adjective,c1
+3154,wrong_1,wrong,adjective,b1
+3155,wuss,wuss,noun,c2
+3156,yellow-bellied,yellow-bellied,adjective,c2
+3157,yellow-belly,yellow-belly,noun,c2
+3158,zeal,zeal,noun,c2
+3159,zealous,zealous,adjective,c2

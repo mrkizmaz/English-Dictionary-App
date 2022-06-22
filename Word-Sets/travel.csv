@@ -1,0 +1,1922 @@
+subLink,word,type,level
+0,abroad,abroad,adverb,a2
+1,accommodation,accommodation,noun,b1
+2,adventure,adventure,noun,a2
+3,agritourism,agritourism,noun,c2
+4,all-inclusive,all-inclusive,adjective,c1
+5,american-plan,American plan,noun,c2
+6,amusement-park,amusement park,noun,b2
+7,aparthotel,aparthotel,noun,c2
+8,apartment,apartment,noun,a1
+9,apartment-hotel,apartment hotel,noun,c2
+10,backpack_1,backpack,noun,b1
+11,backpack_2,backpack,verb,b2
+12,b-and-b,B and B,abbreviation,c2
+13,bank-holiday,bank holiday,noun,c1
+14,beach_1,beach,noun,a1
+15,bed-and-breakfast,bed and breakfast,noun,b2
+16,bellboy,bellboy,noun,c2
+17,bellhop,bellhop,noun,c2
+18,board_1,board,noun,c2
+19,book_2,book,verb,a2
+20,booking,booking,noun,b2
+21,booze-cruise,booze cruise,noun,c2
+22,break_2,break,noun,b1
+23,brochure,brochure,noun,b1
+24,bucket-shop,bucket shop,noun,c2
+25,budget_3,budget,adjective,b2
+26,bureau,bureau,noun,c2
+27,bushwhack,bushwhack,verb,c2
+28,camp_2,camp,verb,a2
+29,camper,camper,noun,c2
+30,campfire,campfire,noun,b1
+31,camping,camping,noun,a2
+32,campsite,campsite,noun,b1
+33,canal,canal,noun,b2
+34,cancellation,cancellation,noun,c1
+35,caravan,caravan,noun,b2
+36,caravanning,caravanning,noun,c2
+37,card-key,card key,noun,a2
+38,chalet,chalet,noun,c1
+39,check-in_2,check-in,noun,b1
+40,check-in_1,check in,phrasal verb,a2
+41,checkout,checkout,noun,b2
+42,clerk_1,clerk,noun,b2
+43,commissionaire,commissionaire,noun,c2
+44,concierge,concierge,noun,c2
+45,cot,cot,noun,c2
+46,cottage,cottage,noun,b1
+47,courier_1,courier,noun,c2
+48,cruise_1,cruise,noun,b2
+49,currency,currency,noun,b1
+50,customs,customs,noun,c2
+51,day-out,day out,noun,b1
+52,daypack,daypack,noun,c1
+53,day-trip,day trip,noun,b1
+54,day-tripper,day tripper,noun,c2
+55,deckchair,deckchair,noun,c2
+56,desk,desk,noun,a1
+57,desk-clerk,desk clerk,noun,b2
+58,destination_1,destination,noun,b1
+59,destination-wedding,destination wedding,noun,c2
+60,doorman,doorman,noun,c1
+61,doorwoman,doorwoman,noun,c1
+62,double_6,double,noun,b1
+63,double-room,double room,noun,a2
+64,duty-free_1,duty-free,adjective,c1
+65,duty-free_3,duty-free,adverb,c1
+66,ecotourism,ecotourism,noun,c2
+67,en-suite_1,en suite,adjective,c1
+68,en-suite_2,en-suite,noun,c1
+69,exchange_1,exchange,noun,b1
+70,excursion,excursion,noun,b2
+71,explore,explore,verb,b1
+72,family-room,family room,noun,b1
+73,fleabag,fleabag,noun,c2
+74,floor_1,floor,noun,a2
+75,fly-drive_1,fly-drive,noun,c2
+76,forecourt,forecourt,noun,c2
+77,foreign,foreign,adjective,a2
+78,foyer,foyer,noun,c2
+79,front-desk,front desk,noun,b1
+80,full-board,full board,noun,c2
+81,get-away,get away,phrasal verb,b2
+82,getaway,getaway,noun,c2
+83,glamping,glamping,noun,c2
+84,guest_1,guest,noun,a2
+85,guest-house,guest house,noun,c1
+86,guide_1,guide,noun,a2
+87,guy_1,guy,noun,c2
+88,half-board,half board,noun,c2
+89,high-season,high season,noun,c1
+90,hiking,hiking,noun,a2
+91,hillwalking,hillwalking,noun,b2
+92,holiday_1,holiday,noun,a1
+93,holiday-camp,holiday camp,noun,b1
+94,holidaymaker,holidaymaker,noun,b2
+95,homestay,homestay,noun,c1
+96,honeymoon_1,honeymoon,noun,b2
+97,hostel,hostel,noun,b1
+98,hostelry,hostelry,noun,c2
+99,hotel,hotel,noun,a1
+100,hotelier,hotelier,noun,c2
+101,hotspot,hotspot,noun,c2
+102,housekeeper,housekeeper,noun,c2
+103,housekeeping,housekeeping,noun,c2
+104,inn,inn,noun,c1
+105,island-hopping,island-hopping,noun,c2
+106,itinerary,itinerary,noun,c1
+107,jaunt,jaunt,noun,c2
+108,journey_1,journey,noun,a1
+109,key-card,key card,noun,a2
+110,lobby_1,lobby,noun,c1
+111,lounge_1,lounge,noun,b2
+112,lounge-bar,lounge bar,noun,c2
+113,lounger,lounger,noun,c2
+114,low-season,low season,noun,c1
+115,luggage,luggage,noun,a2
+116,luxurious,luxurious,adjective,c1
+117,maid,maid,noun,c1
+118,manageress,manageress,noun,c1
+119,minibar,minibar,noun,b2
+120,mosquito-net,mosquito net,noun,c1
+121,motel,motel,noun,c1
+122,motorhome,motorhome,noun,c2
+123,motor-lodge,motor lodge,noun,c2
+124,non-resident_1,non-resident,noun,c1
+125,non-resident_2,non-resident,adjective,c1
+126,nordic-walking,Nordic walking,noun,c2
+127,operator,operator,noun,b2
+128,outing,outing,noun,c1
+129,overbook,overbook,verb,c2
+130,pack_1,pack,verb,a2
+131,package-tour,package tour,noun,b2
+132,parasol,parasol,noun,c2
+133,passport,passport,noun,a1
+134,peg_1,peg,noun,c1
+135,pension2,pension,noun,c2
+136,pitch_2,pitch,verb,c2
+137,pool_1,pool,noun,a1
+138,porter,porter,noun,c1
+139,postcard,postcard,noun,a2
+140,primustm,Primus™,noun,c2
+141,rack-rate,rack rate,noun,c2
+142,reception,reception,noun,a2
+143,receptionist,receptionist,noun,a2
+144,reservation,reservation,noun,b1
+145,resident_1,resident,noun,b2
+146,resort_1,resort,noun,b2
+147,rest-house,rest house,noun,c2
+148,road-trip,road trip,noun,b1
+149,room_1,room,noun,a1
+150,room-service,room service,noun,b2
+151,rough_3,rough it,idiom,c2
+152,rucksack,rucksack,noun,b2
+153,safari,safari,noun,b1
+154,sand_1,sand,noun,b1
+155,sandcastle,sandcastle,noun,c1
+156,sandy_1,sandy,adjective,b2
+157,sea,sea,noun,a1
+158,seafront,seafront,noun,c2
+159,seaside_1,seaside,noun,b1
+160,seaside_2,seaside,adjective,b1
+161,self-catering_1,self-catering,adjective,c1
+162,self-catering_2,self-catering,noun,c1
+163,self-drive,self-drive,adjective,c1
+164,sight_1,sight,noun,b1
+165,sightsee,sightsee,verb,c1
+166,sightseeing,sightseeing,noun,a2
+167,sightseer,sightseer,noun,c1
+168,single_2,single,noun,a2
+169,sitting,sitting,noun,c2
+170,sleeping-bag,sleeping bag,noun,b1
+171,snap_2,snap,noun,c2
+172,souvenir,souvenir,noun,a2
+173,star_1,star,noun,a2
+174,stay_1,stay,verb,a1
+175,stay_2,stay,noun,a2
+176,staycation,staycation,noun,c1
+177,suitcase,suitcase,noun,a2
+178,suite,suite,noun,c1
+179,sunbathe,sunbathe,verb,b1
+180,sunblock,sunblock,noun,c1
+181,sunburn,sunburn,noun,c1
+182,sun-cream,sun cream,noun,c1
+183,sunlounger,sunlounger,noun,c2
+184,sunscreen,sunscreen,noun,b2
+185,suntan_2,suntan,noun,c1
+186,tan_1,tan,verb,c1
+187,tan_2,tan,noun,c1
+188,tariff,tariff,noun,c1
+189,tent,tent,noun,b1
+190,tent-peg,tent peg,noun,c1
+191,theme-park,theme park,noun,b1
+192,timeshare,timeshare,noun,c2
+193,tour_1,tour,noun,a2
+194,tour_2,tour,verb,b1
+195,tourism,tourism,noun,a2
+196,tourist,tourist,noun,a1
+197,tourist-class,tourist class,noun,c1
+198,tourist-trap,tourist trap,noun,c2
+199,touristy,touristy,adjective,c1
+200,travel-agency,travel agency,noun,b2
+201,travel-agent,travel agent,noun,b2
+202,traveller,traveller,noun,a2
+203,traveller-s-cheque,traveller’s cheque,noun,c1
+204,trek_2,trek,verb,b2
+205,trip_1,trip,noun,a1
+206,twin_1,twin,noun,a2
+207,twin-bedroom,twin bedroom,noun,c1
+208,unpack,unpack,verb,b1
+209,upgrade_1,upgrade,verb,c1
+210,upmarket_1,upmarket,adverb,c1
+211,upmarket_2,upmarket,adjective,c1
+212,vacancy,vacancy,noun,c1
+213,vacation_1,vacation,noun,a1
+214,vacationer,vacationer,noun,c2
+215,valet_1,valet,noun,c2
+216,villa,villa,noun,b2
+217,visa,visa,noun,b2
+218,visitor,visitor,noun,a1
+219,visitors-book,visitors’ book,noun,b2
+220,voyage_1,voyage,noun,b2
+221,wake-up-call,wake-up call,noun,b2
+222,walking_1,walking,noun,a2
+223,youth-hostel,youth hostel,noun,b1
+224,aboard,aboard,adverb,c1
+225,aerial_2,aerial,adjective,c1
+226,aerodrome,aerodrome,noun,c2
+227,aerodynamic,aerodynamic,adjective,c2
+228,aerodynamics,aerodynamics,noun,c2
+229,aeronaut,aeronaut,noun,c2
+230,aeronautical,aeronautical,adjective,c2
+231,aeronautics,aeronautics,noun,c2
+232,aerospace,aerospace,noun,c1
+233,aft,aft,adverb,c2
+234,aileron,aileron,noun,c2
+235,airbase,airbase,noun,c2
+236,airborne,airborne,adjective,c2
+237,air-bridge,air bridge,noun,c2
+238,airbustm,Airbus™,noun,c2
+239,air-corridor,air corridor,noun,c2
+240,aircraft,aircraft,noun,b2
+241,aircrew,aircrew,noun,c2
+242,airdrome,airdrome,noun,c2
+243,airfare,airfare,noun,b1
+244,airfield,airfield,noun,c1
+245,air-hostess,air hostess,noun,c1
+246,air-lane,air lane,noun,c2
+247,airline,airline,noun,a2
+248,airliner,airliner,noun,c2
+249,air-marshal,air marshal,noun,c2
+250,air-milestm,Air Miles™,noun,c2
+251,airplane,airplane,noun,a1
+252,air-pocket,air pocket,noun,c2
+253,airport,airport,noun,a1
+254,airship,airship,noun,c2
+255,airsick,airsick,adjective,b1
+256,airsickness,airsickness,noun,b1
+257,airspace,airspace,noun,c1
+258,airspeed,airspeed,noun,b2
+259,airstrip,airstrip,noun,c2
+260,air-terminal,air terminal,noun,b2
+261,air-traffic-control,air traffic control,noun,c1
+262,air-traffic-controller,air traffic controller,noun,c1
+263,airworthiness,airworthiness,noun,c2
+264,airworthy,airworthy,adjective,c2
+265,aisle,aisle,noun,b2
+266,altimeter,altimeter,noun,c2
+267,announcer,announcer,noun,b2
+268,approach_1,approach,noun,b2
+269,apron,apron,noun,c2
+270,arrival,arrival,noun,b1
+271,automatic-pilot,automatic pilot,noun,c1
+272,autopilot,autopilot,noun,c1
+273,aviation,aviation,noun,c1
+274,aviator,aviator,noun,c2
+275,baggage,baggage,noun,a2
+276,baggage-carousel,baggage carousel,noun,c2
+277,baggage-reclaim,baggage reclaim,noun,b2
+278,bail-out,bail out,phrasal verb,c2
+279,balloon_1,balloon,noun,b2
+280,beacon,beacon,noun,c2
+281,biplane,biplane,noun,c2
+282,bird-strike,bird strike,noun,c2
+283,black-box,black box,noun,c2
+284,blade,blade,noun,c1
+285,board_2,board,verb,b1
+286,boarding-card,boarding card,noun,b2
+287,bomber,bomber,noun,b2
+288,book_2,book,verb,a2
+289,bulkhead,bulkhead,noun,c2
+290,bump_1,bump,verb,c2
+291,business-class_1,business class,noun,b1
+292,business-class_2,business class,adverb,b1
+293,cabin,cabin,noun,b2
+294,cabin-crew,cabin crew,noun,b2
+295,canopy,canopy,noun,c2
+296,captain_1,captain,noun,b1
+297,cargo,cargo,noun,c1
+298,carousel,carousel,noun,c2
+299,carry-on_2,carry-on,noun,b2
+300,catch_1,catch,verb,a2
+301,change_1,change,verb,a2
+302,charter_1,charter,noun,c2
+303,charter_2,charter,verb,c2
+304,charter-flight,charter flight,noun,c2
+305,check-in_2,check-in,noun,b1
+306,check-in_1,check in,phrasal verb,a2
+307,class_1,class,noun,b1
+308,clearance,clearance,noun,c2
+309,club-class,club class,noun,c2
+310,coach_1,coach,noun,c2
+311,cockpit,cockpit,noun,c1
+312,code-sharing,code-sharing,noun,c2
+313,concourse,concourse,noun,c2
+314,connection,connection,noun,b2
+315,contrail,contrail,noun,c2
+316,control-tower,control tower,noun,c1
+317,conveyor-belt,conveyor belt,noun,c2
+318,co-pilot,co-pilot,noun,c1
+319,copter,copter,noun,c2
+320,cowling,cowling,noun,c2
+321,crash-dive,crash-dive,verb,c2
+322,crash-land,crash-land,verb,c1
+323,crash-landing,crash landing,noun,c1
+324,customs,customs,noun,c2
+325,deep-vein-thrombosis,deep vein thrombosis,noun,c2
+326,delta-wing,delta wing,noun,c2
+327,departure,departure,noun,b1
+328,deplane,deplane,verb,c2
+329,descent,descent,noun,c1
+330,disembark,disembark,verb,c2
+331,disembarkation,disembarkation,noun,c2
+332,distress_1,distress,noun,c1
+333,ditch_2,ditch,verb,c2
+334,dive_1,dive,verb,b2
+335,dive_2,dive,noun,b2
+336,domestic_1,domestic,adjective,b2
+337,drone_1,drone,noun,c2
+338,dual-controls,dual controls,noun,c2
+339,duty-free-shop,duty-free shop,noun,c2
+340,economy-class-syndrome,economy class syndrome,noun,c2
+341,ejector-seat,ejector seat,noun,c2
+342,elevator,elevator,noun,c2
+343,engineer_1,engineer,noun,b1
+344,eta_2,ETA,abbreviation,c2
+345,etd,ETD,abbreviation,c2
+346,e-ticket,e-ticket,noun,b2
+347,excess-baggage,excess baggage,noun,c1
+348,fare_1,fare,noun,b2
+349,fighter,fighter,noun,c1
+350,fin,fin,noun,c2
+351,first-class_3,first-class,adjective,b1
+352,first-class_2,first class,noun,b1
+353,first-class_1,first class,adverb,b1
+354,flap_1,flap,noun,c2
+355,flier,flier,noun,b2
+356,flight_1,flight,noun,a1
+357,flight-attendant,flight attendant,noun,b1
+358,flight-crew,flight crew,noun,b2
+359,flight-deck,flight deck,noun,c2
+360,flight-path,flight path,noun,c1
+361,flight-recorder,flight recorder,noun,c2
+362,fly_1,fly,verb,a1
+363,flyer,flyer,noun,b2
+364,flying-boat,flying boat,noun,c2
+365,forced-landing,forced landing,noun,c1
+366,frequent-flyer,frequent flyer,noun,b2
+367,fuselage,fuselage,noun,c2
+368,galley,galley,noun,c2
+369,gangway,gangway,noun,c2
+370,gate,gate,noun,a2
+371,glide_1,glide,verb,c1
+372,glider,glider,noun,c2
+373,go-around_2,go-around,noun,c2
+374,go-round_2,go-round,noun,c2
+375,ground-crew,ground crew,noun,c2
+376,gyroscope,gyroscope,noun,c2
+377,hand-baggage,hand baggage,noun,b1
+378,hand-luggage,hand luggage,noun,b1
+379,hangar,hangar,noun,c2
+380,hang-glider,hang-glider,noun,c2
+381,hatch_2,hatch,noun,c2
+382,hatchway,hatchway,noun,c2
+383,helicopter,helicopter,noun,b1
+384,helipad,helipad,noun,c2
+385,heliport,heliport,noun,c2
+386,hold_2,hold,noun,c1
+387,hot-air-balloon,hot-air balloon,noun,b2
+388,hub,hub,noun,c1
+389,immigration,immigration,noun,b2
+390,inboard_1,inboard,adjective,c2
+391,in-flight,in-flight,adjective,c1
+392,intercom,intercom,noun,c1
+393,international_1,international,adjective,a2
+394,jet_1,jet,noun,b2
+395,jet_2,jet,verb,c1
+396,jet-engine,jet engine,noun,b2
+397,jet-lag,jet lag,noun,c1
+398,jetliner,jetliner,noun,c2
+399,joystick,joystick,noun,c2
+400,jumbo_1,jumbo,noun,c1
+401,jump-jet,jump jet,noun,c2
+402,land_2,land,verb,a2
+403,landing,landing,noun,b2
+404,landing-card,landing card,noun,b2
+405,landing-gear,landing gear,noun,c2
+406,landing-strip,landing strip,noun,c2
+407,last-call,last call,noun,b2
+408,leading-edge_1,leading edge,noun,c2
+409,legroom,legroom,noun,b2
+410,light-aircraft,light aircraft,noun,b2
+411,log_1,log,noun,c1
+412,long-haul_2,long-haul,adjective,c1
+413,long-haul_1,long haul,noun,c1
+414,lounge_1,lounge,noun,b2
+415,mayday,Mayday,noun,c2
+416,metal-detector,metal detector,noun,c1
+417,microlight,microlight,noun,c2
+418,mid-air_1,mid-air,noun,c1
+419,mid-air_2,mid-air,adjective,c1
+420,monoplane,monoplane,noun,c2
+421,navigate,navigate,verb,b2
+422,navigator,navigator,noun,b2
+423,no-fly-zone,no-fly zone,noun,c1
+424,nose_1,nose,noun,b1
+425,nose-cone,nose cone,noun,c2
+426,on-board,on-board,adjective,b2
+427,one-way,one-way,adjective,b1
+428,originate,originate,verb,c1
+429,outboard,outboard,adjective,c2
+430,overbook,overbook,verb,c2
+431,overfly,overfly,verb,c2
+432,overshoot,overshoot,verb,c2
+433,oxygen-mask,oxygen mask,noun,c1
+434,parachute_1,parachute,noun,b2
+435,parachute_2,parachute,verb,b2
+436,parachutist,parachutist,noun,c1
+437,paraglider,paraglider,noun,c2
+438,passenger,passenger,noun,a2
+439,passport,passport,noun,a1
+440,payload,payload,noun,c2
+441,pilot_1,pilot,noun,a2
+442,plane_1,plane,noun,a1
+443,planeload,planeload,noun,c2
+444,propeller,propeller,noun,c2
+445,radar,radar,noun,c1
+446,red-eye,red-eye,noun,c2
+447,refuel,refuel,verb,c1
+448,reservation,reservation,noun,b1
+449,return-ticket,return ticket,noun,a2
+450,rocket_1,rocket,noun,b2
+451,round-trip_1,round trip,noun,b1
+452,round-trip_2,round-trip,adjective,b1
+453,rudder,rudder,noun,c2
+454,runway,runway,noun,b2
+455,safety-belt,safety belt,noun,b1
+456,scheduled-flight,scheduled flight,noun,c1
+457,seaplane,seaplane,noun,b1
+458,seat_1,seat,noun,a2
+459,seat-belt,seat belt,noun,b1
+460,security,security,noun,b1
+461,short-haul,short-haul,adjective,c1
+462,sick_1,sick,adjective,a1
+463,sick-bag,sick bag,noun,b2
+464,single_1,single,adjective,a2
+465,ski-plane,ski-plane,noun,c2
+466,skycap,skycap,noun,c2
+467,sky-marshal,sky marshal,noun,c2
+468,soar,soar,verb,c1
+469,sonic-boom,sonic boom,noun,c2
+470,spacecraft,spacecraft,noun,b2
+471,spaceship,spaceship,noun,b1
+472,space-shuttle,space shuttle,noun,c1
+473,spoiler,spoiler,noun,c2
+474,stabilizer,stabilizer,noun,c2
+475,stack_2,stack,verb,c2
+476,standby_2,standby,adjective,c2
+477,steward,steward,noun,c1
+478,stewardess,stewardess,noun,c1
+479,stick_2,stick,noun,c1
+480,stopover,stopover,noun,c2
+481,stowage,stowage,noun,c2
+482,tail_1,tail,noun,b1
+483,tailplane,tailplane,noun,c2
+484,tailspin,tailspin,noun,c2
+485,take-off_2,take-off,noun,b2
+486,take-off_1,take off,phrasal verb,a2
+487,tarmactm,Tarmac™,noun,c2
+488,taxi_2,taxi,verb,c2
+489,taxiway,taxiway,noun,c2
+490,terminal_1,terminal,noun,b2
+491,test-flight,test flight,noun,b2
+492,test-pilot,test pilot,noun,b2
+493,ticket_1,ticket,noun,a1
+494,touch-down,touch down,phrasal verb,c1
+495,touchdown,touchdown,noun,c2
+496,tourist-class,tourist class,noun,c1
+497,transit_1,transit,noun,c1
+498,travelator,travelator,noun,c2
+499,travel-sick,travel-sick,adjective,b1
+500,travel-sickness,travel sickness,noun,b1
+501,travolator,travolator,noun,c2
+502,turbojet,turbojet,noun,c2
+503,turboprop,turboprop,noun,c2
+504,turbulence,turbulence,noun,c1
+505,ultralight,ultralight,noun,c2
+506,undercarriage,undercarriage,noun,c2
+507,upgrade_1,upgrade,verb,c1
+508,warplane,warplane,noun,b2
+509,window-seat,window seat,noun,b1
+510,wing_1,wing,noun,b1
+511,aboard,aboard,adverb,c1
+512,aisle,aisle,noun,b2
+513,alight_2,alight,verb,c2
+514,baggage-car,baggage car,noun,c1
+515,bendy-bus,bendy bus,noun,c2
+516,berth_1,berth,noun,c2
+517,board_2,board,verb,b1
+518,boat-train,boat train,noun,b2
+519,book_2,book,verb,a2
+520,booking,booking,noun,b2
+521,booking-office,booking office,noun,b2
+522,boxcar,boxcar,noun,c2
+523,branch_1,branch,noun,c1
+524,buffer_1,buffer,noun,c2
+525,buffet-car,buffet car,noun,c1
+526,bullet-train,bullet train,noun,c2
+527,bunk_1,bunk,noun,c2
+528,bus_1,bus,noun,a1
+529,bus-lane,bus lane,noun,b2
+530,bus-pass,bus pass,noun,b1
+531,bus-stand,bus stand,noun,c2
+532,bus-station,bus station,noun,a1
+533,bus-stop,bus stop,noun,a1
+534,cab,cab,noun,c1
+535,car,car,noun,c1
+536,carriage,carriage,noun,c1
+537,catch_1,catch,verb,a2
+538,change_1,change,verb,a2
+539,class_1,class,noun,b1
+540,club-car,club car,noun,c2
+541,coach_1,coach,noun,a2
+542,coachwork,coachwork,noun,c2
+543,commute_1,commute,verb,b1
+544,commute_2,commute,noun,b1
+545,compartment,compartment,noun,c1
+546,concession,concession,noun,c2
+547,concourse,concourse,noun,c2
+548,conductor,conductor,noun,c2
+549,connection,connection,noun,b2
+550,container,container,noun,c1
+551,corridor,corridor,noun,b2
+552,couchette,couchette,noun,c2
+553,coupling,coupling,noun,c2
+554,cutting_1,cutting,noun,c2
+555,day-return,day return,noun,b2
+556,deck_1,deck,noun,b2
+557,departure,departure,noun,b1
+558,depot,depot,noun,c2
+559,derail,derail,verb,c2
+560,derailment,derailment,noun,c2
+561,detrain,detrain,verb,c2
+562,dining-car,dining car,noun,c1
+563,double-decker,double-decker,noun,c1
+564,embankment,embankment,noun,c2
+565,emergency-brake,emergency brake,noun,c1
+566,engine,engine,noun,a2
+567,engine-driver,engine driver,noun,b2
+568,e-ticket,e-ticket,noun,b2
+569,express_4,express,noun,b1
+570,fare_1,fare,noun,b2
+571,first-class_2,first class,noun,b1
+572,first-class_1,first class,adverb,b1
+573,flatcar,flatcar,noun,c2
+574,freight_1,freight,noun,c1
+575,freight-car,freight car,noun,c1
+576,freight-train,freight train,noun,c1
+577,funicular,funicular,noun,c2
+578,gage_1,gage,noun,c2
+579,gauge_1,gauge,noun,c2
+580,get,get,verb,a1
+581,goods-train,goods train,noun,c1
+582,grade-crossing,grade crossing,noun,c2
+583,gradient,gradient,noun,c1
+584,guard_1,guard,noun,b2
+585,guard-s-van,guard’s van,noun,c1
+586,hail_1,hail,verb,c2
+587,halt_2,halt,noun,c2
+588,hop_1,hop,verb,c2
+589,inspector,inspector,noun,b2
+590,junction,junction,noun,c1
+591,left-luggage-office,left luggage office,noun,b2
+592,level-crossing,level crossing,noun,c2
+593,light-railway,light railway,noun,c1
+594,line_1,line,noun,a2
+595,local_2,local,noun,b2
+596,locomotive_1,locomotive,noun,c2
+597,loop_1,loop,noun,c2
+598,luggage-rack,luggage rack,noun,c1
+599,luggage-van,luggage van,noun,c1
+600,main-line_1,main line,noun,b2
+601,main-line_2,main-line,adjective,b2
+602,marshalling-yard,marshalling yard,noun,c2
+603,mass-transit,mass transit,noun,c1
+604,metro_1,metro,noun,a2
+605,monorail,monorail,noun,c2
+606,narrow-gauge,narrow gauge,noun,c2
+607,non-stop_1,non-stop,adjective,b1
+608,observation-car,observation car,noun,c1
+609,office,office,noun,a1
+610,one-way,one-way,adjective,b1
+611,overbridge,overbridge,noun,c2
+612,park-and-ride,park and ride,noun,c2
+613,pass_2,pass,noun,b1
+614,passenger,passenger,noun,a2
+615,platform,platform,noun,a2
+616,ply_1,ply,verb,c2
+617,point_1,point,noun,c2
+618,porter,porter,noun,c1
+619,public-transport,public transport,noun,a2
+620,pull-away,pull away,phrasal verb,c1
+621,pull-in,pull in,phrasal verb,c1
+622,pullman,Pullman,noun,c2
+623,pull-out_2,pull out,phrasal verb,c1
+624,rail_1,rail,noun,b2
+625,railcar,railcar,noun,c1
+626,railcard,railcard,noun,c2
+627,railhead,railhead,noun,c2
+628,railroad_1,railroad,noun,b1
+629,railroad-crossing,railroad crossing,noun,b2
+630,railway,railway,noun,a2
+631,rapid-transit,rapid transit,noun,c1
+632,redcap,redcap,noun,c2
+633,request-stop,request stop,noun,c1
+634,reservation,reservation,noun,b1
+635,restaurant-car,restaurant car,noun,c1
+636,return_2,return,noun,b1
+637,return-ticket,return ticket,noun,a2
+638,rolling-stock,rolling stock,noun,c2
+639,round-trip_1,round trip,noun,b1
+640,round-trip_2,round-trip,adjective,b1
+641,route_1,route,noun,a2
+642,run_1,run,verb,b1
+643,schedule_1,schedule,noun,a2
+644,season-ticket,season ticket,noun,c1
+645,seat_1,seat,noun,a2
+646,second-class_1,second class,noun,b1
+647,service_1,service,noun,b2
+648,shunt_1,shunt,verb,c2
+649,shuttle_1,shuttle,noun,c1
+650,siding,siding,noun,c2
+651,signal-box,signal box,noun,c2
+652,signaller,signaller,noun,c2
+653,signalman,signalman,noun,c2
+654,single_1,single,adjective,a2
+655,single_2,single,noun,a2
+656,single-decker,single-decker,noun,c1
+657,sleeper,sleeper,noun,c2
+658,sleeping-car,sleeping car,noun,c1
+659,spur_1,spur,noun,c2
+660,station_1,station,noun,a1
+661,station-agent,station agent,noun,c2
+662,stationmaster,stationmaster,noun,c2
+663,stop_2,stop,noun,a1
+664,stopping-train,stopping train,noun,b1
+665,subway,subway,noun,a2
+666,switch_2,switch,noun,c2
+667,switchback,switchback,noun,c2
+668,take_1,take,verb,a1
+669,tannoytm,Tannoy™,noun,c2
+670,terminal_1,terminal,noun,b2
+671,terminate,terminate,verb,c2
+672,terminus,terminus,noun,c2
+673,third-class_2,third class,adverb,b1
+674,through_2,through,adverb,a2
+675,through_3,through,adjective,b2
+676,ticket_1,ticket,noun,a1
+677,tie_2,tie,noun,c2
+678,timetable_1,timetable,noun,a2
+679,track_1,track,noun,a2
+680,train_1,train,noun,a1
+681,trainman,trainman,noun,c2
+682,trainspotter,trainspotter,noun,c2
+683,transfer_2,transfer,noun,c1
+684,transit_1,transit,noun,c1
+685,truck_1,truck,noun,b1
+686,tube,tube,noun,c2
+687,tunnel_1,tunnel,noun,b2
+688,uncouple,uncouple,verb,c2
+689,underground_3,underground,noun,a2
+690,underpass,underpass,noun,c2
+691,van,van,noun,c1
+692,vestibule,vestibule,noun,c2
+693,viaduct,viaduct,noun,c2
+694,wagon,wagon,noun,c1
+695,waiting-room,waiting room,noun,a2
+696,whistle_1,whistle,noun,b2
+697,window-seat,window seat,noun,b1
+698,accelerate,accelerate,verb,c1
+699,accelerator,accelerator,noun,c1
+700,access-road,access road,noun,c1
+701,accident,accident,noun,a2
+702,airbag,airbag,noun,c2
+703,air-conditioned,air-conditioned,adjective,b2
+704,air-conditioning,air conditioning,noun,b2
+705,all-terrain,all-terrain,adjective,c2
+706,all-wheel-drive,all-wheel drive,noun,c1
+707,alpr,ALPR,noun,c2
+708,ambulance,ambulance,noun,b2
+709,anpr,ANPR,noun,c2
+710,anti-roll-bar,anti-roll bar,noun,c2
+711,approach_1,approach,noun,c1
+712,armrest,armrest,noun,c2
+713,a-road,A-road,noun,c2
+714,artery,artery,noun,c2
+715,articulated,articulated,adjective,c2
+716,asphalt,asphalt,noun,c2
+717,assembly-line,assembly line,noun,c1
+718,automaker,automaker,noun,c2
+719,automatic_2,automatic,noun,c1
+720,automatic-license-plate-recognition,automatic license plate recognition,noun,c2
+721,automatic-number-plate-recognition,automatic number plate recognition,noun,c2
+722,automatic-transmission,automatic transmission,noun,c2
+723,automobile,automobile,noun,b2
+724,autonomous,autonomous,adjective,c2
+725,autorickshaw,autorickshaw,noun,c2
+726,avenue,avenue,noun,c1
+727,axle,axle,noun,c1
+728,backfire,backfire,verb,c2
+729,backhoe,backhoe,noun,c2
+730,back-seat-driver,back-seat driver,noun,c2
+731,backstreet_1,backstreet,noun,c2
+732,bakkie,bakkie,noun,c2
+733,banger,banger,noun,c2
+734,bank_1,bank,noun,c1
+735,battery,battery,noun,b1
+736,beach-buggy,beach buggy,noun,c2
+737,beater,beater,noun,c2
+738,beep_1,beep,noun,c1
+739,beep_2,beep,verb,c1
+740,belisha-beacon,Belisha beacon,noun,c2
+741,beltway,beltway,noun,c2
+742,bend_2,bend,noun,b1
+743,bicycle_1,bicycle,noun,a1
+744,bicycle-lane,bicycle lane,noun,b2
+745,bike_1,bike,noun,a1
+746,bike_2,bike,verb,b1
+747,bike-lane,bike lane,noun,b2
+748,biker,biker,noun,c1
+749,billboard_1,billboard,noun,b2
+750,bingle,bingle,noun,c2
+751,biofuel,biofuel,noun,b2
+752,black-cab,black cab,noun,c2
+753,black-ice,black ice,noun,c2
+754,black-maria,Black Maria,noun,c2
+755,blacktop,blacktop,noun,c2
+756,blind_1,blind,adjective,c2
+757,blind-spot,blind spot,noun,c2
+758,blinker,blinker,noun,c2
+759,block_1,block,noun,b1
+760,block_2,block,verb,b1
+761,block-in,block in,phrasal verb,c2
+762,blowout,blowout,noun,c2
+763,body,body,noun,b2
+764,body-shop,body shop,noun,c2
+765,bodywork,bodywork,noun,c2
+766,bollard,bollard,noun,c2
+767,bonnet,bonnet,noun,c2
+768,booster-seat,booster seat,noun,c2
+769,bottleneck,bottleneck,noun,c2
+770,boulevard,boulevard,noun,c1
+771,boy-racer,boy racer,noun,c2
+772,brake_1,brake,noun,b2
+773,brake_2,brake,verb,b2
+774,brake-light,brake light,noun,b2
+775,brake-pad,brake pad,noun,c2
+776,branch-off,branch off,phrasal verb,c2
+777,break-down,break down,phrasal verb,b1
+778,breakdown,breakdown,noun,c1
+779,breakdown-lane,breakdown lane,noun,c1
+780,breakdown-truck,breakdown truck,noun,b2
+781,breath-test,breath test,noun,c2
+782,b-road,B-road,noun,c2
+783,bucket-seat,bucket seat,noun,c2
+784,buggy_1,buggy,noun,c1
+785,bulldozer,bulldozer,noun,c2
+786,bump_2,bump,noun,c1
+787,bumper_1,bumper,noun,c2
+788,burn_1,burn rubber,idiom,c2
+789,bus_1,bus,noun,a1
+790,bus-lane,bus lane,noun,b2
+791,bypass_1,bypass,noun,c1
+792,bypass_2,bypass,verb,c1
+793,byroad,byroad,noun,c2
+794,byway,byway,noun,c2
+795,cab,cab,noun,b2
+796,cabby,cabby,noun,c2
+797,cabriolet,cabriolet,noun,c2
+798,cadillactm,Cadillac™,noun,c2
+799,camber,camber,noun,c2
+800,camper,camper,noun,c1
+801,car,car,noun,a1
+802,caravan,caravan,noun,b2
+803,carburettor,carburettor,noun,c2
+804,careen,careen,verb,c2
+805,career_2,career,verb,c2
+806,carjack,carjack,verb,c2
+807,carjacking,carjacking,noun,c2
+808,car-park,car park,noun,a1
+809,car-pool,car pool,noun,c2
+810,carriageway,carriageway,noun,c2
+811,car-seat,car seat,noun,b1
+812,carsick,carsick,adjective,b1
+813,carsickness,carsickness,noun,b1
+814,cart_1,cart,noun,b2
+815,car-wash,car wash,noun,b1
+816,catalytic-converter,catalytic converter,noun,c2
+817,catseyetm,Catseye™,noun,c2
+818,cattle-grid,cattle grid,noun,c2
+819,causeway,causeway,noun,c2
+820,central-locking,central locking,noun,c2
+821,central-reservation,central reservation,noun,c2
+822,change-down,change down,phrasal verb,c2
+823,change-up,change up,phrasal verb,c2
+824,chassis,chassis,noun,c2
+825,chauffeur_1,chauffeur,noun,c1
+826,checkpoint,checkpoint,noun,c2
+827,chelsea-tractor,Chelsea tractor,noun,c2
+828,child-restraint,child restraint,noun,c2
+829,choke_2,choke,noun,c2
+830,chopper,chopper,noun,c2
+831,clamp_2,clamp,noun,c2
+832,clearway,clearway,noun,c2
+833,clock_1,clock,noun,c2
+834,clock_2,clock,verb,c2
+835,closure,closure,noun,c1
+836,clunker,clunker,noun,c2
+837,clutch_2,clutch,noun,c2
+838,coach_1,coach,noun,a2
+839,coachwork,coachwork,noun,c2
+840,coast_2,coast,verb,c2
+841,cobbled,cobbled,adjective,c2
+842,cobbles,cobbles,noun,c2
+843,collide,collide,verb,c1
+844,collision,collision,noun,c1
+845,combi,combi,noun,c2
+846,combustion-chamber,combustion chamber,noun,c2
+847,commute_1,commute,verb,b1
+848,compact_2,compact,noun,c2
+849,company-car,company car,noun,b1
+850,conductor,conductor,noun,c2
+851,cone_2,cone,noun,b2
+852,cone-off,cone off,phrasal verb,c2
+853,congestion-charge,congestion charge,noun,c2
+854,congestion-charging,congestion charging,noun,c2
+855,constructor,constructor,noun,c1
+856,contraflow,contraflow,noun,c2
+857,convertible_1,convertible,adjective,c2
+858,convertible_2,convertible,noun,c2
+859,cordon-off,cordon off,phrasal verb,c2
+860,corner_1,corner,noun,a2
+861,corridor,corridor,noun,c1
+862,coupe,coupé,noun,c2
+863,courier_1,courier,noun,c1
+864,courtesy_2,courtesy,adjective,c2
+865,crankshaft,crankshaft,noun,c2
+866,crash_1,crash,noun,b2
+867,crash_2,crash,verb,b2
+868,crash-barrier,crash barrier,noun,c2
+869,crash-helmet,crash helmet,noun,c1
+870,crash-test_2,crash-test,verb,c1
+871,crash-test-dummy,crash-test dummy,noun,c2
+872,crescent,crescent,noun,c2
+873,crossing,crossing,noun,b2
+874,crossover,crossover,noun,c2
+875,crossroads,crossroads,noun,b2
+876,cross-street,cross street,noun,c2
+877,crosswalk,crosswalk,noun,c2
+878,cruise_2,cruise,verb,c1
+879,cruise-control,cruise control,noun,c2
+880,cruiser,cruiser,noun,c2
+881,crumple-zone,crumple zone,noun,c2
+882,cubbyhole,cubbyhole,noun,c2
+883,curb_2,curb,noun,c2
+884,curbside,curbside,noun,c2
+885,cut-in_1,cut in,phrasal verb,c2
+886,cut-up,cut up,phrasal verb,c2
+887,cycle_1,cycle,noun,a2
+888,cycle-lane,cycle lane,noun,b2
+889,cycle-rickshaw,cycle rickshaw,noun,c2
+890,cyclist,cyclist,noun,b1
+891,daladala,daladala,noun,c2
+892,dashboard,dashboard,noun,c2
+893,dead-end,dead end,noun,c2
+894,dealer,dealer,noun,b2
+895,dealership,dealership,noun,c2
+896,decompressor,decompressor,noun,c2
+897,denver-boot,Denver boot,noun,c2
+898,designated-driver,designated driver,noun,c2
+899,detail_2,detail,verb,c2
+900,detour_1,detour,noun,c2
+901,dial_1,dial,noun,c1
+902,diesel,diesel,noun,c1
+903,ding_1,ding,noun,c2
+904,dip_1,dip,verb,c2
+905,dipstick,dipstick,noun,c2
+906,dirt-road,dirt road,noun,c2
+907,ditch_1,ditch,noun,c1
+908,diversion,diversion,noun,c1
+909,divide_1,divide,verb,b1
+910,divided-highway,divided highway,noun,c2
+911,dockless-bike,dockless bike,noun,c2
+912,dog-leg,dog-leg,noun,c2
+913,double-park,double-park,verb,c2
+914,drink-driver,drink-driver,noun,c1
+915,drink-driving,drink-driving,noun,b2
+916,drive_1,drive,verb,a1
+917,drive_2,drive,noun,a2
+918,drive-away,drive away,phrasal verb,b1
+919,drive-off,drive off,phrasal verb,b2
+920,drive-on,drive on,phrasal verb,b2
+921,driver,driver,noun,a1
+922,driverless,driverless,adjective,b1
+923,drive-time_1,drive time,noun,c2
+924,drive-time_2,drive-time,adjective,c2
+925,driveway,driveway,noun,b2
+926,driving-licence,driving licence,noun,b2
+927,driving-school,driving school,noun,b2
+928,driving-test,driving test,noun,b1
+929,driving-under-the-influence,driving under the influence,noun,c2
+930,driving-while-intoxicated,driving while intoxicated,noun,c2
+931,drop_1,drop,verb,b2
+932,drunk-driving,drunk driving,noun,b2
+933,drunken-driving,drunken driving,noun,c1
+934,dual-carriageway,dual carriageway,noun,c2
+935,dual-control,dual control,adjective,c2
+936,dual-controls,dual controls,noun,c2
+937,dumper-truck,dumper truck,noun,c2
+938,dune-buggy,dune buggy,noun,c2
+939,dustcart,dustcart,noun,c2
+940,electric_2,electric,noun,c1
+941,embankment,embankment,noun,c2
+942,engine,engine,noun,a2
+943,escort_1,escort,noun,c2
+944,estate-car,estate car,noun,c2
+945,exhaust_1,exhaust,noun,c1
+946,exit_1,exit,noun,b2
+947,express-lane,express lane,noun,c1
+948,expressway,expressway,noun,c2
+949,fan-belt,fan belt,noun,c2
+950,fast-lane,fast lane,noun,b2
+951,feeder_2,feeder,adjective,c2
+952,fender,fender,noun,c2
+953,fender-bender,fender bender,noun,c2
+954,filler-cap,filler cap,noun,c2
+955,filling-station,filling station,noun,c2
+956,fill-up_2,fill-up,noun,c2
+957,filter_2,filter,verb,c2
+958,fin,fin,noun,c2
+959,fire-engine,fire engine,noun,b2
+960,fire-hydrant,fire hydrant,noun,c2
+961,fire-truck,fire truck,noun,b2
+962,flasher,flasher,noun,c2
+963,flat_1,flat,noun,c1
+964,floor_2,floor,verb,c2
+965,flyover,flyover,noun,c2
+966,fog-lamp,fog lamp,noun,c2
+967,footbrake,footbrake,noun,c2
+968,footway,footway,noun,c2
+969,forecourt,forecourt,noun,c2
+970,fork_1,fork,noun,c1
+971,fork_2,fork,verb,c1
+972,forklift-truck,forklift truck,noun,c2
+973,four-by-four,four-by-four,noun,c2
+974,four-stroke,four-stroke,adjective,c2
+975,four-wheel-drive,four-wheel drive,noun,c1
+976,freeway,freeway,noun,b2
+977,front_1,front,noun,c1
+978,front-end_1,front end,noun,c1
+979,front-end-loader,front-end loader,noun,c2
+980,front-wheel-drive,front-wheel drive,noun,c2
+981,fuel-injection,fuel injection,noun,c2
+982,full-beam,full beam,noun,c2
+983,furniture-van,furniture van,noun,b1
+984,garage_1,garage,noun,b1
+985,garbage-truck,garbage truck,noun,c1
+986,gas_1,gas,noun,a2
+987,gas-guzzler,gas guzzler,noun,c2
+988,gas-guzzling,gas-guzzling,adjective,c2
+989,gas-pedal,gas pedal,noun,c1
+990,gas-station,gas station,noun,b1
+991,gated,gated,adjective,c2
+992,gear_1,gear,noun,c1
+993,gearbox,gearbox,noun,c2
+994,gear-lever,gear lever,noun,c2
+995,gearshift,gearshift,noun,c2
+996,way_1,give way (to somebody/something),idiom,c2
+997,glove-compartment,glove compartment,noun,c2
+998,go-faster-stripes,go-faster stripes,noun,c2
+999,gps,GPS,noun,b2
+1000,grade-crossing,grade crossing,noun,c2
+1001,gradient,gradient,noun,c1
+1002,gravel,gravel,noun,c2
+1003,gravelled,gravelled,adjective,c2
+1004,grease-monkey,grease monkey,noun,c2
+1005,gridlock,gridlock,noun,c2
+1006,grit_2,grit,verb,c2
+1007,guard-rail,guard rail,noun,c2
+1008,gun_2,gun,verb,c2
+1009,gutter_1,gutter,noun,c2
+1010,hairpin-bend,hairpin bend,noun,c2
+1011,handbrake,handbrake,noun,c1
+1012,handbrake-turn,handbrake turn,noun,c2
+1013,handle_1,handle,verb,c2
+1014,handling,handling,noun,c2
+1015,hard-shoulder,hard shoulder,noun,c2
+1016,hardtop,hardtop,noun,c2
+1017,hatchback,hatchback,noun,c2
+1018,haulier,haulier,noun,c2
+1019,hazard-lights,hazard lights,noun,c2
+1020,headlamp,headlamp,noun,c1
+1021,headlight,headlight,noun,c1
+1022,head-on_1,head-on,adjective,c2
+1023,headrest,headrest,noun,c2
+1024,hearse,hearse,noun,c2
+1025,heavy_1,heavy,adjective,b2
+1026,heavy-goods-vehicle,heavy goods vehicle,noun,c2
+1027,hells-angeltm,Hells Angel™,noun,c2
+1028,helmet,helmet,noun,b2
+1029,hgv,HGV,noun,c2
+1030,high-beams,high beams,noun,c2
+1031,high-road,high road,noun,c2
+1032,highway,highway,noun,b2
+1033,hit-and-run_2,hit-and-run,adjective,c2
+1034,hitch_1,hitch,verb,c2
+1035,hitchhike,hitchhike,verb,c1
+1036,hitchhiker,hitchhiker,noun,c1
+1037,hitchhiking,hitchhiking,noun,c1
+1038,hoarding,hoarding,noun,c2
+1039,hold_1,hold,verb,c2
+1040,hold-up_2,hold-up,noun,c2
+1041,honk_1,honk,noun,c2
+1042,honk_2,honk,verb,c2
+1043,hood_1,hood,noun,c2
+1044,hoon_1,hoon,noun,c2
+1045,hoon_2,hoon,verb,c2
+1046,hooter,hooter,noun,c2
+1047,horn_1,horn,noun,c1
+1048,horsebox,horsebox,noun,c2
+1049,horse-trailer,horse trailer,noun,c1
+1050,hot-rod,hot rod,noun,c2
+1051,hot-wire,hot-wire,verb,c2
+1052,hov-lane,HOV lane,noun,c2
+1053,hubcap,hubcap,noun,c2
+1054,hydrant,hydrant,noun,c2
+1055,idle_2,idle,verb,c2
+1056,ignition,ignition,noun,c2
+1057,impassable,impassable,adjective,c2
+1058,indicate,indicate,verb,c1
+1059,indicator,indicator,noun,c1
+1060,inside_3,inside,noun,b2
+1061,inside_4,inside,adjective,a2
+1062,instructor,instructor,noun,a2
+1063,insure,insure,verb,c2
+1064,interchange_1,interchange,noun,c2
+1065,internal-combustion-engine,internal combustion engine,noun,c2
+1066,interstate_2,interstate,noun,c1
+1067,jack_1,jack,noun,c2
+1068,jackknife_2,jackknife,verb,c2
+1069,jack-up,jack up,phrasal verb,c2
+1070,jalopy,jalopy,noun,c2
+1071,jam_1,jam,noun,b2
+1072,jcbtm,JCB™,noun,c2
+1073,jeeptm,Jeep™,noun,c1
+1074,joyriding,joyriding,noun,c2
+1075,juggernaut,juggernaut,noun,c2
+1076,jumper-cable,jumper cable,noun,c2
+1077,jump-lead,jump lead,noun,c2
+1078,jump-start,jump-start,verb,c2
+1079,light_1,jump the lights,idiom,c2
+1080,junction,junction,noun,c1
+1081,junker,junker,noun,c2
+1082,junkyard,junkyard,noun,c2
+1083,kerb,kerb,noun,c2
+1084,kerbside,kerbside,noun,c2
+1085,keyless,keyless,adjective,b2
+1086,kombi,kombi,noun,c2
+1087,lamp-post,lamp post,noun,c1
+1088,land-rovertm,Land Rover™,noun,c2
+1089,lane,lane,noun,b2
+1090,lay-by,lay-by,noun,c2
+1091,learner,learner,noun,a2
+1092,left-hand-drive,left-hand drive,adjective,c2
+1093,legroom,legroom,noun,b2
+1094,level-crossing,level crossing,noun,c2
+1095,license-number,license number,noun,b2
+1096,license-plate,license plate,noun,c1
+1097,lift_2,lift,noun,b1
+1098,limo,limo,noun,c1
+1099,limousine,limousine,noun,c1
+1100,lock_1,lock,verb,b2
+1101,logbook,logbook,noun,c2
+1102,lollipop-lady,lollipop lady,noun,c2
+1103,lollipop-man,lollipop man,noun,c2
+1104,low-beams,low beams,noun,c2
+1105,l-plate,L-plate,noun,c2
+1106,macadam,macadam,noun,c2
+1107,main-road,main road,noun,b1
+1108,main-street,main street,noun,b1
+1109,make_2,make,noun,b2
+1110,manhole,manhole,noun,c2
+1111,manifold_2,manifold,noun,c2
+1112,manual_2,manual,noun,c2
+1113,marque,marque,noun,c2
+1114,matatu,matatu,noun,c2
+1115,mechanic,mechanic,noun,b2
+1116,median_2,median,noun,c2
+1117,mews,mews,noun,c2
+1118,mileometer,mileometer,noun,c2
+1119,milepost,milepost,noun,c2
+1120,milometer,milometer,noun,c2
+1121,minibus,minibus,noun,c1
+1122,mini-roundabout,mini-roundabout,noun,c2
+1123,minivan,minivan,noun,c2
+1124,misfire,misfire,verb,c2
+1125,moped,moped,noun,c1
+1126,mot,MOT,noun,c2
+1127,motor_1,motor,noun,c1
+1128,motor_3,motor,verb,b2
+1129,motorbike,motorbike,noun,a2
+1130,motor-car,motor car,noun,a2
+1131,motorcycle,motorcycle,noun,a2
+1132,motorcyclist,motorcyclist,noun,b2
+1133,motorhome,motorhome,noun,c2
+1134,motorist,motorist,noun,c1
+1135,motorway,motorway,noun,a2
+1136,mountain-bike,mountain bike,noun,b2
+1137,moving-van,moving van,noun,c1
+1138,mpv,MPV,noun,c2
+1139,mudflap,mudflap,noun,c2
+1140,muffler,muffler,noun,c2
+1141,navigate,navigate,verb,b2
+1142,nearside,nearside,adjective,c2
+1143,nose_1,nose to tail,idiom,c2
+1144,number-plate,number plate,noun,c1
+1145,obstruct,obstruct,verb,c2
+1146,obstruction,obstruction,noun,c2
+1147,odometer,odometer,noun,c2
+1148,off-ramp,off-ramp,noun,c2
+1149,off-road,off-road,adverb,c1
+1150,offside_1,offside,adjective,c2
+1151,offside_2,offside,noun,c2
+1152,off-street,off-street,adjective,c1
+1153,oil_1,oil,noun,a2
+1154,on-ramp,on-ramp,noun,c2
+1155,on-street,on-street,adjective,c1
+1156,road,on the road,idiom,c2
+1157,open-top,open-top,adjective,c1
+1158,orbital_2,orbital,noun,c2
+1159,outer-belt,outer belt,noun,c2
+1160,outrider,outrider,noun,c2
+1161,outside_3,outside,noun,b2
+1162,outside-lane,outside lane,noun,b2
+1163,overbridge,overbridge,noun,c2
+1164,overpass,overpass,noun,c2
+1165,overtake,overtake,verb,b2
+1166,paddy-wagon,paddy wagon,noun,c2
+1167,paintwork,paintwork,noun,c2
+1168,panel-van,panel van,noun,c2
+1169,parade_1,parade,noun,c2
+1170,park_2,park,verb,a1
+1171,parkade,parkade,noun,c2
+1172,park-and-ride,park and ride,noun,c2
+1173,parking,parking,noun,a2
+1174,parking-brake,parking brake,noun,c1
+1175,parking-lot,parking lot,noun,b2
+1176,parking-meter,parking meter,noun,c1
+1177,parking-ticket,parking ticket,noun,c1
+1178,parkway,parkway,noun,c2
+1179,pass_2,pass,noun,c2
+1180,passable,passable,adjective,c2
+1181,passenger,passenger,noun,a2
+1182,passenger-seat,passenger seat,noun,b1
+1183,passing-lane,passing lane,noun,c1
+1184,patrol-wagon,patrol wagon,noun,c2
+1185,pavement,pavement,noun,b2
+1186,pay-and-display,pay and display,noun,c2
+1187,pedal_1,pedal,noun,c1
+1188,pedestrian-crossing,pedestrian crossing,noun,c1
+1189,pedestrianization,pedestrianization,noun,c2
+1190,pedestrianize,pedestrianize,verb,c2
+1191,pedestrian-precinct,pedestrian precinct,noun,c2
+1192,pelican-crossing,pelican crossing,noun,c2
+1193,people-carrier,people carrier,noun,c2
+1194,personnel-carrier,personnel carrier,noun,c2
+1195,petrol,petrol,noun,a2
+1196,petrol-station,petrol station,noun,b1
+1197,pick-up,pick up,phrasal verb,b1
+1198,pickup_1,pickup,noun,c2
+1199,pile-up_2,pile-up,noun,c2
+1200,pillion_1,pillion,adverb,c2
+1201,pillion_2,pillion,noun,c2
+1202,pinch-point,pinch point,noun,c2
+1203,plough-into,plough into,phrasal verb,c2
+1204,point-duty,point duty,noun,c2
+1205,pothole,pothole,noun,c2
+1206,power-assisted-steering,power-assisted steering,noun,c2
+1207,power-steering,power steering,noun,c2
+1208,priority,priority,noun,c2
+1209,production-line,production line,noun,c1
+1210,provisional-licence,provisional licence,noun,c2
+1211,pull-in,pull in,phrasal verb,c1
+1212,pull-off,pull off,phrasal verb,c2
+1213,pull-out_2,pull out,phrasal verb,c1
+1214,pull-over,pull over,phrasal verb,c1
+1215,pull-up_1,pull up,phrasal verb,c1
+1216,puncture_1,puncture,noun,c1
+1217,purr_2,purr,verb,c2
+1218,push-start_1,push-start,noun,c2
+1219,push-start_2,push-start,verb,c2
+1220,quad-bike,quad bike,noun,c2
+1221,queue_1,queue,noun,b1
+1222,race-car,race car,noun,b1
+1223,racer,racer,noun,b2
+1224,racing-car,racing car,noun,b1
+1225,radar-trap,radar trap,noun,c2
+1226,radial_2,radial,noun,c2
+1227,radiator,radiator,noun,c2
+1228,railroad-crossing,railroad crossing,noun,b2
+1229,ram_1,ram,verb,c2
+1230,ramp_1,ramp,noun,c2
+1231,rat-run,rat run,noun,c2
+1232,rear-end_2,rear-end,verb,c2
+1233,rear-end_1,rear end,noun,c1
+1234,rear-view-mirror,rear-view mirror,noun,c2
+1235,rear-wheel-drive,rear-wheel drive,noun,c2
+1236,red-light,red light,noun,b1
+1237,reg,reg,abbreviation,c2
+1238,registration-number,registration number,noun,c2
+1239,relief-road,relief road,noun,c2
+1240,removal-van,removal van,noun,c2
+1241,repair_1,repair,verb,a2
+1242,repair_2,repair,noun,b1
+1243,reroute,reroute,verb,c2
+1244,respray_1,respray,noun,c2
+1245,respray_2,respray,verb,c2
+1246,rest-stop,rest stop,noun,b2
+1247,resurface,resurface,verb,c2
+1248,reverse_1,reverse,verb,c1
+1249,reverse_2,reverse,noun,c1
+1250,rickshaw,rickshaw,noun,c2
+1251,ride_1,ride,verb,a1
+1252,rider,rider,noun,b1
+1253,right-hand-drive,right-hand drive,adjective,c2
+1254,right-of-way,right of way,noun,c2
+1255,ring-road,ring road,noun,c1
+1256,road,road,noun,a1
+1257,roadblock,roadblock,noun,c2
+1258,road-hog,road hog,noun,c2
+1259,roadholding,roadholding,noun,c2
+1260,roadkill,roadkill,noun,c2
+1261,road-map,road map,noun,a2
+1262,road-pricing,road pricing,noun,c2
+1263,road-rage,road rage,noun,c1
+1264,road-sense,road sense,noun,c2
+1265,roadside,roadside,noun,c1
+1266,road-sign,road sign,noun,b1
+1267,roadster,roadster,noun,c2
+1268,road-tax,road tax,noun,c1
+1269,road-test_1,road test,noun,c2
+1270,road-test_2,road-test,verb,c2
+1271,road-train,road train,noun,c2
+1272,road-trip,road trip,noun,b1
+1273,roadway,roadway,noun,c2
+1274,roadworks,roadworks,noun,c1
+1275,roadworthiness,roadworthiness,noun,c2
+1276,roadworthy,roadworthy,adjective,c2
+1277,roar_1,roar,verb,c2
+1278,roll-bar,roll bar,noun,c2
+1279,rollover,rollover,noun,c2
+1280,roof_1,roof,noun,a2
+1281,roof-rack,roof rack,noun,c2
+1282,rotary_2,rotary,noun,c2
+1283,round_5,round,verb,c2
+1284,roundabout_1,roundabout,noun,b2
+1285,rta,RTA,abbreviation,c2
+1286,rumble-strip,rumble strip,noun,c2
+1287,run_1,run,verb,c2
+1288,runabout,runabout,noun,c2
+1289,run-over,run over,phrasal verb,c1
+1290,rush-hour,rush hour,noun,b2
+1291,rutted,rutted,adjective,c2
+1292,safety-belt,safety belt,noun,b1
+1293,saloon,saloon,noun,c2
+1294,salt-truck,salt truck,noun,c1
+1295,salvage-yard,salvage yard,noun,c2
+1296,satnav,satnav,noun,b2
+1297,scooter,scooter,noun,b2
+1298,scrap_1,scrap,noun,c2
+1299,scrapyard,scrapyard,noun,c2
+1300,seat-belt,seat belt,noun,b1
+1301,second-hand_2,second-hand,adjective,b2
+1302,sedan,sedan,noun,c2
+1303,self-driving,self-driving,adjective,b2
+1304,semi-trailer,semi-trailer,noun,c2
+1305,service_1,service,noun,c1
+1306,service_2,service,verb,c1
+1307,service-road,service road,noun,c2
+1308,service-station,service station,noun,c1
+1309,shed_1,shed,verb,c2
+1310,shock-absorber,shock absorber,noun,c2
+1311,shoulder_1,shoulder,noun,c2
+1312,showroom,showroom,noun,c2
+1313,shunt_2,shunt,noun,c2
+1314,sidecar,sidecar,noun,c2
+1315,side-road,side road,noun,b2
+1316,side-street,side street,noun,b2
+1317,sidewalk,sidewalk,noun,b2
+1318,signal_1,signal,noun,b1
+1319,signpost_1,signpost,noun,b2
+1320,signpost_2,signpost,verb,b2
+1321,silencer,silencer,noun,c2
+1322,skid_1,skid,verb,c2
+1323,skid_2,skid,noun,c2
+1324,slam_1,slam,verb,c2
+1325,sleeping-policeman,sleeping policeman,noun,c2
+1326,slip-road,slip road,noun,c2
+1327,slow_2,slow,verb,b1
+1328,slow-lane,slow lane,noun,b2
+1329,smash_1,smash,verb,c1
+1330,smash-up_2,smash-up,noun,c2
+1331,snarl-up_2,snarl-up,noun,c2
+1332,snowplough_1,snowplough,noun,c2
+1333,soft-shoulder,soft shoulder,noun,c2
+1334,soft-top,soft-top,noun,c2
+1335,soup-up,soup up,phrasal verb,c2
+1336,spare-part,spare part,noun,c1
+1337,spare-tyre,spare tyre,noun,c1
+1338,spark-plug,spark plug,noun,c2
+1339,speed-camera,speed camera,noun,b1
+1340,speed-hump,speed hump,noun,c2
+1341,speeding,speeding,noun,b2
+1342,speed-limit,speed limit,noun,b1
+1343,speedometer,speedometer,noun,c2
+1344,speed-trap,speed trap,noun,c1
+1345,spoiler,spoiler,noun,c2
+1346,sports-car,sports car,noun,b1
+1347,sport-utility-vehicle,sport utility vehicle,noun,c2
+1348,sporty,sporty,adjective,c1
+1349,squad-car,squad car,noun,c2
+1350,stall_2,stall,verb,c2
+1351,station-wagon,station wagon,noun,c2
+1352,the-main-drag,the main drag,noun,c2
+1353,steamroller_1,steamroller,noun,c2
+1354,steer_1,steer,verb,c1
+1355,steering,steering,noun,c1
+1356,steering-wheel,steering wheel,noun,c1
+1357,stick-shift,stick shift,noun,c2
+1358,stop_1,stop,verb,a1
+1359,stop-light,stop light,noun,b2
+1360,stop-street,stop street,noun,c2
+1361,street_1,street,noun,a1
+1362,streetcar,streetcar,noun,c2
+1363,street-light,street light,noun,b1
+1364,stretch-limo,stretch limo,noun,c2
+1365,strip_1,strip,noun,c2
+1366,strip-mall,strip mall,noun,c2
+1367,stripped-down,stripped-down,adjective,c2
+1368,subcompact,subcompact,noun,c2
+1369,subway,subway,noun,c1
+1370,sunroof,sunroof,noun,c2
+1371,surface_1,surface,noun,b1
+1372,suspension,suspension,noun,c2
+1373,suv,SUV,noun,c2
+1374,swerve_1,swerve,verb,c1
+1375,switchback,switchback,noun,c2
+1376,tail-back,tail back,phrasal verb,c2
+1377,tailback,tailback,noun,c2
+1378,tailgate_1,tailgate,noun,c2
+1379,tailgate_2,tailgate,verb,c2
+1380,tail-light,tail light,noun,c2
+1381,tandem,tandem,noun,c2
+1382,tank_1,tank,noun,b2
+1383,tanker,tanker,noun,c1
+1384,tank-up,tank up,phrasal verb,c2
+1385,tar_1,tar,noun,c2
+1386,tarmactm,Tarmac™,noun,c2
+1387,tax-disc,tax disc,noun,c2
+1388,taxi_1,taxi,noun,a1
+1389,teamster,teamster,noun,c2
+1390,test-drive_1,test drive,noun,c1
+1391,test-drive_2,test-drive,verb,c1
+1392,thoroughfare,thoroughfare,noun,c2
+1393,three-point-turn,three-point turn,noun,c2
+1394,throttle_2,throttle,noun,c2
+1395,through_3,through,adjective,b2
+1396,t-intersection,T-intersection,noun,c2
+1397,tipper,tipper,noun,c2
+1398,tire_2,tire,noun,b1
+1399,t-junction,T-junction,noun,c2
+1400,toll_1,toll,noun,c1
+1401,tollbooth,tollbooth,noun,c2
+1402,toll-plaza,toll plaza,noun,c2
+1403,toot_1,toot,noun,c2
+1404,toot_2,toot,verb,c2
+1405,total_3,total,verb,c2
+1406,tow-truck,tow truck,noun,c2
+1407,track_1,track,noun,b1
+1408,tractor,tractor,noun,c1
+1409,tractor-trailer,tractor-trailer,noun,c2
+1410,traffic_1,traffic,noun,a1
+1411,traffic-circle,traffic circle,noun,c2
+1412,traffic-cone,traffic cone,noun,b2
+1413,traffic-island,traffic island,noun,c2
+1414,traffic-jam,traffic jam,noun,b2
+1415,traffic-light,traffic light,noun,b1
+1416,traffic-warden,traffic warden,noun,c2
+1417,trailer,trailer,noun,c1
+1418,trailer-truck,trailer truck,noun,c2
+1419,tram,tram,noun,b1
+1420,tramlines,tramlines,noun,c2
+1421,transittm,Transit™,noun,c2
+1422,travel-sick,travel-sick,adjective,b1
+1423,travel-sickness,travel sickness,noun,b1
+1424,tread_2,tread,noun,c2
+1425,tricycle,tricycle,noun,c2
+1426,trike,trike,noun,c2
+1427,trolleybus,trolleybus,noun,c2
+1428,truck_1,truck,noun,a2
+1429,truck_2,truck,verb,c1
+1430,trucker,trucker,noun,b2
+1431,truck-stop,truck stop,noun,b2
+1432,trunk,trunk,noun,c2
+1433,trunk-road,trunk road,noun,c2
+1434,tunnel_1,tunnel,noun,b2
+1435,turn_1,turn,verb,a1
+1436,turn_2,turn,noun,a2
+1437,turn-off_2,turn-off,noun,c1
+1438,turn-off_1,turn off,phrasal verb,b2
+1439,turnpike,turnpike,noun,c2
+1440,turn-signal,turn signal,noun,b2
+1441,twist_2,twist,noun,c1
+1442,twisty,twisty,adjective,c2
+1443,two-seater,two-seater,noun,c2
+1444,tyre,tyre,noun,b1
+1445,u-ey,U-ey,noun,c2
+1446,underpass,underpass,noun,c2
+1447,used2,used,adjective,b1
+1448,ute_1,ute,noun,c2
+1449,utility-vehicle,utility vehicle,noun,c2
+1450,u-turn,U-turn,noun,c2
+1451,valet_1,valet,noun,c2
+1452,valet_2,valet,verb,c2
+1453,van,van,noun,a2
+1454,veer,veer,verb,c2
+1455,vehicle,vehicle,noun,a2
+1456,verge_1,verge,noun,c2
+1457,veteran-car,veteran car,noun,c2
+1458,viaduct,viaduct,noun,c2
+1459,vintage_2,vintage,adjective,c1
+1460,visor,visor,noun,c2
+1461,wagon,wagon,noun,c1
+1462,warning-triangle,warning triangle,noun,c2
+1463,warranty,warranty,noun,c2
+1464,wheel_1,wheel,noun,a2
+1465,wheel-arch,wheel arch,noun,c2
+1466,wheel-clamp,wheel clamp,noun,c2
+1467,whiplash-injury,whiplash injury,noun,c2
+1468,wind2_2,wind,verb,b2
+1469,winding,winding,adjective,c2
+1470,windscreen-wiper,windscreen wiper,noun,c2
+1471,windshield,windshield,noun,c1
+1472,wing_1,wing,noun,c2
+1473,wing-mirror,wing mirror,noun,c2
+1474,winnebagotm,Winnebago™,noun,c2
+1475,wiper,wiper,noun,c2
+1476,wreck_1,wreck,noun,c1
+1477,wreckage,wreckage,noun,c2
+1478,write-off_2,write-off,noun,c2
+1479,yellow-line,yellow line,noun,c1
+1480,yield_2,yield,verb,c2
+1481,zebra-crossing,zebra crossing,noun,c1
+1482,zero-emission,zero-emission,adjective,c1
+1483,abaft,abaft,adverb,c2
+1484,aboard,aboard,adverb,c1
+1485,admiral,admiral,noun,c1
+1486,adrift,adrift,adjective,c2
+1487,following_1,a following wind,idiom,c2
+1488,aft,aft,adverb,c2
+1489,aftermost,aftermost,adjective,c2
+1490,aground_1,aground,adverb,c2
+1491,aground_2,aground,adjective,c2
+1492,aircraft-carrier,aircraft carrier,noun,c2
+1493,amidships,amidships,adverb,c2
+1494,anchor_1,anchor,noun,c1
+1495,anchor_2,anchor,verb,c1
+1496,anchorage_1,anchorage,noun,c2
+1497,ashore,ashore,adverb,c2
+1498,astern,astern,adverb,c2
+1499,sea,at sea,idiom,b1
+1500,helm_1,at the helm,idiom,c2
+1501,automatic-pilot,automatic pilot,noun,c1
+1502,autopilot,autopilot,noun,c1
+1503,backwash,backwash,noun,c2
+1504,bail-out,bail out,phrasal verb,c2
+1505,ballast,ballast,noun,c2
+1506,barge_1,barge,noun,c2
+1507,battlecruiser,battlecruiser,noun,c2
+1508,battleship,battleship,noun,c2
+1509,beacon,beacon,noun,c2
+1510,becalmed,becalmed,adjective,c2
+1511,berth_1,berth,noun,c2
+1512,bilge,bilge,noun,c2
+1513,bill-of-lading,bill of lading,noun,c2
+1514,board_2,board,verb,b1
+1515,boarding-card,boarding card,noun,b2
+1516,boat,boat,noun,a1
+1517,boathouse,boathouse,noun,c1
+1518,boating,boating,noun,b2
+1519,boatswain,boatswain,noun,c2
+1520,boiler-room,boiler room,noun,c2
+1521,bollard,bollard,noun,c2
+1522,boom_1,boom,noun,c2
+1523,bosun,bosun,noun,c2
+1524,bottom_1,bottom,noun,b1
+1525,bow1_2,bow,noun,c2
+1526,bowline1,bowline,noun,c2
+1527,bowsprit,bowsprit,noun,c2
+1528,bridge_1,bridge,noun,c2
+1529,brig_1,brig,noun,c2
+1530,buccaneer,buccaneer,noun,c2
+1531,bulkhead,bulkhead,noun,c2
+1532,bunk_1,bunk,noun,c2
+1533,bunker_1,bunker,noun,c2
+1534,buoy_1,buoy,noun,c2
+1535,cabin,cabin,noun,b2
+1536,cabin-boy,cabin boy,noun,c2
+1537,cabin-cruiser,cabin cruiser,noun,c2
+1538,cable_1,cable,noun,c1
+1539,canal,canal,noun,b2
+1540,canal-boat,canal boat,noun,b2
+1541,canoe_1,canoe,noun,b2
+1542,canoe_2,canoe,verb,b2
+1543,canoeist,canoeist,noun,c1
+1544,capsize,capsize,verb,c2
+1545,capstan,capstan,noun,c2
+1546,captain_1,captain,noun,b1
+1547,cargo,cargo,noun,c1
+1548,carrier,carrier,noun,c2
+1549,cast-off_1,cast off,phrasal verb,c2
+1550,catamaran,catamaran,noun,c2
+1551,caulk,caulk,verb,c2
+1552,channel_1,channel,noun,b2
+1553,chantey,chantey,noun,c2
+1554,charter_1,charter,noun,c2
+1555,charter_2,charter,verb,c2
+1556,chartered,chartered,adjective,c2
+1557,circumnavigate,circumnavigate,verb,c2
+1558,circumnavigation,circumnavigation,noun,c2
+1559,clipper,clipper,noun,c2
+1560,coaster,coaster,noun,c2
+1561,coastguard,coastguard,noun,c2
+1562,cockpit,cockpit,noun,c1
+1563,color_1,color,noun,c2
+1564,colour_1,colour,noun,c2
+1565,companionway,companionway,noun,c2
+1566,container,container,noun,c1
+1567,convoy,convoy,noun,c2
+1568,coracle,coracle,noun,c2
+1569,corvette_1,corvette,noun,c2
+1570,craft_1,craft,noun,c2
+1571,crew_1,crew,noun,b2
+1572,crossing,crossing,noun,b2
+1573,crow-s-nest,crow’s nest,noun,c2
+1574,cruise_1,cruise,noun,b2
+1575,cruise_2,cruise,verb,b2
+1576,cruiser,cruiser,noun,c2
+1577,current_2,current,noun,b2
+1578,cutter,cutter,noun,c2
+1579,debark,debark,verb,c2
+1580,deck_1,deck,noun,b2
+1581,deckhand,deckhand,noun,c2
+1582,deckhouse,deckhouse,noun,c2
+1583,derrick,derrick,noun,c2
+1584,destroyer,destroyer,noun,c2
+1585,dhow,dhow,noun,c2
+1586,dinghy,dinghy,noun,c2
+1587,disembark,disembark,verb,c2
+1588,disembarkation,disembarkation,noun,c2
+1589,distress_1,distress,noun,c1
+1590,dock_1,dock,noun,c1
+1591,dock_2,dock,verb,c1
+1592,dockland,dockland,noun,c2
+1593,dockside,dockside,noun,c2
+1594,dockyard,dockyard,noun,c2
+1595,dragon-boat,dragon boat,noun,c2
+1596,dredge,dredge,verb,c2
+1597,dredger,dredger,noun,c2
+1598,drift_2,drift,noun,c1
+1599,dry-dock,dry dock,noun,c2
+1600,dry-land,dry land,noun,b2
+1601,dugout,dugout,noun,c2
+1602,embark,embark,verb,c1
+1603,embarkation,embarkation,noun,c2
+1604,engineer_1,engineer,noun,b1
+1605,engine-room,engine room,noun,b2
+1606,ensign,ensign,noun,c2
+1607,factory-ship,factory ship,noun,c2
+1608,ferry_1,ferry,noun,b1
+1609,ferry_2,ferry,verb,c2
+1610,ferry-boat,ferry boat,noun,b1
+1611,figurehead,figurehead,noun,c2
+1612,first-mate,first mate,noun,c2
+1613,flagship,flagship,noun,c2
+1614,flight-deck,flight deck,noun,c2
+1615,float_1,float,verb,b2
+1616,flotilla,flotilla,noun,c2
+1617,flotsam,flotsam,noun,c2
+1618,foghorn,foghorn,noun,c2
+1619,fore_2,fore,adjective,c2
+1620,forecastle,forecastle,noun,c2
+1621,foresail,foresail,noun,c2
+1622,forward_1,forward,adverb,c1
+1623,founder_2,founder,verb,c2
+1624,fo-c-sle,fo’c’sle,noun,c2
+1625,free-on-board,free on board,adjective,c2
+1626,freighter,freighter,noun,c2
+1627,frigate,frigate,noun,c2
+1628,funnel_1,funnel,noun,c2
+1629,galleon,galleon,noun,c2
+1630,galley,galley,noun,c2
+1631,gangplank,gangplank,noun,c2
+1632,gangway,gangway,noun,c2
+1633,gondola,gondola,noun,c2
+1634,ground_2,ground,verb,c1
+1635,grounding,grounding,noun,c2
+1636,guard-rail,guard rail,noun,c2
+1637,gunboat,gunboat,noun,c2
+1638,gunnel,gunnel,noun,c2
+1639,gunwale,gunwale,noun,c2
+1640,gyroscope,gyroscope,noun,c2
+1641,hand_1,hand,noun,c2
+1642,harbour_1,harbour,noun,b2
+1643,hatch_2,hatch,noun,c2
+1644,hatchway,hatchway,noun,c2
+1645,hawser,hawser,noun,c2
+1646,heave_1,heave into sight/view,idiom,c2
+1647,heavy_1,heavy,adjective,c1
+1648,helm_1,helm,noun,c2
+1649,helm_2,helm,verb,c2
+1650,helmsman,helmsman,noun,c2
+1651,helmswoman,helmswoman,noun,c2
+1652,high-tide,high tide,noun,c1
+1653,high-water,high water,noun,c2
+1654,high-water-mark,high-water mark,noun,c2
+1655,hold_2,hold,noun,c1
+1656,houseboat,houseboat,noun,b2
+1657,hovercraft,hovercraft,noun,c1
+1658,hulk,hulk,noun,c2
+1659,hull_1,hull,noun,c2
+1660,hydrofoil,hydrofoil,noun,c2
+1661,icebreaker,icebreaker,noun,c2
+1662,convoy,in convoy,idiom,c2
+1663,inflatable_2,inflatable,noun,c2
+1664,inshore_1,inshore,adverb,c2
+1665,inshore_2,inshore,adjective,c2
+1666,jetfoil,jetfoil,noun,c2
+1667,jetsam,jetsam,noun,c2
+1668,jettison,jettison,verb,c2
+1669,jetty,jetty,noun,c2
+1670,jib_1,jib,noun,c2
+1671,jump_1,jump ship,idiom,c2
+1672,junk_1,junk,noun,c2
+1673,kayak,kayak,noun,c1
+1674,keel_1,keel,noun,c2
+1675,land_2,land,verb,a2
+1676,landfall,landfall,noun,c2
+1677,landing-craft,landing craft,noun,c2
+1678,landing-stage,landing stage,noun,c2
+1679,landlubber,landlubber,noun,c2
+1680,landward_1,landward,adverb,c2
+1681,landward_2,landward,adjective,c2
+1682,launch_1,launch,verb,b2
+1683,launch_2,launch,noun,c2
+1684,lifebelt,lifebelt,noun,c2
+1685,lifeboat,lifeboat,noun,c1
+1686,life-jacket,life jacket,noun,b2
+1687,life-raft,life raft,noun,c2
+1688,life-vest,life vest,noun,b2
+1689,lighter,lighter,noun,c2
+1690,lighthouse,lighthouse,noun,c1
+1691,lightship,lightship,noun,c2
+1692,liner,liner,noun,c2
+1693,list_1,list,noun,c2
+1694,load-line,load line,noun,c2
+1695,log_1,log,noun,c1
+1696,longboat,longboat,noun,c2
+1697,longship,longship,noun,c2
+1698,low-tide,low tide,noun,c1
+1699,low-water-mark,low-water mark,noun,c2
+1700,mainsail,mainsail,noun,c2
+1701,maneuver_2,maneuver,verb,c1
+1702,manifest_3,manifest,noun,c2
+1703,manoeuvre_2,manoeuvre,verb,c1
+1704,marine_1,marine,adjective,c1
+1705,mariner_1,mariner,noun,c2
+1706,maritime,maritime,adjective,c2
+1707,maroon_3,maroon,verb,c2
+1708,mast,mast,noun,c1
+1709,masthead,masthead,noun,c2
+1710,mate_1,mate,noun,c2
+1711,mayday,Mayday,noun,c2
+1712,merchantman,merchantman,noun,c2
+1713,minehunter,minehunter,noun,c2
+1714,minesweeper,minesweeper,noun,c2
+1715,mizzen,mizzen,noun,c2
+1716,moor_2,moor,verb,c2
+1717,mooring,mooring,noun,c2
+1718,motorboat,motorboat,noun,b2
+1719,mutiny_1,mutiny,noun,c2
+1720,narrowboat,narrowboat,noun,c2
+1721,nautical,nautical,adjective,c2
+1722,nautical-mile,nautical mile,noun,c2
+1723,navigability,navigability,noun,c2
+1724,navigable,navigable,adjective,c2
+1725,navigate,navigate,verb,b2
+1726,navigation,navigation,noun,b2
+1727,navigator,navigator,noun,b2
+1728,navy,navy,noun,b2
+1729,oar,oar,noun,c2
+1730,oarlock,oarlock,noun,c2
+1731,oarsman,oarsman,noun,c2
+1732,oarswoman,oarswoman,noun,c2
+1733,ocean-going,ocean-going,adjective,c2
+1734,offshore_1,offshore,adjective,c1
+1735,oil-tanker,oil tanker,noun,c1
+1736,board_1,on board,idiom,b2
+1737,on-board,on-board,adjective,b2
+1738,onshore_1,onshore,adjective,c2
+1739,onshore_2,onshore,adverb,c2
+1740,outboard,outboard,adjective,c2
+1741,outboard-motor,outboard motor,noun,c2
+1742,outrigger,outrigger,noun,c2
+1743,overboard,overboard,adverb,c1
+1744,overfishing,overfishing,noun,c2
+1745,paddle_1,paddle,noun,c1
+1746,paddle_2,paddle,verb,c1
+1747,paddle-steamer,paddle steamer,noun,c2
+1748,passage,passage,noun,c1
+1749,passenger,passenger,noun,a2
+1750,pedalo,pedalo,noun,c2
+1751,pennant,pennant,noun,c2
+1752,periscope,periscope,noun,c2
+1753,pier,pier,noun,c1
+1754,pilot_1,pilot,noun,c1
+1755,piracy,piracy,noun,c1
+1756,pirate_1,pirate,noun,c1
+1757,pitch_2,pitch,verb,c2
+1758,pleasure-boat,pleasure boat,noun,c1
+1759,plimsoll-line,Plimsoll line,noun,c2
+1760,ply_1,ply,verb,c2
+1761,poop_1,poop,noun,c2
+1762,port_1,port,noun,b1
+1763,porthole,porthole,noun,c2
+1764,port-of-call,port of call,noun,c2
+1765,powerboat,powerboat,noun,c1
+1766,propeller,propeller,noun,c2
+1767,prow,prow,noun,c2
+1768,punt_1,punt,noun,c2
+1769,punt_2,punt,verb,c2
+1770,purser,purser,noun,c2
+1771,put-in_1,put in,phrasal verb,c2
+1772,put-into,put into,phrasal verb,c2
+1773,sea,put (out) to sea,idiom,c2
+1774,quarterdeck,quarterdeck,noun,c2
+1775,radar,radar,noun,c1
+1776,radio_1,radio,noun,a1
+1777,raft,raft,noun,b2
+1778,rating,rating,noun,c2
+1779,refloat,refloat,verb,c2
+1780,rig_1,rig,verb,c2
+1781,rig_2,rig,noun,c2
+1782,rigging,rigging,noun,c2
+1783,roll_1,roll,verb,c1
+1784,roll-on-roll-off,roll-on roll-off,adjective,c2
+1785,rough_1,rough,adjective,b2
+1786,row1_2,row,verb,b2
+1787,rowboat,rowboat,noun,b2
+1788,rower,rower,noun,b2
+1789,rowing,rowing,noun,b2
+1790,rowing-boat,rowing boat,noun,b2
+1791,rubber-dinghy,rubber dinghy,noun,c2
+1792,run_2,run,noun,c2
+1793,sail_1,sail,verb,a2
+1794,sail_2,sail,noun,b1
+1795,sailboat,sailboat,noun,b2
+1796,sailing,sailing,noun,a2
+1797,sailing-boat,sailing boat,noun,b2
+1798,sailing-ship,sailing ship,noun,b2
+1799,sailor,sailor,noun,b1
+1800,sampan,sampan,noun,c2
+1801,schooner,schooner,noun,c2
+1802,screw_2,screw,noun,c2
+1803,scull_1,scull,noun,c2
+1804,scuttle_1,scuttle,verb,c2
+1805,sea,sea,noun,a1
+1806,seaborne,seaborne,adjective,c2
+1807,seacattm,SeaCat™,noun,c2
+1808,sea-dog,sea dog,noun,c2
+1809,seafarer,seafarer,noun,c2
+1810,seagoing,seagoing,adjective,c2
+1811,sea-lane,sea lane,noun,c2
+1812,sea-legs,sea legs,noun,c2
+1813,sealift,sealift,noun,c2
+1814,seaman,seaman,noun,c1
+1815,seamanship,seamanship,noun,c2
+1816,sea-mile,sea mile,noun,c2
+1817,seaport,seaport,noun,c2
+1818,seasick,seasick,adjective,b1
+1819,seasickness,seasickness,noun,b2
+1820,seaway,seaway,noun,c2
+1821,seaworthiness,seaworthiness,noun,c2
+1822,seaworthy,seaworthy,adjective,c2
+1823,second-class_3,second-class,adjective,b1
+1824,shell_1,shell,noun,c2
+1825,ship_1,ship,noun,a2
+1826,shipboard,shipboard,adjective,c2
+1827,shipload,shipload,noun,c2
+1828,shipmate,shipmate,noun,c2
+1829,shipowner,shipowner,noun,c1
+1830,shipper,shipper,noun,c2
+1831,shipping,shipping,noun,c1
+1832,shipping-forecast,shipping forecast,noun,c2
+1833,ship-to-shore,ship-to-shore,adjective,c2
+1834,shipwreck_1,shipwreck,noun,c1
+1835,shipwreck_2,shipwreck,verb,c1
+1836,shipyard,shipyard,noun,c2
+1837,shoot_1,shoot the rapids,idiom,c2
+1838,shoreline,shoreline,noun,c1
+1839,showboat_2,showboat,noun,c2
+1840,sickbay,sickbay,noun,c2
+1841,skiff,skiff,noun,c2
+1842,skipper_1,skipper,noun,c2
+1843,skipper_2,skipper,verb,c2
+1844,slipway,slipway,noun,c2
+1845,sloop,sloop,noun,c2
+1846,smack_2,smack,noun,c2
+1847,smokestack,smokestack,noun,c2
+1848,sos,SOS,noun,c2
+1849,spar_2,spar,noun,c2
+1850,speedboat,speedboat,noun,c1
+1851,stabilizer,stabilizer,noun,c2
+1852,starboard,starboard,noun,c2
+1853,stateroom,stateroom,noun,c2
+1854,the-waterline,the waterline,noun,c2
+1855,the-high-seas,the high seas,noun,c2
+1856,steamboat,steamboat,noun,c2
+1857,steamer,steamer,noun,c2
+1858,steamship,steamship,noun,c2
+1859,steer_1,steer,verb,c1
+1860,steerage,steerage,noun,c2
+1861,stern_2,stern,noun,c2
+1862,steward,steward,noun,c1
+1863,stowage,stowage,noun,c2
+1864,stow-away,stow away,phrasal verb,c2
+1865,stowaway,stowaway,noun,c2
+1866,strand_2,strand,verb,c1
+1867,stroke_1,stroke,noun,c1
+1868,submarine_1,submarine,noun,c1
+1869,submariner,submariner,noun,c2
+1870,submersible_2,submersible,noun,c2
+1871,sun-deck,sun deck,noun,c2
+1872,supertanker,supertanker,noun,c2
+1873,swing-bridge,swing bridge,noun,c2
+1874,tack_1,tack,noun,c2
+1875,helm_1,take (over) the helm,idiom,c2
+1876,tanker,tanker,noun,c1
+1877,tender_2,tender,noun,c2
+1878,terminal_1,terminal,noun,b2
+1879,third-class_1,third class,noun,b1
+1880,third-class_3,third-class,adjective,b1
+1881,tidal,tidal,adjective,c1
+1882,tide_1,tide,noun,c1
+1883,tideline,tideline,noun,c2
+1884,tidemark,tidemark,noun,c2
+1885,tiller,tiller,noun,c2
+1886,timber,timber,noun,c2
+1887,tonnage,tonnage,noun,c2
+1888,topsail,topsail,noun,c2
+1889,tow_1,tow,verb,c2
+1890,trade-route,trade route,noun,c1
+1891,transport_1,transport,noun,c2
+1892,trawl_2,trawl,noun,c2
+1893,trawler,trawler,noun,c2
+1894,trimaran,trimaran,noun,c2
+1895,trim_1,trim your sails,idiom,c2
+1896,troopship,troopship,noun,c2
+1897,tug_2,tug,noun,c2
+1898,turnaround,turnaround,noun,c2
+1899,turnround,turnround,noun,c2
+1900,u-boat,U-boat,noun,c2
+1901,unload,unload,verb,b2
+1902,up-anchor,up-anchor,verb,c2
+1903,vessel,vessel,noun,c1
+1904,voyage_1,voyage,noun,b2
+1905,voyager_1,voyager,noun,c2
+1906,wake_2,wake,noun,c2
+1907,wardroom,wardroom,noun,c2
+1908,warship,warship,noun,b2
+1909,wash_2,wash,noun,c2
+1910,water_1,water,noun,a1
+1911,wet-dock,wet dock,noun,c2
+1912,whaler,whaler,noun,c2
+1913,wharf,wharf,noun,c2
+1914,wheel_1,wheel,noun,b1
+1915,wheelhouse,wheelhouse,noun,c2
+1916,wreck_1,wreck,noun,c1
+1917,yacht,yacht,noun,b2
+1918,yard,yard,noun,c2
+1919,yaw_1,yaw,noun,c2
+1920,yaw_2,yaw,verb,c2

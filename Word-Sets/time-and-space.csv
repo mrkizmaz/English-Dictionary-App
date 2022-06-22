@@ -1,0 +1,693 @@
+subLink,word,type,level
+0,abbey,abbey,noun,b2
+1,abdicate,abdicate,verb,c2
+2,abolition,abolition,noun,c1
+3,aboriginal_1,aboriginal,adjective,c2
+4,accede,accede,verb,c2
+5,accession,accession,noun,c2
+6,action_1,action,noun,b2
+7,ad_2,AD,abbreviation,c1
+8,age_1,age,noun,b2
+9,agrarian-revolution,agrarian revolution,noun,c2
+10,ahistorical,ahistorical,adjective,c2
+11,amphitheatre,amphitheatre,noun,c2
+12,anachronism,anachronism,noun,c2
+13,anachronistic,anachronistic,adjective,c2
+14,ancestor,ancestor,noun,b2
+15,ancestry,ancestry,noun,c1
+16,ancient,ancient,adjective,a2
+17,anciently,anciently,adverb,c2
+18,anglo-saxon_1,Anglo-Saxon,noun,c1
+19,anglo-saxon_2,Anglo-Saxon,adjective,c1
+20,annex,annex,verb,c2
+21,antiquity,antiquity,noun,c2
+22,archaeological,archaeological,adjective,b2
+23,archaeologist,archaeologist,noun,b2
+24,archaeology,archaeology,noun,b2
+25,archaic,archaic,adjective,c2
+26,archeologist,archeologist,noun,b2
+27,archer,archer,noun,c2
+28,archive_1,archive,noun,c1
+29,archive_2,archive,verb,c2
+30,aristocracy,aristocracy,noun,c1
+31,aristocrat,aristocrat,noun,c1
+32,armour,armour,noun,c1
+33,arrow,arrow,noun,b2
+34,art-history,art history,noun,b1
+35,barbarian,barbarian,noun,c2
+36,baron,baron,noun,c1
+37,baroque_2,baroque,adjective,c2
+38,bath_1,bath,noun,c1
+39,battle_1,battle,noun,b1
+40,battlefield,battlefield,noun,c1
+41,battlements,battlements,noun,c2
+42,bc,BC,abbreviation,c1
+43,bce,BCE,abbreviation,c1
+44,behead,behead,verb,c2
+45,belle-epoque,belle époque,noun,c2
+46,bibliographer,bibliographer,noun,c2
+47,bibliographical,bibliographical,adjective,c2
+48,bibliography,bibliography,noun,c1
+49,bow2_1,bow,noun,c1
+50,bygone,bygone,adjective,c2
+51,c_1,c,abbreviation,c2
+52,cambrian,Cambrian,adjective,c2
+53,cannon_1,cannon,noun,c1
+54,carbon-dating,carbon dating,noun,c1
+55,carboniferous,carboniferous,adjective,c2
+56,carriage,carriage,noun,c1
+57,castle,castle,noun,a2
+58,cavalry,cavalry,noun,c2
+59,ce,CE,abbreviation,c1
+60,cede,cede,verb,c2
+61,celtic_1,Celtic,adjective,c2
+62,century,century,noun,a1
+63,chaperone_1,chaperone,noun,c2
+64,chapter,chapter,noun,c1
+65,chariot,chariot,noun,c1
+66,chronicle_1,chronicle,noun,c2
+67,chronological,chronological,adjective,c1
+68,chronology,chronology,noun,c1
+69,circa,circa,preposition,c2
+70,civilization,civilization,noun,b2
+71,civil-war,civil war,noun,c1
+72,classical,classical,adjective,b2
+73,coach_1,coach,noun,c2
+74,cobbles,cobbles,noun,c2
+75,colony,colony,noun,b2
+76,commonwealth,commonwealth,noun,c2
+77,conquer,conquer,verb,c1
+78,conqueror,conqueror,noun,c1
+79,conquest,conquest,noun,c2
+80,contemporary_1,contemporary,adjective,b2
+81,continental-drift,continental drift,noun,c2
+82,coronation,coronation,noun,c2
+83,costume,costume,noun,b1
+84,cretaceous,Cretaceous,adjective,c2
+85,crown_1,crown,noun,c1
+86,crown_2,crown,verb,c1
+87,crusade_1,crusade,noun,c2
+88,czar,czar,noun,c2
+89,datable,datable,adjective,c1
+90,date_1,date,noun,a1
+91,day,day,noun,b1
+92,descendant,descendant,noun,c1
+93,descent,descent,noun,c2
+94,dig_2,dig,noun,c2
+95,drawbridge,drawbridge,noun,c2
+96,dungeon,dungeon,noun,c1
+97,egyptologist,Egyptologist,noun,c2
+98,egyptology,Egyptology,noun,c2
+99,emperor,emperor,noun,b2
+100,empire,empire,noun,b2
+101,empress,empress,noun,c2
+102,enlightenment,enlightenment,noun,c1
+103,epoch,epoch,noun,c2
+104,epoch-making,epoch-making,adjective,c2
+105,era,era,noun,b2
+106,etymological,etymological,adjective,c2
+107,etymology,etymology,noun,c2
+108,excavate,excavate,verb,c2
+109,exhibit_2,exhibit,noun,b2
+110,explorer,explorer,noun,b1
+111,feudal,feudal,adjective,c2
+112,feudalism,feudalism,noun,c2
+113,former_1,former,adjective,b2
+114,formerly,formerly,adverb,b2
+115,fort,fort,noun,c1
+116,fortification,fortification,noun,c2
+117,fortress,fortress,noun,c1
+118,found,found,verb,b2
+119,galley,galley,noun,c2
+120,gallows,gallows,noun,c2
+121,genealogical,genealogical,adjective,c2
+122,genealogist,genealogist,noun,c2
+123,genealogy,genealogy,noun,c2
+124,generation,generation,noun,b1
+125,georgian,Georgian,adjective,c2
+126,gladiator,gladiator,noun,c1
+127,golden-age,golden age,noun,c1
+128,griot,griot,noun,c2
+129,guy_1,guy,noun,c2
+130,hellenistic,Hellenistic,adjective,c2
+131,heraldic,heraldic,adjective,c2
+132,heraldry,heraldry,noun,c2
+133,heritage,heritage,noun,c1
+134,hieroglyphics,hieroglyphics,noun,c2
+135,historian,historian,noun,b2
+136,historic,historic,adjective,b1
+137,historical,historical,adjective,b1
+138,historical-linguistics,historical linguistics,noun,c2
+139,historically,historically,adverb,b1
+140,historicism,historicism,noun,c2
+141,historiographical,historiographical,adjective,c2
+142,historiography,historiography,noun,c2
+143,history,history,noun,a1
+144,ice-age,ice age,noun,c1
+145,imperial,imperial,adjective,c1
+146,industrialize,industrialize,verb,c2
+147,invasion,invasion,noun,b2
+148,invention,invention,noun,a2
+149,jurassic,Jurassic,adjective,c2
+150,king,king,noun,a2
+151,kingdom,kingdom,noun,c1
+152,knight_1,knight,noun,b2
+153,majesty,majesty,noun,c1
+154,history,make history,idiom,c1
+155,mediaeval,mediaeval,adjective,b2
+156,medieval,medieval,adjective,c1
+157,moat,moat,noun,c2
+158,modern,modern,adjective,a1
+159,monument,monument,noun,b2
+160,mummy,mummy,noun,c2
+161,musicologist,musicologist,noun,c2
+162,musicology,musicology,noun,c2
+163,myth,myth,noun,b2
+164,mythology,mythology,noun,c1
+165,neanderthal_1,Neanderthal,noun,c2
+166,neanderthal_2,Neanderthal,adjective,c2
+167,neolithic,Neolithic,adjective,c2
+168,noble_2,noble,noun,c1
+169,onomastics,onomastics,noun,c2
+170,origin,origin,noun,b2
+171,page_1,page,noun,c2
+172,pageant,pageant,noun,c2
+173,palace,palace,noun,a2
+174,palaeontology,palaeontology,noun,c2
+175,paleontology,paleontology,noun,c2
+176,papyrus,papyrus,noun,c2
+177,past_1,past,adjective,a1
+178,past_2,past,noun,a1
+179,peasant,peasant,noun,c1
+180,period_1,period,noun,a1
+181,period_3,period,adjective,c2
+182,period-piece,period piece,noun,c2
+183,pilgrim,pilgrim,noun,c1
+184,post-war,post-war,adjective,c1
+185,prehistoric,prehistoric,adjective,c1
+186,prehistory,prehistory,noun,c2
+187,primaeval,primaeval,adjective,c2
+188,primeval,primeval,adjective,c2
+189,primitive_1,primitive,adjective,c1
+190,pyramid,pyramid,noun,b2
+191,queen_1,queen,noun,a2
+192,radiocarbon-dating,radiocarbon dating,noun,c2
+193,reformation,reformation,noun,c2
+194,regency_2,Regency,adjective,c2
+195,reign_1,reign,noun,c1
+196,reign_2,reign,verb,c1
+197,reign-of-terror,reign of terror,noun,c2
+198,relic,relic,noun,c2
+199,renaissance,renaissance,noun,c1
+200,restoration,restoration,noun,c2
+201,revolution,revolution,noun,b2
+202,roman_1,Roman,adjective,a2
+203,ruin_2,ruin,noun,b2
+204,scaffold,scaffold,noun,c2
+205,shield_1,shield,noun,c1
+206,sinologist,Sinologist,noun,c2
+207,sinology,Sinology,noun,c2
+208,spear_1,spear,noun,c1
+209,the-bronze-age,the Bronze Age,noun,c2
+210,the-cambrian,the Cambrian,noun,c2
+211,the-christian-era,the Christian era,noun,c2
+212,the-cretaceous,the Cretaceous,noun,c2
+213,the-dark-ages,the dark ages,noun,c2
+214,the-industrial-revolution,the Industrial Revolution,noun,c1
+215,the-iron-age,the Iron Age,noun,c2
+216,the-jurassic,the Jurassic,noun,c2
+217,the-middle-ages,the Middle Ages,noun,c1
+218,the-stone-age,the Stone Age,noun,c1
+219,stone-age,stone-age,adjective,c1
+220,successor,successor,noun,c1
+221,sword,sword,noun,c1
+222,history,the history books,idiom,c2
+223,time_1,time,noun,a2
+224,tsar,tsar,noun,c2
+225,tsarina,tsarina,noun,c2
+226,tzar,tzar,noun,c2
+227,victorian_1,Victorian,adjective,c1
+228,victorian_2,Victorian,noun,c1
+229,wartime_1,wartime,noun,b2
+230,wartime_2,wartime,adjective,b2
+231,zeitgeist,zeitgeist,noun,c2
+232,aerospace,aerospace,noun,c1
+233,alien_1,alien,noun,b2
+234,alien_2,alien,adjective,c1
+235,asteroid,asteroid,noun,b2
+236,astrobiologist,astrobiologist,noun,c1
+237,astrobiology,astrobiology,noun,c1
+238,astronaut,astronaut,noun,b1
+239,astronomer,astronomer,noun,b2
+240,astronomy,astronomy,noun,b2
+241,astrophysics,astrophysics,noun,c2
+242,atmosphere,atmosphere,noun,b1
+243,atmospheric,atmospheric,adjective,c1
+244,aurora-australis,aurora australis,noun,c2
+245,aurora-borealis,aurora borealis,noun,c2
+246,axis,axis,noun,c1
+247,big-bang,Big Bang,noun,c1
+248,biosphere,biosphere,noun,c2
+249,black-hole,black hole,noun,c1
+250,blast-off_2,blast-off,noun,c2
+251,blast-off_1,blast off,phrasal verb,c2
+252,booster,booster,noun,c2
+253,come-out,come out,phrasal verb,b2
+254,comet_1,comet,noun,c1
+255,come-up,come up,phrasal verb,b2
+256,constellation,constellation,noun,c1
+257,corona,corona,noun,c2
+258,cosmic,cosmic,adjective,c1
+259,cosmic-dust,cosmic dust,noun,c2
+260,cosmic-rays,cosmic rays,noun,c2
+261,cosmonaut,cosmonaut,noun,c1
+262,cosmos,cosmos,noun,c1
+263,countdown_1,countdown,noun,c2
+264,crescent,crescent,noun,c2
+265,dark-matter,dark matter,noun,c2
+266,dock_2,dock,verb,c2
+267,earth_1,earth,noun,a2
+268,eclipse_1,eclipse,noun,c1
+269,exoplanet,exoplanet,noun,c1
+270,extraterrestrial_1,extraterrestrial,noun,c2
+271,extraterrestrial_2,extraterrestrial,adjective,c2
+272,falling-star,falling star,noun,c2
+273,flying-saucer,flying saucer,noun,c2
+274,full-moon,full moon,noun,c1
+275,galaxy,galaxy,noun,b2
+276,go-around_1,go around,phrasal verb,b2
+277,go-down,go down,phrasal verb,c1
+278,go-round_1,go round,phrasal verb,b2
+279,gravity,gravity,noun,c1
+280,half-moon,half-moon,noun,c1
+281,hyperspace,hyperspace,noun,c2
+282,intergalactic,intergalactic,adjective,c2
+283,interplanetary,interplanetary,adjective,c2
+284,interstellar,interstellar,adjective,c2
+285,jupiter,Jupiter,noun,b2
+286,land_2,land,verb,a2
+287,landing,landing,noun,b2
+288,launch_1,launch,verb,b2
+289,launch_2,launch,noun,b2
+290,lift-off_2,lift-off,noun,c2
+291,lift-off_1,lift off,phrasal verb,c1
+292,light-year,light year,noun,c2
+293,lunar,lunar,adjective,c1
+294,magnetic-storm,magnetic storm,noun,c2
+295,mars,Mars,noun,b1
+296,martian_1,Martian,adjective,c2
+297,martian_2,Martian,noun,c2
+298,mercury_2,Mercury,noun,c1
+299,meteor,meteor,noun,c1
+300,meteorite,meteorite,noun,c1
+301,meteoroid,meteoroid,noun,c2
+302,milky-way,Milky Way,noun,c1
+303,mission,mission,noun,c1
+304,moon_1,moon,noun,a2
+305,moonlight_1,moonlight,noun,b1
+306,nasa,NASA,abbreviation,c1
+307,nebula,nebula,noun,c2
+308,neptune,Neptune,noun,c1
+309,new-moon,new moon,noun,c1
+310,orbit_1,orbit,noun,b2
+311,orbit_2,orbit,verb,b2
+312,orbital_1,orbital,adjective,c2
+313,outer-space,outer space,noun,a1
+314,ozone-hole,ozone hole,noun,c2
+315,ozone-layer,ozone layer,noun,c1
+316,penumbra,penumbra,noun,c2
+317,planet,planet,noun,a2
+318,plate_1,plate,noun,c2
+319,pluto,Pluto,noun,c1
+320,pod,pod,noun,c2
+321,probe_1,probe,noun,c2
+322,radiation-belt,radiation belt,noun,c2
+323,ray_1,ray,noun,c1
+324,red-dwarf,red dwarf,noun,c2
+325,rise_1,rise,verb,a2
+326,rocket_1,rocket,noun,b2
+327,rotation,rotation,noun,c1
+328,satellite,satellite,noun,b2
+329,saturn,Saturn,noun,c1
+330,shine_1,shine,verb,b1
+331,shooting-star,shooting star,noun,c2
+332,solar,solar,adjective,b2
+333,solar-system,solar system,noun,b2
+334,solar-year,solar year,noun,c2
+335,space_1,space,noun,a1
+336,spacecraft,spacecraft,noun,b2
+337,spaceman,spaceman,noun,b2
+338,space-probe,space probe,noun,c2
+339,spaceship,spaceship,noun,b1
+340,space-shuttle,space shuttle,noun,c1
+341,space-station,space station,noun,b1
+342,spacesuit,spacesuit,noun,b2
+343,space-time,space-time,noun,c2
+344,spacewalk,spacewalk,noun,b2
+345,spacewoman,spacewoman,noun,b2
+346,sputnik,sputnik,noun,c2
+347,star_1,star,noun,a1
+348,the-northern-lights,the Northern Lights,noun,c2
+349,the-southern-cross,the Southern Cross,noun,c2
+350,the-southern-lights,the Southern Lights,noun,c2
+351,the-thermosphere,the thermosphere,noun,c2
+352,the-troposphere,the troposphere,noun,c2
+353,the-ionosphere,the ionosphere,noun,c2
+354,the-mesosphere,the mesosphere,noun,c2
+355,the-stratosphere,the stratosphere,noun,c2
+356,stratospheric,stratospheric,adjective,c2
+357,sun_1,sun,noun,a1
+358,sunbeam,sunbeam,noun,b2
+359,sunlight,sunlight,noun,b1
+360,sunray,sunray,noun,c2
+361,sunrise,sunrise,noun,b2
+362,sunset_1,sunset,noun,b2
+363,sunup,sunup,noun,c2
+364,take-off_2,take-off,noun,b2
+365,take-off_1,take off,phrasal verb,a2
+366,telescope_1,telescope,noun,b2
+367,twilight,twilight,noun,c2
+368,ufo,UFO,noun,c1
+369,universe,universe,noun,b2
+370,uranus,Uranus,noun,c1
+371,venus,Venus,noun,b2
+372,voyage_1,voyage,noun,b2
+373,wane_1,wane,verb,c2
+374,wax_2,wax,verb,c2
+375,weightless,weightless,adjective,c1
+376,weightlessness,weightlessness,noun,c1
+377,white-dwarf,white dwarf,noun,c2
+378,wormhole,wormhole,noun,c2
+379,zenith_1,zenith,noun,c2
+380,zodiac,zodiac,noun,c1
+381,24-hour-clock,24-hour clock,noun,c1
+382,academic-year,academic year,noun,c1
+383,ad_2,AD,abbreviation,c1
+384,aeon,aeon,noun,c2
+385,after_1,after,preposition,a1
+386,afternoon,afternoon,noun,a1
+387,afternoons,afternoons,adverb,a2
+388,afterwards,afterwards,adverb,b2
+389,age_1,age,noun,b2
+390,ago,ago,adverb,a1
+391,ah_2,AH,abbreviation,c2
+392,ahead-of,ahead of,preposition,c2
+393,time_1,ahead of/behind time,idiom,b2
+394,all-day,all-day,adjective,c1
+395,time_1,all the time,idiom,a2
+396,alternate_1,alternate,adjective,c1
+397,annual_1,annual,adjective,b2
+398,annually,annually,adverb,b2
+399,april,April,noun,a1
+400,around-the-clock,around-the-clock,adjective,c2
+401,as_3,as from…/as of…,idiom,c1
+402,ast,AST,abbreviation,c2
+403,atlantic-daylight-time,Atlantic Daylight Time,noun,c2
+404,atlantic-standard-time,Atlantic Standard Time,noun,c2
+405,time_1,at the same time,idiom,a1
+406,time_1,at times,idiom,b1
+407,august_2,August,noun,a1
+408,autumn,autumn,noun,a1
+409,week,"a week yesterday, last Monday, etc.",idiom,c1
+410,bank-holiday,bank holiday,noun,c1
+411,bc,BC,abbreviation,c1
+412,bce,BCE,abbreviation,c1
+413,before_1,before,preposition,a1
+414,before_2,before,conjunction,a2
+415,before_3,before,adverb,a2
+416,beforehand,beforehand,adverb,c1
+417,time_1,behind the times,idiom,c1
+418,beyond_1,beyond,preposition,b2
+419,biannual,biannual,adjective,c2
+420,bicentenary_1,bicentenary,noun,c2
+421,bicentenary_2,bicentenary,adjective,c2
+422,bicentennial_1,bicentennial,noun,c2
+423,bicentennial_2,bicentennial,adjective,c2
+424,biennial_1,biennial,adjective,c2
+425,biennially,biennially,adverb,c2
+426,bimonthly,bimonthly,adjective,c2
+427,british-summer-time,British Summer Time,noun,c2
+428,calendar,calendar,noun,b2
+429,calendar-month,calendar month,noun,c2
+430,calendar-year,calendar year,noun,c2
+431,ce,CE,abbreviation,c1
+432,centenary,centenary,noun,c2
+433,central-daylight-time,Central Daylight Time,noun,c2
+434,central-european-summer-time,Central European Summer Time,noun,c2
+435,central-european-time,Central European Time,noun,c2
+436,central-standard-time,Central Standard Time,noun,c2
+437,century,century,noun,a1
+438,chapter,chapter,noun,c1
+439,chronological,chronological,adjective,c1
+440,continual,continual,adjective,c1
+441,continually,continually,adverb,c1
+442,continuous,continuous,adjective,b1
+443,continuously,continuously,adverb,b1
+444,coordinated-universal-time,Coordinated Universal Time,noun,c2
+445,daily_1,daily,adjective,a2
+446,daily_2,daily,adverb,b1
+447,date_1,date,noun,a1
+448,dawn_1,dawn,noun,c1
+449,day,day,noun,a1
+450,daybreak,daybreak,noun,c2
+451,day,"day in, day out",idiom,c2
+452,daylight,daylight,noun,b1
+453,daylight-saving-time,daylight saving time,noun,c2
+454,daytime,daytime,noun,b1
+455,day-to-day,day-to-day,adjective,b2
+456,decade,decade,noun,b1
+457,december,December,noun,a1
+458,diurnal,diurnal,adjective,c2
+459,during,during,preposition,a1
+460,dusk,dusk,noun,c1
+461,early_1,early,adjective,a1
+462,eastern-daylight-time,Eastern Daylight Time,noun,c2
+463,eastern-standard-time,Eastern Standard Time,noun,c2
+464,elapse,elapse,verb,c2
+465,eon,eon,noun,c2
+466,epoch,epoch,noun,c2
+467,equinox,equinox,noun,c2
+468,era,era,noun,b2
+469,eternity,eternity,noun,c1
+470,eve_1,eve,noun,c2
+471,evening,evening,noun,a1
+472,eventual,eventual,adjective,c1
+473,eventually,eventually,adverb,b1
+474,now_1,(every) now and again/then,idiom,b2
+475,then_1,(every) now and then/again,idiom,b2
+476,every,every other,idiom,b2
+477,fall_2,fall,noun,a2
+478,far_1,far,adverb,b1
+479,february,February,noun,a1
+480,financial-year,financial year,noun,c1
+481,fiscal-year,fiscal year,noun,c2
+482,meantime_1,for the meantime/meanwhile,idiom,c1
+483,meanwhile_2,for the meanwhile/meantime,idiom,c1
+484,moment,for the moment/present,idiom,b2
+485,time_1,for the time being,idiom,c1
+486,fortnight,fortnight,noun,b2
+487,frequent_1,frequent,adjective,b2
+488,friday,Friday,noun,a1
+489,day,from day to day,idiom,c2
+490,day,from one day to the next,idiom,c2
+491,forth_1,from that day/time forth,idiom,c2
+492,time_1,from that time/day forth,idiom,c2
+493,time_1,from time to time,idiom,c1
+494,gmt,GMT,abbreviation,c2
+495,gregorian-calendar,Gregorian calendar,noun,c2
+496,half-century,half-century,noun,c1
+497,half-hour,half hour,noun,b1
+498,half-hourly_1,half-hourly,adverb,c2
+499,half-hourly_2,half-hourly,adjective,c2
+500,half_2,"half past one, two, etc.",idiom,a1
+501,half-yearly_1,half-yearly,adverb,c2
+502,half-yearly_2,half-yearly,adjective,c2
+503,hour,hour,noun,a1
+504,hourly_1,hourly,adjective,b2
+505,hourly_2,hourly,adverb,b2
+506,immediate,immediate,adjective,b1
+507,immediately_1,immediately,adverb,a2
+508,in_1,in,preposition,a1
+509,indefinite,indefinite,adjective,c1
+510,indefinitely,indefinitely,adverb,c1
+511,due_1,in due course,idiom,c1
+512,future_1,in future,idiom,b1
+513,time_1,in good time,idiom,c1
+514,course_1,in/over the course of…,idiom,c1
+515,instant_1,instant,adjective,b2
+516,instant_2,instant,noun,c1
+517,course_1,in the course of time,idiom,c1
+518,end_1,in the end,idiom,a2
+519,fullness,in the fullness of time,idiom,c2
+520,meantime_1,in the meantime/meanwhile,idiom,c1
+521,meanwhile_2,in the meanwhile/meantime,idiom,c1
+522,morning_1,in the morning,idiom,a1
+523,time_1,in time,idiom,c2
+524,time_1,in time (for something/to do something),idiom,b1
+525,january,January,noun,a1
+526,julian-calendar,Julian calendar,noun,c2
+527,july,July,noun,a1
+528,june,June,noun,a1
+529,just_1,just,adverb,a1
+530,hour,keep… hours,idiom,c1
+531,last1_1,last,determiner,a1
+532,last1_4,last,verb,a2
+533,late_1,late,adjective,a1
+534,late_2,late,adverb,a1
+535,lately,lately,adverb,b2
+536,lateness,lateness,noun,b2
+537,later_2,later,adjective,a2
+538,later_1,later on,idiom,b2
+539,latter_1,latter,adjective,c1
+540,latterly,latterly,adverb,c2
+541,leap-year,leap year,noun,c1
+542,local-time,local time,noun,b2
+543,long-term_2,long-term,adjective,b2
+544,lunar-cycle,lunar cycle,noun,c2
+545,lunar-day,lunar day,noun,c2
+546,lunar-month,lunar month,noun,c2
+547,lunar-year,lunar year,noun,c2
+548,lunchtime,lunchtime,noun,a2
+549,march_3,March,noun,a1
+550,may_3,May,noun,a1
+551,mdt,MDT,abbreviation,c2
+552,medium-term,medium-term,adjective,c1
+553,microsecond,microsecond,noun,c2
+554,midday,midday,noun,b1
+555,midnight,midnight,noun,a1
+556,midsummer,midsummer,noun,c1
+557,midway_1,midway,adverb,c2
+558,midwinter,midwinter,noun,c1
+559,millennial_1,millennial,adjective,c2
+560,millennium,millennium,noun,b2
+561,millisecond,millisecond,noun,c2
+562,minute1_1,minute,noun,a1
+563,minute-hand,minute hand,noun,c2
+564,mo_1,mo,noun,c2
+565,moment,moment,noun,a1
+566,monday,Monday,noun,a1
+567,month,month,noun,a1
+568,monthly_1,monthly,adjective,b2
+569,monthly_2,monthly,adverb,b2
+570,morning_1,morning,noun,a1
+571,morning_1,"morning, noon and night",idiom,c2
+572,morrow,morrow,noun,c2
+573,mountain-daylight-time,Mountain Daylight Time,noun,c2
+574,mountain-standard-time,Mountain Standard Time,noun,c2
+575,nanosecond,nanosecond,noun,c2
+576,near_1,near,preposition,b1
+577,never_1,never,adverb,a1
+578,next_2,next up,idiom,c1
+579,night,night,noun,a1
+580,nightly_1,nightly,adjective,c1
+581,night-time,night-time,noun,b1
+582,noon,noon,noun,c1
+583,noontide,noontide,noun,c2
+584,november,November,noun,a1
+585,occasional,occasional,adjective,c1
+586,october,October,noun,a1
+587,time_1,of all time,idiom,b1
+588,often,often,adverb,a1
+589,on_1,on,preposition,a1
+590,time_1,on time,idiom,a2
+591,o-clock,o’clock,adverb,a1
+592,pacific-daylight-time,Pacific Daylight Time,noun,c2
+593,pacific-standard-time,Pacific Standard Time,noun,c2
+594,past_3,past,preposition,a1
+595,perennial_1,perennial,adjective,c2
+596,period_1,period,noun,a1
+597,perpetual,perpetual,adjective,c2
+598,predawn,predawn,adjective,c2
+599,present_1,present,adjective,a1
+600,quarter_1,quarter,noun,a1
+601,rare,rare,adjective,b1
+602,recent,recent,adjective,a2
+603,recently,recently,adverb,a2
+604,regular_1,regular,adjective,a2
+605,regularly,regularly,adverb,b1
+606,round-the-clock,round-the-clock,adjective,c2
+607,saturday,Saturday,noun,a1
+608,season_1,season,noun,a2
+609,seasonal,seasonal,adjective,c1
+610,seasonality,seasonality,noun,c2
+611,sec_1,sec,noun,c2
+612,second1_3,second,noun,a1
+613,second-hand_1,second hand,noun,c2
+614,semester,semester,noun,b1
+615,september,September,noun,a1
+616,session,session,noun,b2
+617,short-range,short-range,adjective,c2
+618,short-term,short-term,adjective,b2
+619,simultaneous,simultaneous,adjective,c1
+620,simultaneously,simultaneously,adverb,c1
+621,since_1,since,preposition,a2
+622,since_2,since,conjunction,a2
+623,solar-year,solar year,noun,c2
+624,solstice,solstice,noun,c1
+625,sometimes,sometimes,adverb,a1
+626,spasmodic,spasmodic,adjective,c2
+627,spell_2,spell,noun,c1
+628,spring_1,spring,noun,a1
+629,springtime,springtime,noun,b1
+630,the-noughties,the noughties,noun,c2
+631,stretch_2,stretch,noun,c2
+632,subsequently,subsequently,adverb,b2
+633,sudden,sudden,adjective,b1
+634,suddenly,suddenly,adverb,a2
+635,summer_1,summer,noun,a1
+636,summer-time,summer time,noun,c2
+637,summertime,summertime,noun,b1
+638,sunday,Sunday,noun,a1
+639,sunrise,sunrise,noun,b2
+640,sunset_1,sunset,noun,b2
+641,tax-year,tax year,noun,c1
+642,term_1,term,noun,b1
+643,termly,termly,adjective,c2
+644,term-time_1,term time,noun,b2
+645,term-time_2,term-time,adjective,b2
+646,other_1,the other day/morning/evening/week,idiom,b1
+647,hour,the small/early hours,idiom,c2
+648,through_2,through,adverb,a2
+649,throughout,throughout,preposition,b1
+650,thursday,Thursday,noun,a1
+651,time_1,time,noun,a1
+652,time_1,time after time,idiom,b2
+653,time-lag,time lag,noun,c2
+654,time-span,time span,noun,c2
+655,time-zone,time zone,noun,b2
+656,date_1,to date,idiom,c1
+657,today_1,today,adverb,a1
+658,today_2,today,noun,a1
+659,week,"today, tomorrow, Monday, etc. week",idiom,c1
+660,tomorrow_1,tomorrow,adverb,a1
+661,tomorrow_2,tomorrow,noun,a1
+662,tonight_2,tonight,noun,a1
+663,triennial,triennial,adjective,c2
+664,trimester,trimester,noun,c2
+665,tuesday,Tuesday,noun,a1
+666,twelvemonth,twelvemonth,noun,c2
+667,twenty-four-seven,twenty-four seven,adverb,c2
+668,universal-coordinated-time,Universal Coordinated Time,noun,c2
+669,usually,usually,adverb,a1
+670,utc,UTC,abbreviation,c2
+671,wednesday,Wednesday,noun,a1
+672,week,week,noun,a1
+673,weekday,weekday,noun,b1
+674,weekdays,weekdays,adverb,b2
+675,weekend_1,weekend,noun,a1
+676,weekly_1,weekly,adjective,b2
+677,while_2,while,noun,b1
+678,winter_1,winter,noun,a1
+679,wintertime,wintertime,noun,b1
+680,year,year,noun,a1
+681,year,year after year,idiom,b2
+682,year,year by year,idiom,c2
+683,year,"year in, year out",idiom,c2
+684,year-long,year-long,adjective,c1
+685,yearly_1,yearly,adverb,c1
+686,yearly_2,yearly,adjective,c1
+687,year-round,year-round,adjective,c1
+688,yesterday_1,yesterday,adverb,a1
+689,yesterday_2,yesterday,noun,a1
+690,yet_1,yet,adverb,a2
+691,yonks,yonks,noun,c2
