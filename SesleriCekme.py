@@ -1,4 +1,4 @@
-# scraipng the pronunciation of words
+# scraping the pronunciation of words
 
 # required libraries
 import os
@@ -13,7 +13,8 @@ from bs4 import BeautifulSoup
 def getSoundLinks(dataset):
 
     df = pd.read_csv(f'Word-Sets/{dataset}')
-    link = df['subLink'][0:50].values
+    df1 = df.head(50)
+    link = df1['subLink'].values
 
     try:
         print(f'{dataset} verisetindeki kelimelerin ses verileri işleniyor, Lütfen bekleyiniz...')
@@ -26,7 +27,8 @@ def getSoundLinks(dataset):
         start = time.time()
         sounds = []
         for sub in link:
-            
+            print(f'{len(sounds)} adet ses verisi çekildi.. İşlemler devem ediyor...')
+
             sublink = 'https://www.oxfordlearnersdictionaries.com/definition/english/' + sub
             response = requests.get(sublink, headers = headers)
             time.sleep(1)
@@ -49,19 +51,20 @@ def getSoundLinks(dataset):
 
         duration = time.time() - start
 
-        df['sound'] = sounds
+        df1['sound'] = sounds
             
         print(f'{dataset} verisetindeki tüm işlemler başarılı bir şekilde tamamlandı, işlem süresi: {duration} sn.') 
         
     except Exception as e:
         print(f'Bir hata ile karşılaşıldı. Hatayı onarınız; Hatanın nedeni: {e}')
 
-    df.to_csv('leisurewithsounds.csv', index_label = False)
+    df_new = df1[['word', 'sound']]
+    df_new.to_csv('Sound-Sets/leisurewithsounds.csv', index_label = False)
     
-    return df.info()
+    return duration
 
 a = getSoundLinks('leisure.csv')
-print(a / 60.0)
+print(f'Toplam geçen süre: {(a / 60).__trunc__()} dk. {a % 60} sn.')
 
 """
 total_time = 0    
@@ -70,7 +73,7 @@ for dataset in os.listdir('Word-Sets'):
     time.sleep(1)
     total_time += duration
     print('-------------------------------------------------------------')
-    time.sleep(0.5)
+    time.sleep(5)
 
 print(f'Tüm işlemlerin toplam süresi: {total_time / 60} minutes')
 """
