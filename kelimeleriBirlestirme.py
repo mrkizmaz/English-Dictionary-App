@@ -17,7 +17,7 @@ for i in os.listdir('Word-Sets'):
     total_words_count += total_word
 print(f'Toplam kelime sayısı: {total_words_count}') # output --> total word: 29175
 
-# concatenation
+"""# concatenation
 allWordSet = pd.DataFrame()
 for i in os.listdir('Word-Sets'):
     data = pd.read_csv(f'Word-Sets/{i}')
@@ -28,4 +28,4 @@ print(allWordSet.head(10))
 print(allWordSet.info())
 
 # saving the dataset
-allWordSet.to_csv('EnglishWords.csv', sep = ',', encoding = 'utf-8', index_label = False)
+allWordSet.to_csv('EnglishWords.csv', sep = ',', encoding = 'utf-8', index_label = False)"""
