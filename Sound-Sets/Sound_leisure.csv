@@ -1,0 +1,682 @@
+word,sound
+0,ace,ace__gb_1.mp3
+1,achievement,achievement__gb_1.mp3
+2,adventure game,adventure_game_1_gb_1.mp3
+3,arcade,arcade__gb_1.mp3
+4,avatar,avatar__gb_1.mp3
+5,baccarat,baccarat_1_gb_1.mp3
+6,backgammon,backgammon__gb_1.mp3
+7,bagatelle,bagatelle__gb_2.mp3
+8,ball,ball__gb_3.mp3
+9,ball game,ball_game_1_gb_1.mp3
+10,balloon,balloon__gb_2.mp3
+11,billiards,billiards__gb_2.mp3
+12,bingo,bingo__gb_3.mp3
+13,bishop,bishop__gb_3.mp3
+14,blackjack,blackjack__gb_2.mp3
+15,blind man’s buff,blind_man_s_buff_1_gb_1.mp3
+16,board,board__gb_2.mp3
+17,board game,board_game_1_gb_1.mp3
+18,boule,boule__gb_4.mp3
+19,bowl,bowl__gb_4.mp3
+20,bowling,bowling__gb_3.mp3
+21,bowling green,bowling_green_1_gb_1.mp3
+22,bridge,bridge__gb_3.mp3
+23,building block,building_block_1_gb_1.mp3
+24,camp,camp__gb_2.mp3
+25,canasta,canasta__gb_2.mp3
+26,card,card__gb_1.mp3
+27,card game,card_game_1_gb_1.mp3
+28,casino,casino__gb_2.mp3
+29,castle,castle__gb_2.mp3
+30,cat’s cradle,cat_s_cradle_1_gb_1.mp3
+31,charade,charade__gb_1.mp3
+32,cheat,cheat__gb_2.mp3
+33,cheat,cheat__gb_2.mp3
+34,check,check__gb_2.mp3
+35,checkers,checkers__gb_3.mp3
+36,chess,chess__gb_3.mp3
+37,chessman,chessman__gb_2.mp3
+38,Chinese chequers,chinese_chequers_1_gb_1.mp3
+39,Chutes and Ladders™,chutes_and_ladders_1_gb_1.mp3
+40,climbing frame,climbing_frame_1_gb_1.mp3
+41,club,club__gb_1.mp3
+42,computer game,computer_game_1_gb_2.mp3
+43,conker,xconker__gb_1.mp3
+44,console,xconsole__gb_2.mp3
+45,counter,counter__gb_1.mp3
+46,cribbage,cribbage__gb_1.mp3
+47,croquet,croquet__gb_1.mp3
+48,cross-play,cross_play_1_gb_1.mp3
+49,crossword,crossword__gb_1.mp3
+50,cutscene,cutscene__gb_1.mp3
+51,dart,dart__gb_1.mp3
+52,dartboard,dartboard__gb_1.mp3
+53,deal,deal__gb_1.mp3
+54,dealer,dealer__gb_2.mp3
+55,diamond,diamond__gb_2.mp3
+56,dice,dice__gb_1.mp3
+57,dodgeball,dodgeball__gb_1.mp3
+58,doll,doll__gb_2.mp3
+59,doll’s house,doll_s_house_1_gb_1.mp3
+60,domino,domino__gb_2.mp3
+61,draught,draft__gb_3.mp3
+62,Easter egg,easter_egg_1_gb_1.mp3
+63,experience points,experience_points_1_gb_1.mp3
+64,fidget spinner,fidget_spinner_1_gb_1.mp3
+65,first-person shooter,first_person_shooter_1_gb_1.mp3
+66,follow-the-leader,follow_the_leader_1_gb_1.mp3
+67,foosball,foosball__gb_4.mp3
+68,FPS,fps_1_gb_1_abbr.mp3
+69,frag,frag__gb_1.mp3
+70,Frisbee™,frisbee__gb_1.mp3
+71,fun,fun__gb_2.mp3
+72,game,game__gb_2.mp3
+73,game controller,game_controller_1_gb_1.mp3
+74,gamepad,gamepad__gb_1.mp3
+75,gameplay,gameplay__gb_3.mp3
+76,games console,games_console_1_gb_1.mp3
+77,gin rummy,gin_rummy_1_gb_1.mp3
+78,glove puppet,glove_puppet_1_gb_1.mp3
+79,go,go__gb_4.mp3
+80,gold farming,gold_farming_1_gb_1.mp3
+81,grand slam,grand_slam_1_gb_1.mp3
+82,guessing game,guessing_game_1_gb_1.mp3
+83,hand,hand__gb_2.mp3
+84,handball,handball__gb_1.mp3
+85,hand puppet,hand_puppet_1_gb_1.mp3
+86,hangman,hangman__gb_1.mp3
+87,heart,heart__gb_1.mp3
+88,hide-and-seek,hide_and_seek_1_gb_1.mp3
+89,hoop,hoop__gb_1.mp3
+90,hopscotch,hopscotch__gb_1.mp3
+91,hula hoop,hula_hoop_1_gb_1.mp3
+92,I-spy,i_spy_1_gb_1.mp3
+93,jack,jack__gb_1.mp3
+94,jigsaw,jigsaw__gb_1.mp3
+95,joker,joker__gb_1.mp3
+96,joypad,joypad__gb_1.mp3
+97,jump rope,jump_rope_1_gb_1.mp3
+98,jungle gym,jungle_gym_1_gb_1.mp3
+99,king,king__gb_2.mp3
+100,kite,kite__gb_2.mp3
+101,knight,knight__gb_3.mp3
+102,lawn bowling,lawn_bowling_1_gb_1.mp3
+103,leapfrog,leapfrog__gb_1.mp3
+104,Lego™,lego__gb_1.mp3
+105,leisure centre,leisure_center_1_gb_1.mp3
+106,level,level__gb_2.mp3
+107,level up,fluency__gb_1.mp3
+108,lose,lose__gb_1.mp3
+109,loser,loser__gb_1.mp3
+110,lotto,lotto__gb_1.mp3
+111,lucky dip,lucky_dip_1_gb_1.mp3
+112,ludo,ludo__gb_1.mp3
+113,mahjong,mahjongg__gb_1.mp3
+114,marble,marble__gb_1.mp3
+115,merry-go-round,merry_go_round_1_gb_1.mp3
+116,monkey in the middle,monkey_in_the_middle_1_gb_1.mp3
+117,monopoly,monopoly__gb_1.mp3
+118,move,move__gb_1.mp3
+119,MUD,mud__gb_1.mp3
+120,musical bumps,musical_bumps_1_gb_1.mp3
+121,musical chairs,musical_chairs_1_gb_1.mp3
+122,non-player character,non_player_character_1_gb_2.mp3
+123,noughts and crosses,noughts_and_crosses_1_gb_1.mp3
+124,NPC,npc_1_gb_1_abbr.mp3
+125,opponent,opponent__gb_2.mp3
+126,out,out__gb_1.mp3
+127,pack,pack__gb_1.mp3
+128,paintball,paintball__gb_1.mp3
+129,paperchase,paperchase__gb_1.mp3
+130,parlour game,parlour_game_1_gb_1.mp3
+131,pawn,pawn__gb_1.mp3
+132,peekaboo,peekaboo__gb_3.mp3
+133,peep-bo,peep_bo_1_gb_1.mp3
+134,Pelmanism,pelmanism__gb_1.mp3
+135,pelota,pelota__gb_1.mp3
+136,piece,piece__gb_1.mp3
+137,piggy in the middle,piggy_in_the_middle_1_gb_1.mp3
+138,pinball,pinball__gb_1.mp3
+139,ping-pong,ping_pong_1_gb_1.mp3
+140,piñata,pinata_1_gb_1.mp3
+141,platform game,platform_game_1_gb_1.mp3
+142,play,play__gb_1.mp3
+143,play,play__gb_1.mp3
+144,play chicken,chicken__gb_3.mp3
+145,player,player__gb_1.mp3
+146,playground,playground__gb_3.mp3
+147,playing card,playing_card_1_gb_1.mp3
+148,playtime,playtime__gb_1.mp3
+149,plush toy,plush_toy_1_gb_1.mp3
+150,poker,poker__gb_1.mp3
+151,pool,pool__gb_3.mp3
+152,postman’s knock,postman_s_knock_1_gb_1.mp3
+153,puppet,puppet__gb_1.mp3
+154,puzzle,puzzle__gb_2.mp3
+155,pwn,pwn__gb_1.mp3
+156,pwnage,pwnage__gb_1.mp3
+157,pétanque,petanque__gb_1.mp3
+158,queen,queen_1_gb_1.mp3
+159,quiz,quiz__gb_1.mp3
+160,racquetball,racquetball__gb_1.mp3
+161,rag doll,rag_doll_1_gb_1.mp3
+162,rattle,rattle__gb_1.mp3
+163,replayability,replayability__gb_1.mp3
+164,replayable,replayable__gb_2.mp3
+165,replay value,replay_value_1_gb_1.mp3
+166,respawn,respawn__gb_1.mp3
+167,riddle,riddle__gb_1.mp3
+168,ring-a-ring o’ roses,ring_a_ring_o_roses_1_gb_1.mp3
+169,rocking horse,rocking_horse_1_gb_1.mp3
+170,role-playing game,role_playing_game_1_gb_1.mp3
+171,roulette,roulette__gb_1.mp3
+172,roundabout,roundabout__gb_1.mp3
+173,RPG,rpg_1_gb_1_abbr.mp3
+174,rule,rule__gb_1.mp3
+175,rummy,rummy__gb_1.mp3
+176,sandbox,sandbox__gb_1.mp3
+177,sandpit,sandpit__gb_1.mp3
+178,score,score__gb_1.mp3
+179,score,score__gb_1.mp3
+180,scoreboard,scoreboard__gb_1.mp3
+181,Scrabble™,scrabble__gb_1.mp3
+182,see-saw,see_saw_1_gb_1.mp3
+183,shoot-’em-up,shoot_em_up_1_gb_1.mp3
+184,shuffle,shuffle__gb_1.mp3
+185,sim,sim__gb_1.mp3
+186,Simon says,simon_says_1_gb_1.mp3
+187,skateboard,skateboard__gb_2.mp3
+188,skipping rope,skipping_rope_1_gb_1.mp3
+189,skittle,skittle__gb_1.mp3
+190,slide,slide__gb_2.mp3
+191,snakes and ladders,snakes_and_ladders_1_gb_1.mp3
+192,snap,snap__gb_1.mp3
+193,snooker,snooker__gb_1.mp3
+194,soft play,soft_play_1_gb_1.mp3
+195,soft toy,soft_toy_1_gb_1.mp3
+196,solitaire,solitaire__gb_1.mp3
+197,square,square__gb_1.mp3
+198,stalemate,stalemate__gb_1.mp3
+199,stuffed animal,stuffed_animal_1_gb_1.mp3
+200,suit,suit__gb_1.mp3
+201,swing,swing__gb_3.mp3
+202,table football,table_football_1_gb_2.mp3
+203,table tennis,table_tennis_1_gb_4.mp3
+204,tag,tag__gb_1.mp3
+205,team,team__gb_3.mp3
+206,team handball,team_handball_1_gb_2.mp3
+207,teddy bear,teddy_bear_1_gb_3.mp3
+208,teeter-totter,teeter_totter_1_gb_1.mp3
+209,tenpin bowling,tenpin_bowling_1_gb_1.mp3
+210,three-card trick,three_card_trick_1_gb_1.mp3
+211,tic-tac-toe,tic_tac_toe_1_gb_1.mp3
+212,tiddlywinks,tiddlywinks__gb_1.mp3
+213,tie,tie__gb_2.mp3
+214,tie,tie__gb_2.mp3
+215,tig,tig__gb_1.mp3
+216,toboggan,toboggan__gb_1.mp3
+217,tombola,tombola__gb_1.mp3
+218,toy,toy__gb_1.mp3
+219,trampoline,trampoline__gb_2.mp3
+220,treasure hunt,treasure_hunt_1_gb_1.mp3
+221,trump,trump__gb_1.mp3
+222,turn,turn__gb_1.mp3
+223,video game,video_game_1_gb_1.mp3
+224,war game,war_game_1_gb_1.mp3
+225,whist,whist__gb_1.mp3
+226,win,win__gb_1.mp3
+227,winner,winner__gb_1.mp3
+228,winning,winning__gb_1.mp3
+229,world,world__gb_1.mp3
+230,yo-yo,yo_yo_1_gb_2.mp3
+231,activity,activity__gb_5.mp3
+232,amateur dramatics,amateur_dramatics_1_gb_1.mp3
+233,angler,angler__gb_1.mp3
+234,angling,angling__gb_1.mp3
+235,art,art__gb_3.mp3
+236,astrology,astrology__gb_1.mp3
+237,ballroom dancing,ballroom_dancing_1_gb_1.mp3
+238,basketry,basketry__gb_1.mp3
+239,basketwork,basketwork__gb_2.mp3
+240,birder,birder__gb_1.mp3
+241,birding,birding__gb_3.mp3
+242,birdwatcher,birdwatcher__gb_1.mp3
+243,birdwatching,birdwatching__gb_1.mp3
+244,bonsai,bonsai__gb_4.mp3
+245,brass rubbing,brass_rubbing_1_gb_1.mp3
+246,bricolage,bricolage__gb_1.mp3
+247,bullfight,bullfight__gb_2.mp3
+248,calligraphy,calligraphy__gb_1.mp3
+249,cartography,cartography__gb_1.mp3
+250,ceramic,ceramic__gb_1.mp3
+251,climb,climb__gb_2.mp3
+252,climbing,climbing__gb_1.mp3
+253,clubbing,clubbing__gb_1.mp3
+254,collage,collage__gb_1.mp3
+255,collector,collector__gb_1.mp3
+256,community theater,community_theatre_1_gb_1.mp3
+257,compass,compass__gb_1.mp3
+258,cookery,cookery__gb_1.mp3
+259,cooking,cooking__gb_1.mp3
+260,cosplay,cosplay__gb_2.mp3
+261,cosplay,cosplay__gb_2.mp3
+262,cosplayer,cosplayer__gb_1.mp3
+263,craft,craft__gb_1.mp3
+264,craft,craft__gb_1.mp3
+265,crochet,crochet__gb_1.mp3
+266,cryptography,cryptography__gb_1.mp3
+267,dance,dance__gb_1.mp3
+268,dance,dance__gb_1.mp3
+269,dancer,dancer__gb_1.mp3
+270,dancing,dancing__gb_3.mp3
+271,dive,dive__gb_2.mp3
+272,drama,drama__gb_2.mp3
+273,drawing,drawing__gb_3.mp3
+274,embroider,embroider__gb_1.mp3
+275,embroidery,embroidery__gb_1.mp3
+276,engraving,engraving__gb_1.mp3
+277,explore,explore__gb_1.mp3
+278,fieldcraft,fieldcraft__gb_1.mp3
+279,fish,fish__gb_3.mp3
+280,fisherman,fisherman__gb_2.mp3
+281,fishing,fishing__gb_3.mp3
+282,fishing rod,fishing_rod_1_gb_1.mp3
+283,flower arranging,flower_arranging_1_gb_1.mp3
+284,footpath,footpath__gb_1.mp3
+285,gardening,gardening__gb_5.mp3
+286,gastronomy,gastronomy__gb_1.mp3
+287,glass-blowing,glass_blowing_1_gb_1.mp3
+288,hack,hack__gb_9.mp3
+289,handcraft,handcraft__gb_1.mp3
+290,handicraft,handicraft__gb_1.mp3
+291,hide,hide__gb_1.mp3
+292,hike,hike__gb_1.mp3
+293,hike,hike__gb_1.mp3
+294,hiking,hiking__gb_1.mp3
+295,hillwalking,hillwalking__gb_1.mp3
+296,hobby,hobby__gb_1.mp3
+297,horology,horology__gb_1.mp3
+298,horseback riding,horseback_riding_1_gb_1.mp3
+299,horse riding,horse_riding_1_gb_1.mp3
+300,interest,interest__gb_1.mp3
+301,jog,jog__gb_1.mp3
+302,jogger,jogger__gb_1.mp3
+303,jogging,jogging__gb_1.mp3
+304,knit,knit__gb_2.mp3
+305,knitting,knitting__gb_3.mp3
+306,leisure,leisure__gb_1.mp3
+307,magnetic compass,magnetic_compass_1_gb_1.mp3
+308,modelling,modelling__gb_1.mp3
+309,mountain bike,mountain_bike_1_gb_1.mp3
+310,mountain biking,mountain_biking_1_gb_1.mp3
+311,music,music__gb_1.mp3
+312,national park,national_park_1_gb_1.mp3
+313,nature reserve,nature_reserve_1_gb_1.mp3
+314,needlecraft,needlecraft__gb_1.mp3
+315,oil painting,oil_painting_1_gb_1.mp3
+316,orienteering,orienteering__gb_1.mp3
+317,origami,origami__gb_1.mp3
+318,paddle,paddle__gb_1.mp3
+319,painting,painting__gb_1.mp3
+320,palmistry,palmistry__gb_1.mp3
+321,pastiche,pastiche__gb_1.mp3
+322,pastime,pastime__gb_1.mp3
+323,photography,photography__gb_1.mp3
+324,poetics,poetics__gb_1.mp3
+325,poetry,poetry__gb_1.mp3
+326,pony-trekking,pony_trekking_1_gb_1.mp3
+327,portraiture,portraiture__gb_1.mp3
+328,pottery,pottery__gb_1.mp3
+329,ramble,ramble__gb_1.mp3
+330,ramble,ramble__gb_1.mp3
+331,rambling,rambling__gb_1.mp3
+332,reading,reading__gb_1.mp3
+333,relax,relax__gb_1.mp3
+334,reserve,reserve__gb_1.mp3
+335,riding,riding__gb_4.mp3
+336,right of way,right_of_way_1_gb_1.mp3
+337,roam,roam__gb_1.mp3
+338,Rollerblade™,rollerblade__gb_1.mp3
+339,roller skate,roller_skate_1_gb_1.mp3
+340,safari park,safari_park_1_gb_1.mp3
+341,sculpture,sculpture__gb_1.mp3
+342,sew,sew__gb_1.mp3
+343,sewing,sewing__gb_1.mp3
+344,shopping,shopping__gb_1.mp3
+345,skateboarding,skateboarding__gb_1.mp3
+346,snorkel,snorkel__gb_1.mp3
+347,snorkel,snorkel__gb_1.mp3
+348,spare,spare__gb_1.mp3
+349,stamp collecting,stamp_collecting_1_gb_1.mp3
+350,sudoku,sudoku__gb_1.mp3
+351,tapestry,tapestry__gb_1.mp3
+352,taxidermy,taxidermy__gb_1.mp3
+353,topiary,topiary__gb_1.mp3
+354,track,track__gb_1.mp3
+355,trail,trail__gb_1.mp3
+356,wade,wade__gb_1.mp3
+357,walking,walking__gb_1.mp3
+358,wander,wander__gb_1.mp3
+359,woodwork,woodwork__gb_1.mp3
+360,word search,wordsearch__gb_1.mp3
+361,writing,writing__gb_1.mp3
+362,yoga,yoga__gb_1.mp3
+363,zoo,zoo__gb_1.mp3
+364,Zumba™,zumba_1_gb_2.mp3
+365,accessory,accessory__gb_1.mp3
+366,account,account__gb_1.mp3
+367,afford,afford__gb_1.mp3
+368,aisle,aisle__gb_1.mp3
+369,antique,antique__gb_1.mp3
+370,appliance,appliance__gb_1.mp3
+371,article,article__gb_1.mp3
+372,assistant,assistant__gb_1.mp3
+373,back order,back_order_1_gb_1.mp3
+374,back-order,back_order_1_gb_1.mp3
+375,bag,bag__gb_2.mp3
+376,baker,baker__gb_2.mp3
+377,bakery,bakery__gb_1.mp3
+378,bakeshop,bakeshop__gb_2.mp3
+379,banknote,banknote__gb_2.mp3
+380,barber,barber__gb_1.mp3
+381,barcode,bar_code_1_gb_1.mp3
+382,bargain,bargain__gb_3.mp3
+383,bargain,bargain__gb_3.mp3
+384,bargain basement,bargain_basement_1_gb_1.mp3
+385,barter,barter__gb_1.mp3
+386,barter,barter__gb_1.mp3
+387,basket,basket__gb_6.mp3
+388,be a steal,steal__gb_1.mp3
+389,bedding,bedding__gb_3.mp3
+390,be sold out,fluency__gb_1.mp3
+391,betting shop,betting_shop_1_gb_1.mp3
+392,bid,bid__gb_3.mp3
+393,bid,bid__gb_3.mp3
+394,bill,bill__gb_3.mp3
+395,billing,billing__gb_3.mp3
+396,BOGOF,bogof_1_gb_2.mp3
+397,book,book__gb_2.mp3
+398,bookie,bookie__gb_2.mp3
+399,bookmaking,bookmaking__gb_1.mp3
+400,bookshop,bookshop__gb_2.mp3
+401,bookstall,bookstall__gb_2.mp3
+402,boutique,boutique__gb_2.mp3
+403,browse,browse__gb_1.mp3
+404,business,business__gb_2.mp3
+405,butcher,butcher__gb_2.mp3
+406,buy,buy__gb_2.mp3
+407,buyer,buyer__gb_1.mp3
+408,carrier bag,carrier_bag_1_gb_1.mp3
+409,cash,cash__gb_2.mp3
+410,cash and carry,cash_and_carry_1_gb_1.mp3
+411,cashback,cashback__gb_2.mp3
+412,cash desk,cash_desk_1_gb_1.mp3
+413,cashier,cashier__gb_1.mp3
+414,cash register,cash_register_1_gb_1.mp3
+415,CCTV,cctv_1_gb_1_abbr.mp3
+416,center,centre__gb_1.mp3
+417,centre,centre__gb_1.mp3
+418,chain,chain__gb_2.mp3
+419,chain store,chain_store_1_gb_1.mp3
+420,change,change__gb_2.mp3
+421,charge,charge__gb_2.mp3
+422,cheap,cheap__gb_3.mp3
+423,check card,check_card_1_gb_1.mp3
+424,checkout,checkout__gb_3.mp3
+425,chemist,chemist__gb_3.mp3
+426,cheque,cheque__gb_2.mp3
+427,cleaner,cleaner__gb_1.mp3
+428,clerk,clerk__gb_1.mp3
+429,click and collect,click_and_collect_1_gb_2.mp3
+430,close,close__gb_1.mp3
+431,clothing,clothing__gb_1.mp3
+432,coin,coin__gb_1.mp3
+433,comparison-shop,comparison_shop_1_gb_1.mp3
+434,comparison shopping,comparison_shopping_1_gb_1.mp3
+435,comparison site,comparison_site_1_gb_1.mp3
+436,condition,xcondition__gb_1.mp3
+437,confectioner,xconfectioner__gb_1.mp3
+438,convenience store,xconvenience_store_1_gb_1.mp3
+439,cookware,cookware__gb_1.mp3
+440,corner shop,corner_shop_1_gb_1.mp3
+441,cosmetic,cosmetic__gb_1.mp3
+442,cost,cost__gb_1.mp3
+443,counter,counter__gb_1.mp3
+444,couponing,couponing__gb_1.mp3
+445,craft,craft__gb_1.mp3
+446,credit,credit__gb_1.mp3
+447,credit card,credit_card_1_gb_1.mp3
+448,credit note,credit_note_1_gb_1.mp3
+449,crockery,crockery__gb_1.mp3
+450,currency,currency__gb_2.mp3
+451,customer,customer__gb_3.mp3
+452,cutlery,cutlery__gb_1.mp3
+453,debit card,debit_card_1_gb_1.mp3
+454,debt,debt__gb_2.mp3
+455,deli,deli__gb_1.mp3
+456,delicatessen,delicatessen__gb_1.mp3
+457,deliver,deliver__gb_2.mp3
+458,delivery,delivery__gb_2.mp3
+459,denomination,denomination__gb_1.mp3
+460,department,department__gb_2.mp3
+461,department store,department_store_1_gb_1.mp3
+462,discount,discount__gb_1.mp3
+463,discount,discount__gb_1.mp3
+464,display,display__gb_1.mp3
+465,display bin,display_bin_1_gb_1.mp3
+466,dot-com,dot_com_1_gb_1.mp3
+467,download,download__gb_1.mp3
+468,downtown,downtown__gb_4.mp3
+469,downtown,downtown__gb_4.mp3
+470,downtown,downtown__gb_4.mp3
+471,draper,draper__gb_2.mp3
+472,dressing room,dressing_room_1_gb_1.mp3
+473,drugstore,drugstore__gb_2.mp3
+474,dry-cleaner’s,dry_cleaner_s_1_gb_2.mp3
+475,dummy,dummy__gb_1.mp3
+476,dump bin,dump_bin_1_gb_1.mp3
+477,duty-free,duty_free_1_gb_1.mp3
+478,duty-free,duty_free_1_gb_1.mp3
+479,duty-free,duty_free_1_gb_1.mp3
+480,e-cash,e_cash_1_gb_1.mp3
+481,electrical,electrical__gb_2.mp3
+482,escalator,escalator__gb_1.mp3
+483,estate agent,estate_agent_1_gb_1.mp3
+484,e-tailing,e_tailing_1_gb_3.mp3
+485,expensive,expensive__gb_3.mp3
+486,fabric,fabric__gb_1.mp3
+487,factory shop,factory_shop_1_gb_2.mp3
+488,farmers’ market,farmers_market_1_gb_1.mp3
+489,farm shop,farm_shop_1_gb_1.mp3
+490,fishmonger,fishmonger__gb_1.mp3
+491,fitting room,fitting_room_1_gb_1.mp3
+492,florist,florist__gb_1.mp3
+493,food hall,food_hall_1_gb_1.mp3
+494,fragrance,fragrance__gb_1.mp3
+495,free,free__gb_1.mp3
+496,furnishings,furnishings__gb_2.mp3
+497,furniture,furniture__gb_1.mp3
+498,gadget,gadget__gb_2.mp3
+499,game,game__gb_2.mp3
+500,garden centre,garden_centre_1_gb_1.mp3
+501,gift,gift__gb_2.mp3
+502,gift card,gift_card_1_gb_1.mp3
+503,gift certificate,gift_certificate_1_gb_1.mp3
+504,glassware,glassware__gb_1.mp3
+505,goods,goods__gb_2.mp3
+506,greengrocer,greengrocer__gb_1.mp3
+507,grocer,grocer__gb_1.mp3
+508,grocery,grocery__gb_1.mp3
+509,haberdashery,haberdashery__gb_1.mp3
+510,haggle,haggle__gb_2.mp3
+511,hairdresser,hairdresser__gb_2.mp3
+512,hardware,hardware__gb_1.mp3
+513,health food,health_food_1_gb_1.mp3
+514,helpful,helpful__gb_1.mp3
+515,high street,high_street_1_gb_1.mp3
+516,hypermarket,hypermarket__gb_1.mp3
+517,impulse buy,impulse_buy_1_gb_1.mp3
+518,impulse buying,impulse_buying_1_gb_1.mp3
+519,internet,internet__gb_2.mp3
+520,ironmonger,ironmonger__gb_1.mp3
+521,item,item__gb_2.mp3
+522,jeweller,jeweller__gb_1.mp3
+523,jewellery,jewellery__gb_1.mp3
+524,kiosk,kiosk__gb_3.mp3
+525,knock-off,knock_off_1_gb_1.mp3
+526,launderette,launderette__gb_3.mp3
+527,linen,linen__gb_1.mp3
+528,liquor store,liquor_store_1_gb_1.mp3
+529,list,list__gb_1.mp3
+530,loyalty card,loyalty_card_1_gb_1.mp3
+531,luggage,luggage__gb_1.mp3
+532,main street,main_street_1_gb_1.mp3
+533,mall,mall__gb_1.mp3
+534,mall rat,mallrat__gb_1.mp3
+535,manager,manager__gb_1.mp3
+536,mannequin,mannequin__gb_1.mp3
+537,market,market__gb_3.mp3
+538,markup,markup__gb_1.mp3
+539,megastore,megastore__gb_1.mp3
+540,music,music__gb_1.mp3
+541,mystery shopper,mystery_shopper_1_gb_1.mp3
+542,mystery shopping,mystery_shopping_1_gb_1.mp3
+543,newsagent,newsagent__gb_1.mp3
+544,note,note__gb_2.mp3
+545,offer,offer__gb_1.mp3
+546,off-licence,off_licence_1_gb_1.mp3
+547,off the peg,peg__gb_2.mp3
+548,online,online__gb_1.mp3
+549,on sale,sale__gb_1.mp3
+550,optician,optician__gb_1.mp3
+551,order,order__gb_1.mp3
+552,order,order__gb_1.mp3
+553,outlet,outlet__gb_1.mp3
+554,over the counter,counter__gb_1.mp3
+555,package store,package_store_1_gb_1.mp3
+556,packaging,packaging__gb_1.mp3
+557,p. and h.,p__and_h__1_gb_1.mp3
+558,p. and p.,p_and_p__1_gb_1.mp3
+559,panic buying,panic_buying_1_gb_1.mp3
+560,paper shop,paper_shop_1_gb_1.mp3
+561,password,password__gb_1.mp3
+562,pay,pay__gb_1.mp3
+563,payment,payment__gb_1.mp3
+564,pedestrian precinct,pedestrian_precinct_1_gb_1.mp3
+565,perfume,perfume__gb_1.mp3
+566,pharmacist,pharmacist__gb_1.mp3
+567,pharmacy,pharmacy__gb_1.mp3
+568,plaza,plaza__gb_1.mp3
+569,portal,portal__gb_1.mp3
+570,postage,postage__gb_1.mp3
+571,precinct,precinct__gb_1.mp3
+572,pre-order,pre_order_1_gb_2.mp3
+573,pre-order,pre_order_1_gb_2.mp3
+574,price,price__gb_1.mp3
+575,price tag,price_tag_1_gb_1.mp3
+576,product,product__gb_2.mp3
+577,profit margin,profit_margin_1_gb_1.mp3
+578,promotion,promotion__gb_1.mp3
+579,purchase,purchase__gb_3.mp3
+580,purchase,purchase__gb_3.mp3
+581,queue,queue__gb_1.mp3
+582,queue,queue__gb_1.mp3
+583,rack,rack__gb_1.mp3
+584,range,range__gb_2.mp3
+585,rate,rate__gb_2.mp3
+586,receipt,receipt__gb_2.mp3
+587,reduce,reduce__gb_2.mp3
+588,reduction,reduction__gb_1.mp3
+589,refund,refund__gb_6.mp3
+590,register,register__gb_2.mp3
+591,retail,retail__gb_1.mp3
+592,retail,retail__gb_1.mp3
+593,retail,retail__gb_1.mp3
+594,retail therapy,retail_therapy_1_gb_1.mp3
+595,return,return__gb_1.mp3
+596,safe,safe__gb_1.mp3
+597,sale,sale__gb_1.mp3
+598,sales clerk,sales_clerk_1_gb_1.mp3
+599,salesman,salesman__gb_1.mp3
+600,sales slip,sales_slip_1_gb_1.mp3
+601,saleswoman,saleswoman__gb_1.mp3
+602,salon,salon__gb_1.mp3
+603,sample,sample__gb_3.mp3
+604,sari-sari store,sari_sari_store_1_gb_1.mp3
+605,saving,saving__gb_1.mp3
+606,self-checkout,self_checkout_1_gb_1.mp3
+607,self-service,self_service_1_gb_1.mp3
+608,sell,sell__gb_1.mp3
+609,seller,seller__gb_1.mp3
+610,sell out,fluency__gb_1.mp3
+611,serve,serve__gb_1.mp3
+612,service,service__gb_2.mp3
+613,shelf,shelf__gb_2.mp3
+614,shipping,shipping__gb_1.mp3
+615,shoe,shoe__gb_2.mp3
+616,shop,shop__gb_2.mp3
+617,shop,shop__gb_2.mp3
+618,shopaholic,shopaholic__gb_1.mp3
+619,shop assistant,shop_assistant_1_gb_1.mp3
+620,shoplift,shoplift__gb_1.mp3
+621,shoplifter,shoplifter__gb_1.mp3
+622,shoplifting,shoplifting__gb_1.mp3
+623,shopper,shopper__gb_1.mp3
+624,shopping,shopping__gb_1.mp3
+625,shopping bag,shopping_bag_1_gb_1.mp3
+626,shopping centre,shopping_centre_1_gb_1.mp3
+627,shopping mall,shopping_mall_1_gb_1.mp3
+628,shop window,shop_window_1_gb_1.mp3
+629,short-change,short_change_1_gb_1.mp3
+630,showroom,showroom__gb_1.mp3
+631,showrooming,showrooming__gb_1.mp3
+632,skincare,skincare__gb_2.mp3
+633,special,special__gb_1.mp3
+634,special offer,special_offer_1_gb_1.mp3
+635,spend,spend__gb_1.mp3
+636,spendthrift,spendthrift__gb_1.mp3
+637,spendthrift,spendthrift__gb_1.mp3
+638,splurge,splurge__gb_1.mp3
+639,splurge,splurge__gb_1.mp3
+640,spree,spree__gb_1.mp3
+641,stall,stall__gb_1.mp3
+642,stand,stand__gb_1.mp3
+643,stationer,stationer__gb_1.mp3
+644,stationery,stationery__gb_1.mp3
+645,stock,stock__gb_1.mp3
+646,stock,stock__gb_1.mp3
+647,stockist,stockist__gb_1.mp3
+648,stocktaking,stocktaking__gb_1.mp3
+649,stock up,fluency__gb_1.mp3
+650,store,store__gb_2.mp3
+651,store card,store_card_1_gb_1.mp3
+652,store window,store_window_1_gb_1.mp3
+653,supermarket,supermarket__gb_1.mp3
+654,superstore,superstore__gb_1.mp3
+655,takings,takings__gb_1.mp3
+656,tax,tax__gb_1.mp3
+657,technology,technology__gb_2.mp3
+658,tester,tester__gb_1.mp3
+659,thrift shop,thrift_shop_1_gb_1.mp3
+660,till,till__gb_1.mp3
+661,tobacconist,tobacconist__gb_1.mp3
+662,toiletries,toiletries__gb_1.mp3
+663,token,token__gb_1.mp3
+664,total,total__gb_2.mp3
+665,town centre,town_centre_1_gb_1.mp3
+666,toy,toy__gb_1.mp3
+667,trade,trade__gb_1.mp3
+668,transaction,transaction__gb_1.mp3
+669,travel agency,travel_agency_1_gb_1.mp3
+670,traveller’s cheque,traveller_s_cheque_1_gb_1.mp3
+671,trolley,trolley__gb_1.mp3
+672,try on,fluency__gb_1.mp3
+673,unhelpful,unhelpful__gb_1.mp3
+674,value,value__gb_2.mp3
+675,voucher,voucher__gb_1.mp3
+676,wet market,wet_market_1_gb_1.mp3
+677,white goods,white_goods_1_gb_1.mp3
+678,wholesale,wholesale__gb_1.mp3
+679,window,window__gb_2.mp3
+680,window shopping,window_shopping_1_gb_1.mp3
