@@ -30,7 +30,7 @@ def getSoundLinks(dataset):
 
             sublink = 'https://www.oxfordlearnersdictionaries.com/definition/english/' + sub
             response = requests.get(sublink, headers = headers)
-            time.sleep(1)
+            time.sleep(0.4)
 
             soup = BeautifulSoup(response.content, 'html.parser')
             result = soup.findAll(attrs={'class': re.compile(r"^sound audio_play_button pron-uk icon-audio$")})
@@ -62,14 +62,14 @@ def getSoundLinks(dataset):
     
     return duration
 
-a = getSoundLinks('leisure.csv')
+a = getSoundLinks('animals_1.csv')
 print(f'Toplam geçen süre: {(a / 60).__trunc__()} dk. {a % 60} sn.')
 
 
 """
 # with manually
 # leisure.csv                ---> processing time: 25 dk 2.4 sn 
-# animals_1.csv              ---> processing time: -
+# animals_1.csv              ---> processing time: 46 dk. 37 sn
 # people.csv                 ---> processing time: -
 # functions.csv              ---> processing time: -
 # communication.csv          ---> processing time: -
