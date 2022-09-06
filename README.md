@@ -15,4 +15,10 @@
 ### Application Steps
 - [x] Scraping the words from the site with definitions and sounds in pieces
 - [x] Merge and clean all datasets
-- [] App design with Qt Designer
+- [ ] App design with Qt Designer
+
+
+[word_scrap]: https://github.com/mrkizmaz/English-Dictionary-App/blob/main/word_scraping.py
+[detail_scrap]: https://github.com/mrkizmaz/English-Dictionary-App/blob/main/detail_scraping.py
+[sound_scrap]: https://github.com/mrkizmaz/English-Dictionary-App/blob/main/sound_scraping.py
+[word_concat]: https://github.com/mrkizmaz/English-Dictionary-App/blob/main/allwords_concat.py
