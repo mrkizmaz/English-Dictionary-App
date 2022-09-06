@@ -10,9 +10,10 @@
 - [Word Detail Scraping][detail_scrap]: Process of scraping words along with their details and saving them in csv file.
 - [Word Sound Scraping][sound_scrap]: Process of scraping words along with their sounds and saving them in csv file.
 - [All Words Concatenation][word_concat]: Process of combining all word sets and saving them in a single csv file.
+- [App Design][interface]: App design with Qt Designer.
 
 
-### Application Steps
+### APPLICATION STEPS
 - [x] Scraping the words from the site with definitions and sounds in pieces
 - [x] Merge and clean all datasets
 - [ ] App design with Qt Designer
@@ -22,3 +23,4 @@
 [detail_scrap]: https://github.com/mrkizmaz/English-Dictionary-App/blob/main/detail_scraping.py
 [sound_scrap]: https://github.com/mrkizmaz/English-Dictionary-App/blob/main/sound_scraping.py
 [word_concat]: https://github.com/mrkizmaz/English-Dictionary-App/blob/main/allwords_concat.py
+[interface]: https://github.com/mrkizmaz/English-Dictionary-App/blob/main/interface.py
